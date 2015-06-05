@@ -1,0 +1,599 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A07976">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">The springs glorie. Vindicating love by temperance against the tenent, sine cerere &amp; Baccho friget Venus. Moralized in a maske. With other poems, epigrams, elegies, and epithalamiums of the authors Thomas Nabbes.</title>
+            <author>Nabbes, Thomas, 1605?-1645?</author>
+         </titleStmt>
+         <extent>26 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2005 December (TCP phase 1)</date>
+            <idno type="marc">99848287</idno>
+            <idno type="stc">STC (2nd ed.) 18343.</idno>
+            <idno type="stc">Greg, II, 543,544(AI).</idno>
+            <idno type="vid">13371</idno>
+            <idno type="DLPS">A07976</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">The springs glorie. Vindicating love by temperance against the tenent, sine cerere &amp; Baccho friget Venus. Moralized in a maske. With other poems, epigrams, elegies, and epithalamiums of the authors Thomas Nabbes.</title>
+                  <author>Nabbes, Thomas, 1605?-1645?</author>
+               </titleStmt>
+               <extent>[56] p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by I[ohn] D[awson] for Charles Greene, and are to be sold by Nicholas Fussell at the signe of the white Lyon in Pauls Church-yard,</publisher>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>In verse.</p>
+                  </note>
+                  <note>
+                     <p>Printer's name from STC.</p>
+                  </note>
+                  <note>
+                     <p>Signatures: [A]4 B-G4.</p>
+                  </note>
+                  <note>
+                     <p>The first leaf and the last leaf are blank.</p>
+                  </note>
+                  <note>
+                     <p>With a dedication to Benedict Roberts on A3r. Variant: dedication to William Ball.</p>
+                  </note>
+                  <note>
+                     <p>Also issued as part of his: Playes, maskes, epigrams, elegies, and epithalamiums.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the Library of Congress.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="1"/>
+            <pb facs="1"/>
+            <p>THE SPRINGS GLORIE.</p>
+            <p>VINDICATING LOVE by temperance against the tenent, <hi>Sine Cerere &amp; Baccho friget Venus.</hi>
+            </p>
+            <p>Moralized in a Maske.
+With other Poems, Epigrams, Elegies, and Epithalamiums of the Authors THOMAS NABBES.</p>
+            <p>LONDON, Printed by <hi>I.D.</hi> for <hi>Charles Greene,</hi> and are to be sold by <hi>Nicolas Fussell</hi> at the signe of the white Lyon in <hi>Pauls</hi> Church-yard. 1638.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <pb facs="2"/>
+            <head>Optimae spei Iuveni</head>
+            <p>Domino <hi>BENEDICTO ROBERTS,</hi> filio natu minori <hi>NICOLAI ROBERTS</hi> Armigeri, amoris ergò, &amp; observantiae erga parentes, sequentia poemata humillimè dedicat</p>
+            <closer>
+               <signed>Thomas Nabbes.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="3"/>
+            <pb facs="3"/>
+            <head>To his intimate and learned friend Master THOMAS NABBES on his ensuing Poems.</head>
+            <l>_LEt those who to the world oft publish forth</l>
+            <l>Their owne deserts, in praysing others worth,</l>
+            <l>Throng for a roome; and pride themselves to be</l>
+            <l>Ranck'd in the front of thy learn'd poesie.</l>
+            <l>It shall suffice mee (who have never yet</l>
+            <l>Studied to humour others, nor have sweat</l>
+            <l>Like some, two houres in plodding jests, which may</l>
+            <l>At the first sight their authour's wits betray)</l>
+            <l>To have a meaner roome: for I nor come</l>
+            <l>To begge the reader mittigate thy doome;</l>
+            <l>Nor with intent to praise thy worke or thee:</l>
+            <l>For that would seeme a plaine Tautologie.</l>
+            <l>Those, whose diviner soules <hi>Phoebean</hi> flame</l>
+            <l>Hath throughly kindled, such as have a name</l>
+            <l>I'the list of <hi>Phoebu's</hi> darlings, will admire</l>
+            <l>The eager flames of thy poetique fire.</l>
+            <l>None will dislike ought here, but such dull things</l>
+            <l>Whose soules are out of tune; When <hi>Phoebus</hi> sings</l>
+            <l>Some bayards will be bold to judge his straine</l>
+            <l>Harsh and unpleasing; yet applaud the vaine—</l>
+            <l>—Confused sound of some hoarse pipers voyce,</l>
+            <l>And say 'tis rare, and makes an excellent noyse.</l>
+            <l>If that it chance some fancy not thy straine</l>
+            <l>Th'are dull and ignorant; the wiser traine</l>
+            <l>Will praise thee for't, and utter still with fame</l>
+            <l>The often mention of thy honour'd name.</l>
+            <l>Let critiques censure, and these lines condemne,</l>
+            <l>Secur'd by thine owne bayes▪ their rage contemne.</l>
+            <closer>
+               <signed>C.G. Oxon.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="4"/>
+            <head>To his honoured friend Master THOMAS NABBES.</head>
+            <l>_HAd I the massie wealth of <hi>Cheops,</hi> then</l>
+            <l>I'de raise a Piramid unto thy pen</l>
+            <l>That should for State put downe the empty fame</l>
+            <l>Of <hi>Mausoleus</hi> tombe, blot out the name</l>
+            <l>The Sunnes <hi>Colossus</hi> had in that same day</l>
+            <l>When it bestrid the spatious Rhodian bay.</l>
+            <l>Let <hi>Momus</hi> prate; thou art above him farre:</l>
+            <l>The curre that barkes at, cannot hurt the starre.</l>
+            <l>But why should I presume? for mee to praise</l>
+            <l>Thy winged raptures, rhapsodies and layes</l>
+            <l>Were with darke Lanterne up and downe to runne,</l>
+            <l>And shew th'admiring world the glittring Sunne.</l>
+            <closer>
+               <signed>
+                  <hi>Robert Chamberlain●.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="masque">
+            <pb facs="4"/>
+            <head>THE SPRINGS GLORY; Within an Arch of agreeable workmanship, a Scaene of Winter presents it selfe, the Trees and Earth covered with Snow, and in the middle thereof a prospect of a faire house as the Mansion of Christmasse.</head>
+            <stage>
+               <hi>Venus</hi> and <hi>Cupid</hi> descend.</stage>
+            <sp>
+               <speaker>Venus.</speaker>
+               <l>_WIthout good meat and drinke must <hi>Venus</hi> freeze?</l>
+               <l>Must I derive my flames and my desire</l>
+               <l>From <hi>Ceres</hi> and from <hi>Bacchus</hi>? shall the fire</l>
+               <l>That burnes in hearts, and payes me solemne rites</l>
+               <l>Kindle from fulnesse and gorg●d appetites?</l>
+               <l>It shall not Sonne. Learne of thy Sea-borne mother</l>
+               <l>Never to borrow power from any other.</l>
+               <l>The vertue that's our owne, who dares to claime?</l>
+               <l>Are not both Gods and men by thy sure ayme,</l>
+               <l>When at their bosomes thou direct'st a Dart.</l>
+               <l>Wounded with passion past the cure of art?</l>
+               <l>
+                  <pb facs="5"/>Did not the god of Medicine himselfe want;</l>
+               <l>(When he was s●ruck by thee) a soveraigne plant</l>
+               <l>To heale his hurt? nor did it rancor by</l>
+               <l>Abundance of choyce cates and luxurie?</l>
+               <l>'Twas meerely thy effect. Why then should we</l>
+               <l>To <hi>Ceres</hi> or to <hi>Bacchus</hi> deity</l>
+               <l>Assigne our rights?</l>
+            </sp>
+            <sp>
+               <speaker>Cupid.</speaker>
+               <l>In part we must; for they</l>
+               <l>Are aiders in our worke, and therefore may</l>
+               <l>Share in the attributes of power. If wine</l>
+               <l>Did not the spirits and the bloud refine,</l>
+               <l>Making them warme and active, I should throw</l>
+               <l>My shafts at rocks of ice, and from my Bow</l>
+               <l>The winged arrows of desire would flie</l>
+               <l>With empty and succeslesse battery.</l>
+               <l>If <hi>Ceres</hi> bounties flow'd not, where should I</l>
+               <l>Find any flame to light my torches by?</l>
+               <l>Fulnesse and ease assist me more then all</l>
+               <l>The helpes I have besides.</l>
+            </sp>
+            <sp>
+               <speaker>Venus.</speaker>
+               <l>And therefore shall</l>
+               <l>They be preferr'd? Thou art a foolish boy.</l>
+               <l>Their base effects are lust; they love to joy</l>
+               <l>In what is sensuall onely. Our pure heate</l>
+               <l>Borrowes no activenesse from drinke or meate;</l>
+               <l>It moves more in the soule. God <hi>Bacchus</hi> shall</l>
+               <l>Have his due attributes, and <hi>Ceres</hi> call</l>
+               <l>The plough, crookt sickle, flayle and many more</l>
+               <l>Her owne admir'd inventions, and the store</l>
+               <l>Shee gathers for mens use. But should the mind</l>
+               <l>Make these her only objects, what a blind</l>
+               <l>
+                  <pb facs="5"/>And dangerous issue of effects would grow</l>
+               <l>From such a seed! high spirits strive to know</l>
+               <l>More then a common eye sees, and aspire</l>
+               <l>Still upwards like the Piramide of fire,</l>
+               <l>When earth tends to its centre. We must move</l>
+               <l>More then the sense; else 'tis not perfect love.</l>
+               <stage>
+                  <hi>To them</hi> Ceres <hi>and</hi> Bacchus.</stage>
+               <l>Here's <hi>Ceres</hi> and <hi>Lyaens.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ceres.</speaker>
+               <l>Wee are told</l>
+               <l>By <hi>Maia's</hi> sonne that you intend to scould</l>
+               <l>With me and <hi>Bacchus.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Venus.</speaker>
+               <l>I have cause to chide.</l>
+               <l>You'ld rob me of my titles, and beside</l>
+               <l>Make it a gluttons tenent, there can be</l>
+               <l>No love without you.</l>
+            </sp>
+            <sp>
+               <speaker>Ceres.</speaker>
+               <l>And your Deity</l>
+               <l>Hath summond us for this: 'tis very good.</l>
+               <l>I must confesse you made your father wood</l>
+               <l>To ravish faire <hi>Europa.</hi> Having seene</l>
+               <l>Traynes of Arcadian Virgins on the greene</l>
+               <l>Tread their chaste measures, or with nimble pace</l>
+               <l>Through the <hi>Parthenian</hi> groves, and thickets chace</l>
+               <l>A well-breath'd Stagge, one of them straight-wayes must</l>
+               <l>Be tempted to her ruine by his lust:</l>
+               <l>And this employment <hi>Venus</hi> still is thine.</l>
+            </sp>
+            <sp>
+               <pb facs="6"/>
+               <speaker>Venus.</speaker>
+               <l>
+                  <hi>Ceres</hi> is madd still for her <hi>Proserpine</hi>:</l>
+               <l>Whose rape hath made her queene of the Abysse.</l>
+               <l>Who to be so rewarded would not kisse</l>
+               <l>The blacke lips of hells king? and to his bed</l>
+               <l>Bring the short pleasures of a Maydenhead?</l>
+               <l>Repine not at it then.</l>
+            </sp>
+            <sp>
+               <speaker>Ceres.</speaker>
+               <l>I must whilst day</l>
+               <l>Hath any light, or heavens bright eye a ray.</l>
+               <l>It was your sonnes great act to boast of; he</l>
+               <l>That suffers not th●infernals to goe free</l>
+               <l>Of his diseases.</l>
+            </sp>
+            <sp>
+               <speaker>Bacchus.</speaker>
+               <l>Rather <hi>Ceres</hi> mine:</l>
+               <l>For if the God had never tasted wine,</l>
+               <l>Not all the heate of his infernall fire</l>
+               <l>Could e're have thaw'd him into one desire;</l>
+               <l>Or kindled the least flame in his cold brest</l>
+               <l>Without my vertue.</l>
+            </sp>
+            <sp>
+               <speaker>Venus.</speaker>
+               <l>'Tis an idle jest.</l>
+               <l>Doth <hi>Bacchus</hi> thinke he can with heate of wine</l>
+               <l>Light the bright flame of love, that is divine,</l>
+               <l>And burnes not from such causes, but takes fire</l>
+               <l>From th'elementall part of pure desire</l>
+               <l>Unmixt with grossnesse? Thy effects are foule;</l>
+               <l>And motions of the sense, not of the soule.</l>
+               <l>Subscribe then to our power; my sonne and I</l>
+               <l>Must have the attributes.</l>
+            </sp>
+            <sp>
+               <pb facs="6"/>
+               <speaker>Ceres.</speaker>
+               <l>Let him lay by</l>
+               <l>His quiver rather. <hi>Ceres</hi> meanes to be</l>
+               <l>The Queene of Love, and <hi>Bacchus</hi> deity</l>
+               <l>Include all that is <hi>Cupids.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Venus.</speaker>
+               <l>First I'le leave</l>
+               <l>To be immortall, and my selfe bereave</l>
+               <l>Of all that I can claime above the skye,</l>
+               <l>Or under heavens archt roofe, if destiny</l>
+               <l>May give it confirmation. Take a Dart</l>
+               <l>And ayme it at her proud imperious heart</l>
+               <l>To shew in thy revenge what thou canst doe.</l>
+            </sp>
+            <sp>
+               <speaker>Cupid.</speaker>
+               <l>I must not Mother. Wee'le referre it to</l>
+               <l>Another tryall, and if <hi>Bacchus</hi> can</l>
+               <l>Confirme what he so saucily began</l>
+               <l>To argue, by example, wee'le deny</l>
+               <l>Nothing that's due unto his deity.</l>
+            </sp>
+            <sp>
+               <speaker>Bacchus.</speaker>
+               <p>Content.</p>
+               <stage>
+                  <hi>To them</hi> Christmasse <hi>and</hi> Shrovetide <hi>Enter.</hi>
+               </stage>
+               <stage>Christmas <hi>is personated by an old reverend Gentleman in a furr'd gowne and cappe, &amp;c. And</hi> Shrovetide <hi>by a fat Cooke with a frying-pan, &amp;c.</hi>
+               </stage>
+               <l>And see occasion hath comply'd</l>
+               <l>Even with our wish. It cannot be deny'd</l>
+               <l>But these share both our bounties; have free use</l>
+               <l>Of all our gifts: and if you'le not refuse</l>
+               <l>A tryall from them—</l>
+            </sp>
+            <sp>
+               <pb facs="7"/>
+               <speaker>Venus.</speaker>
+               <l>Let them speake, whil'st we</l>
+               <l>To their dispose referre the victory.</l>
+            </sp>
+            <sp>
+               <speaker>Shrovetide.</speaker>
+               <p>I say <hi>Christmas</hi> you are past date, you are out of the Al|manack. Resigne, resigne. Let the Oven give place to the Frying-pan, and Mine't-pies yeild superiority to pancakes and Fritters.</p>
+            </sp>
+            <sp>
+               <speaker>Christmas.</speaker>
+               <p>Resigne to thee! I that am the King of good cheere and feasting, though I come but once a yeare to raigne over bak't, boyled, roast, and plum-porridge, will have being in despight of thy lard-ship. Thou art but my fagge-end, and I must still be before thee.</p>
+            </sp>
+            <sp>
+               <speaker>Shrovetide.</speaker>
+               <p>But thou wilt never be before-hand. Thou art a prodigall <hi>Christmas</hi>; and <hi>Shrovetide</hi> hath seene thee many times in the Poultry.</p>
+            </sp>
+            <sp>
+               <speaker>Christmas.</speaker>
+               <p>Dost scorne my liberality, thou rasty bacon, tallow-faced scullion? Though thou be as fat as a Flemming, I'le have <hi>Lent</hi> choke thee with a red-herring.</p>
+            </sp>
+            <sp>
+               <speaker>Shrovetide.</speaker>
+               <p>I'le arme my selfe for that. In three dayes I can victuall my garrison for seven weekes: and it shall goe hard but I will domineere in <hi>Lent</hi> despite of the thin-chapt surgeon that makes men skillitons.</p>
+            </sp>
+            <sp>
+               <pb facs="7"/>
+               <speaker>Christmas.</speaker>
+               <p>As how?</p>
+            </sp>
+            <sp>
+               <speaker>Shrovetide.</speaker>
+               <p>At any Noblemans house, I can licke my fingers in a privy kitchin. Though I bee out of commons in the hall, there's flesh to be had sometimes in a chamber besides a Lan|dresse. The very three-penny ordinary will keepe me in an upper gallery, and I can be invisible even in the pye-house. Should all faile, the wenches I got with child shall long, and have the Phisitians ticket.</p>
+            </sp>
+            <sp>
+               <speaker>Christmas.</speaker>
+               <p>Thou get children!</p>
+            </sp>
+            <sp>
+               <speaker>Shrovetide.</speaker>
+               <p>Yes more then <hi>Christmas,</hi> and better too: for thine are all unthrifts, whores, or murderers. Thy sonne <hi>In and in,</hi> undid many a Citizen. Thou hast a Daughter called my <hi>La|dyes hole,</hi> a filthy black slut shee is; and <hi>Put</hi> is common in every Bawdy house. 'Tis thought <hi>Noddy</hi> was none of thine owne getting, but an Aldermans, that in exchange cuckolded thee, when thou wast a Courtier. Thou hast one sonne bred up in the Country called <hi>Christmas gambolls,</hi> that doth nothing but breake mens necks; and many more that would undoe the Common-wealth, were it not for the Groome porter.</p>
+            </sp>
+            <sp>
+               <speaker>Christmas.</speaker>
+               <p>Do'st see these sirrah?</p>
+            </sp>
+            <sp>
+               <pb facs="8"/>
+               <speaker>Shrovetide.</speaker>
+               <p>
+                  <hi>Ceres</hi> and <hi>Bacchus:</hi> I am their worshipper. Were Stewes tolerated, and <hi>Venus</hi> the Grand Bawd of them, without good meate and drinke, your young Factors would never be able to breake their Masters or Mistresses, nor your shee-silke-worme in Cheape care a button for her foreman.</p>
+            </sp>
+            <sp>
+               <speaker>Ceres.</speaker>
+               <l>
+                  <hi>Venus</hi> being overcome, I hope will yeeld,</l>
+               <l>Now shee is vanquisht in the open field,</l>
+               <l>And her weake forces scatter'd: nor can they</l>
+               <l>Gather new head to make a second fray.</l>
+            </sp>
+            <stage>
+               <hi>To them</hi> Lent <hi>enters.</hi>
+            </stage>
+            <stage>Hee is figur'd in a leane Man, his habit like trouses, and what other anticke devices may be thought proper▪</stage>
+            <sp>
+               <speaker>Venus.</speaker>
+               <l>Yes: with this champion; and his fresh supply</l>
+               <l>I'le wage new warre, and call backe victory.</l>
+            </sp>
+            <sp>
+               <speaker>Shrovetide.</speaker>
+               <p>This leaue thin-gut starveling, begot by a Spaniard▪ and nurst at the lower end of Friday-street.</p>
+            </sp>
+            <sp>
+               <speaker>Lent.</speaker>
+               <p>Why thou <hi>Helluo</hi> of hennes and bakon, th●●●●rder houst of collops and egges; thou that makest the kitchin proclaime
+
+
+<pb facs="8"/>
+its employment through the neighbourhood, with the se●t of thy Lard and crumpets, what canst thou boast oft?</p>
+            </sp>
+            <sp>
+               <speaker>Christmas.</speaker>
+               <p>Children, children, thou parcht starveling: thou can●t g●t nothing but Anatomies.</p>
+            </sp>
+            <sp>
+               <speaker>Lent.</speaker>
+               <p>Children! I get more (I maintaine not their lawfulnesse) then <hi>Christmas</hi> and <hi>Shrovetide.</hi> Oh the vertue of Oysters, Lobsters, Sturgeon, Anchoves, &amp; Caveary. Why thou grout-headed bladder, puft with the windinesse of pared apples coffered in batter: for every Brawne or hogge, either <hi>Christ|mas</hi> or thy selfe have demolisht; I have a thousand Her|rings, despight of the Dutchmens wastfull theft, let them rob the foure Seas never so often. Besides, I couple more then the Parson of <hi>Pancrace:</hi> I meane City woodcocks, with Suburb-wagtailes.</p>
+            </sp>
+            <sp>
+               <speaker>Christmas.</speaker>
+               <p>Thou couple!</p>
+            </sp>
+            <sp>
+               <speaker>Lent.</speaker>
+               <p>Who more? Is not S. <hi>Valentines</hi> day mine? are not Codds mine, thou codds-head, and Maides mine? put them toge|ther thou wilt find they are things—</p>
+            </sp>
+            <sp>
+               <speaker>Shrovetide.</speaker>
+               <p>Thou art a thing of emptinesse, and <hi>Lent</hi> was ever a Iack by conversion.</p>
+            </sp>
+            <sp>
+               <pb facs="9"/>
+               <speaker>Lent.</speaker>
+               <p>Such a Iack as can come aloft, and doe <hi>Venus</hi> more credit then thy fulnesse. Doe not I share of <hi>Aries, Taurus,</hi> and <hi>Gemini</hi>; the Innes I lye at in my progresse. Yet no cuckold can deny but <hi>Aries</hi> and <hi>Taurus</hi> should follow <hi>Gemini.</hi> And it follows, or should, that I having two fathers my selfe, should get most children.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Chri●tmas.</hi>
+               </speaker>
+               <p>Who were thy fathers prethee?</p>
+            </sp>
+            <sp>
+               <speaker>Lent.</speaker>
+               <p>
+                  <hi>Devotion</hi> and <hi>Pollicy</hi>; and I have begotten <hi>Hipocrisie</hi> on a holy sister, that despight of all Informers would have flesh, her belly full. Let <hi>Christmas</hi> and <hi>Shrovetide</hi> eate and drinke; I'le be for <hi>Venus,</hi> though I feed upon nothing but herring-cobbs.</p>
+            </sp>
+            <sp>
+               <speaker>Venus.</speaker>
+               <l>Who's now the conquerour? Will <hi>Ceres</hi> now</l>
+               <l>Subscribe unto my power? and <hi>Bacchus</hi> bow</l>
+               <l>To <hi>Cupids</hi> awefull strength?</l>
+            </sp>
+            <sp>
+               <speaker>Ceres.</speaker>
+               <l>Not till it is</l>
+               <l>Confirm'd by better evidence then his.</l>
+            </sp>
+            <sp>
+               <speaker>Lent.</speaker>
+               <p>Then mine ● Observe.</p>
+            </sp>
+            <stage>
+               <pb facs="9"/>
+               <hi>Here the Scaene suddenly changeth into a Prospect, with trees budded, the earth somewhat greene, and at one side an old Barne, out of which issues a company of beggars, with a Bag-pipe.</hi>
+            </stage>
+            <p>See you these good fellowes, that preferre the warme Sunne, before the scrapps which niggardly <hi>Christmas</hi> and <hi>Shrovetide</hi> feast them with; and would get a better race under a hedge to people <hi>New England,</hi> then the Seperatists that possesse it. Whilst they entertaine yee, Ile summon the <hi>Spring,</hi> and she shall moderate.</p>
+            <stage>The Beggars dance.</stage>
+            <stage>Exeunt.</stage>
+            <stage>
+               <hi>After the dance, is heard the ●hirping of birds; and whilst the following Song is singing, the Scaene againe changeth into a pleasant Arbour, in which the Spring in a greene robe wrought over with flowers presents her selfe.</hi>
+            </stage>
+            <floatingText>
+               <body>
+                  <div type="song">
+                     <head>The Song.</head>
+                     <lg>
+                        <l>See, see a Metamorphosis,</l>
+                        <l>The late gray field now verdant is.</l>
+                        <l>The Sun with warme beames glads the earth,</l>
+                        <l>And to the springing flowers</l>
+                        <l>He gives a new and lively birth</l>
+                        <l>By th'ayde of gentle showres.</l>
+                        <l>The Lambes no longer bleate for cold,</l>
+                        <l>Nor cry for succour from the old:</l>
+                        <l>But friske and play with confidence</l>
+                        <l>Like Emblemes of true innocence.</l>
+                     </lg>
+                     <lg>
+                        <head>Chorus.</head>
+                        <l>The cheerefull birds their voyces straine●</l>
+                        <l>The Cuckow's hoarse for want of raine.</l>
+                        <l>
+                           <pb facs="10"/>The Nightingale doth sweetly sing,</l>
+                        <l>To welcome in the joyfull Spring.</l>
+                     </lg>
+                  </div>
+               </body>
+            </floatingText>
+            <sp>
+               <speaker>Spring.</speaker>
+               <l>Thus breake my gloryes forth that late lay hid</l>
+               <l>Within the icye earth, and were forbid</l>
+               <l>By Winters nipping cold to show their heads</l>
+               <l>Above the snowy covering of their beds.</l>
+               <l>The winds not rugged now, but calme and fayre,</l>
+               <l>Sweepe flowry Gardens, and perfume the ayre.</l>
+               <l>The woods shrill Choristers (whose frozen throtes</l>
+               <l>Late wanted motion,) now have found their notes;</l>
+               <l>Strayning their little organes to sound high,</l>
+               <l>And teach men art from Natures harmony.</l>
+               <l>Come you to welcome me?</l>
+            </sp>
+            <sp>
+               <speaker>Ceres.</speaker>
+               <l>Yes lovely Maid;</l>
+               <l>And to have judgement from you, who most aide</l>
+               <l>In Loves great worke.</l>
+            </sp>
+            <sp>
+               <speaker>Spring.</speaker>
+               <l>Is there a strife betweene</l>
+               <l>The goddesse of desire, and plenties Queene?</l>
+               <l>Will they subscribe, Ile moderate.</l>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>Content.</p>
+            </sp>
+            <sp>
+               <speaker>Spring.</speaker>
+               <l>First heare my reasons; then my sentence: bent</l>
+               <l>'Gainst neithers honours, for I must comply</l>
+               <l>Wi●●●●th as vertu●●. <hi>Venus</hi> Deity</l>
+               <l>
+                  <pb facs="10"/>Is powerfull over all; and <hi>Ceres</hi> gives</l>
+               <l>Each that hath being that by which he 〈◊〉</l>
+               <l>Yet many times excesse perverts the end</l>
+               <l>Of pure intentions; and extreames extend</l>
+               <l>Their powers to undoe those acts are free</l>
+               <l>In their owne natures from impuritie▪</l>
+               <l>Love ought to be Platonick, and Divine▪</l>
+               <l>Such as is onely kindled, and doth shine</l>
+               <l>With beames, that may all darke effects con●roule</l>
+               <l>In the refin'd parts of the glorious soule.</l>
+               <l>Men doe abuse your gifts, when they delight</l>
+               <l>Onely to please their sensuall appetite,</l>
+               <l>And heat the bloud from ●ulnesse; whencethere growes</l>
+               <l>No perfect love, but such as onely knowes</l>
+               <l>The coursest difference, and therefore must</l>
+               <l>Presume to owne no other name but lust.</l>
+               <l>In me let Temperance teach you to apply</l>
+               <l>Things to their best ends; and to rectifie</l>
+               <l>All motions that intend effects, beside</l>
+               <l>What may runne cleere and currant with theside</l>
+               <l>Of purest love: in which let all your jarres</l>
+               <l>Be reconcil'd, and finish your sterne wa●res.</l>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>Thus we embrace in p●●ce.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>S●●i●g.</hi>
+               </speaker>
+               <l>And I 〈◊〉<hi>Spring</hi>
+               </l>
+               <l>Will lead a moderate measure. Chirpers sing</l>
+               <l>Your choysest ayres; and as our eares they great,</l>
+               <l>Vnto the Musicke we'le apply our feet.</l>
+            </sp>
+            <stage>
+               <hi>The</hi> Spring <hi>leades them a measure; after which they retire backe to the Scaene.</hi>
+            </stage>
+            <div type="epilogue">
+               <pb facs="11"/>
+               <head>Epilogue.</head>
+               <l>_● That of all the seasons am the least,</l>
+               <l>Though first in time, and usher in the rest,</l>
+               <l>Impart my pleasures freely, ●ut desire</l>
+               <l>You'le not abuse them with excesse. My quire</l>
+               <l>Shall sing as every faire one do●h ●ecome</l>
+               <l>A chaste Bride, her <hi>Epithal a●i●m.</hi>
+               </l>
+               <l>Though they are short be plea●'d with these, to you</l>
+               <l>I yearely will returne and bring you new.</l>
+               <p>The Spring being received into the Scaene it closeth.</p>
+               <trailer>The end.</trailer>
+            </div>
+         </div>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      </body>
+   </text>
+</TEI>

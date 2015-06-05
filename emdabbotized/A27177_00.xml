@@ -1,0 +1,2645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Comedies and tragedies written by Francis Beaumont and Iohn Fletcher ...</title>
+            <author>Beaumont, Francis, 1584-1616.</author>
+         </titleStmt>
+         <extent>473 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2001</date>
+            <idno type="marc">12491932</idno>
+            <idno type="stc">Wing B1581.</idno>
+            <idno type="vid">52257</idno>
+            <idno type="DLPS">A27177</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Comedies and tragedies written by Francis Beaumont and Iohn Fletcher ...</title>
+                  <author>Beaumont, Francis, 1584-1616.</author>
+                  <author>Fletcher, John, 1579-1625.</author>
+                  <author>Shirley, James, 1596-1666.</author>
+                  <author>Lowin, John, 1576-1659.</author>
+                  <author>Taylor, Joseph, 1586?-1653?</author>
+               </titleStmt>
+               <extent>[53], 75, 143, [1], 165, [3], 71, [1], 172, 92, 50 [i.e. 52], 28, 25-48 p. : port.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Humphrey Robinson ... and for Humphrey Moseley ...,</publisher>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>"Never printed before, and now published by the authours originall copies"</p>
+                  </note>
+                  <note>
+                     <p>First folio; includes the plays not hitherto printed, except the Wild-goose chase, which was missing, but recovered and printed in 1652. Cf. NUC pre-1956.</p>
+                  </note>
+                  <note>
+                     <p>"The Epistle dedicatorie" is signed by John Lowin, Joseph Taylor, and eight others; "To the reader" signed by Ja. Shirley, who is usually regarded as the editor.</p>
+                  </note>
+                  <note>
+                     <p>Portrait of Fletcher by Marshall.</p>
+                  </note>
+                  <note>
+                     <p>For complete contents of this edition, see NUC pre-1956 imprints.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Harvard University Libraries.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+ <body>
+               <div type="frontispiece">
+                  <pb facs="1"/>
+                  <p>
+                     <figure>
+                        <figDesc>engraved bust of Fletcher</figDesc>
+                        <p>POETARJM JNGENJOSJSSJMVS JOANNES FLETCHERVS ANGLVS, EPJSCOPJ LOND: FJLJ{us}</p>
+                        <p>TRAGOEDIA COMOEDIA</p>
+                        <p>Obyt 1625 Aetat: 49</p>
+                        <l>Felicis avi ac <hi>Praeſulis</hi> Natus; comes</l>
+                        <l>
+                           <hi>Beaumontio;</hi> sic, quippe Parnaſsus, <hi>biceps;</hi>
+                        </l>
+                        <l>
+                           <hi>FLETCHERUS</hi> unam in Pyramida furcas agens.</l>
+                        <l>Struxit chorum plùs simplicem Vates Duplex;</l>
+                        <l>Plùs duplicem ●●lus: nec ullum transtulit;</l>
+                        <l>Nec transferendus: Dramatum aeterni sales,</l>
+                        <l>
+                           <hi>Anglo</hi> Theatro, Oebi, Sibi, superstites.</l>
+                        <l>FLETCHERE, facies abs{que} vultu pingitur;</l>
+                        <l>Quantu●! vel <hi>umbram</hi> circuit nemo tuam.</l>
+                        <signed>J. Berkenhead</signed>
+                        <ab type="byline">Guliel' Marshall Fecit</ab>
+                     </figure>
+                  </p>
+               </div>
+               <div type="title_page">
+                  <pb facs="1"/>
+                  <p>COMEDIES AND TRAGEDIES</p>
+                  <p>Written by FRANCIS BEAVMONT AND IOHN FLETCHER Gentlemen.</p>
+                  <p>Never printed before, And now publiſhed by the Authours Originall Copies.</p>
+                  <quote>Si quid habent veri Vatum praeſagia, vivam.</quote>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Humphrey Robinſon,</hi> at the three <hi>Pidgeons,</hi> and for <hi>Humphrey Moſeley</hi> at the <hi>Princes Armes in</hi> S^t <hi>Pauls Church-yard.</hi> 1647.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="2"/>
+                  <pb facs="2"/>
+                  <head>TO THE RIGHT HONOVRABLE PHILIP Earle of Pembroke and Mountgomery: Baron Herbert of Cardiffe and Sherland, Lord Parr and Roſs of Kendall; Lord Fitz-Hugh, Marmyon, and Saint Quintin; Knight of the moſt noble Order of the Garter; and one of His Majeſties moſt Honourable Privie Councell: And our Singular Good Lord.</head>
+                  <opener>
+                     <salute>MY LORD,</salute>
+                  </opener>
+                  <p>_THere is none among all the <hi>Names</hi> of <hi>Honour,</hi> that hath more encouraged the <hi>Legitimate Muſes</hi> of this latter Age, then that which is owing to your <hi>Familie;</hi> whoſe <hi>Coronet</hi> ſhines bright with the native luſter of its owne <hi>Jewels,</hi> which with the acceſſe of ſome Beames of <hi>Sydney,</hi> twiſted with their <hi>Flame</hi> preſents a <hi>Conſtellation,</hi> from whoſe <hi>Influence</hi> all good may be ſtill expected upon Witt and Learning.</p>
+                  <p>At this <hi>Truth</hi> we rejoyce, but yet aloofe, and in our owne valley, for we dare not approach with any capacity in our ſelves to apply your Smile, ſince wee have only preſerved as <hi>Truſtees</hi> to the <hi>Aſhes</hi> of the Authors, what wee exhibit to your <hi>Honour,</hi> it being no more our owne, then thoſe <hi>Imperiall Crownes</hi> and <hi>Garlands</hi> were the Souldiers, who were honourably deſigned for their Convey|ance before the <hi>Triumpher</hi> to the <hi>Capitol.</hi>
+                  </p>
+                  <p>But directed by the example of ſome, who once ſteered in our qualitie, and ſo fortunately aſpired to chooſe your <hi>Honour,</hi> joyned with your (now glorified) <hi>Brother, Patrons</hi> to the flowing compoſitions of the then expired ſweet <hi>Swan</hi> of <hi>Avon SHAKESPEARE;</hi> and ſince, more particularly bound to your <hi>Lordſhips</hi>
+                     <pb facs="3"/> moſt conſtant and diffuſive <hi>Goodneſſe,</hi> from which, wee did for many calme yeares derive a ſubſiſtence to our ſelves, and Protection to the Scene (now withe|red, and condemn'd, as we feare, to a long Winter and ſterilitie) we have preſumed to offer to your <hi>Selfe,</hi> what before was never printed of theſe <hi>Authours.</hi>
+                  </p>
+                  <p>Had they beene leſſe then all the <hi>Treaſure</hi> we had contracted in the whole Age of <hi>Poeſie</hi> (ſome few Poems of their owne excepted, which already publiſhed, com|mand their entertainement, with all lovers of <hi>Art</hi> and <hi>Language</hi>) or were they not, the moſt juſtly admir'd, and belov'd Pieces of <hi>Witt</hi> and the <hi>World,</hi> wee ſhould have taught our ſelves a leſſe Ambition.</p>
+                  <p>Be pleaſed to accept this humble tender of our duties, and till wee faile in our obedience to all your Commands, vouchſafe, we may be knowne by the <hi>Cogni|zance</hi> and <hi>Character</hi> of</p>
+                  <closer>
+                     <salute>MY LORD,</salute>
+                     <signed>Your Honours moſt bounden
+</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="3"/>
+                  <head>TO THE READER.</head>
+                  <p>
+                     <hi>_POETRY</hi> is the Child of <hi>Nature,</hi> which regulated and made beautifull by <hi>Art,</hi> preſenteth the moſt Harmonious of all other compoſitions; among which (if we rightly conſider) the <hi>Dra|maticall</hi> is the moſt abſolute, in regard of thoſe tranſcendent <hi>A|bilities,</hi> which ſhould waite upon the <hi>Compoſer;</hi> who muſt have more then the inſtruction of Libraries which of it ſelfe is but a cold contem|plative knowledge) there being required in him a <hi>Soule miraculouſly</hi> knowing, and converſing with all mankind, inabling him to expreſſe not onely the Phlegme and folly <hi>of thick-skin'd men,</hi> but the ſtrength and maturity <hi>of the wiſe,</hi> the Aire and inſinuations of the <hi>Court,</hi> the diſcipline and Reſolution of the Sol|dier, the Vertues and paſsions of every noble condition, nay the councells and characters of the greateſt Princes.</p>
+                  <p>This you will ſay is a vaſt comprehenſion, and hath not hapned in many Ages. Be it then remembred to the Glory of our <hi>owne,</hi> that all theſe are Demonſtrative and met in <hi>BEAUMONT</hi> &amp; <hi>FLETCHER,</hi> whom but to mention is to throw a cloude upon all former names and benight Poſterity; This Book being, without flattery, the greateſt <hi>Monument</hi> of the <hi>Scene</hi> that Time and Humanity have produced, and muſt Live, not only the <hi>Crowne</hi> and ſole <hi>Reputation</hi> of our owne, but the ſtayne of all other <hi>Nations</hi> and <hi>Languages,</hi> for it may be boldly averred, not one indiſcretion hath branded this Paper in all the Lines, this being the Authen|tick witt that made Blackfriers an Academy, where the three howers ſpectacle while <hi>Beaumont</hi> and <hi>Fletcher</hi> were preſented, were uſually of more advantage to the hopefull young Heire, then a coſtly, dangerous, forraigne Travell, with the aſſiſtance of a governing Mounſieur, or Signior to boot; And it cannot be denied but that the young ſpirits of the Time, whoſe Birth &amp; Quality made them impati|ent of the ſowrer wayes of education, have from the attentive hearing theſe pieces, got ground in point of wit and carriage of the moſt ſeverely employed Students, while theſe Recreations were digeſted into Rules, and the very Pleaſure did edi|fie. How many paſſable diſcourſing dining witts ſtand yet in good credit upon the bare ſtock of two or three of theſe ſingle Scenes.</p>
+                  <p>And now Reader in this <hi>Tragicall Age</hi> where the <hi>Theater</hi> hath been ſo much out-acted, congratulate thy owne happineſſe that in this ſilence of the Stage, thou haſt a liberty to reade theſe inimitable Playes, to dwell and converſe in theſe immortall Groves, which were only ſhewd our Fathers in a conjuring glaſſe, as ſuddenly removed as repreſented, the Landſcrap is now brought home by this op|tick, and the Preſſe thought too pregnant before ſhall be now look'd upon as greateſt
+<pb facs="4"/> Benefactor to Engliſhmen, that muſt <hi>acknowledge</hi> all the felicity of <hi>witt</hi> and <hi>words</hi> to this Derivation.</p>
+                  <p>You may here find paſſions raiſed to that excellent pitch and by ſuch inſinuating degrees that you ſhall not chuſe but conſent, &amp; go along with them, finding your ſelf at laſt grown inſenſibly the very ſame perſon you read, and then stand admiring the ſubtile Trackes of your engagement. Fall on a Scene of love and you will never believe the writers could have the leaſt roome left in their ſoules for another paſſi|on, peruſe a Scene of manly Rage, and you would ſweare they cannot be expreſt by the ſame hands, but both are ſo excellently wrought, you muſt confeſſe none, but the ſame hands, could worke them.</p>
+                  <p>Would thy Melancholy have a cure? thou ſhalt laugh at <hi>Democritus</hi> himſelfe, and but reading one piece of this <hi>Comick</hi> variety, finde thy exalted fancie in E|lizium; And when thou art ſick of this cure, (for the exceſſe of delight may too much dilate thy <hi>ſoule</hi>) thou ſhalt meete almoſt in every leafe a ſoft purling paſſion or <hi>ſpring</hi> of ſorrow ſo powerfully wrought high by the teares of innocence, and <hi>wronged Lovers,</hi> it ſhall perſwade thy eyes to weepe into the ſtreame, and yet ſmile when they contribute to their owne ruines.</p>
+                  <p>Infinitely more might be ſaid of theſe rare Copies, but let the ingenuous Reader peruſe them &amp; he will finde them ſo able to ſpeake their own worth, that they need not come into the world with a trumpet, ſince any one of theſe incomparable pieces well understood will prove a <hi>Preface</hi> to the reſt, and if the Reader can taſt the beſt wit ever trod our Engliſh Stage, he will be forced himſelfe to become <hi>a breathing Panegerick</hi> to them all.</p>
+                  <p>Not to detaine or prepare thee longer, be as capritious and ſick-brain'd, as igno|rance &amp; malice can make thee, here thou art rectified, or be as healthfull as the in|ward calme of an honeſt <hi>Heart, Learning,</hi> and <hi>Temper</hi> can ſtate thy diſpoſition, yet this booke may be thy fortunate <hi>concernement</hi> and Companion.</p>
+                  <p>It is not ſo remote in Time, but very many Gentlemen may remember theſe Au|thors &amp; ſome familiar in their converſation deliver them upon every pleaſant oc|caſion ſo fluent, to talke a Comedy. He muſt be a bold man that dares undertake to write their Lives. What I have to ſay is, we have the precious <hi>Remaines,</hi> and as the wiſeſt contemporaries acknowledge they Lived a <hi>Miracle,</hi> I am very con|fident this volume cannot die without one.</p>
+                  <p>What more ſpecially concerne theſe Authors and their workes is told thee by ano|ther hand in the following Epiſtle of the <hi>Stationer to the Readers.</hi>
+                  </p>
+                  <p>Farwell, Reade, and feare not thine owne underſtanding, this Booke will cre|ate a cleare one in thee, and when thou haſt conſidered thy purchaſe, thou wilt call the price of it a Charity to thy ſelfe, and at the ſame time forgive thy friend, and theſe Authors humble admirer,</p>
+                  <closer>
+                     <signed>JA. SHIRLEY.</signed>
+                  </closer>
+               </div>
+               <div type="stationer_to_the_reader">
+                  <pb facs="4"/>
+                  <head>The Stationer to the Readers.</head>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>_BEfore you engage farther, be pleaſed to take notice of theſe Particu|lars. You have here a <hi>New Booke;</hi> I can ſpeake it clearely; for of all this large Uolume of <hi>Comedies</hi> and <hi>Tragedies,</hi> not one, till now, was e|ver printed before. A <hi>Collection of Playes</hi> is commonly but a <hi>new Im|preſsion,</hi> the ſcattered pieces which were printed ſingle, being then onely Republiſhed together: 'Tis otherwiſe here.</p>
+                  <p>Next, as it is all New, ſo here is not any thing <hi>Spurious</hi> or <hi>impos'd;</hi> I had the Ori|ginalls from ſuch as received them from the <hi>Authours</hi> themſelves; by Thoſe, and none other, I publiſh this Edition.</p>
+                  <p>And as here's nothing but what is genuine and Theirs, ſo you will finde here are no <hi>Omiſſions;</hi> you have not onely All I could get, but All that you muſt ever expect. For (beſides thoſe which were formerly printed) there is not any Piece written by theſe <hi>Authours,</hi> either Joyntly or Severally, but what are now publiſh'd to the VVorld in this <hi>Volume.</hi> One only Play I muſt except (for I meane to deale openly) 'tis a <hi>COMEDY</hi> called the <hi>VVilde-gooſe Chaſe,</hi> which hath beene long loſt, and I feare irrecoverable; for a <hi>Perſon of Quality</hi> borrowed it from the <hi>Actours</hi> many yeares ſince, and (by the negligence of a Servant) it was never return'd; therefore now I put up this <hi>Si quis,</hi> that whoſoever hereafter happily meetes with it, ſhall be thank|fully ſatisfied if he pleaſe to ſend it home.</p>
+                  <p>Some <hi>Playes</hi> (you know) written by theſe <hi>Authors</hi> were heretofore Printed: I thought not convenient to mixe them with this <hi>Volume,</hi> which of it ſelfe is entirely New. And indeed it would have rendred the Booke ſo Voluminous, that <hi>Ladies</hi> and <hi>Gentlewomen</hi> would have found it ſcarce manageable, who in Workes of this nature muſt firſt be remembred. Beſides, I conſidered thoſe former Pieces had been ſo long printed and re-printed, that many Gentlemen were already furniſhed; and I would have none ſay, they pay twice for the ſame Booke.</p>
+                  <p>One thing I muſt anſwer before it bee objected; 'tis this: VVhen theſe <hi>Comedies</hi> and <hi>Tragedies</hi> were preſented on the Stage, the <hi>Actours</hi> omitted ſome <hi>Scenes</hi> and Paſ|ſages (with the <hi>Authour's</hi> conſent) as occaſion led them; and when private friends de|ſir'd a Copy, they then (and juſtly too) tranſcribed what they <hi>Acted.</hi> But now you have both All that was <hi>Acted,</hi> and all that was not; even the perfect full Originalls without the leaſt mutilation; So that were the <hi>Authours</hi> living, (and ſure they can ne|ver dye) they themſelves would challenge neither more nor leſſe then what is here publiſhed; this Volume being now ſo compleate and finiſh'd, that the Reader muſt expect no future Alterations.</p>
+                  <pb facs="5"/>
+                  <p>For <hi>literall Errours</hi> committed by the Printer, 'tis the faſhion to aske pardon, and as much in faſhion to take no notice of him that asks it; but in this alſo I have done my endeavour. 'T were vaine to mention the <hi>Chargeableneſſe</hi> of this VVork; for thoſe who own'd the <hi>Manuſcripts,</hi> too well knew their value to make a cheap eſtimate of any of theſe Pieces, and though another joyn'd with me in the <hi>Purchaſe</hi> and Printing, yet the <hi>Care</hi> &amp; <hi>Pains</hi> was wholly mine, which I found to be more then you'l eaſily im|agine, unleſſe you knew into how many hands the Originalls were diſperſed. They are all now happily met in this Book, having eſcaped theſe <hi>Publike Troubles,</hi> free and unmangled. Heretofore when Gentlemen deſired but a Copy of any of theſe <hi>Playes,</hi> the meaneſt piece here (if any may be called Meane where every one is Beſt) coſt them more then foure times the price you pay for the whole <hi>Volume.</hi>
+                  </p>
+                  <p>I ſhould ſcarce have adventured in theſe ſlippery times on ſuch a work as this, if knowing perſons had not generally aſſured mee that theſe <hi>Authors</hi> were the moſt un|queſtionable <hi>VVits</hi> this Kingdome hath afforded. Mr. <hi>Beaumont</hi> was ever acknow|ledged a man of a moſt ſtrong and ſearching braine; and (his yeares conſidered) the moſt <hi>Judicious VVit</hi> theſe later Ages have produced; he dyed young, for (which was an invaluable loſſe to this Nation) he left the world when hee was not full thirty yeares old. Mr. <hi>Fletcher</hi> ſurvived, and lived till almoſt fifty; whereof the VVorld now enjoyes the benefit. It was once in my thoughts to have Printed Mr. <hi>Fletcher's</hi> workes by themſelves, becauſe ſingle &amp; alone he would make a <hi>Just Volume:</hi> But ſince never parted while they lived, I conceived it not equitable to ſeperate their aſhes.</p>
+                  <p>It becomes not me to ſay (though it be a knowne Truth) that theſe <hi>Authors</hi> had not only High unexpreſſible gifts of <hi>Nature,</hi> but alſo excellent <hi>acquired Parts,</hi> being furniſhed with Arts and Sciences by that liberall education they had at the <hi>Vniverſity,</hi> which ſure is the beſt place to make a great Wit underſtand it ſelfe; this their workes will ſoone make evident. I was very ambitious to have got Mr. <hi>Beaumonts</hi> picture; but could not poſſibly, though I ſpared no enquirie in thoſe <hi>Noble Families</hi> whence he was deſcended, as alſo among thoſe Gentlemen that were his acquaintance when he was of the <hi>Inner Temple:</hi> the beſt Pictures and thoſe moſt like him you'l finde in this <hi>Volume.</hi> This figure of Mr. <hi>Fletcher</hi> was out by ſeverall Originall Pieces, which his friends lent me, but withall they tell me, that his unimitable Soule did ſhine through his countenance in ſuch <hi>Ayre</hi> and <hi>Spirit,</hi> that the Painters confeſſed it, was not eaſie to expreſſe him: As much as could be, you have here, and the <hi>Graver</hi> hath done his part. What ever I have ſeene of Mr. <hi>Fletchers</hi> owne hand, is free from interlining; and his friends affirme he never writ any one thing twice: it ſeemes he had that rare felicity to prepare and perfect all firſt in his owne braine; to ſhape and attire his <hi>Notions,</hi> to adde or loppe off, before he committed one word to writing, and never touched pen till all was to ſtand as firme and immutable as if ingraven in Braſſe or Marble. But I keepe you too long from thoſe <hi>friends</hi> of his whom 'tis fitter for you to read; only accept of the honeſt endeavours of</p>
+                  <closer>
+                     <signed>One that is a Servant to you all <hi>HUMPHREY MOSELEY.</hi>
+                     </signed>
+                     <dateline>At the <hi>Princes Armes</hi> in <hi>S^t Pauls</hi> Church-yard. <date>Feb. 14^t^h 1646.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="poem_to_the_stationer">
+                  <pb facs="5"/>
+                  <head>To the Stationer.</head>
+                  <l>TEll the ſad World that now the lab'ring Preſſe</l>
+                  <l>H'as brought forth ſafe a Child of happineſſe,</l>
+                  <l>The Frontiſ-piece will ſatisfie the wiſe</l>
+                  <l>And good ſo well, they will not grudge the price.</l>
+                  <l>'Tis not all Kingdomes joyn'd in one could buy</l>
+                  <l>(If priz'd aright) ſo true a Library</l>
+                  <l>Of man: where we the characters may finde</l>
+                  <l>Of ev'ry Nobler and each baſer minde.</l>
+                  <l>Deſert has here reward in one good line</l>
+                  <l>For all it loſt, for all it might repine:</l>
+                  <l>Vile and ignobler things are open laid,</l>
+                  <l>The truth of their falſe colours are diſplayd:</l>
+                  <l>You'l ſay the Poet's both beſt Judge and Prieſt,</l>
+                  <l>No guilty ſoule abides ſo ſharp a teſt</l>
+                  <l>As their ſmooth Pen; for what theſe rare men writ</l>
+                  <l>Commands the World, both Honeſty and Wit.</l>
+                  <closer>
+                     <signed>GRANDISON</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="6"/>
+                  <head>IN MEMORY OF Mr. IOHN FLETCHER.</head>
+                  <l>MEe thought our <hi>Fletcher</hi> weary of this croud,</l>
+                  <l>Wherein ſo few have witt, yet all are loud,</l>
+                  <l>Ʋnto Elyzium fled, where he alone</l>
+                  <l>Might his own witt admire and ours bemoane;</l>
+                  <l>But ſoone upon thoſe Flowry Bankes, a throng</l>
+                  <l>Worthy of thoſe even numbers which he ſung,</l>
+                  <l>Appear'd, and though thoſe Ancient Laureates ſtrive</l>
+                  <l>When dead themſelves, whoſe raptures ſhould ſurvive,</l>
+                  <l>For his Temples all their owne bayes allowes,</l>
+                  <l>Not ſham'd to ſee him crown'd with naked browes;</l>
+                  <l>
+                     <hi>Homer</hi> his beautifull <hi>Achilles</hi> nam'd,</l>
+                  <l>Vrging his braine with <hi>Joves</hi> might well be fam'd,</l>
+                  <l>Since it brought forth one full of beauties charmes,</l>
+                  <l>As was his Pallas, and as bold in Armes;</l>
+                  <l>
+                     <note place="marg" anchored="true">King and no King.</note>But when he the brave <hi>Arbaſes</hi> ſaw, one</l>
+                  <l>That ſaved his peoples dangers by his own,</l>
+                  <l>And ſaw <hi>Tigranes</hi> by his hand undon</l>
+                  <l>Without the helpe of any <hi>Mirmydon,</hi>
+                  </l>
+                  <l>He then confeſs'd when next hee'd <hi>Hector</hi> ſlay,</l>
+                  <l>That he muſt borrow him from <hi>Fletchers</hi> Play;</l>
+                  <l>This might have beene the ſhame, for which he bid</l>
+                  <l>His <hi>Iliades</hi> in a Nut-ſhell ſhould be hid:</l>
+                  <l>
+                     <hi>Virgill</hi> of his <hi>Aeneas</hi> next begun,</l>
+                  <l>Whoſe God-like forme and tongue ſo ſoone had wonne;</l>
+                  <l>That Queene of <hi>Carthage</hi> and of beauty too,</l>
+                  <l>Two powers the whole world elſe were ſlaves unto,</l>
+                  <l>Vrging that Prince for to repaire his faulte</l>
+                  <l>On earth, boldly in hell his Miſtreſſe ſought;</l>
+                  <l>
+                     <note place="marg" anchored="true">The Maides Tragedy.</note>But when he <hi>Amintor</hi> ſaw revenge that wrong,</l>
+                  <l>For which the ſad <hi>Aſpaſia</hi> ſigh'd ſo long,</l>
+                  <l>Vpon himſelfe, to ſhades haſting away,</l>
+                  <l>Not for to make a viſit but to ſtay;</l>
+                  <l>He then did modeſtly confeſſe how farr</l>
+                  <l>
+                     <hi>Fletcher</hi> out-did him in a Charactar.</l>
+                  <l>Now laſtly for a refuge, <hi>Virgill</hi> ſhewes</l>
+                  <l>The lines where <hi>Corydon Alexis</hi> woes;</l>
+                  <l>But thoſe in oppoſition quickly met</l>
+                  <l>
+                     <note place="marg" anchored="true">The faith|full Shep|herdeſſe.</note>The ſmooth tongu'd <hi>Perigot</hi> and <hi>Amoret:</hi>
+                  </l>
+                  <l>A paire whom doubtleſſe had the others ſeene,</l>
+                  <l>They from their owne loves had <hi>Apoſtates</hi> beene;</l>
+                  <l>Thus <hi>Fletcher</hi> did the fam'd laureat exceed,</l>
+                  <l>Both when his Trumpet ſounded and his reed;</l>
+                  <l>Now if the Ancients yeeld that heretofore,</l>
+                  <l>None worthyer then thoſe ere Laurell wore;</l>
+                  <l>The leaſt our age can ſay now thou art gon,</l>
+                  <l>Is that there never will be ſuch a one:</l>
+                  <l>And ſince t'expreſſe thy worth, our rimes too narrow be,</l>
+                  <l>To help it wee'l be ample in our propheſie.</l>
+                  <closer>
+                     <signed>H. HOWARD.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="6"/>
+                  <head>On M^r John Fletcher, and his Workes, never before publiſhed.</head>
+                  <l>TO flatter living fooles is eaſie ſlight:</l>
+                  <l>But hard, to do the living-dead men right.</l>
+                  <l>To praiſe a Landed Lord, is gainfull art:</l>
+                  <l>But thankleſſe to pay Tribute to deſert.</l>
+                  <l>This ſhould have been my taske: I had intent</l>
+                  <l>To bring my rubbiſh to thy monument,</l>
+                  <l>To ſtop ſome crannies there, but that I found</l>
+                  <l>No need of leaſt repaire; all firme and ſound.</l>
+                  <l>Thy well-built fame doth ſtill it ſelfe advance</l>
+                  <l>Above the Worlds mad zeale and ignorance,</l>
+                  <l>Though thou dyedſt not poſſeſt of that ſame pelfe</l>
+                  <l>(Which Nobler ſoules call durt,) the City wealth:</l>
+                  <l>Yet thou haſt left unto the times ſo great</l>
+                  <l>A Legacy, a Treaſure ſo compleat,</l>
+                  <l>That 'twill be hard I feare to prove thy Will:</l>
+                  <l>Men will be wrangling, and in doubting ſtill</l>
+                  <l>How ſo vaſt ſummes of wit were left behind,</l>
+                  <l>And yet nor debts nor ſharers they can finde.</l>
+                  <l>'Twas the kind providence of fate, to lock</l>
+                  <l>Some of this Treaſure up; and keep a ſtock</l>
+                  <l>For a reſerve untill theſe ſullen daies:</l>
+                  <l>When ſcorn, and want, and danger, are the Baies</l>
+                  <l>That Crown the head of merit. But now he</l>
+                  <l>Who in thy Will hath part, is rich and free.</l>
+                  <l>But there's a Caveat enter'd by command,</l>
+                  <l>None ſhould pretend, but thoſe can underſtand.</l>
+                  <closer>
+                     <signed>HENRY MODY, Baronet.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="7"/>
+                  <head>ON M^r Fletchers Works.</head>
+                  <lg>
+                     <l>THough Poets have a licence which they uſe</l>
+                     <l>As th'ancient priviledge of their free Muſe;</l>
+                     <l>Yet whether this be leave enough for me</l>
+                     <l>To write, great Bard, an Eulogie for thee:</l>
+                     <l>Or whether to commend thy Worke, will ſtand</l>
+                     <l>Both with the Lawes of Verſe and of the Land,</l>
+                     <l>Were to put doubts might raiſe a diſcontent</l>
+                     <l>Between the Muſes and the—</l>
+                     <l>I'le none of that. There's deſperate wits that be</l>
+                     <l>(As their immortall Lawrell) Thunder-free;</l>
+                     <l>Whoſe perſonall vertues, 'bove the Lawes of Fate,</l>
+                     <l>Supply the roome of perſonall eſtate:</l>
+                     <l>And thus enfranchis'd, ſafely may rehearſe,</l>
+                     <l>Rapt in a lofty straine, theirs own neck-verſe.</l>
+                     <l>For he that gives the Bayes to thee, muſt then</l>
+                     <l>Firſt take it from the Militarie Men;</l>
+                     <l>He muſt untriumph conqueſts, bid 'emſtand,</l>
+                     <l>Queſtion the ſtrength of their victorious hand.</l>
+                     <l>He muſt act new things, or go neer the ſin,</l>
+                     <l>Reader, as neer as you and I have been:</l>
+                     <l>He muſt be that, which He that tryes will ſwear</l>
+                     <l>Ii is not good being ſo another Yeare.</l>
+                  </lg>
+                  <lg>
+                     <l>And now that thy great name I've brought to this,</l>
+                     <l>To do it honour is to do amiſſe,</l>
+                     <l>What's to be done to thoſe, that ſhall refuſe</l>
+                     <l>To celebrate, great Soule, thy noble Muſe?</l>
+                     <l>Shall the poore State of all thoſe wandring things,</l>
+                     <l>Thy Stage once rais'd to Emperors and Kings?</l>
+                     <l>Shall rigid forfeitures (that reach our Heires)</l>
+                     <l>Of things that only fill with cares and feares?</l>
+                     <l>Shall the privation of a friendleſſe life,</l>
+                     <l>Made up of contradictions and ſtrife?</l>
+                     <l>Shall He be entitie, would antedate</l>
+                     <l>His own poore name, and thine annihilate?</l>
+                     <l>Shall theſe be judgements great enough for one</l>
+                     <l>That dares not write thee an Encomion?</l>
+                  </lg>
+                  <lg>
+                     <pb facs="7"/>
+                     <l>Then where am J? but now I've thought upon't,</l>
+                     <l>I'le prayſe thee more then all have ventur'd on't.</l>
+                     <l>I'le take thy noble Work (and like the trade</l>
+                     <l>Where for a heap of Salt pure Gold is layd)</l>
+                     <l>I'le lay thy Volume, that Huge Tome of wit,</l>
+                     <l>About in Ladies Cloſets, where they ſit</l>
+                     <l>Enthron'd in their own wills; and if ſhe bee</l>
+                     <l>A Laick ſiſter, ſhee'l ſtraight flie to thee:</l>
+                     <l>But if a holy Habit ſhee have on,</l>
+                     <l>Or be ſome Novice, ſhee'l ſcarce looke upon</l>
+                     <l>Thy Lines at firſt; but watch Her then a while,</l>
+                     <l>And you ſhall ſee Her ſteale a gentle ſmile</l>
+                     <l>Vpon thy Title, put thee neerer yet,</l>
+                     <l>Breath on thy Lines a whiſper, and then ſet</l>
+                     <l>Her voyce up to the meaſures; then begin</l>
+                     <l>To bleſſe the houre, and happy ſtate ſhee's in.</l>
+                     <l>Now ſhee layes by her Characters, and lookes</l>
+                     <l>With a ſtern eye on all her pretty Bookes.</l>
+                     <l>Shee's now thy Votereſſe, and the juſt Crowne</l>
+                     <l>She brings thee with it, is worth half the Towne.</l>
+                  </lg>
+                  <lg>
+                     <l>I'le ſend thee to the Army, they that fight</l>
+                     <l>Will read thy tragedies with ſome delight,</l>
+                     <l>Be all thy Reformadoes, fancy ſcars,</l>
+                     <l>And pay too, in thy ſpeculative wars.</l>
+                  </lg>
+                  <lg>
+                     <l>I'le ſend thy Comick ſcenes to ſome of thoſe</l>
+                     <l>That for a great while have plaid faſt and looſe;</l>
+                     <l>New univerſaliſts, by changing ſhapes,</l>
+                     <l>Have made with wit and fortune faire eſcapes.</l>
+                  </lg>
+                  <lg>
+                     <l>Then ſhall the Countrie that poor Tennis-ball</l>
+                     <l>Of angry fate, receive thy Paſtorall,</l>
+                     <l>And from it learn thoſe melancholy ſtraines</l>
+                     <l>Fed the afflicted ſoules of Primitive ſwaines.</l>
+                     <l>Thus the whole World to reverence will flock</l>
+                     <l>Thy Tragick Buskin and thy Comick Stock:</l>
+                     <l>And winged fame unto poſterity</l>
+                     <l>Tranſmit but onely two, this Age, and Thee.</l>
+                  </lg>
+                  <closer>
+                     <signed>
+                        <hi>THOMAS PEYTON.</hi> Agricola Anglo-Cantianus.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="8"/>
+                  <head>ON THE Deceaſed Authour, M^r John Fletcher, his Plays; and eſpecially, <hi>The Mad Lover.</hi>
+                  </head>
+                  <l>WHilſt his well organ'd body doth retreat,</l>
+                  <l>To its firſt matter, and the formall heat</l>
+                  <l>Triumphant ſits in judgement to approve</l>
+                  <l>Pieces above our Candour and our love:</l>
+                  <l>Such as dare boldly venter to appeare</l>
+                  <l>Ʋnto the curious eye, and Criticke eare:</l>
+                  <l>Lo the <hi>Mad Lover</hi> in theſe various times</l>
+                  <l>Is preſs'd to life, t'accuſe us of our crimes.</l>
+                  <l>While <hi>Fletcher</hi> liv'd, who equall to him writ</l>
+                  <l>Such laſting Monuments of naturall wit?</l>
+                  <l>Others might draw their lines with ſweat, like thoſe</l>
+                  <l>That (with much paines) a Garriſon incloſe;</l>
+                  <l>Whilſt his ſweet fluent veine did gently runne</l>
+                  <l>As uncontrold, and ſmoothly as the Sun.</l>
+                  <l>After his death our Theatres did make</l>
+                  <l>Him in his own unequald Language ſpeake:</l>
+                  <l>And now when all the Muſes out of their</l>
+                  <l>Approved modeſty ſilent appeare,</l>
+                  <l>This Play of <hi>Fletchers</hi> braves the envious light</l>
+                  <l>As wonder of our eares once, now our ſight.</l>
+                  <l>Three and fourfold bleſt Poet, who the Lives</l>
+                  <l>Of Poets, and of Theaters ſurvives!</l>
+                  <l>A Groome, or Oſtler of ſome wit may bring</l>
+                  <l>His Pegaſus to the Caſtalian ſpring;</l>
+                  <l>Boaſt he a race o're the Pharſalian plaine,</l>
+                  <l>Or happy <hi>Tempe</hi> valley dares maintaine:</l>
+                  <l>Brag at one leape upon the double Cliffe</l>
+                  <l>(Were it as high as monſtrous Tennariffe)</l>
+                  <l>Of farre-renown'd Parnaſſus he will get,</l>
+                  <l>And there (t' amaze the World) confirme his ſeate:</l>
+                  <l>When our admired <hi>Fletcher</hi> vaunts not ought,</l>
+                  <l>And ſlighted every thing he writ as naught:</l>
+                  <l>While all our Engliſh wondring world (in's cauſe)</l>
+                  <l>Made this great City eccho with applauſe.</l>
+                  <l>Read him therefore all that can read, and thoſe</l>
+                  <l>That cannot learne, if y' are not Learnings foes,</l>
+                  <l>And wilfully reſolved to refuſe</l>
+                  <l>The gentle Raptures of this happy Muſe.</l>
+                  <l>From thy great conſtellation (noble Soule)</l>
+                  <l>Looke on this Kingdome, ſuffer not the whole</l>
+                  <l>Spirit of Poeſie retire to Heaven,</l>
+                  <l>But make us entertaine what thou haſt given.</l>
+                  <l>Earthquakes and Thunder Diapaſons make</l>
+                  <l>The Seas vaſ● roare, and irreſiſtleſſe ſhake</l>
+                  <pb facs="8"/>
+                  <l>Of horrid winds, a ſympathy compoſe;</l>
+                  <l>So in theſe things there's muſicke in the cloſe:</l>
+                  <l>And though they ſeem great Diſcords in our eares,</l>
+                  <l>They are not ſo to them above the Spheares.</l>
+                  <l>Granting theſe Muſicke, how much ſweeter's that</l>
+                  <l>
+                     <hi>Mnemoſyne's</hi> daughter's voyces doe create?</l>
+                  <l>Since Heaven, and Earth, and Seas, and Ayre conſent</l>
+                  <l>To make an Harmony (the Inſtrument,</l>
+                  <l>Their own agreeing ſelves) ſhall we refuſe</l>
+                  <l>The Muſicke which the Deities doe uſe?</l>
+                  <l>
+                     <hi>Troys</hi> raviſht <hi>Ganymed</hi> doth ſing to <hi>Jove,</hi>
+                  </l>
+                  <l>And <hi>Phoebus</hi> ſelfe playes on his Lyre above.</l>
+                  <l>The Cretan Gods, or glorious men, who will</l>
+                  <l>Imitate right, muſt wonder at thy skill,</l>
+                  <l>Beſt Poet of thy times, or he will prove</l>
+                  <l>As mad as thy brave <hi>Memnon</hi> was with love.</l>
+                  <closer>
+                     <signed>ASTON COKAINE, Baronet.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <head>Upon the Works of BEAUMONT, and FLETCHER.</head>
+                  <l>HOw <hi>Angels</hi> (cloyſter'd in our humane Cells)</l>
+                  <l>Maintaine their parley, <hi>Beaumount-Fletcher</hi> tels;</l>
+                  <l>Whoſe ſtrange unimitable Intercourſe</l>
+                  <l>Tranſcends all Rules, and flyes beyond the force</l>
+                  <l>Of the moſt forward ſoules; all muſt ſubmit</l>
+                  <l>Ʋntill they reach theſe <hi>Myſteries</hi> of Wit.</l>
+                  <l>The <hi>Intellectuall Language</hi> here's expreſt,</l>
+                  <l>Admir'd in better times, and dares the Teſt</l>
+                  <l>Of Ours; for from <hi>Wit, Sweetneſſe, Mirth,</hi> and <hi>Sence,</hi>
+                  </l>
+                  <l>This Volume ſprings a new true <hi>Quinteſſence.</hi>
+                  </l>
+                  <closer>
+                     <signed>JO. PETTUS, Knight.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="9"/>
+                  <head>On the Works of the moſt excellent Dramatick Poet, Mr. <hi>John Fletcher,</hi> never before Printed.</head>
+                  <lg>
+                     <l>HAile <hi>Fletcher,</hi> welcome to the worlds great Stage;</l>
+                     <l>For our two houres, we have thee here an age</l>
+                     <l>In thy whole Works, amd may th'<hi>Impreſſion</hi> call</l>
+                     <l>The <hi>Pretor</hi> that preſents thy Playes to all:</l>
+                     <l>Both to the People, and the <hi>Lords</hi> that ſway</l>
+                     <l>That <hi>Herd,</hi> and Ladies whom thoſe Lords obey.</l>
+                     <l>And what's the Loadſtone can ſuch gueſts invite</l>
+                     <l>But moves on two Poles, <hi>Profit,</hi> and <hi>Delight,</hi>
+                     </l>
+                     <l>Which will be ſoon, as on the Rack, confeſt</l>
+                     <l>When every one is tickled with a jeſt:</l>
+                     <l>And that pure <hi>Fletcher,</hi> able to ſubdue</l>
+                     <l>A <hi>Melancholy</hi> more then <hi>Burton</hi> knew.</l>
+                     <l>And though upon the by, to his deſignes</l>
+                     <l>The <hi>Native</hi> may learne Engliſh from his lines,</l>
+                     <l>And <hi>th▪ Alien</hi> if he can but conſtrue it,</l>
+                     <l>May here be made free <hi>Deniſon</hi> of wit.</l>
+                     <l>But his maine end does drooping <hi>Vertue</hi> raiſe,</l>
+                     <l>And crownes her beauty with eternall <hi>Bayes;</hi>
+                     </l>
+                     <l>In Scaenes where ſhe inflames the frozen ſoule,</l>
+                     <l>While <hi>Vice</hi> (her paint waſht off) appeares ſo foule;</l>
+                     <l>She muſt this <hi>Bleſſed Iſle</hi> and Europe leave,</l>
+                     <l>And ſome new <hi>Quadrant</hi> of the <hi>Globe</hi> deceive:</l>
+                     <l>Or hide her Bluſhes on the <hi>Affrike</hi> ſhore</l>
+                     <l>Like <hi>Marius,</hi> but ne're riſe to <hi>triumph</hi> more;</l>
+                     <l>That <hi>honour</hi> is reſign'd to <hi>Fletchers</hi> fame;</l>
+                     <l>Adde to his Trophies, that a <hi>Poets name</hi>
+                     </l>
+                     <l>(Late growne as odious to our <hi>Moderne ſtates</hi>
+                     </l>
+                     <l>As that of <hi>King</hi> to <hi>Rome</hi>) he vindicates</l>
+                     <l>From black aſpertions, caſt upon't by thoſe</l>
+                     <l>Which only are inſpir'd to lye in proſe.</l>
+                  </lg>
+                  <lg>
+                     <l>And, <hi>By the Court of Muſes be't decreed,</hi>
+                     </l>
+                     <l>What graces ſpring from Poeſy's richer ſeed,</l>
+                     <l>When we name <hi>Fletcher</hi> ſhall be ſo proclaim'd,</l>
+                     <l>As all that's <hi>Royall</hi> is when <hi>Caeſar's</hi> nam'd.</l>
+                  </lg>
+                  <closer>
+                     <signed>ROBERT STAPYLTON Knight.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="9"/>
+                  <head>To the memory of my moſt honoured kinſman, Mr. <hi>Francis Beaumont.</hi>
+                  </head>
+                  <lg>
+                     <l>_I'Le not pronounce how ſtrong and cleane thou writes,</l>
+                     <l>Nor by what new hard Rules thou took'ſt thy Flights,</l>
+                     <l>Nor how much <hi>Greek</hi> and <hi>Latin</hi> ſome refine</l>
+                     <l>Before they can make up ſix words of thine,</l>
+                     <l>But this I'le ſay, thou ſtrik'ſt our ſenſe ſo deep,</l>
+                     <l>At once thou mak'ſt us Bluſh, Rejoyce, and Weep.</l>
+                     <l>Great Father <hi>Iohnſon</hi> bow'd himſelfe when hee</l>
+                     <l>(Thou writ'ſt ſo nobly) vow'd <hi>he envy'd thee.</hi>
+                     </l>
+                     <l>Were thy <hi>Mardonius</hi> arm'd, there would be more</l>
+                     <l>Strife for his Sword then all <hi>Achilles</hi> wore,</l>
+                     <l>Such wiſe juſt Rage, had Hee been ●ately try'd</l>
+                     <l>My life on't Hee had been o'th' Better ſide,</l>
+                     <l>And where hee found falſe odds (through Gold or Sloath)</l>
+                     <l>There brave <hi>Mardonius</hi> would have be at them Both.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold, here's <hi>FLETCHER</hi> too! the World ne're knew</l>
+                     <l>Two Potent Witts co-operate till You;</l>
+                     <l>For ſtill your fancies are ſo wov'n and knit,</l>
+                     <l>'Twas <hi>FRANCIS-FLETCHER,</hi> or <hi>IOHN BEAUMONT</hi> writ.</l>
+                     <l>Yet neither borrow'd, nor were ſo put to't</l>
+                     <l>To call poore Godds and Goddeſſes to do't;</l>
+                     <l>Nor made Nine Girles your <hi>Muſes</hi> (you ſuppoſe</l>
+                     <l>Women ne're write, ſave <hi>Love-Letters in proſe</hi>)</l>
+                     <l>But are your owne Inſpirers, and have made</l>
+                     <l>Such pow'rfull Sceanes, as when they pleaſe, invade.</l>
+                     <l>Your Plot, Sence, Language, All's ſo pure and fit,</l>
+                     <l>Hee's Bold, not Valiant, dare diſpute your Wit.</l>
+                  </lg>
+                  <closer>
+                     <signed>GEORGE LISLE Knight.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="10"/>
+                  <head>On Mr. <hi>JOHN FLETCHER'S</hi> VVorkes.</head>
+                  <lg>
+                     <l>_SO ſhall we joy, when all whom Beaſts and Wormes</l>
+                     <l>Had turn'd to their owne ſubſtances and formes,</l>
+                     <l>Whom Earth to Earth, or fire hath chang'd to fire,</l>
+                     <l>Wee ſhall behold more then at firſt intire</l>
+                     <l>As now we doe, to ſee all thine, thine owne</l>
+                     <l>In this thy Muſes Reſurrection,</l>
+                     <l>Whoſe ſcatter'd parts, from thy owne Race, more wounds</l>
+                     <l>Hath ſuffer'd, then <hi>Acteon</hi> from his hounds;</l>
+                     <l>Which firſt their Braines, and then their Bellies fed,</l>
+                     <l>And from their excrements new Poets bred.</l>
+                     <l>But now thy Muſe inraged from her urne</l>
+                     <l>Like Ghoſts of Murdred bodyes doth returne</l>
+                     <l>To accuſe the Murderers, to right the Stage,</l>
+                     <l>And undeceive the long abuſed Age,</l>
+                     <l>Which caſts thy praiſe on them, to whom thy Wit</l>
+                     <l>Gives not more Gold then they give droſſe to it:</l>
+                     <l>Who not content like fellons to purioyne,</l>
+                     <l>Adde Treaſon to it, and debaſe thy Coyne.</l>
+                  </lg>
+                  <lg>
+                     <l>But whither am I ſtrayd? I need not raiſe</l>
+                     <l>Trophies to thee from other Mens diſpraiſe;</l>
+                     <l>Nor is thy fame on leſſer Ruines built,</l>
+                     <l>Nor needs thy juſter title the foule guilt</l>
+                     <l>Of Easterne Kings, who to ſecure their Raigne,</l>
+                     <l>Muſt have their Brothers, Sonnes, and Kindred ſlaine.</l>
+                     <l>Then was wits Empire at the fatall height,</l>
+                     <l>When labouring and ſinking with its weight,</l>
+                     <l>From thence a thouſand leſſer Poets ſprong</l>
+                     <l>Like petty Princes from the fall of <hi>Rome.</hi>
+                     </l>
+                     <l>When <hi>JOHNSON, SHAKESPEARE,</hi> and thy ſelfe did ſit,</l>
+                     <l>And ſway'd in the Triumvirate of wit—</l>
+                     <l>Yet what from <hi>JOHNSONS</hi> oyle and ſweat did flow,</l>
+                     <l>Or what more eaſie nature did bestow</l>
+                     <l>On <hi>SHAKESPEARES</hi> gentler Muſe, in thee full growne</l>
+                     <l>Their Graces both appeare, yet ſo, that none</l>
+                     <l>Can ſay here Nature ends, and Art begins</l>
+                     <l>But mixt like th'Elements, and borne like twins,</l>
+                     <l>So interweav'd, ſo like, ſo much the ſame,</l>
+                     <l>None this meere Nature, that meere Art can name:</l>
+                     <l>'Twas this the Ancients meant, Nature and Skill</l>
+                     <l>Are the two topps of their <hi>Pernaſſus</hi> Hill.</l>
+                  </lg>
+                  <closer>
+                     <signed>I. DENHAM.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="10"/>
+                  <head>Vpon Mr. <hi>John Fletcher's</hi> Playes.</head>
+                  <l>
+                     <hi>_FLETCHER,</hi> to thee, wee doe not only owe</l>
+                  <l>All theſe good Playes, but thoſe of others too:</l>
+                  <l>Thy wit repeated, does ſupport the Stage,</l>
+                  <l>Credits the last, and entertaines this age.</l>
+                  <l>No Worthies form'd by any Muſe but thine</l>
+                  <l>Could purchaſe Robes to make themſelves ſo fine:</l>
+                  <l>What brave Commander is not proud to ſee</l>
+                  <l>Thy brave <hi>Melantius</hi> in his Gallantry,</l>
+                  <l>Our greateſt Ladyes love to ſee their ſcorne</l>
+                  <l>Out done by Thine in what themſelves have worne:</l>
+                  <l>Th'impatient Widow ere the yeare be done</l>
+                  <l>Sees thy <hi>Aſpaſia</hi> weeping in her Gowne:</l>
+                  <l>I never yet the Tragick ſtraine aſſay'd</l>
+                  <l>Deterr'd by that inimitable <hi>Maid:</hi>
+                  </l>
+                  <l>And when I venture at the Comick ſtile</l>
+                  <l>Thy <hi>Scornfull Lady</hi> ſeemes to mock my toile:</l>
+                  <l>Thus has thy Muſe, at once, improv'd and marr'd</l>
+                  <l>Our Sport in Playes, by rendring it too hard.</l>
+                  <l>So when a ſort of luſty Shepheards throw</l>
+                  <l>The barre by turns, and none the rest outgoe</l>
+                  <l>So farre, but that the beſt are meaſuring caſts,</l>
+                  <l>Their emulation and their paſtime laſts;</l>
+                  <l>But if ſome Brawny yeoman, of the guard</l>
+                  <l>Step in and toſse the Axeltree a yard</l>
+                  <l>Or more beyond the fartheſt Marke, the reſt</l>
+                  <l>Deſpairing ſtand, their ſport is at the beſt.</l>
+                  <closer>
+                     <signed>EDW. WALLER.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="11"/>
+                  <head>To <hi>FLETCHER</hi> Reviv'd.</head>
+                  <lg>
+                     <l>_HOw have I been Religious? what ſtrange Good</l>
+                     <l>Ha's ſcap't me that I never underſtood?</l>
+                     <l>Have I Hell guarded <hi>Haereſie</hi> o'rethrowne?</l>
+                     <l>Heald wounded States? made Kings and Kingdomes one?</l>
+                     <l>That <hi>Fate</hi> ſhould be ſo mercifull to me,</l>
+                     <l>To let me live t'have ſaid I have read thee.</l>
+                     <l>Fa●re Star aſcend! the Ioy! the Life! the Light</l>
+                     <l>Of this tempeſtuous Age, this darke worlds ſight!</l>
+                     <l>Oh from thy Crowne of Glory dart one flame</l>
+                     <l>May ſtrike a ſacred Reverence, whileſt thy Name</l>
+                     <l>(Like holy <hi>Flamens</hi> to their God of Day)</l>
+                     <l>We bowing, ſing; and whilſt we praiſe, we pray.</l>
+                  </lg>
+                  <lg>
+                     <l>Bright Spirit! whoſe Aeternall motion</l>
+                     <l>Of Wit, like <hi>Time,</hi> ſtill in it ſelfe did runne;</l>
+                     <l>Binding all others in it, and did give</l>
+                     <l>Commiſsion, how far this, or that ſhall live:</l>
+                     <l>Like <hi>Deſtinie</hi> of Poems, who, as ſhe</l>
+                     <l>Signes death to all, her ſelfe can never dye.</l>
+                  </lg>
+                  <lg>
+                     <l>And now thy purple-robed <hi>Tragoedie,</hi>
+                     </l>
+                     <l>In her imbroider'd Buskins, calls mine eye,</l>
+                     <l>
+                        <note place="marg" anchored="true">Valentinian</note>Where brave <hi>Aëtius</hi> we ſee betray'd,</l>
+                     <l>T'obey his Death, whom thouſand lives obey'd;</l>
+                     <l>Whilſt that the <hi>Mighty Foole</hi> his Scepter breakes,</l>
+                     <l>And through his <hi>Gen'rals</hi> wounds his owne doome ſpeaks,</l>
+                     <l>Weaving thus richly <hi>Valentinian</hi>
+                     </l>
+                     <l>The coſtlieſt Monarch with the cheapeſt man.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <note place="marg" anchored="true">The Mad Lover.</note>Souldiers may here to their old glories adde,</l>
+                     <l>
+                        <hi>The Lover</hi> love, and be with reaſon <hi>mad:</hi>
+                     </l>
+                     <l>Not as of old, <hi>Alcides</hi> furious,</l>
+                     <l>VVho wilder then his Bull did teare the houſe,</l>
+                     <l>(Hurling his Language with the Canvas ſtone)</l>
+                     <l>'Twas thought the Monster roar'd the ſob'rer Tone.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <note place="marg" anchored="true">Tragi-comedies.</note>But ah, when thou thy ſorrow didſt inſpire</l>
+                     <l>VVith Paſsions, blacke as is her darke attire,</l>
+                     <pb facs="11"/>
+                     <l>Virgins as <hi>Sufferers</hi> have wept to ſee</l>
+                     <l>So white a Soule, ſo red a Crueltie;<note place="marg" anchored="true">Arcas. Bellario.</note>
+                     </l>
+                     <l>That thou hast griev'd, and with unthought redreſſe,</l>
+                     <l>Dri'd their wet eyes who now thy mercy bleſse;</l>
+                     <l>Yet loth to loſe thy watry jewell, when</l>
+                     <l>Ioy wip't it off, Laughter ſtraight ſprung't agen.</l>
+                  </lg>
+                  <lg>
+                     <l>Now ruddy cheeked <hi>Mirth</hi> with Roſie wings,<note place="marg" anchored="true">Comedies. The Spaniſh Curate. The Humo|rous Lieu|tenant. The Tamer Tam'd. The little French Lawyer.</note>
+                     </l>
+                     <l>Fanns ev'ry brow with gladneſſe, whileſt ſhe ſings</l>
+                     <l>Delight to all, and the whole Theatre</l>
+                     <l>A Feſtivall in Heaven doth appeare:</l>
+                     <l>Nothing but Pleaſure, Love, and (like the Morne)</l>
+                     <l>Each face a generall ſmiling doth adorne.</l>
+                  </lg>
+                  <lg>
+                     <l>Heare ye foule Speakers, that pronounce the Aire</l>
+                     <l>Of Stewes and Shores, I will informe you where</l>
+                     <l>And how to cloathe aright your wanton wit,</l>
+                     <l>Without her naſty Bawd attending it.</l>
+                     <l>View here a looſe thought ſaid with ſuch a grace,<note place="marg" anchored="true">The cuſtom of the Countrey.</note>
+                     </l>
+                     <l>
+                        <hi>Minerva</hi> might have ſpoke in <hi>Venus</hi> face;</l>
+                     <l>So well diſguis'd, that t'was conceiv'd by none</l>
+                     <l>But <hi>Cupid</hi> had <hi>Diana</hi>'s linnen on;</l>
+                     <l>And all his naked parts ſo vail'd, th' expreſſe</l>
+                     <l>The Shape with clowding the uncomlineſse;</l>
+                     <l>That if this Reformation which we</l>
+                     <l>Receiv'd, had not been buried with thee,</l>
+                     <l>The Stage (as this work) might have liv'd and lov'd;</l>
+                     <l>Her Lines; the auſtere Skarlet had approv'd,</l>
+                     <l>And th' <hi>Actors</hi> wiſely been from that offence</l>
+                     <l>As cleare, as they are now from <hi>Audience.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Thus with thy <hi>Genius</hi> did the <hi>Scaene</hi> expire,</l>
+                     <l>Wanting thy Active and inliv'ning fire,</l>
+                     <l>That now (to ſpread a darkneſſe over all,)</l>
+                     <l>Nothing remaines but <hi>Poeſie</hi> to fall.</l>
+                     <l>And though from theſe thy <hi>Embers</hi> we receive</l>
+                     <l>Some warmth, ſo much as may be ſaid, we live,</l>
+                     <l>That we dare praiſe thee, bluſhleſſe, in the head</l>
+                     <l>Of the beſt piece <hi>Hermes</hi> to <hi>Love</hi> e're read,</l>
+                     <l>That We rejoyce and glory in thy Wit,</l>
+                     <l>And feast each other with remembring it,</l>
+                     <l>That we dare ſpeak thy thought, thy Acts recite</l>
+                     <l>Yet all men henceforth be afraid to write.</l>
+                  </lg>
+                  <closer>
+                     <signed>RICH. LOVELACE.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="12"/>
+                  <head>On Maſter <hi>JOHN FLETCHERS</hi> Dramaticall Poems.</head>
+                  <l>_GReat tutelary Spirit of the Stage!</l>
+                  <l>
+                     <hi>FLETCHER!</hi> I can fix nothing but my rage</l>
+                  <l>Before thy Workes, 'gainſt their officious crime</l>
+                  <l>Who print thee now, in the worſt ſcaene of Time.</l>
+                  <l>For me, uninterrupted hadſt thou ſlept</l>
+                  <l>Among the holly ſhades and cloſe hadſt kept</l>
+                  <l>The miſtery of thy lines, till men might bee</l>
+                  <l>Taught how to reade, and then, how to reade thee.</l>
+                  <l>But now thou art expos'd to th'common fate,</l>
+                  <l>Revive then (mighty Soule!) and vindicate</l>
+                  <l>From th' Ages rude affronts thy injured fame,</l>
+                  <l>Inſtruct the Envious, with how chaſt a flame</l>
+                  <l>Thou warmſt the Lover; how ſeverely juſt</l>
+                  <l>Thou wert to puniſh, if he burnt to luſt.</l>
+                  <l>With what a bluſh thou didſt the Maid adorne,</l>
+                  <l>But tempted, with how innocent a ſcorne.</l>
+                  <l>How Epidemick errors by thy <hi>Play</hi>
+                  </l>
+                  <l>VVere laught out of eſteeme, ſo purg'd away.</l>
+                  <l>How to each ſence thou ſo didſt vertue fit,</l>
+                  <l>That all grew vertuous to be thought t'have wit.</l>
+                  <l>But this was much too narrow for thy art,</l>
+                  <l>Thou didſt frame governments, give Kings their part,</l>
+                  <l>Teach them how neere to God, while juſt they be;</l>
+                  <l>But how diſſolv'd, ſtretcht forth to Tyrannie.</l>
+                  <l>How Kingdomes, in their channell, ſafely run,</l>
+                  <l>But rudely overflowing are undone.</l>
+                  <l>Though vulgar ſpirits Poets ſcorne or hate:</l>
+                  <l>Man may beget, A Poet can create.</l>
+                  <closer>
+                     <signed>WILL. HABINGTON.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="12"/>
+                  <head>Vpon Maſter <hi>FLETCHERS</hi> Drama|ticall Workes.</head>
+                  <l>_WHat? now the Stage is down, darſt thou appeare</l>
+                  <l>Bold <hi>FLETCER</hi> in this tottring Hemiſphear?</l>
+                  <l>Yes; <hi>Poets are like Palmes which, the more weight</hi>
+                  </l>
+                  <l>
+                     <hi>You caſt upon them grow more ſtrong &amp; ſtreight,</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis not</hi> love<hi>'s Thunderbolt, nor</hi> Mars <hi>his Speare,</hi>
+                  </l>
+                  <l>
+                     <hi>Or</hi> Neptune's <hi>angry Trident, Poets fear.</hi>
+                  </l>
+                  <l>Had now grim <hi>BEN</hi> bin breathing, with what rage,</l>
+                  <l>And high-ſwolne fury had Hee laſh'd this age,</l>
+                  <l>
+                     <hi>SHAKESPEARE</hi> with <hi>CHAPMAN</hi> had grown madd, and torn</l>
+                  <l>Their gentle <hi>Sock,</hi> and lofty <hi>Buskins</hi> worne,</l>
+                  <l>To make their Muſe welter up to the chin</l>
+                  <l>In blood; of <hi>faigned</hi> Scaenes no need had bin,</l>
+                  <l>
+                     <hi>England</hi> like <hi>Lucians</hi> Eagle with an Arrow</l>
+                  <l>Of her owne Plumes piercing her heart quite thorow,</l>
+                  <l>Had bin a Theater and ſubject fit</l>
+                  <l>To exerciſe in <hi>real</hi> truth's their wit:</l>
+                  <l>Yet none like high-wing'd <hi>FLETCHER</hi> had bin found</l>
+                  <l>This <hi>Eagles</hi> tragick-deſtiny to ſound,</l>
+                  <l>Rare <hi>FLETCHER'S quill</hi> had ſoar'd up to the sky,</l>
+                  <l>And drawn down Gods to ſee the tragedy:</l>
+                  <l>Live famous Dramatiſt, let every <hi>ſpring</hi>
+                  </l>
+                  <l>Make thy Bay flouriſh, and freſh <hi>Bourgeons</hi> bring:</l>
+                  <l>And ſince we cannot have Thee trod o'th' ſtage,</l>
+                  <l>Wee will applaud Thee in this ſilent Page.</l>
+                  <closer>
+                     <signed>
+                        <hi>IA. HOWELL.</hi> P.C.C.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="13"/>
+                  <head>On the Edition.</head>
+                  <lg>
+                     <l>
+                        <hi>_FLETCHER</hi> (whoſe Fame no Age can ever waſt;</l>
+                     <l>Envy of Ours, and glory of the laſt)</l>
+                     <l>Is now alive againe; and with his Name</l>
+                     <l>His ſacred Aſhes wak'd into a Flame;</l>
+                     <l>Such as before did by a ſecret charme</l>
+                     <l>The wildeſt Heart ſubdue, the coldeſt warme,</l>
+                     <l>And lend the Lady's eyes a power more bright,</l>
+                     <l>Diſpenſing thus to either, Heat and Light.</l>
+                  </lg>
+                  <lg>
+                     <l>He to a Sympathie thoſe ſoules betrai'd</l>
+                     <l>Whom Love or Beauty never could perſwade;</l>
+                     <l>And in each mov'd ſpectatour could beget</l>
+                     <l>A reall paſſion by a Counterfeit:</l>
+                     <l>When firſt <hi>Bellario</hi> bled, what Lady there</l>
+                     <l>Did not for every drop let fall a teare?</l>
+                     <l>And when <hi>Aſpaſia</hi> wept, not any eye</l>
+                     <l>But ſeem'd to weare the ſame ſad livery;</l>
+                     <l>By him inſpir'd the feign'd <hi>Lucina</hi> drew</l>
+                     <l>More ſtreams of melting ſorrow then the true;</l>
+                     <l>But then the <hi>Scornfull Lady</hi> did beguile</l>
+                     <l>Their eaſie griefs, and teach them all to ſmile.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus he Affections could, or raiſe or lay;</l>
+                     <l>Love, Griefe and Mirth thus did his Charmes obey:</l>
+                     <l>He Nature taught her paſſions to out-doe,</l>
+                     <l>How to refine the old, and create new;</l>
+                     <l>Which ſuch a happy likeneſſe ſeem'd to beare,</l>
+                     <l>As if that Nature Art, Art Nature were.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet All had Nothing bin, obſcurely kept</l>
+                     <l>In the ſame Vrne wherein his Duſt hath ſlept,</l>
+                     <l>Nor had he ris' the Delphick wreath to claime,</l>
+                     <l>Had not the dying ſceane expir'd his Name;</l>
+                     <l>Diſpaire our joy hath doubled, he is come,</l>
+                     <l>Thrice welcome by this <hi>Poſt-liminium.</hi>
+                     </l>
+                     <l>His loſſe preſerv'd him; They that ſilenc'd Wit,</l>
+                     <l>Are now the Authours to Eternize it;</l>
+                     <l>Thus Poets are in ſpight of Fate reviv'd,</l>
+                     <l>And Playes by Intermiſſion longer liv'd.</l>
+                  </lg>
+                  <closer>
+                     <signed>THO. STANLEY.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="13"/>
+                  <head>On the Edition of Mr <hi>Francis Beaumonts,</hi> and Mr <hi>John Fletchers</hi> PLAYES never printed before.</head>
+                  <lg>
+                     <l>_I Am <hi>amaz'd;</hi> and this ſame <hi>Extacye</hi>
+                     </l>
+                     <l>Is both my <hi>Glory</hi> and <hi>Apology.</hi>
+                     </l>
+                     <l>
+                        <hi>Sober Ioyes are dull Paſsions;</hi> they muſt beare</l>
+                     <l>Proportion to the <hi>Subject:</hi> if <hi>ſo;</hi> where</l>
+                     <l>
+                        <hi>Beaumont</hi> and <hi>Fletcher</hi> ſhall vouchſafe to be</l>
+                     <l>
+                        <hi>That Subject; That Ioy</hi> muſt be <hi>Extacye.</hi>
+                     </l>
+                     <l>
+                        <hi>Fury</hi> is the <hi>Complexion</hi> of <hi>great Wits;</hi>
+                     </l>
+                     <l>The <hi>Fooles Diſtemper:</hi> Hee, thats <hi>mad</hi> by <hi>fits,</hi>
+                     </l>
+                     <l>Is <hi>wiſe ſo</hi> too. It is the <hi>Poets Muſe;</hi>
+                     </l>
+                     <l>The <hi>Prophets God:</hi> the <hi>Fooles,</hi> and <hi>my excuſe.</hi>
+                     </l>
+                     <l>For (in <hi>Me</hi>) nothing <hi>leſſe</hi> then <hi>Fletchers Name</hi>
+                     </l>
+                     <l>Could have <hi>begot,</hi> or <hi>juſtify'd</hi> this <hi>flame.</hi>
+                     </l>
+                     <l>
+                        <hi>Beaumont Return'd?</hi> methinks it ſhould not be.</l>
+                     <l>
+                        <hi>Fletcher Return'd?</hi> methinks it ſhould not be.</l>
+                     <l>
+                        <hi>No,</hi> not in's <hi>Works: Playes</hi> are as <hi>dead</hi> as <hi>He.</hi>
+                     </l>
+                     <l>The <hi>Palate</hi> of <hi>this age guſts</hi> nothing <hi>High;</hi>
+                     </l>
+                     <l>That has not <hi>Cuſtard</hi> in't or <hi>Bawdery.</hi>
+                     </l>
+                     <l>
+                        <hi>Folly</hi> and <hi>Madneſſe</hi> fill the <hi>Stage:</hi> The <hi>Scane</hi>
+                     </l>
+                     <l>Is <hi>Athens; where,</hi> the <hi>Guilty,</hi> and the <hi>Meane,</hi>
+                     </l>
+                     <l>The <hi>Foole 'ſcapes</hi> well enough; <hi>Learned</hi> and <hi>Great,</hi>
+                     </l>
+                     <l>Suffer an <hi>Oſtraciſme;</hi> ſtand <hi>Exulate.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Mankinde</hi> is <hi>fall'n againe, ſhrunke</hi> a <hi>degree,</hi>
+                     </l>
+                     <l>A <hi>ſtep</hi> below his very <hi>Apoſtacye.</hi>
+                     </l>
+                     <l>
+                        <hi>Nature</hi> her <hi>Selfe</hi> is out of <hi>Tune;</hi> and <hi>Sicke</hi>
+                     </l>
+                     <l>Of <hi>Tumult</hi> and <hi>Diſorder, Lunatique.</hi>
+                     </l>
+                     <l>Yet <hi>what World</hi> would not cheerfully <hi>endure</hi>
+                     </l>
+                     <l>The <hi>Torture,</hi> or <hi>Diſeaſe,</hi> t' <hi>enjoy</hi> the <hi>Cure?</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>This Booke's</hi> the <hi>Balſame,</hi> and the <hi>Hellebore,</hi>
+                     </l>
+                     <l>Muſt <hi>preſerve bleeding Nature,</hi> and <hi>restore</hi>
+                     </l>
+                     <l>Our <hi>Crazy Stupor</hi> to a <hi>juſt quick Sence</hi>
+                     </l>
+                     <l>Both of <hi>Ingratitude,</hi> and <hi>Providence.</hi>
+                     </l>
+                     <l>That teaches us (at <hi>Once</hi>) to <hi>feele,</hi> and <hi>know,</hi>
+                     </l>
+                     <l>
+                        <hi>Two deep Points:</hi> what we <hi>want,</hi> and what we <hi>owe.</hi>
+                     </l>
+                     <l>Yet <hi>Great Goods have their Ills:</hi> Should we <hi>tranſmit</hi>
+                     </l>
+                     <l>To <hi>Future Times,</hi> the <hi>Pow'r</hi> of <hi>Love</hi> and <hi>Wit,</hi>
+                     </l>
+                     <l>In <hi>this Example:</hi> would they not <hi>combine</hi>
+                     </l>
+                     <l>To make <hi>Our Imperfections Their Deſigne?</hi>
+                     </l>
+                     <l>They'd <hi>ſtudy</hi> our <hi>Corruptions;</hi> and take more</l>
+                     <l>
+                        <hi>Care</hi> to be <hi>Ill,</hi> then to be <hi>Good, before.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb facs="14"/>
+                     <l>For <hi>nothing but ſo great Infirmity,</hi>
+                     </l>
+                     <l>
+                        <hi>Could make Them worthy of ſuch Remedy.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Have you not ſeene the Suns almighty Ray</hi>
+                     </l>
+                     <l>
+                        <hi>Reſcue</hi> th' <hi>affrighted World,</hi> and <hi>redeeme Day</hi>
+                     </l>
+                     <l>From <hi>blacke deſpaire:</hi> how his <hi>victorious Beame</hi>
+                     </l>
+                     <l>
+                        <hi>Scatters</hi> the <hi>Storme,</hi> and <hi>drownes</hi> the <hi>petty flame</hi>
+                     </l>
+                     <l>Of <hi>Lightning,</hi> in the <hi>glory</hi> of his <hi>eye:</hi>
+                     </l>
+                     <l>How <hi>full</hi> of <hi>pow'r,</hi> how <hi>full</hi> of <hi>Majesty?</hi>
+                     </l>
+                     <l>When to <hi>us Mortals, nothing</hi> elſe was <hi>knowne,</hi>
+                     </l>
+                     <l>But the <hi>ſad doubt,</hi> whether to <hi>burne,</hi> or <hi>drowne.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Choler,</hi> and <hi>Phlegme, Heat,</hi> and <hi>dull Ignorance,</hi>
+                     </l>
+                     <l>Have caſt <hi>the people</hi> into <hi>ſuch</hi> a <hi>Trance,</hi>
+                     </l>
+                     <l>That <hi>feares</hi> and <hi>danger</hi> ſeeme <hi>Great equally,</hi>
+                     </l>
+                     <l>And no <hi>diſpute</hi> left now, but <hi>how</hi> to <hi>dye.</hi>
+                     </l>
+                     <l>Juſt in <hi>this nicke, Fletcher ſets the world cleare</hi>
+                     </l>
+                     <l>Of all diſorder and reformes us here.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>formall Youth,</hi> that knew <hi>no</hi> other <hi>Grace,</hi>
+                     </l>
+                     <l>Or <hi>Value,</hi> but his <hi>Title,</hi> and his <hi>Lace,</hi>
+                     </l>
+                     <l>
+                        <hi>Glaſſes himſelfe:</hi> and in <hi>this faithfull Mirrour,</hi>
+                     </l>
+                     <l>
+                        <hi>Views, diſaproves, reformes, repents</hi> his <hi>Errour.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Credulous, bright Girle,</hi> that <hi>beleeves all</hi>
+                     </l>
+                     <l>
+                        <hi>Language,</hi> (in <hi>Othes</hi>) if <hi>Good, Canonicall,</hi>
+                     </l>
+                     <l>Is <hi>fortifi'd,</hi> and <hi>taught, here,</hi> to <hi>beware</hi>
+                     </l>
+                     <l>Of <hi>ev'ry</hi> ſpecious <hi>bayte,</hi> of <hi>ev'ry ſnare</hi>
+                     </l>
+                     <l>Save <hi>one:</hi> and <hi>that</hi> ſame <hi>Caution</hi> takes her <hi>more,</hi>
+                     </l>
+                     <l>Then <hi>all</hi> the <hi>flattery</hi> ſhe <hi>felt before.</hi>
+                     </l>
+                     <l>She finds her <hi>Boxes,</hi> and her <hi>Thoughts betray'd</hi>
+                     </l>
+                     <l>By the <hi>Corruption</hi> of the <hi>Chambermaide:</hi>
+                     </l>
+                     <l>
+                        <hi>Then throwes</hi> her <hi>Waſhes</hi> and <hi>diſſemblings</hi> By;</l>
+                     <l>And <hi>Vowes</hi> nothing but <hi>Ingenuity.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>ſevere States-man quits</hi> his <hi>ſullen forme</hi>
+                     </l>
+                     <l>Of <hi>Gravity</hi> and <hi>bus'neſſe;</hi> The <hi>Luke-warme</hi>
+                     </l>
+                     <l>
+                        <hi>Religious</hi> his <hi>Neutrality;</hi> The <hi>hot</hi>
+                     </l>
+                     <l>
+                        <hi>Braine-ſicke Illuminate</hi> his <hi>zeale; The Sot</hi>
+                     </l>
+                     <l>
+                        <hi>Stupidity;</hi> The <hi>Souldier</hi> his <hi>Arreares;</hi>
+                     </l>
+                     <l>The <hi>Court</hi> its <hi>Confidence;</hi> The <hi>Plebs</hi> their <hi>feares;</hi>
+                     </l>
+                     <l>
+                        <hi>Gallants</hi> their <hi>Apiſhneſſe</hi> and <hi>Perjurie,</hi>
+                     </l>
+                     <l>
+                        <hi>Women</hi> their <hi>Pleaſure</hi> and <hi>Inconſtancie;</hi>
+                     </l>
+                     <l>
+                        <hi>Poets</hi> their <hi>Wine;</hi> the <hi>Vſurer</hi> his <hi>Pelfe;</hi>
+                     </l>
+                     <l>The <hi>World</hi> its <hi>Vanity;</hi> and <hi>I</hi> my <hi>Selfe.</hi>
+                     </l>
+                  </lg>
+                  <closer>
+                     <signed>Roger L' Eſtrange.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="14"/>
+                  <head>On the Dramatick Poems of Mr JOHN FLETCHER.</head>
+                  <l>_WOnder! who's here? <hi>Fletcher,</hi> long buried</l>
+                  <l>Reviv'd? Tis he! hee's riſen from the Dead,</l>
+                  <l>His winding ſheet put off, walks above ground,</l>
+                  <l>Shakes off his Fetters, and is better bound.</l>
+                  <l>And may he not, if rightly underſtood,</l>
+                  <l>Prove Playes are lawfull? he hath <hi>made them Good.</hi>
+                  </l>
+                  <l>Is any <hi>Lover Mad?</hi> ſee here <hi>Loves Cure;</hi>
+                  </l>
+                  <l>Vnmarried? to a <hi>Wife</hi> he may be ſure</l>
+                  <l>A rare one, <hi>For a Moneth;</hi> if ſhe diſpleaſe,</l>
+                  <l>The <hi>Spaniſh Curate</hi> gives a Writ of eaſe.</l>
+                  <l>Enquire <hi>The Cuſtome of the Country,</hi> then</l>
+                  <l>Shall <hi>the French Lawyer</hi> ſet you free againe.</l>
+                  <l>If the two <hi>Faire Maids</hi> take it wondrous ill,</l>
+                  <l>(One of <hi>the Inne,</hi> the other of <hi>the Mill,</hi>)</l>
+                  <l>That th' <hi>Lovers Progreſſe</hi> ſtopt, and they defam'd;</l>
+                  <l>Here's that makes <hi>Women Pleas'd,</hi> and <hi>Tamer tam'd.</hi>
+                  </l>
+                  <l>But who then playes the <hi>Coxcombe,</hi> or will trie</l>
+                  <l>His <hi>Wit at ſeverall Weapons,</hi> or elſe die?</l>
+                  <l>
+                     <hi>Nice Valour</hi> and he doubts not to engage</l>
+                  <l>The <hi>Noble Gentl'man,</hi> in <hi>Loves Pilgrimage,</hi>
+                  </l>
+                  <l>To take revenge on the <hi>Falſe One,</hi> and run</l>
+                  <l>The <hi>Honeſt mans Fortune,</hi> to be undone</l>
+                  <l>Like <hi>Knight of Malta,</hi> or elſe <hi>Captaine</hi> be</l>
+                  <l>Or th' <hi>Humerous Lieutenant:</hi> goe to Sea</l>
+                  <l>(<hi>A Voyage</hi> for to ſtarve) hee's very loath,</l>
+                  <l>Till we are all at peace, to ſweare an Oath,</l>
+                  <l>That then the <hi>Loyall Subject</hi> may have leave</l>
+                  <l>To lye from <hi>Beggers Buſh,</hi> and undeceive</l>
+                  <l>The Creditor, diſcharge his debts; Why ſo,</l>
+                  <l>Since we can't pay to <hi>Fletcher</hi> what we owe.</l>
+                  <l>Oh could his <hi>Propheteſſe</hi> but tell one <hi>Chance,</hi>
+                  </l>
+                  <l>When that the <hi>Pilgrimes</hi> ſhall returne from France.</l>
+                  <l>And once more make this Kingdome, as of late,</l>
+                  <l>The <hi>Iſland Princeſſe,</hi> and we celebrate</l>
+                  <l>A <hi>Double Marriage;</hi> every one to bring</l>
+                  <l>To <hi>Fletchers</hi> memory his offering.</l>
+                  <l>That thus at laſt unſequeſters the Stage,</l>
+                  <l>Brings backe the Silver, and the Golden Age.</l>
+                  <closer>
+                     <signed>Robert Gardiner.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="15"/>
+                  <head>To the <hi>Manes</hi> of the celebrated Poets and Fellow-writers, <hi>Francis Beaumont</hi> and <hi>John Fletcher,</hi> upon the Printing of their excellent Dramatick Poems.</head>
+                  <l>_DIſdaine not Gentle Shades, the lowly praiſe</l>
+                  <l>Which here I tender your immortall Bayes.</l>
+                  <l>Call it not folly, but my zeale, that I</l>
+                  <l>Strive to eternize you that cannot dye.</l>
+                  <l>And though no Language rightly can commend</l>
+                  <l>What you have writ, ſave what your ſelves have penn'd</l>
+                  <l>Yet let me wonder at thoſe curious ſtraines</l>
+                  <l>(The rich Conceptions of your twin-like Braines)</l>
+                  <l>Which drew the Gods attention; who admir'd</l>
+                  <l>To ſee our Engliſh Stage by you inſpir'd.</l>
+                  <l>Whoſe chiming Muſes never fail'd to ſing</l>
+                  <l>A Soule-affecting Muſicke; raviſhing</l>
+                  <l>Both Eare and Intellect, while you do each</l>
+                  <l>Contend with other who ſhall higheſt reach</l>
+                  <l>In rare Invention; Conflicts that beget</l>
+                  <l>New ſtrange delight, to ſee two Fancies met,</l>
+                  <l>That could receive no foile: two wits in growth</l>
+                  <l>So juſt, as had one Soule informed both.</l>
+                  <l>Thence (Learned <hi>Fletcher</hi>) ſung the muſe alone,</l>
+                  <l>As both had done before, thy <hi>Beaumont</hi> gone.</l>
+                  <l>In whom, as thou, had he outliv'd, ſo he</l>
+                  <l>(Snatch'd firſt away) ſurvived ſtill in thee.</l>
+                  <l>What though diſtempers of the preſent Age</l>
+                  <l>Have baniſh'd your ſmooth numbers from the Stage▪</l>
+                  <l>You ſhall be gainers by't; it ſhall confer</l>
+                  <l>To th' making the vaſt world your Theater.</l>
+                  <l>The Preſſe ſhall give to ev'ry man his part,</l>
+                  <l>And we will all be Actors; learne by heart</l>
+                  <l>Thoſe Tragick Scenes and Comicke Straines you wri●,</l>
+                  <l>Vn-imitable both for Art and Wit;</l>
+                  <l>And at each <hi>Exit,</hi> as your Fancies riſe,</l>
+                  <l>Our hands ſhall clap deſerved Plaudities.</l>
+                  <closer>
+                     <signed>John Web.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="15"/>
+                  <head>To the deſert of the Author in his moſt Ingenious Pieces.</head>
+                  <l>_THou art above their Cenſure, whoſe darke Spirits</l>
+                  <l>Reſpects but ſhades of things, and ſeeming merits;</l>
+                  <l>That have no ſoule, nor reaſon to their will,</l>
+                  <l>But rime as ragged, as a Ganders Quill:</l>
+                  <l>Where Pride blowes up the Error, and transfers</l>
+                  <l>Their zeale in Tempeſts, that ſo wid'ly errs.</l>
+                  <l>Like heat and Ayre compreſt, their blind deſires</l>
+                  <l>Mixe with their ends, as raging winds with fires.</l>
+                  <l>Whoſe Ignorance and Paſsions, weare an eye</l>
+                  <l>Squint to all parts of true Humanity.</l>
+                  <l>All is <hi>Apocripha</hi> ſuits not their vaine:</l>
+                  <l>For wit, oh fye! and Learning too; prophane!</l>
+                  <l>But <hi>Fletcher</hi> hath done Miracles by wit,</l>
+                  <l>And one Line of his may convert them yet.</l>
+                  <l>Tempt them into the State of knowledge, and</l>
+                  <l>Happineſſe to read and underſtand.</l>
+                  <l>The way is ſtrow'd with <hi>Lawrell,</hi> and ev'ry Muſe</l>
+                  <l>Brings Incenſe to our <hi>Fletcher:</hi> whoſe Scenes infuſe</l>
+                  <l>Such noble kindlings from her pregnant fire,</l>
+                  <l>As charmes her Criticke Poets in deſire,</l>
+                  <l>And who doth read him, that parts leſſe indu'd,</l>
+                  <l>Then with ſome heat of wit or Gratitude.</l>
+                  <l>Some crowd to touch the Relique of his Bayes,</l>
+                  <l>Some to cry up their owne wit in his praiſe,</l>
+                  <l>And thinke they engage it by Comparatives,</l>
+                  <l>When from himſelfe, himſelfe he beſt derives.</l>
+                  <l>Let <hi>Shakeſpeare, Chapman,</hi> and applauded <hi>Ben,</hi>
+                  </l>
+                  <l>We are the Eternall merit of their Pen,</l>
+                  <l>Here I am love-ſicke: and were I to chuſe,</l>
+                  <l>A Mistris corrivall 'tis <hi>Fletcher's</hi> Muſe.</l>
+                  <closer>
+                     <signed>George Buck.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="16"/>
+                  <head>On M^r BEAVMONT. (Written thirty yeares ſince, preſently after his death.)</head>
+                  <l>
+                     <hi>_BEaumont</hi> lyes here; and where now ſhall we have</l>
+                  <l>A Muſe like his to ſigh upon his grave?</l>
+                  <l>Ah! none to weepe this with a worthy teare,</l>
+                  <l>But he that cannnot, <hi>Beaumont,</hi> that lies here.</l>
+                  <l>Who now ſhall pay thy Tombe with ſuch a Verſe</l>
+                  <l>As thou that Ladies didſt, faire <hi>Rutlands</hi> Herſe?</l>
+                  <l>A Monument that will then laſting be,</l>
+                  <l>When all her Marble is more duſt than ſhe.</l>
+                  <l>In thee all's loſt: a ſudden dearth and want</l>
+                  <l>Hath ſeiz'd on Wit, good Epitaphs are ſcant;</l>
+                  <l>We dare not write thy Elegie, whilſt each feares</l>
+                  <l>He nere ſhall match that coppy of thy teares.</l>
+                  <l>Scarce in an Age a Poet, and yet he</l>
+                  <l>Scarce lives the third part of his age to ſee,</l>
+                  <l>But quickly taken off and only known,</l>
+                  <l>Is in a minute ſhut as ſoone as ſhowne.</l>
+                  <l>Why ſhould weake Nature tire her ſelfe in vaine</l>
+                  <l>In ſuch a peice, to daſh it ſtraight againe?</l>
+                  <l>Why ſhould ſhe take ſuch worke beyond her skill,</l>
+                  <l>Which when ſhe cannot perfect, ſhe muſt kill?</l>
+                  <l>Alas, what is't to temper ſlime or mire?</l>
+                  <l>But Nature's puzled when ſhe workes in fire:</l>
+                  <l>Great Braines (like brighteſt glaſſe) crack ſtraight, while thoſe</l>
+                  <l>Of Stone or Wood hold out, and feare not blowes.</l>
+                  <l>And wee their Ancient hoary heads can ſee</l>
+                  <l>Whoſe Wit was never their mortality:</l>
+                  <l>
+                     <hi>Beaumont</hi> dies young, ſo <hi>Sidney</hi> did before,</l>
+                  <l>There was not Poetry he could live to more,</l>
+                  <l>He could not grow up higher, I ſcarce know</l>
+                  <l>If th'art it ſelfe unto that pitch could grow,</l>
+                  <l>Were't not in thee that hadſt arriv'd the hight</l>
+                  <l>Of all that wit could reach, or Nature might.</l>
+                  <l>O when I read thoſe excellent things of thine,</l>
+                  <l>Such Strength, ſuch ſweetneſſe coucht in every line,</l>
+                  <l>Such life of Fancy, ſuch high choiſe of braine,</l>
+                  <l>Nought of the Vulgar wit or borrowed ſtraine,</l>
+                  <l>Such Paſsion, ſuch expreſsions meet my eye,</l>
+                  <l>Such Wit untainted with obſcenity,</l>
+                  <l>And theſe ſo unaffectedly exprest,</l>
+                  <l>All in a language purely flowing dreſt,</l>
+                  <l>And all ſo borne within thy ſelfe, thine owne,</l>
+                  <l>So new, ſo freſh, ſo nothing trod upon.</l>
+                  <l>I grieve not now that old <hi>Menanders</hi> veine</l>
+                  <l>Is ruin'd to ſurvive in thee againe;</l>
+                  <pb facs="16"/>
+                  <l>Such in his time was he of the ſame peece,</l>
+                  <l>The ſmooth, even naturall Wit, and Love of Greece.</l>
+                  <l>Thoſe few ſententious fragments ſhew more worth,</l>
+                  <l>Then all the Poets <hi>Athens</hi> ere brought forth;</l>
+                  <l>And I am ſorry we have loſt thoſe houres</l>
+                  <l>On them, whoſe quickneſſe comes far ſhort of ours,</l>
+                  <l>And dwell not more on thee, whoſe every Page</l>
+                  <l>May be a patterne for their Scene and Stage.</l>
+                  <l>I will not yeeld thy Workes ſo meane a Prayſe;</l>
+                  <l>More pure, more chaſte, more ſainted then are Playes,</l>
+                  <l>Nor with that dull ſupineneſſe to be read,</l>
+                  <l>To paſſe a fire, or laugh an houre in bed.</l>
+                  <l>How doe the Muſes ſuffer every where,</l>
+                  <l>Taken in ſuch mouthes cenſure, in ſuch eares,</l>
+                  <l>That twixt a whiffe, a Line or two rehearſe,</l>
+                  <l>And with their Rheume together ſpaule a Verſe?</l>
+                  <l>This all a Poems leiſure after Play,</l>
+                  <l>Drinke or Tabacco, it may keep the Day.</l>
+                  <l>Whilſt even their very idleneſſe they thinke</l>
+                  <l>Is loſt in theſe, that loſe their time in drinke.</l>
+                  <l>Pity then dull we, we that better know,</l>
+                  <l>Will a more ſerious houre on thee beſtow,</l>
+                  <l>Why ſhould not <hi>Beaumont</hi> in the Morning pleaſe,</l>
+                  <l>As well as <hi>Plautus, Ariſtophanes?</hi>
+                  </l>
+                  <l>Who if my Pen may as my thoughts be free,</l>
+                  <l>Were ſcurrill Wits and Buffons both to Thee;</l>
+                  <l>Yet theſe our Learned of ſevereſt brow</l>
+                  <l>Will deigne to looke on, and to note them too,</l>
+                  <l>That will defie our owne, tis Engliſh ſtuffe,</l>
+                  <l>And th' Author is not rotten long enough.</l>
+                  <l>Alas what flegme are they, compared to thee,</l>
+                  <l>In thy <hi>Philaſter,</hi> and <hi>Maids-Tragedy?</hi>
+                  </l>
+                  <l>Where's ſuch an humour as thy <hi>Beſſus?</hi> pray</l>
+                  <l>Let them put all their <hi>Thraſoes</hi> in one Play,</l>
+                  <l>He ſhall out-bid them; their conceit was poore,</l>
+                  <l>All in a Circle of a Bawdor Whore;</l>
+                  <l>A cozning dance, take the foole away,</l>
+                  <l>And not a good jeſt extant in a Play.</l>
+                  <l>Yet theſe are Wits, becauſe they'r old, and now</l>
+                  <l>Being Greeke and Latine, they are Learning too:</l>
+                  <l>But thoſe their owne Times were content t' allow</l>
+                  <l>A thirſty fame, and thine is loweſt now.</l>
+                  <l>But thou ſhalt live, and when thy Name is growne</l>
+                  <l>Six Ages older, ſhall be better knowne,</l>
+                  <l>When th' art of <hi>Chaucers</hi> ſtanding in the Tombe,</l>
+                  <l>Thou ſhalt not ſhare, but take up all his roome.</l>
+                  <closer>
+                     <signed>Joh. Earle.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="17"/>
+                  <head>UPON M^r FLETCHERS Incomparable Playes.</head>
+                  <l>_THe Poet lives; wonder not how or why</l>
+                  <l>
+                     <hi>Fletcher</hi> revives, but that he er'e could dye:</l>
+                  <l>Safe <hi>Mirth,</hi> full <hi>Language,</hi> flow in ev'ry Page,</l>
+                  <l>At once he doth both <hi>heighten</hi> and <hi>aſwage;</hi>
+                  </l>
+                  <l>All Innocence and Wit, pleaſant and cleare,</l>
+                  <l>Nor <hi>Church</hi> nor <hi>Lawes</hi> were ever Libel'd here;</l>
+                  <l>But faire deductions drawn from his great Braine,</l>
+                  <l>Enough to conquer all that's <hi>Falſe</hi> or <hi>Vaine;</hi>
+                  </l>
+                  <l>He ſcatters Wit, and Sence ſo freely flings</l>
+                  <l>That very <hi>Citizens</hi> ſpeake handſome things,</l>
+                  <l>Teaching their <hi>Wives</hi> ſuch unaffected grace,</l>
+                  <l>Their <hi>Looks</hi> are now as handſome as their <hi>Face.</hi>
+                  </l>
+                  <l>Nor is this violent, he ſteales upon</l>
+                  <l>The yeilding Soule untill the <hi>Phrenſie's</hi> gone;</l>
+                  <l>His very <hi>Launcings</hi> do the Patient <hi>pleaſe,</hi>
+                  </l>
+                  <l>As when good <hi>Muſicke</hi> cures a <hi>Mad Diſeaſe.</hi>
+                  </l>
+                  <l>Small Poets rifle Him, yet thinke it faire,</l>
+                  <l>Becauſe they rob a man that well can ſpare;</l>
+                  <l>They feed upon him, owe him every bit,</l>
+                  <l>Th'are all but <hi>Sub-exciſemen</hi> of his Wit.</l>
+                  <closer>
+                     <signed>I. M.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="17"/>
+                  <head>On the Workes of <hi>Beaumont</hi> and <hi>Fletcher,</hi> now at length printed.</head>
+                  <l>GReat paire of Authors, whom one equall Starre</l>
+                  <l>Begot ſo like in <hi>Genius,</hi> that you are</l>
+                  <l>In Fame, as well as Writings, both ſo knit,</l>
+                  <l>That no man knowes where to divide your wit,</l>
+                  <l>Much leſſe your praiſe; you, who had equall fire,</l>
+                  <l>And did each other mutually inſpire;</l>
+                  <l>Whether one did contrive, the other write,</l>
+                  <l>Or one fram'd the plot, the other did indite;</l>
+                  <l>Whether one found the matter, th'other dreſſe,</l>
+                  <l>Or the one diſpoſed what th'other did expreſſe;</l>
+                  <l>Where e're your parts betweene your ſelves lay, we,</l>
+                  <l>In all things which you did but one thred ſee,</l>
+                  <l>So evenly drawne out, ſo gently ſpunne,</l>
+                  <l>That Art with Nature nere did ſmoother run.</l>
+                  <l>Where ſhall I fixe my praiſe then? or what part</l>
+                  <l>Of all your numerous Labours hath deſert</l>
+                  <l>More to be fam'd then other? ſhall I ſay,</l>
+                  <l>I've met a lover ſo drawne in your Play,</l>
+                  <l>So paſſionately written, ſo inflam'd,</l>
+                  <l>So jealouſly inraged, then gently tam'd,</l>
+                  <l>That I in reading have the Perſon ſeene,</l>
+                  <l>And your Pen hath part Stage and Actor been?</l>
+                  <l>Or ſhall I ſay, that I can ſcarce forbeare</l>
+                  <l>To clap, when I a Captain do meet there,</l>
+                  <l>So lively in his owne vaine humour dreſt,</l>
+                  <l>So braggingly, and like himſelf expreſt,</l>
+                  <l>That moderne Cowards, when they ſaw him plaid,</l>
+                  <l>Saw, bluſht, departed guilty, and betraid?</l>
+                  <l>You wrote all parts right; whatſoe're the Stage</l>
+                  <l>Had from you, was ſeene there as in the age,</l>
+                  <l>And had their equall life: Vices which were</l>
+                  <l>Manners abroad, did grow corrected there:</l>
+                  <l>They who poſſeſt a Box, and halfe Crowne ſpent</l>
+                  <l>To learne Obſcenenes, returned innocent,</l>
+                  <l>And thankt you for this coznage, whoſe chaſte Scene</l>
+                  <l>Taught Loves ſo noble, ſo reform'd, ſo cleane,</l>
+                  <l>That they who brought foule fires, and thither came</l>
+                  <l>To bargaine, went thence with a holy flame.</l>
+                  <l>Be't to your praiſe too, that your Stock and Veyne</l>
+                  <l>Held both to Tragick and to Comick ſtraine;</l>
+                  <l>Where e're you liſted to be high and grave,</l>
+                  <l>No Buskin ſhew'd more ſolemne, no quill gave</l>
+                  <l>Such feeling objects to draw teares from eyes,</l>
+                  <l>Spectators ſate part in your Tragedies.</l>
+                  <l>And where you liſted to be low, and free,</l>
+                  <l>Mirth turn'd the whole houſe into Comedy;</l>
+                  <l>So piercing (where you pleas'd) hitting a fault,</l>
+                  <l>That humours from your pen iſſued all ſalt.</l>
+                  <l>Nor were you thus in Works and Poems knit,</l>
+                  <l>As to be but two halfes, and make one wit;</l>
+                  <l>But as ſome things we ſee, have double cauſe,</l>
+                  <l>And yet the effect it ſelfe from both whole drawes;</l>
+                  <pb facs="18"/>
+                  <l>So though you were thus twiſted and combind</l>
+                  <l>As two bodies, to have but one faire minde</l>
+                  <l>Yet if we praiſe you rightly, we muſt ſay</l>
+                  <l>Both joyn'd, and both did wholly make the Play,</l>
+                  <l>For that you could write ſingly, we may gueſſe</l>
+                  <l>By the divided peeces which the Preſſe</l>
+                  <l>Hath ſeverally ſent forth; nor were gone ſo</l>
+                  <l>(Like ſome our Moderne Authors) made to go</l>
+                  <l>On meerely by the helpe of th'other, who</l>
+                  <l>To purchaſe ſame do come forth one of two;</l>
+                  <l>Nor wrote you ſo, that ones part was to lick</l>
+                  <l>The other into ſhape, nor did one ſtick</l>
+                  <l>The others cold inventions with ſuch wit,</l>
+                  <l>As ſerved like ſpice, to make them quick and fit;</l>
+                  <l>Nor out of mutuall want, or emptineſſe,</l>
+                  <l>Did you conſpire to go ſtill twins to th' Preſſe:</l>
+                  <l>But what thus joyned you wrote, might have come forth</l>
+                  <l>As good from each, and ſtored with the ſame worth</l>
+                  <l>That thus united them, you did joyne ſenſe,</l>
+                  <l>In you 'twas League, in others impotence;</l>
+                  <l>And the Preſſe which both thus amongſt us ſends,</l>
+                  <l>Sends us one Poet in a paire of friends.</l>
+                  <closer>
+                     <signed>Jaſper Maine.</signed>
+                  </closer>
+               </div>
+               <div type="encomia">
+                  <div type="encomium">
+                     <head>Upon the report of the printing of the Dra|maticall Poems of Maſter <hi>John Fletcher,</hi> collected before, and now ſet forth in one Volume.</head>
+                     <lg>
+                        <l>THough when all <hi>Fletcher</hi> writ, and the entire</l>
+                        <l>Man was indulged unto that ſacred fire,</l>
+                        <l>His thoughts, and his thoughts dreſſe, appeared both ſuch,</l>
+                        <l>That 'twas his happy fault to do too much;</l>
+                        <l>Who therefore wiſely did ſubmit each birth</l>
+                        <l>To knowing <hi>Beaumont</hi> e're it did come forth,</l>
+                        <l>Working againe untill he ſaid 'twas fit,</l>
+                        <l>And made him the ſobriety of his wit;</l>
+                        <l>Though thus he call'd his Judge into his fame,</l>
+                        <l>And for that aid allow'd him halfe the name,</l>
+                        <l>'Tis knowne, that ſometimes he did ſtand alone,</l>
+                        <l>That both the Spunge and Pencill were his owne;</l>
+                        <l>That himſelfe judged himſelfe, could ſingly do,</l>
+                        <l>And was at laſt <hi>Beaumont</hi> and <hi>Fletcher</hi> too;</l>
+                     </lg>
+                     <lg>
+                        <l>Elſe we had loſt his <hi>Shepherdeſſe,</hi> a piece</l>
+                        <l>Even and ſmooth, ſpun from a finer fleece,</l>
+                        <l>Where ſoftneſſe raignes, where paſſions paſſions greet,</l>
+                        <l>Gentle and high, as floods of Balſam meet.</l>
+                        <l>Where dreſs'd in white expreſſions, ſit bright Loves,</l>
+                        <l>Drawne, like their faireſt Queen, by milkie Doves;</l>
+                        <l>A piece, which <hi>Johnſon</hi> in a rapture bid</l>
+                        <l>Come up a glorifi'd Worke, and ſo it did.</l>
+                     </lg>
+                     <lg>
+                        <l>Elſe had his Muſe ſet with his friend; the Stage</l>
+                        <l>Had miſs'd thoſe Poems, which yet take the Age;</l>
+                        <l>The world had loſt thoſe rich exemplars, where</l>
+                        <l>Art, Language, Wit, ſit ruling in one Spheare,</l>
+                        <l>Where the freſh matters ſoare above old Theames,</l>
+                        <l>As Prophets Raptures do above our Dreames;</l>
+                        <l>Where in a worthy ſcorne he dares refuſe</l>
+                        <l>All other Gods, and makes the thing his Muſe;</l>
+                        <pb facs="18"/>
+                        <l>Where he calls paſſions up, and layes them ſo,</l>
+                        <l>As ſpirits, aw'd by him to come and go;</l>
+                        <l>Where the free Author did what e're he would,</l>
+                        <l>And nothing will'd, but what a Poet ſhould.</l>
+                     </lg>
+                     <lg>
+                        <l>No vaſt uncivill bulke ſwells any Scene,</l>
+                        <l>The ſtrength's ingenious, and the vigour cleane;</l>
+                        <l>None can prevent the Fancy, and ſee through</l>
+                        <l>At the firſt opening; all ſtand wondring how</l>
+                        <l>The thing will be untill it is; which thence</l>
+                        <l>With freſh delight ſtill cheats, ſtill takes the ſence;</l>
+                        <l>The whole deſigne, the ſhadowes, the lights ſuch</l>
+                        <l>That none can ſay he ſhewes or hides too much:</l>
+                        <l>Buſineſſe growes up, ripened by juſt encreaſe,</l>
+                        <l>And by as juſt degrees againe doth ceaſe,</l>
+                        <l>The heats and minutes of affaires are watcht,</l>
+                        <l>And the nice points of time are met, and ſnatcht:</l>
+                        <l>Nought later then it ſhould, nought comes before,</l>
+                        <l>Chymiſts, and Calculators doe erre more:</l>
+                        <l>Sex, age, degree, affections, country, place,</l>
+                        <l>The inward ſubſtance, and the outward face;</l>
+                        <l>All kept preciſely, all exactly fit,</l>
+                        <l>What he would write, he was before he writ.</l>
+                        <l>'Twixt <hi>Johnſons</hi> grave, and <hi>Shakeſpeares</hi> lighter ſound</l>
+                        <l>His muſe ſo ſteer'd that ſomething ſtill was found,</l>
+                        <l>Nor this, nor that, nor both, but ſo his owne,</l>
+                        <l>That 'twas his marke, and he was by it knowne.</l>
+                        <l>Hence did he take true judgements, hence did ſtrike</l>
+                        <l>All pallates ſome way, though not all alike:</l>
+                        <l>The god of numbers might his numbers crowne,</l>
+                        <l>And liſtning to them wiſh they were his owne.</l>
+                        <l>Thus welcome forth, what eaſe, or wine, or wit</l>
+                        <l>Durſt yet produce, that is, what <hi>Fletcher</hi> writ.</l>
+                     </lg>
+                  </div>
+                  <div type="encomium">
+                     <head>Another.</head>
+                     <l>
+                        <hi>FLetcher,</hi> though ſome call it thy fault, that wit</l>
+                     <l>So overflow'd thy ſcenes, that ere 'twas fit</l>
+                     <l>To come upon the Stage, <hi>Beaumont</hi> was faine</l>
+                     <l>To bid thee be more dull, that's write againe,</l>
+                     <l>And bate ſome of thy fire, which from thee came</l>
+                     <l>In a cleare, bright, full, but too large a flame;</l>
+                     <l>And after all (finding thy Genius ſuch)</l>
+                     <l>That blunted, and allayed, 'twas yet too much;</l>
+                     <l>Added his ſober ſpunge, and did contract</l>
+                     <l>Thy plenty to leſſe wit to make't exact:</l>
+                     <l>Yet we through his corrections could ſee</l>
+                     <l>Much treaſure in thy ſuperfluity,</l>
+                     <l>Which was ſo fil'd away, as when we doe</l>
+                     <l>Cut Jewels, that that's loſt is jewell too:</l>
+                     <l>Or as men uſe to waſh Gold, which we know</l>
+                     <l>By loſing makes the ſtreame thence wealthy grow:</l>
+                     <l>They who doe on thy workes ſeverely ſit,</l>
+                     <l>And call thy ſtore the over-births of wit,</l>
+                     <l>Say thy miſcarriages were rare, and when</l>
+                     <l>Thou wert ſuperfluous, that thy fruitfull Pen</l>
+                     <l>Had no fault but abundance, which did lay</l>
+                     <l>Out in one Scene what might well ſerve a Play;</l>
+                     <l>And hence doe grant, that what they call exceſſe</l>
+                     <l>Was to be reckon'd at thy happineſſe,</l>
+                     <l>From whom wit iſſued in a full ſpring-tide;</l>
+                     <l>Much did inrich the Stage, much flow'd beſide.</l>
+                     <l>For that thou couldſt thine owne free fancy binde</l>
+                     <l>In ſtricter numbers, and run ſo confin'd</l>
+                     <pb facs="19"/>
+                     <l>As to obſerve the rules of Art, which ſway</l>
+                     <l>In the contrivance of a true borne Play:</l>
+                     <l>Theſe workes proclaime which thou didſt write retired</l>
+                     <l>From <hi>Beaumont,</hi> by none but thy ſelfe inſpired;</l>
+                     <l>Where we ſee 'twas not chance that made them hit,</l>
+                     <l>Nor were thy Playes the Lotteries of wit,</l>
+                     <l>But like to <hi>Durers</hi> Pencill, which firſt knew</l>
+                     <l>The lawes of faces, and then faces drew:</l>
+                     <l>Thou knowſt the aire, the colour, and the place,</l>
+                     <l>The ſimetry, which gives a Poem grace:</l>
+                     <l>Parts are ſo fitted unto parts, as doe</l>
+                     <l>Shew thou hadſt wit, and Mathematicks too:</l>
+                     <l>Knewſt where by line to ſpare, where to diſpence,</l>
+                     <l>And didſt beget juſt Comedies from thence:</l>
+                     <l>Things unto which thou didſt ſuch life bequeath,</l>
+                     <l>That they (their owne Black-Friers) unacted breath.</l>
+                     <l>
+                        <hi>Johnſon</hi> hath writ things laſting, and divine,</l>
+                     <l>Yet his Love-Scenes, <hi>Fletcher,</hi> compar'd to thine,</l>
+                     <l>Are cold and froſty, and expreſt love ſo,</l>
+                     <l>As heat with Ice, or warme fires mixt with Snow;</l>
+                     <l>Thou, as if ſtruck with the ſame generous darts,</l>
+                     <l>Which burne, and raigne in noble Lovers hearts,</l>
+                     <l>Haſt cloath'd affections in ſuch native tires,</l>
+                     <l>And ſo deſcrib'd them in their owne true fires;</l>
+                     <l>Such moving ſighes, ſuch undiſſembled teares,</l>
+                     <l>Such charmes of language, ſuch hopes mixt with feares,</l>
+                     <l>Such grants after denialls, ſuch purſuits</l>
+                     <l>After deſpaire, ſuch amorous recruits.</l>
+                     <l>That ſome who ſate ſpectators have confeſt</l>
+                     <l>Themſelves transform'd to what they ſaw expreſt,</l>
+                     <l>And felt ſuch ſhafts ſteak through their captiv'd ſence,</l>
+                     <l>As made them riſe Parts, and goe Lovers thence.</l>
+                     <l>Nor was thy ſtile wholly compos'd of Groves,</l>
+                     <l>Or the ſoft ſtraines of Shepheards and their Loves;</l>
+                     <l>When thou wouldſt Comick be, each ſmiling birth</l>
+                     <l>In that kinde, came into the world all mirth,</l>
+                     <l>All point, all edge, all ſharpneſſe; we did ſit</l>
+                     <l>Sometimes five Acts out in pure ſprightfull wit,</l>
+                     <l>Which flowed in ſuch true ſalt, that we did doubt</l>
+                     <l>In which Scene we laught moſt two ſhillings out.</l>
+                     <l>
+                        <hi>Shakeſpeare</hi> to thee was dull, whoſe beſt jeſt lyes</l>
+                     <l>I'th Ladies queſtions, and the Fooles replyes;</l>
+                     <l>Old faſhion'd wit, which walkt from town to town</l>
+                     <l>In turn'd Hoſe, which our fathers call'd the Clown;</l>
+                     <l>Whoſe wit our nice times would obſ●eanneſſe call,</l>
+                     <l>And which made Bawdry paſſe for Comicall:</l>
+                     <l>Nature was all his Art, thy veine was free</l>
+                     <l>As his, but without his ſcurility;</l>
+                     <l>From whom mirth came unforc'd, no jeſt perplext,</l>
+                     <l>But without labour cleane, chaſt, and unvext.</l>
+                     <l>Thou wert not like ſome, our ſmall Poets who</l>
+                     <l>Could not be Poets, were not we Poets too;</l>
+                     <l>Whoſe wit is pilfring, and whoſe veine and wealth</l>
+                     <l>In Poetry lyes meerely in their ſtealth;</l>
+                     <l>Nor didſt thou feele their drought, their pangs, their qualmes,</l>
+                     <l>Their rack in writing, who doe write for almes,</l>
+                     <l>Whoſe wretched Genius, and dependent fires,</l>
+                     <l>But to their Benefactors dole aſpires.</l>
+                     <l>Nor hadſt thou the ſly trick, thy ſelfe to praiſe</l>
+                     <l>Ʋnder thy friends names, or to purchaſe Bayes</l>
+                     <l>Didſt write ſtale commendation to thy Booke,</l>
+                     <l>Which we for <hi>Beaumonts</hi> or <hi>Ben. Johnſons</hi> tooke:</l>
+                     <l>That debt thou left'ſt to us, which none but he</l>
+                     <l>Can truly pay, <hi>Fletcher,</hi> who writes like thee.</l>
+                  </div>
+                  <closer>
+                     <signed>William Cartwright.</signed>
+                  </closer>
+               </div>
+               <div type="epigram">
+                  <pb facs="19"/>
+                  <head>On M^r FRANCIS BEAUMONT (then newly dead.)</head>
+                  <l>HE that hath ſuch acuteneſſe, and ſuch witt,</l>
+                  <l>As would aske ten good heads to husband it;</l>
+                  <l>He that can write ſo well that no man dare</l>
+                  <l>Refuſe it for the beſt, let him beware:</l>
+                  <l>
+                     <hi>BEAVMONT</hi> is dead, by whoſe ſole death appeares,</l>
+                  <l>Witt's a Diſeaſe conſumes men in few yeares.</l>
+                  <closer>
+                     <signed>RICH. CORBET. D. D.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <head>To M^r FRANCIS BEAUMONT (then living.)</head>
+                  <l>HOw I doe love thee <hi>BEAUMONT,</hi> and thy <hi>Muſe,</hi>
+                  </l>
+                  <l>That unto me do'ſt ſuch religion uſe!</l>
+                  <l>How I doe feare my ſelfe, that am not worth</l>
+                  <l>The leaſt indulgent thought thy pen drops forth!</l>
+                  <l>At once thou mak'ſt me happie, and unmak'ſt;</l>
+                  <l>And giving largely to me, more thou tak'ſt.</l>
+                  <l>What fate is mine, that ſo it ſelfe bereaves?</l>
+                  <l>What art is thine, that ſo thy friend deceives?</l>
+                  <l>When even there where moſt thou praiſeſt me,</l>
+                  <l>For writing better, I muſt envy thee.</l>
+                  <closer>
+                     <signed>BEN: JOHNSON.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <head>Upon Maſter FLETCHERS Incomparable Playes.</head>
+                  <l>APollo ſings, his harpe reſounds; give roome,</l>
+                  <l>For now behold the golden Pompe is come,</l>
+                  <l>Thy Pompe of Playes which thouſands come to ſee,</l>
+                  <l>With admiration both of them and thee,</l>
+                  <l>O Volume worthy leafe, by leafe and cover</l>
+                  <l>To be with juice of Cedar waſht all over;</l>
+                  <l>Here's words with lines, and lines with Scenes conſent,</l>
+                  <l>To raiſe an Act to full aſtoniſhment;</l>
+                  <l>Here melting numbers, words of power to move</l>
+                  <l>Young men to ſwoone, and Maides to dye for love.</l>
+                  <l>Love lyes a bleeding here, <hi>Evadne</hi> there</l>
+                  <l>Swells with brave rage, yet comely every where,</l>
+                  <l>Here's a <hi>mad lover,</hi> there that high deſigne</l>
+                  <l>Of <hi>King and no King</hi> (and the rare Plott thine)</l>
+                  <l>So that when 'ere wee circumvolve our Eyes,</l>
+                  <l>Such rich, ſuch freſh, ſuch ſweet varietyes,</l>
+                  <l>Raviſh our ſpirits, that entranc't wee ſee</l>
+                  <l>None writes lov's paſſion in the world, like Thee.</l>
+                  <closer>
+                     <signed>ROB. HERRICK.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="20"/>
+                  <head>On the happy Collection of Maſter <hi>FLETCHER'S</hi> Works, never before PRINTED.</head>
+                  <lg>
+                     <l>
+                        <hi>FLETCHER</hi> ariſe, Uſurpers ſhare thy Bayes,</l>
+                     <l>They <hi>Canton</hi> thy vaſt Wit to build ſmall <hi>Playes:</hi>
+                     </l>
+                     <l>He comes! his <hi>Volume</hi> breaks through clowds and duſt,</l>
+                     <l>Downe, little Witts, Ye muſt refund, Ye muſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor comes he private, here's great <hi>BEAUMONT</hi> too,</l>
+                     <l>How could one ſingle World encompaſſe Two?</l>
+                     <l>For theſe Co●heirs had equall power to teach</l>
+                     <l>All that all Witts both can and cannot reach.</l>
+                     <l>
+                        <hi>Shakeſpear</hi> was early up, and went ſo dreſt</l>
+                     <l>As for thoſe <hi>dawning</hi> houres he knew was beſt;</l>
+                     <l>But when the Sun ſhone forth, <hi>You Two</hi> thought fit</l>
+                     <l>To weare juſt Robes, and leave off Trunk-hoſe-Wit.</l>
+                     <l>Now, now 'twas Perfect; None muſt looke for New,</l>
+                     <l>Manners and Scenes may alter, but not <hi>You;</hi>
+                     </l>
+                     <l>For Yours are not meere <hi>Humours,</hi> gilded ſtraines;</l>
+                     <l>The Faſhion loſt, Your maſſy <hi>Senſe</hi> remaines</l>
+                  </lg>
+                  <lg>
+                     <l>Some thinke Your VVitts of two Complexions fram'd,</l>
+                     <l>That One the <hi>Sock,</hi> th'Other the <hi>Buskin</hi> claim'd;</l>
+                     <l>That ſhould the Stage <hi>embattaile</hi> all it's Force,</l>
+                     <l>
+                        <hi>FLETCHER</hi> would lead the Foot, <hi>BEAUMONT</hi> the Horſe.</l>
+                     <l>But, you were Both for Both; not Semi-witts,</l>
+                     <l>Each Piece is wholly Two, yet never ſplits:</l>
+                     <l>Y'are not Two <hi>Faculties</hi> (and one <hi>Soule</hi> ſtill)</l>
+                     <l>He th'<hi>Underſtanding,</hi> Thou the quick free <hi>Will;</hi>
+                     </l>
+                     <l>But, as two <hi>Voyces</hi> in one Song embrace,</l>
+                     <l>(<hi>FLETCHER'S</hi> keen <hi>Trebble,</hi> and deep <hi>BEAUMONTS Baſe</hi>)</l>
+                     <l>Two, full, Congeniall Soules; ſtill Both prevail'd;</l>
+                     <l>His Muſe and Thine were <hi>Quarter'd,</hi> not <hi>Impal'd:</hi>
+                     </l>
+                     <l>Both brought Your Ingots, Both toil'd at the Mint,</l>
+                     <l>Beat, melted, ſifted, till no droſſe ſtuck in't,</l>
+                     <l>Then in each Others ſcales weigh'd every graine,</l>
+                     <l>Then ſmooth'd and burniſh'd, then weigh'd all againe,</l>
+                     <l>Stampt Both your Names upon't at one bold Hit,</l>
+                     <l>Then, then 'twas Coyne, as well as Bullion-Wit.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus Twinns: But as when Fate one Eye deprives,</l>
+                     <l>That other ſtrives to double which ſurvives:</l>
+                     <l>So <hi>BEAVMONT</hi> dy'd: yet left in Legacy</l>
+                     <l>His Rules and Standard-wit <hi>(FLETCHER)</hi> to Thee.</l>
+                     <l>Still the ſame Planet, though not fill'd ſo ſoon,</l>
+                     <l>A Two-horn'd <hi>Creſcent</hi> then now one <hi>Full-moon.</hi>
+                     </l>
+                     <pb facs="20"/>
+                     <l>Joynt <hi>Love</hi> before, now <hi>Honour</hi> doth provoke;</l>
+                     <l>So th' old Twin-<hi>Giants</hi> forcing a huge Oake</l>
+                     <l>One ſlipp'd his footing, th' Other ſees him fall,</l>
+                     <l>Graſp'd the whole Tree and ſingle held up all.</l>
+                     <l>Imperiall <hi>FLETCHER!</hi> here begins thy Raigne,</l>
+                     <l>Scenes flow like Sun-beams from thy glorious Brain;</l>
+                     <l>Thy ſwift diſpatching Soule no more doth ſtay</l>
+                     <l>Then He that built two Citties in one day;</l>
+                     <l>Ever brim full, and ſometimes running o're</l>
+                     <l>To feede poore languid VVitts that waite at doore,</l>
+                     <l>VVho creep and creep, yet ne're above-ground ſtood,</l>
+                     <l>(For Creatures have moſt Feet which have leaſt Blood)</l>
+                     <l>But thou art ſtill that <hi>Bird of Paradiſe</hi>
+                     </l>
+                     <l>VVhich hath <hi>no feet</hi> and ever nobly <hi>flies:</hi>
+                     </l>
+                     <l>Rich, luſty Sence, ſuch as the <hi>Poet</hi> ought,</l>
+                     <l>For <hi>Poems</hi> if not Excellent, are Naught;</l>
+                     <l>Low wit in Scenes? in ſtate a Peaſant goes;</l>
+                     <l>If meane and flat, let it foot Yeoman Proſe,</l>
+                     <l>That ſuch may ſpell as are not Readers grown,</l>
+                     <l>To whom He that writes VVit, ſhews he hath none.</l>
+                  </lg>
+                  <lg>
+                     <l>Brave <hi>Shakeſpeare</hi> flow'd, yet had his Ebbings too,</l>
+                     <l>Often above Himſelfe, ſometimes below;</l>
+                     <l>Thou Alwayes Beſt; if ought ſeem'd to decline,</l>
+                     <l>'Twas the unjudging Rout's miſtake, not Thine:</l>
+                     <l>Thus thy faire <hi>SHEPHEARDESSE,</hi> which the bold Heape</l>
+                     <l>(Falſe to Themſelves and Thee) did prize ſo cheap,</l>
+                     <l>VVas found (when underſtood) fit to be Crown'd,</l>
+                     <l>At worſt 'twas worth <hi>two hundred thouſand pound.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Some blaſt thy <hi>Works</hi> test we ſhould track their VValke</l>
+                     <l>Where they ſteale all thoſe few good things they talke;</l>
+                     <l>Wit-Burglary muſt chide thoſe it feeds on,</l>
+                     <l>For Plunder'd folkes ought to be rail'd upon;</l>
+                     <l>But (as ſtoln goods goe off at halfe their worth)</l>
+                     <l>Thy ſtrong Sence <hi>pall's</hi> when they purloine it forth.</l>
+                     <l>When did'ſt <hi>Thou</hi> borrow? where's the man e're read</l>
+                     <l>Ought begg'd by <hi>Thee</hi> from thoſe Alive or Dead?</l>
+                     <l>Or from dry <hi>Goddeſſes,</hi> as ſome who when</l>
+                     <l>They ſtuffe their page with Godds, write worſe then Men.</l>
+                     <l>Thou was't thine <hi>owne</hi> Muſe, and hadst ſuch vaſt odds</l>
+                     <l>Thou out-writ'st him whoſe verſe <hi>made</hi> all thoſe <hi>Godds:</hi>
+                     </l>
+                     <l>Surpaſſing thoſe our Dwarfiſh Age up reares,</l>
+                     <l>As much as <hi>Greeks</hi> or <hi>Latines</hi> thee in yeares:</l>
+                     <l>Thy Ocean Fancy knew nor Bankes nor Damms,</l>
+                     <l>VVe ebbe downe dry to pebble-<hi>Anagrams;</hi>
+                     </l>
+                     <l>Dead and inſipid, all deſpairing fit</l>
+                     <l>Loſt to behold this great <hi>Relapſe</hi> of VVit:</l>
+                     <l>What ſtrength remaines, is like that (wilde and fierce)</l>
+                     <l>Till <hi>Iohnſon</hi> made good Poets and right Verſe.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="21"/>
+                     <l>Such boyſt'rous Trifles Thy Muſe would not brooke,</l>
+                     <l>Save when ſhe'd ſhow how ſcurvily they looke;</l>
+                     <l>No ſavage Metaphors (things rudely Great)</l>
+                     <l>Thou doſt <hi>diſplay,</hi> not <hi>butcher</hi> a Conceit;</l>
+                     <l>Thy Nerves have <hi>Beauty,</hi> which Invades and Charms;</l>
+                     <l>Lookes like a Princeſſe harneſs'd in bright Armes.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor art Thou Loud and Cloudy; thoſe that do</l>
+                     <l>Thunder ſo much, do't without Lightning too;</l>
+                     <l>Tearing themſelves, and almoſt ſplit their braine</l>
+                     <l>To render harſh what thou ſpeak'ſt free and cleane;</l>
+                     <l>Such gloomy Senſe may paſſe for <hi>High</hi> and <hi>Proud,</hi>
+                     </l>
+                     <l>But true-born VVit ſtill flies <hi>above</hi> the <hi>Cloud;</hi>
+                     </l>
+                     <l>Thou knewſt 'twas <hi>Impotence</hi> what they call <hi>Height;</hi>
+                     </l>
+                     <l>Who bluſters ſtrong i'th Darke, but <hi>creeps</hi> it'h Light.</l>
+                  </lg>
+                  <lg>
+                     <l>And as thy thoughts were <hi>cleare,</hi> ſo, <hi>Innocent;</hi>
+                     </l>
+                     <l>Thy Phancy gave no unſwept Language vent;</l>
+                     <l>Slaunderſt not <hi>Lawes,</hi> prophan'ſt no <hi>holy Page,</hi>
+                     </l>
+                     <l>(As if thy Fathers <hi>Croſier</hi> aw'd the Stage;)</l>
+                     <l>High Crimes were ſtill arraign'd, though they made ſhift</l>
+                     <l>To proſper out <hi>foure Acts,</hi> were plagu'd i'th <hi>Fift:</hi>
+                     </l>
+                     <l>All's ſafe, and wiſe; no stiffe-affected Scene,</l>
+                     <l>Nor <hi>ſwoln,</hi> nor <hi>flat,</hi> a True Full Naturall veyne;</l>
+                     <l>Thy Sence (like well-drest Ladies) cloath'd as skinn'd,</l>
+                     <l>Not all unlac'd, nor City-ſtartcht and pinn'd</l>
+                     <l>Thou hadſt no Sloath, no Rage, no ſullen Fit,</l>
+                     <l>But <hi>Strengh</hi> and <hi>Mirth, FLETCHER'S</hi> a <hi>Sanguin</hi> VVit.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus, two great <hi>Conſul</hi>-Poets all things ſwayd,</l>
+                     <l>Till all was <hi>Engliſh</hi> Borne or <hi>Engliſh</hi> Made:</l>
+                     <l>
+                        <hi>Miter</hi> and <hi>Coyfe</hi> here into One Piece ſpun,</l>
+                     <l>
+                        <hi>BEAVMONT</hi> a <hi>Judge's,</hi> This a <hi>Prelat's</hi> ſonne.</l>
+                     <l>What ſtrange Production is at laſt diſplaid,</l>
+                     <l>(Got by Two Fathers, without Female aide)</l>
+                     <l>Behold, two <hi>Maſculines</hi> eſpous'd each other,</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Wit</hi> and the World were born without a <hi>Mother.</hi>
+                     </l>
+                  </lg>
+                  <closer>
+                     <signed>I. BERKENHEAD.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="21"/>
+                  <head>To the memorie of Maſter <hi>FLETCHER.</hi>
+                  </head>
+                  <lg>
+                     <l>THere's nothing gain'd by being witty: Fame</l>
+                     <l>Gathers but winde to blather up a name.</l>
+                     <l>
+                        <hi>Orpheus</hi> muſt leave his lyre, or if it be</l>
+                     <l>In heav'n, 'tis there a ſigne, no harmony;</l>
+                     <l>And ſtones, that follow'd him, may now become</l>
+                     <l>Now ſtones againe, and ſerve him for his Tomb.</l>
+                     <l>The Theban <hi>Linus,</hi> that was ably skil'd</l>
+                     <l>In Muſe and Muſicke, was by <hi>Phoebus</hi> kill'd,</l>
+                     <l>Though <hi>Phoebus</hi> did beget him: ſure his Art</l>
+                     <l>Had merited his balſame, not his dart.</l>
+                  </lg>
+                  <lg>
+                     <l>But here <hi>Apollo's</hi> jealouſie is ſeene,</l>
+                     <l>The god of Phyſicks troubled with the ſpleene;</l>
+                     <l>Like timerous Kings he puts a period</l>
+                     <l>To high grown parts leſt he ſhould be no God.</l>
+                     <l>Hence thoſe great Maſter-wits of Greece that gave</l>
+                     <l>Life to the world, could not avoid a grave.</l>
+                  </lg>
+                  <lg>
+                     <l>Hence the inſpired Prophets of old <hi>Rome</hi>
+                     </l>
+                     <l>Too great for earth fled to <hi>Elizium.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>But the ſame Oſtraciſme benighted one,</l>
+                     <l>To whom all theſe were but illuſion;</l>
+                     <l>It tooke our <hi>FLETCHER</hi> hence, <hi>Fletcher,</hi> whoſe wit</l>
+                     <l>Was not an accident to th'ſoule, but It;</l>
+                     <l>Onely diffus'd. (Thus wee the ſame Sun call,</l>
+                     <l>Moving it'h Sphaere, and ſhining on a wall.)</l>
+                     <l>Wit, ſo high plac'd at firſt, it could not climbe,</l>
+                     <l>Wit, that ne're grew, but only ſhow'd by time.</l>
+                     <l>No fier-worke of ſacke, no ſeldome ſhow'n</l>
+                     <l>Poeticke rage, but ſtill in motion:</l>
+                     <l>And with far more then Sphaericke excellence</l>
+                     <l>It mov'd, for 'twas its owne Intelligence.</l>
+                     <l>And yet ſo obvious to ſenſe, ſo plaine,</l>
+                     <l>You'd ſcarcely thinke't ally'd unto the braine:</l>
+                     <l>So ſweete, it gain'd more ground upon the Stage</l>
+                     <l>Then <hi>Johnſon</hi> with his ſelfe-admiring rage</l>
+                     <l>Ere loſt: and then ſo naturally it fell,</l>
+                     <l>That fooles would think, that they could doe as well.</l>
+                  </lg>
+                  <lg>
+                     <l>This is our loſſe: yet ſpight of <hi>Phoebus,</hi> we</l>
+                     <l>Will keepe our <hi>FLETCHER,</hi> for his wit is He.</l>
+                  </lg>
+                  <closer>
+                     <signed>EDW. POWELL.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="22"/>
+                  <head>Vpon the ever to be admi|red M^r^. JOHN FLETCHER and His PLAYES.</head>
+                  <lg>
+                     <l>WHat's all this preparation for? or why</l>
+                     <l>Such ſuddain Triumphs? <hi>FLETCHER</hi> the people cry!</l>
+                     <l>Juſt ſo, when Kings approach, our Conduits run</l>
+                     <l>Claret, as here the ſpouts flow <hi>Helicon;</hi>
+                     </l>
+                     <l>See, every ſprightfull <hi>Muſe</hi> dreſs'd trim and gay</l>
+                     <l>Strews bearbs and ſcatters roſes in his way.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus th'outward yard ſet round with <hi>bayes</hi> w'have ſeene,</l>
+                     <l>Which from the garden hath tranſplanted been:</l>
+                     <l>Thus, at the Praetor's feaſt, with needleſſe coſts</l>
+                     <l>Some muſt b'employd in painting of the poſts:</l>
+                     <l>And ſome as diſhes made for ſight, not taſte,</l>
+                     <l>Stand here as things for ſhew to <hi>FLETCHERS</hi> feaſt.</l>
+                     <l>Oh what an honour! what a Grace 'thad beene</l>
+                     <l>T'have had his Cooke in <hi>Rollo</hi> ſerv'd them in!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>FLETCHER</hi> the King of Poets! ſuch was he,</l>
+                     <l>That earn'd all tribute, claim'd all ſoveraignty;</l>
+                     <l>And may he that denye's it, learn to bluſh</l>
+                     <l>At's <hi>loyall Subject,</hi> ſtarve at's <hi>Beggars buſh:</hi>
+                     </l>
+                     <l>And if not drawn by example, ſhame, nor Grace,</l>
+                     <l>Turne o're to's <hi>Coxcomb,</hi> and the Wild-gooſe Chaſe</l>
+                  </lg>
+                  <lg>
+                     <l>Monarch of Wit! great Magazine of wealth!</l>
+                     <l>From whoſe rich <hi>Banke,</hi> by a Promethean-ſtealth,</l>
+                     <l>Our leſſer flames doe blaze! His the true fire,</l>
+                     <l>When they like Glo-worms, being touch'd, expire.</l>
+                     <l>'Twas firſt beleev'd, becauſe he alwayes was,</l>
+                     <l>The <hi>Ipſe dixit,</hi> and <hi>Pythagoras</hi>
+                     </l>
+                     <l>To our Diſciple-wits; His ſoule might run</l>
+                     <l>(By the ſame-dream't-of Tranſmigration)</l>
+                     <l>Into their rude and indigeſted braine,</l>
+                     <l>And ſo informe their Chaos-lump againe;</l>
+                     <l>For many ſpecious brats of this laſt age</l>
+                     <l>Spoke <hi>FLETCHER</hi> perfectly in every Page.</l>
+                     <l>This rowz'd his Rage to be abuſed thus:</l>
+                     <l>Made's <hi>Lover mad, Lieutenant humerous.</hi>
+                     </l>
+                     <l>Thus <hi>Ends of Gold and Silver-men</hi> are made</l>
+                     <l>(As th'uſe to ſay) Goldſmiths of his owne trade;</l>
+                     <l>Thus <hi>Rag-men</hi> from the dung-hill often hop,</l>
+                     <l>And publiſh forth by chance a Brokers ſhop:</l>
+                     <l>But by his owne light, now, we have deſcri'd</l>
+                     <l>The droſſe, from that hath beene ſo purely tri'd.</l>
+                     <l>
+                        <hi>Proteus</hi> of witt! who reads him doth not ſee</l>
+                     <l>The manners of each ſex of each degree!</l>
+                     <l>His full ſtor'd fancy doth all humours fill</l>
+                     <l>From th'<hi>Queen</hi> of <hi>Corinth</hi> to <hi>the maid o'th mill;</hi>
+                     </l>
+                     <l>His <hi>Curate, Lawyer, Captain, Propheteſſe</hi>
+                     </l>
+                     <l>Shew he was all and every one of theſe;</l>
+                     <l>Hee taught (ſo ſubtly were their fancies ſeiz'd)</l>
+                     <l>
+                        <hi>To Rule a Wife, and yet the Women pleas'd.</hi>
+                     </l>
+                     <l>
+                        <hi>Parnaſſus</hi> is thine owne, Claime't as merit,</l>
+                     <l>Law makes the Elder Brother to inherit.</l>
+                  </lg>
+                  <closer>
+                     <signed>G. Hills.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="22"/>
+                  <head>IN HONOUR OF M^r <hi>John Fletcher.</hi>
+                  </head>
+                  <lg>
+                     <l>SO <hi>FLETCHER</hi> now preſents to fame</l>
+                     <l>His alone ſelfe and unpropt name,</l>
+                     <l>As Rivers Rivers entertaine,</l>
+                     <l>But ſtill fall ſingle into th'maine,</l>
+                     <l>So doth the Moone in Conſort ſhine</l>
+                     <l>Yet flowes alone into its mine,</l>
+                     <l>And though her light be joyntly throwne,</l>
+                     <l>When ſhe makes ſilver tis her owne:</l>
+                     <l>Perhaps his quill flew ſtronger, when</l>
+                     <l>Twas weaved with his <hi>Beaumont's</hi> pen;</l>
+                     <l>And might with deeper wonder hit,</l>
+                     <l>It could not ſhew more his, more wit;</l>
+                     <l>So Hercules came by ſexe and Love,</l>
+                     <l>When Pallas ſprang from ſingle Jove;</l>
+                     <l>He tooke his <hi>BEAUMONT</hi> for Embrace,</l>
+                     <l>Not to grow by him, and increaſe,</l>
+                     <l>Nor for ſupport did with him twine,</l>
+                     <l>He was his friends friend, not his vine.</l>
+                     <l>His witt with witt he did not twiſt</l>
+                     <l>To be Aſſiſted, but t' Aſſiſt.</l>
+                     <l>And who could ſuccour him, whoſe quill</l>
+                     <l>Did both Run ſenſe and ſenſe Diſtill?</l>
+                     <l>Had Time and Art in't, and the while</l>
+                     <l>Slid even as theirs wh'are only ſtyle,</l>
+                     <l>Whether his chance did caſt it ſo</l>
+                     <l>Or that it did like Rivers flow</l>
+                     <l>Becauſe it muſt, or whether twere</l>
+                     <l>A ſmoothneſſe from his file and eare,</l>
+                     <l>Not the moſt ſtrict enquiring nayle</l>
+                     <l>Cou'd e're finde where his piece did faile</l>
+                     <l>Of entyre oneneſſe; ſo the frame,</l>
+                     <l>Was Compoſition, yet the ſame.</l>
+                  </lg>
+                  <lg>
+                     <l>How does he breede his Brother? and</l>
+                     <l>Make wealth and eſtate underſtand?</l>
+                     <l>Sutes Land to wit, makes Lucke match merit,</l>
+                     <l>And makes an Eldeſt fitly inherit:</l>
+                     <l>How was he <hi>Ben,</hi> when <hi>Ben</hi> did write</l>
+                     <l>Toth ſtage, not to his judge endite?</l>
+                     <l>How did he doe what <hi>Johnſon</hi> did,</l>
+                     <l>And Earne what <hi>Johnſon</hi> wou'd have s'ed?</l>
+                  </lg>
+                  <closer>
+                     <signed>Joſ. Howe of Trin. Coll. Oxon.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="23"/>
+                  <head>Maſter <hi>John Fletcher</hi> his dramaticall Workes now at laſt printed.</head>
+                  <lg>
+                     <l>
+                        <hi>I</hi> Could prayſe <hi>Heywood</hi> now: or tell how long,</l>
+                     <l>
+                        <hi>Falſtaffe</hi> from cracking Nuts hath kept the throng:</l>
+                     <l>But for a <hi>Fletcher,</hi> I muſt take an Age,</l>
+                     <l>And ſcarce invent the Title for one Page.</l>
+                     <l>Gods muſt create new Sphaeres, that ſhould expreſſe</l>
+                     <l>The ſev'rall Accents, <hi>Fletcher,</hi> of thy Dreſſe:</l>
+                     <l>The Penne of Fates ſhould only write thy Praiſe:</l>
+                     <l>And all <hi>Elizium</hi> for thee turne to Bayes.</l>
+                     <l>Thou feltſt no pangs of Poetry, ſuch as they,</l>
+                     <l>Who the Heav'ns quarter ſtill before a Play,</l>
+                     <l>And ſearch the <hi>Ephemerides</hi> to finde,</l>
+                     <l>When the Aſpect for Poets will be kinde.</l>
+                     <l>Thy Poems (ſacred Spring) did from thee flow,</l>
+                     <l>With as much pleaſure, as we reade them now.</l>
+                     <l>Nor neede we only take them up by fits,</l>
+                     <l>When love or Phyſicke hath diſeas'd our Wits;</l>
+                     <l>Or conſtr'e Engliſh to untye a knot,</l>
+                     <l>Hid in a line, farre ſubtler then the Plot.</l>
+                     <l>With Thee the Page may cloſe his Ladies eyes,</l>
+                     <l>And yet with thee the ſerious Student Riſe:</l>
+                     <l>The Eye at ſev'rall angles darting rayes,</l>
+                     <l>Makes, and then ſees, new Colours; ſo thy Playes</l>
+                     <l>To ev'ry vnderſtanding ſtill appeare,</l>
+                     <l>As if thou only meant'ſt to take that Eare;</l>
+                     <l>The Phraſe ſo terſe and free of a juſt Poiſe,</l>
+                     <l>Where ev'ry word ha's weight and yet no Noiſe,</l>
+                     <l>The matter too ſo nobly fit, no leſſe</l>
+                     <l>Then ſuch as onely could deſerve thy Dreſſe:</l>
+                     <l>Witneſſe thy Comedies, Pieces of ſuch worth,</l>
+                     <l>All Ages ſhall ſtill like, but ne're bring forth.</l>
+                     <l>Other in ſeaſon laſt ſcarce ſo long time,</l>
+                     <l>As coſt the Poet but to make the Rime:</l>
+                     <l>Where, if a Lord a new way do's but ſpit,</l>
+                     <l>Or change his ſhrugge this antiquates the Wit.</l>
+                     <l>That thou didſt live before, nothing would tell</l>
+                     <l>Poſterity, could they but write ſo well.</l>
+                     <l>Thy Cath'lick Fancy will acceptance finde,</l>
+                     <l>Not whilſt an humour's living, bvt Man-kinde.</l>
+                     <l>Thou, like thy Writings, Innocent and Cleane,</l>
+                     <l>Ne're practis'd a new Vice, to make one Sceane,</l>
+                     <l>None of thy Inke had gall, and Ladies can,</l>
+                     <l>Securely heare thee ſport without a Fanne.</l>
+                  </lg>
+                  <lg>
+                     <l>But when Thy Tragicke Muſe would pleaſe to riſe</l>
+                     <l>In Majeſtie, and call Tribute from our Eyes;</l>
+                     <l>Like Scenes, we ſhifted Paſſions, and that ſo,</l>
+                     <l>Who only came to ſee, turn'd Actors too.</l>
+                     <l>How didſt thou ſway the Theatre! make us feele</l>
+                     <l>The Players wounds were true, and their ſwords, ſteele!</l>
+                     <l>Nay, ſtranger yet, how often did I know</l>
+                     <l>When the Spectators ran to ſave the blow?</l>
+                     <l>Frozen with griefe we could not ſtir away</l>
+                     <l>Vntill the Epilogue told us 'twas a Play.</l>
+                     <l>What ſhall I doe? all Commendations end,</l>
+                     <l>In ſaying only thou wert <hi>BEAUMONTS</hi> Friend?</l>
+                     <l>Give me thy ſpirit quickely, for I ſwell,</l>
+                     <l>And like a raveing Propheteſſe cannot tell</l>
+                     <l>How to receive thy <hi>Genius</hi> in my breaſt:</l>
+                     <l>Oh! I muſt ſleepe, and then I'le ſing the reſt.</l>
+                  </lg>
+                  <closer>
+                     <signed>
+                        <hi>T. Palmer</hi> of Ch. Ch. Oxon.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="23"/>
+                  <head>Upon the unparalelld Playes written by thoſe Renowned Twinnes of Poetry BEAUMONT &amp; FLETCHER.</head>
+                  <lg>
+                     <l>WHat's here? another Library of prayſe,</l>
+                     <l>Met in a Troupe t'advance contemned Playes,</l>
+                     <l>And bring exploded <hi>Witt</hi> againe in faſhion?</l>
+                     <l>I can't but wonder at this <hi>Reformation.</hi>
+                     </l>
+                     <l>My skipping ſoule ſurfets with ſo much good,</l>
+                     <l>To ſee my hopes into <hi>fruition</hi> budd.</l>
+                     <l>A happy <hi>Chimiſtry!</hi> bleſt viper, <hi>joy!</hi>
+                     </l>
+                     <l>That through thy mothers bowels gnawſt thy way!</l>
+                  </lg>
+                  <lg>
+                     <l>Witts flock in ſholes, and clubb to re-erect</l>
+                     <l>In ſpight of <hi>Ignorance</hi> the Architect</l>
+                     <l>Of Occidentall <hi>Poeſye;</hi> and turne</l>
+                     <l>Godds, to recall <hi>witts</hi> aſhes from their urne.</l>
+                     <l>Like huge <hi>Colloſſes</hi> they've together mett</l>
+                     <l>Their ſhoulders, to ſupport a world of Witt.</l>
+                  </lg>
+                  <lg>
+                     <l>The tale of <hi>Atlas</hi> (though of truth it miſſe)</l>
+                     <l>We plainely read <hi>Mythologiz'd</hi> in this;</l>
+                     <l>
+                        <hi>Orpheus</hi> and <hi>Amphion</hi> whoſe undying ſtories</l>
+                     <l>Made <hi>Athens</hi> famous, are but <hi>Allegories.</hi>
+                     </l>
+                     <l>Tis Poetry has pow'r to civilize</l>
+                     <l>Men, worſe then ſtones, more blockiſh then the Trees</l>
+                     <l>I cannot chuſe but thinke (now things ſo fall)</l>
+                     <l>That witt is paſt its <hi>Climactericall;</hi>
+                     </l>
+                     <l>And though the <hi>Muſes</hi> have beene dead and gone</l>
+                     <l>I know they'll finde a <hi>Reſurrection.</hi>
+                     </l>
+                     <l>Tis vaine to prayſe; they're to themſelves a glory,</l>
+                     <l>And ſilence is our ſweeteſt <hi>Oratory.</hi>
+                     </l>
+                     <l>For he that names but <hi>FLETCHER</hi> muſt needs be</l>
+                     <l>Found guilty of a loud <hi>hyperbole.</hi>
+                     </l>
+                     <l>His fancy ſo tranſcendently aſpires,</l>
+                     <l>He ſhowes himſelfe a witt, who but admires.</l>
+                  </lg>
+                  <lg>
+                     <l>Here are no volumes ſtuft with cheverle ſence,</l>
+                     <l>The very <hi>Anagrams</hi> of Eloquence,</l>
+                     <l>Nor long-long-winded ſentences that be,</l>
+                     <l>Being rightly ſpelld, but Witts <hi>Stenographie.</hi>
+                     </l>
+                     <l>Nor words, as voyd of Reaſon, as of Rithme,</l>
+                     <l>Only caeſura'd to ſpin out the time.</l>
+                     <l>But heer's a <hi>Magazine</hi> of pureſt ſence</l>
+                     <l>Cloath'd in the neweſt Garbe of Eloquence.</l>
+                     <l>Scaenes that are quick and ſprightly, in whoſe veines</l>
+                     <l>Bubbles the quinteſſence of ſweet-high ſtraines.</l>
+                     <l>Lines like their <hi>Authours,</hi> and each word of it</l>
+                     <l>Does ſay twas writ b' a <hi>Gemini</hi> of Witt.</l>
+                  </lg>
+                  <lg>
+                     <l>How happie is our age! how bleſt our men!</l>
+                     <l>When ſuch rare ſoules live themſelves o're agen.</l>
+                     <l>We erre, that thinke a Poet dyes; for this,</l>
+                     <l>Shewes that tis but a <hi>Metempſychoſis.</hi>
+                     </l>
+                     <l>
+                        <hi>BEAUMONT</hi> and <hi>FLETCHER</hi> here at laſt we ſee</l>
+                     <l>Above the reach of dull mortalitie,</l>
+                  </lg>
+                  <lg>
+                     <l>Or pow'r of fate: &amp; thus the proverbe hitts</l>
+                     <l>(That's ſo much croſt) Theſe men live by their witts.</l>
+                  </lg>
+                  <closer>
+                     <signed>ALEX. BROME.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="24"/>
+                  <head>On the Death and workes of M^r JOHN FLETCHER.</head>
+                  <lg>
+                     <l>MY name, ſo far from great, that tis not knowne,</l>
+                     <l>Can lend no praiſe but what thou'dſt bluſh to own;</l>
+                     <l>And no rude hand, or feeble wit ſhould dare</l>
+                     <l>To vex thy Shrine with an unlearned teare.</l>
+                  </lg>
+                  <lg>
+                     <l>I'de have a State of Wit convok'd, which hath</l>
+                     <l>A power to take up on common Faith;</l>
+                     <l>That when the ſtocke of the whole Kingdome's ſpent</l>
+                     <l>In but preparatiue to thy Monument,</l>
+                     <l>The prudent Councell may invent freſh wayes</l>
+                     <l>To get new contribution to thy prayſe,</l>
+                     <l>And reare it high, and equall to thy Wit</l>
+                     <l>Which muſt give life and Monument to it.</l>
+                  </lg>
+                  <lg>
+                     <l>So when late <hi>ESSEX</hi> dy'd, the Publicke face</l>
+                     <l>Wore ſorrow in't, and to add mournefull Grace</l>
+                     <l>To the ſad pomp of his lamented fall,</l>
+                     <l>The Common wealth ſerv'd at his Funerall</l>
+                     <l>And by a Solemne Order built his Hearſe.</l>
+                  </lg>
+                  <lg>
+                     <l>But not like thine, built by thy ſelfe, in Verſe,</l>
+                     <l>Where thy advanced Image ſafely ſtands</l>
+                     <l>Above the reach of Sacrilegious hands.</l>
+                     <l>Baſe hands how impotently you diſcloſe</l>
+                     <l>Your rage 'gainſt <hi>Camdens</hi> learned aſhes, whoſe</l>
+                     <l>Defaced Statua and Martyrd booke,</l>
+                     <l>Like an Antiquitie and Fragment looke.</l>
+                     <l>
+                        <hi>Nonnulla deſunt's</hi> legibly appeare,</l>
+                     <l>So truly now <hi>Camdens Remaines</hi> lye there.</l>
+                     <l>Vaine Malice! how he mocks thy rage, while breath</l>
+                     <l>Of fame ſhall ſpeake his great <hi>Elizabeth!</hi>
+                     </l>
+                     <l>'Gainſt time and thee he well provided hath,</l>
+                     <l>
+                        <hi>Brittannia</hi> is the Tombe and Epitaph.</l>
+                     <l>Thus Princes honours; but Witt only gives</l>
+                     <l>A name which to ſucceeding ages lives.</l>
+                  </lg>
+                  <lg>
+                     <l>Singly we now conſult our ſelves and fame,</l>
+                     <l>Ambitious to twiſt ours with thy great name.</l>
+                     <l>Hence we thus bold to praiſe. For as a Vine</l>
+                     <l>With ſubtle wreath, and cloſe embrace doth twine</l>
+                     <l>A friendly Elme, by whoſe tall trunke it ſhoots</l>
+                     <l>And gathers growth and moyſture from its roots;</l>
+                     <l>About its armes the thankfull cluſters cling</l>
+                     <l>Like Bracelets, and with purple ammelling</l>
+                     <l>The blew-cheek'd grape ſtuck in its vernant haire</l>
+                     <l>Hangs like rich jewells in a beauteous eare.</l>
+                     <pb facs="24"/>
+                     <l>So grow our Prayſes by thy Witt; we doe</l>
+                     <l>Borrow ſupport and ſtrength and lend but ſhow.</l>
+                  </lg>
+                  <lg>
+                     <l>And but thy Male wit like the youthfull Sun</l>
+                     <l>Strongly begets upon our paſſion.</l>
+                     <l>Making our ſorrow teeme with Elegie,</l>
+                     <l>Thou yet unwep'd, and yet unprais'd might'st be.</l>
+                     <l>But th' are imperfect births; and ſuch are all</l>
+                     <l>Produc'd by cauſes not univocall,</l>
+                     <l>The ſ●apes of Nature, Paſſives being unfit,</l>
+                     <l>And hence our verſe ſpeakes only Mother wit.</l>
+                  </lg>
+                  <lg>
+                     <l>Oh for a fit o'th Father! for a Spirit</l>
+                     <l>That might but parcell of thy worth inherit;</l>
+                     <l>For but a ſparke of that diviner fire</l>
+                     <l>Which thy full breaſt did animate and inſpire;</l>
+                     <l>That Soules could bee divided, thou traduce</l>
+                     <l>But a ſmall particle of thine to us!</l>
+                     <l>Of thine; which we admir'd when thou didſt ſit</l>
+                     <l>But as a joynt-Commiſſioner in Wit;</l>
+                     <l>When it had plummets hung on to ſuppreſſe</l>
+                     <l>It's too luxuriant growing mightineſſe:</l>
+                     <l>Till as that tree which ſcornes to bee kept downe,</l>
+                     <l>Thou grewſt to govern the whole Stage alone.</l>
+                     <l>In which orbe thy throng'd light did make the ſtar,</l>
+                     <l>Thou wert th' Intelligence did move that Sphaere.</l>
+                     <l>Thy Fury was compos'd; Rapture no fit</l>
+                     <l>That hung on thee; nor thou far gone in witt</l>
+                     <l>As men in a diſeaſe; thy Phanſie cleare,</l>
+                     <l>Muſe chaſt, as thoſe frames whence they tooke their fire;</l>
+                     <l>No ſpurious compoſures amongſt thine</l>
+                     <l>Got in adultery 'twixt Witt and Wine.</l>
+                  </lg>
+                  <lg>
+                     <l>And as th' Hermeticall Phyſitians draw</l>
+                     <l>From things that curſe of the firſt-broken Law,</l>
+                     <l>That <hi>Ens Venenum,</hi> which extracted thence</l>
+                     <l>Leaves nought but primitive Good and Innocence:</l>
+                     <l>So was thy Spirit calcin'd; no Mixtures there</l>
+                     <l>But perfect, ſuch as next to Simples are.</l>
+                     <l>Not like thoſe Meteor-wits which wildly flye</l>
+                     <l>In ſtorme and thunder through th'amazed skie;</l>
+                     <l>Speaking but th'Ills and Villanies in a State,</l>
+                     <l>Which fooles admire, and wiſe men tremble at,</l>
+                     <l>Full of portent and prodigie, whoſe Gall</l>
+                     <l>Oft ſcapes the Vice, and on the man doth fall.</l>
+                     <l>Nature us'd all her skill, when thee ſhe meant</l>
+                     <l>A Wit at once both Great and Innocent.</l>
+                  </lg>
+                  <lg>
+                     <l>Yet thou hadſt Tooth; but 'twas thy judgement, not</l>
+                     <l>For mending one word, a whole ſheet to blot.</l>
+                     <l>Thou couldſt anatomize with ready art</l>
+                     <l>And skilfull hand crimes lockt cloſe up i'th heart.</l>
+                     <l>Thou couldſt unfold darke Plots, and ſhew that path</l>
+                     <l>By which Ambition climb'd to Greatneſſe hath.</l>
+                     <l>Thou couldſt the riſes, turnes, and falls of States,</l>
+                     <l>How neare they were their Periods and Dates;</l>
+                     <l>Couldſt mad the Subject into popular rage,</l>
+                     <l>And the grown ſeas of that great ſtorme aſſwage,</l>
+                     <l>Dethrone uſurping Tyrants, and place there</l>
+                     <l>The lawfull Prince and true Inheriter;</l>
+                     <l>Knewſt all darke turnings in the Labyrinth</l>
+                     <l>Of policie, which who but knowes he ſinn'th,</l>
+                     <pb facs="25"/>
+                     <l>Save thee, who un-infected didſt walke in't</l>
+                     <l>As the great Genius of Government.</l>
+                     <l>And when thou laidſt thy tragicke buskin by</l>
+                     <l>To Court the Stage with gentle Comedie,</l>
+                     <l>How new, how proper th' humours, how expreſs'd</l>
+                     <l>In rich variety, how neatly dreſs'd</l>
+                     <l>In language, how rare Plots, what ſtrength of Wit</l>
+                     <l>Shin'd in the face and every limb of it!</l>
+                     <l>The Stage grew narrow while thou grewſt to be</l>
+                     <l>In thy whole life an <hi>Exc'llent Comedie.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>To theſe a Virgin-modeſty which firſt met</l>
+                     <l>Applauſe with bluſh and feare, as if he yet</l>
+                     <l>Had not deſerv'd; till bold with conſtant praiſe</l>
+                     <l>His browes admitted the unfought for Bayes.</l>
+                     <l>Nor would he raviſh fame; but left men free</l>
+                     <l>To their owne Vote and Ingenuity.</l>
+                     <l>When His faire <hi>Shepherdeſſe</hi> on the guilty Stage,</l>
+                     <l>Was martir'd betweene Ignorance and Rage;</l>
+                     <l>At which the impatient Vertues of thoſe few</l>
+                     <l>Could judge, grew high, cri'd Murther: though he knew</l>
+                     <l>The innocence and beauty of his Childe,</l>
+                     <l>Hee only, as if unconcerned, ſmil'd.</l>
+                     <l>Princes have gather'd ſince each ſcattered grace,</l>
+                     <l>Each line and beauty of that injur'd face;</l>
+                     <l>And on th'united parts breath'd ſuch a fire</l>
+                     <l>As ſpight of Malice ſhe ſhall ne're expire.</l>
+                  </lg>
+                  <lg>
+                     <l>Attending, not affecting, thus the crowne</l>
+                     <l>Till every hand did help to ſet it on,</l>
+                     <l>Hee came to be ſole Monarch, and did raign</l>
+                     <l>In Wits great Empire, abs'lute Soveraign.</l>
+                  </lg>
+                  <closer>
+                     <signed>JOHN HARRIS.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <head>On Mr. JOHN FLETCER'S ever to be admired Dramaticall Works.</head>
+                  <lg>
+                     <l>I'Ve thought upon't; and thus I may gaine bayes,</l>
+                     <l>I will commend thee <hi>Fletcher,</hi> and thy Playes.</l>
+                     <l>But none but Witts can do't, how then can I</l>
+                     <l>Come in amongſt them, that cou'd ne're come nigh?</l>
+                     <l>There is no other way, I'le throng to ſit</l>
+                     <l>And paſſe it'h Croud amongſt them for a Wit.</l>
+                     <l>
+                        <hi>Apollo</hi> knows me not, nor I the Nine,</l>
+                     <l>All my pretence to verſe is Love and Wine.</l>
+                  </lg>
+                  <lg>
+                     <l>By your leave Gentlemen. You Wits o'th'age,</l>
+                     <l>You that both furniſht have, and judg'd the Stage.</l>
+                     <l>You, who the Poet and the Actors fright,</l>
+                     <l>Leaſt that your Cenſure thin the ſecond night:</l>
+                     <l>Pray tell me, gallant Wits, could Criticks think</l>
+                     <l>There ere was ſolaeciſme in <hi>FLETCHERS</hi> Inke?</l>
+                     <l>Or Lapſe of Plot, or fancy in his pen?</l>
+                     <l>A happineſſe not ſtill alow'd to <hi>Ben!</hi>
+                     </l>
+                     <l>After of Time and Wit h'ad been at coſt</l>
+                     <l>He of his owne New-Inne was but an Hoſte.</l>
+                     <l>Inſpir'd, <hi>FLETCHER!</hi> here's no vaine-glorious words:</l>
+                     <l>How ev'n thy lines, how ſmooth thy ſenſe accords.</l>
+                     <l>Thy Language ſo inſinuates, each one</l>
+                     <l>Of thy ſpectators has thy paſſion.</l>
+                     <l>Men ſeeing, valiant; Ladies amorous prove:</l>
+                     <l>Thus owe to thee their valour and their Love:</l>
+                     <l>Scenes! chaſte yet ſatisfying! Ladies can't ſay</l>
+                     <l>Though <hi>Stephen</hi> miſcarri'd that ſo did the play:</l>
+                     <l>Judgement could ne're to this opinion leane</l>
+                     <l>That <hi>Lowen, Tailor,</hi> ere could grace thy Scene:</l>
+                     <l>'Tis richly good unacted, and to me</l>
+                     <l>Thy very Farſe appears a Comedy.</l>
+                     <l>Thy drollery is deſigne, each looſer part</l>
+                     <l>Stuffs not thy Playes, but makes 'em up an Art</l>
+                     <l>The Stage has ſeldome ſeen; how often vice</l>
+                     <l>Is ſmartly ſcourg'd to checke us? to intice,</l>
+                     <l>How well encourag'd vertue is? how guarded,</l>
+                     <l>And, that which makes us love her, how rewarded?</l>
+                  </lg>
+                  <lg>
+                     <l>Some, I dare ſay, that did with looſe thoughts ſit,</l>
+                     <l>Reclaim'd by thee, came converts from the pit.</l>
+                     <l>And many a ſhe that to be tane up came,</l>
+                     <l>Tooke up themſelves, and after left the game.</l>
+                  </lg>
+                  <closer>
+                     <signed>HENRY HARINGTON.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="25"/>
+                  <head>To the memory of the deceaſed but ever-living <hi>Authour</hi> in theſe his <hi>Poems,</hi> Mr. JOHN FLETCHER.</head>
+                  <lg>
+                     <l>ON the large train of <hi>Fletchers</hi> friends let me</l>
+                     <l>(Retaining ſtill my wonted modeſty,)</l>
+                     <l>Become a Waite● in my ragged verſe,</l>
+                     <l>As Follower to the <hi>Muſes</hi> Followers.</l>
+                     <l>Many here are of Noble ranke and worth,</l>
+                     <l>That have, by ſtrength of Art, ſet <hi>Fletcher</hi> forth</l>
+                     <l>In true and lively colours, as they ſaw him,</l>
+                     <l>And had the beſt abilities to draw him;</l>
+                     <l>Many more are abroad, that write, and looke</l>
+                     <l>To have their lines ſet before <hi>Fletchers</hi> Booke;</l>
+                     <l>Some, that have known him too; ſome more, ſome leſſe;</l>
+                     <l>Some onely but by Heare-ſay, ſome by Gueſſe,</l>
+                     <l>And ſome, for faſhion-ſake, would take the hint</l>
+                     <l>To try how well their Wits would ſhew in Print.</l>
+                     <l>You, that are here before me Gentlemen,</l>
+                     <l>And Princes of <hi>Parnaſſus</hi> by the Penne</l>
+                     <l>And your juſt Judgements of his worth, that have</l>
+                     <l>Preſerv'd this <hi>Authours</hi> mem'ry from the Grave,</l>
+                     <l>And made it glorious; let me, at your gate,</l>
+                     <l>Porter it here, 'gainſt thoſe that come too late,</l>
+                     <l>And are unfit to enter. Something I</l>
+                     <l>Will deſerve here: For where you verſifie</l>
+                     <l>In flowing numbers, lawfull Weight, and Time,</l>
+                     <l>I'll write, though not rich Verſes, honeſt Rime.</l>
+                     <l>I am admitted. Now, have at the Rowt</l>
+                     <l>Of thoſe that would crowd in, but muſt keepe out.</l>
+                     <l>Beare back, my Maſters; Pray keepe backe; Forbeare:</l>
+                     <l>You cannot, at this time have entrance here.</l>
+                     <l>You, that are worthy, may, by interceſſion,</l>
+                     <l>Finde entertainment at the next Impreſſion.</l>
+                     <l>But let none then attempt it, that not know</l>
+                     <l>The reverence due, which to this ſhrine they owe:</l>
+                     <l>All ſuch muſt be excluded; and the ſort,</l>
+                     <l>That onely upon truſt, or by report</l>
+                     <l>Have taken <hi>Fletcher</hi> up, and thinke it trim</l>
+                     <l>To have their Verſes planted before Him:</l>
+                     <l>Let them read firſt his Works, and learne to know him,</l>
+                     <l>And offer, then, the Sacrifice they owe him.</l>
+                     <l>But farre from hence he ſuch, as would proclaim:</l>
+                     <l>Their knowledge of this <hi>Authour,</hi> not his Fame;</l>
+                     <l>And ſuch, as would pretend, of all the reſt,</l>
+                     <l>To be the beſt <hi>Wits</hi> that have known him beſt.</l>
+                     <l>Depart hence all ſuch Writers, and, before</l>
+                     <l>Inferiour ones, thruſt in, by many a ſcore,</l>
+                     <l>As formerly, before <hi>Tom Coryate,</hi>
+                     </l>
+                     <l>Whoſe Worke before his Prayſers had the Fate</l>
+                     <l>To periſh: For the witty Co●pies tooke</l>
+                     <l>Of his <hi>Encomiums</hi> made themſelves a <hi>Booke.</hi>
+                     </l>
+                     <l>Here's no ſuch ſubject for you to out-doe,</l>
+                     <l>Out-ſhine, out-live (though well you may doe too</l>
+                     <l>In other Spheres:) For <hi>Fletchers</hi> flouriſhing Bayes</l>
+                     <l>Muſt never fade while <hi>Phoebus</hi> weares his Rayes.</l>
+                     <l>Therefore forbeare to preſſe upon him thus.</l>
+                     <l>Why, what are you (cry ſome) that prate to us?</l>
+                     <l>Doe not we know you for a flaſhy Meteor?</l>
+                     <l>And ſtil'd (at beſt) the <hi>Muſes</hi> Serving-creature?</l>
+                     <l>Doe you comptroll? Y'have had your Jere: Sirs, no;</l>
+                     <l>But, in an humble manner, let you know</l>
+                     <l>Old Serving-creatures oftentimes are fit</l>
+                     <l>T'informe young Maſters, as in Land, in Wit,</l>
+                     <l>What they inherit; and how well their Dads</l>
+                     <l>Left one, and wiſh'd the other to their Lads.</l>
+                     <l>And from departed Poets I can gueſſe</l>
+                     <l>Who has a greater ſhare of Wit, who leſſe.</l>
+                     <l>'Way Foole, another ſays. I, let him raile,</l>
+                     <l>And 'bout his own eares flouriſh his Wit-ſtayle,</l>
+                     <l>Till with his Swingle he his Noddle breake;</l>
+                     <l>While this of <hi>Fletcher</hi> and his <hi>Works</hi> I ſpeake:</l>
+                     <l>His <hi>Works</hi> (ſays <hi>Momus</hi>) nay, his <hi>Plays</hi> you'd ſay:</l>
+                     <l>Thou haſt ſaid right, for that to him was Play</l>
+                     <l>Which was to others braines a toyle: with eaſe</l>
+                     <l>He playd on Waves which were Their troubled Seas.</l>
+                     <l>His nimble Births have longer liv'd then theirs</l>
+                     <l>That have, with ſtrongeſt Labour, divers yeeres</l>
+                     <l>Been ſending forth ●he iſsues of their Braines</l>
+                     <l>Ʋpon the <hi>Stage;</hi> and ſhall to th' <hi>Stationers</hi> gaines</l>
+                     <l>Life after life take, till ſome After-age</l>
+                     <l>Shall put down <hi>Printing,</hi> as this doth the <hi>Stage;</hi>
+                     </l>
+                     <l>Which nothing now preſents unto the Eye,</l>
+                     <l>But in <hi>Dumb-ſhews</hi> her own ſad <hi>Tragedy.</hi>
+                     </l>
+                     <l>Would there had been no ſadder Works abroad,</l>
+                     <l>Since her decay, acted in Fields of Blood.</l>
+                  </lg>
+                  <lg>
+                     <l>But to the Man againe, of whom we write,</l>
+                     <l>The <hi>Writer</hi> that made Writing his Delight,</l>
+                     <l>Rather then Worke. <hi>He</hi> did not pumpe, nor drudge,</l>
+                     <l>To beget <hi>Wit,</hi> or manage it; nor trudge</l>
+                     <l>To Wit-conventions with Note-booke, to gleane</l>
+                     <l>Or ſteale ſome Jeſts to foiſt into a Seene:</l>
+                     <l>He ſcorn'd thoſe ſhifts. You, that have known him, know</l>
+                     <l>The common talke that from his Lips did flow,</l>
+                     <l>And run at waſte, did ſavour more of Wit,</l>
+                     <l>Then any of his time, or ſince have writ,</l>
+                     <l>(But few excepted) in the Stages way:</l>
+                     <l>His <hi>Scenes</hi> were <hi>Acts,</hi> and every <hi>Act</hi> a <hi>Play.</hi>
+                     </l>
+                     <l>I knew him in his ſtrength; even then, when <hi>He</hi>
+                     </l>
+                     <l>That was the Maſter of his Art and Me</l>
+                     <l>Moſt knowing <hi>Johnſon</hi> (proud to call him <hi>Sonne</hi>)</l>
+                     <l>In friendly Envy ſwore, He had out-done</l>
+                     <l>
+                        <hi>His very Selfe.</hi> I knew him till he dyed;</l>
+                     <l>And, at his diſſolution, what a Tide</l>
+                     <l>Of ſorrow overwhelm'd the <hi>Stage;</hi> which gave</l>
+                     <l>Volleys of ſighes to ſend him to his grave.</l>
+                     <l>And grew diſtracted in moſt violent Fits</l>
+                     <l>(For <hi>She</hi> had loſt the beſt part of her <hi>Wits.</hi>)</l>
+                     <l>In the firſt yeere, our famous <hi>Fletcher</hi> fell,</l>
+                     <l>Of good King <hi>Charles</hi> who grac'd theſe <hi>Poems</hi> well,</l>
+                     <l>Being then in life of Action: But they dyed</l>
+                     <l>Since the Kings abſence; or were layd aſide,</l>
+                     <l>As is their <hi>Poët.</hi> Now at the Report</l>
+                     <l>Of the <hi>Kings</hi> ſecond comming to his Court,</l>
+                     <l>The <hi>Bookes</hi> creepe from the <hi>Preſſe</hi> to Life not <hi>Action,</hi>
+                     </l>
+                     <l>Crying unto the World, that no protraction</l>
+                     <l>May hinder <hi>Sacred Majeſty</hi> to give</l>
+                     <l>
+                        <hi>Fletcher,</hi> in them, leave on the <hi>Stage</hi> to live.</l>
+                     <l>Others may more in lofty Verſes move;</l>
+                     <l>I onely, thus, expreſſe my Truth and Love.</l>
+                  </lg>
+                  <closer>
+                     <signed>RIC. BROME.</signed>
+                  </closer>
+               </div>
+               <div type="sonnet">
+                  <pb facs="26"/>
+                  <head>Upon the Printing of M^r. IOHN FLETCHERS workes.</head>
+                  <l>WHat meanes this numerous Guard? or do we come</l>
+                  <l>To file our Names or Verſe upon the Tombe</l>
+                  <l>Of <hi>Fletcher,</hi> and by boldly making knowne</l>
+                  <l>His Wit, betray the Nothing of our Owne?</l>
+                  <l>For if we grant him dead, it is as true</l>
+                  <l>Against our ſelves, No Wit, no Poet now;</l>
+                  <l>Or if he be returnd from his coole ſhade,</l>
+                  <l>To us, this Booke his Reſurrection's made,</l>
+                  <l>We bleed our ſelves to death, and but contrive</l>
+                  <l>By our owne Epitaphs to ſhew him alive.</l>
+                  <l>But let him live and let me propheſie,</l>
+                  <l>As I goe Swan-like out, Our Peace is nigh;</l>
+                  <l>A Balme unto the wounded Age I ſing,</l>
+                  <l>And nothing now is wanting but the King.</l>
+                  <closer>
+                     <signed>JA. SHIRLEY.</signed>
+                  </closer>
+               </div>
+               <div type="poem_by_stationer">
+                  <pb facs="26"/>
+                  <head>THE STATIONER.</head>
+                  <l>AS after th' <hi>Epilogue</hi> there comes ſome one</l>
+                  <l>To tell <hi>Spectators</hi> what ſhall next be ſhown;</l>
+                  <l>So here, am I; but though I've toyld and vext,</l>
+                  <l>'Cannot deviſe what to preſent ye next;</l>
+                  <l>For, ſince ye ſaw no <hi>Playes</hi> this Cloudy weather,</l>
+                  <l>Here we have brought Ye our whole Stock together.</l>
+                  <l>'Tis new, and all theſe <hi>Gentlemen</hi> atteſt</l>
+                  <l>Under their hands 'tis Right, and of the Beſt;</l>
+                  <l>
+                     <hi>Thirty foure</hi> Witneſſes (without my taske)</l>
+                  <l>Y'have juſt ſo many <hi>Playes</hi> (beſides a <hi>Maske</hi>)</l>
+                  <l>All good (●'me told) as have been <hi>Read</hi> or <hi>Playd,</hi>
+                  </l>
+                  <l>If this Booke faile, tis time to quit the Trade.</l>
+                  <closer>
+                     <signed>H. MOSELEY.</signed>
+                  </closer>
+               </div>
+               <div type="notice">
+                  <head>POSTCRIPT.</head>
+                  <p>WE forgot to tell the <hi>Reader,</hi> that ſome <hi>Prologues</hi> and <hi>Epilogues</hi> (here inſerted) were not written by the <hi>Authours</hi> of this <hi>Volume;</hi> but made by others on the <hi>Revivall</hi> of ſeverall <hi>Playes.</hi> After the <hi>Comedies</hi> and <hi>Tragedies</hi> were wrought off, we were forced (for expedition) to ſend the <hi>Gentle|mens</hi> Verſes to ſeverall Printers, which was the occaſion of their different Cha|racter; but the <hi>Worke</hi> it ſelfe is one continued Letter, which (though very legi|ble) is none of the biggeſt, becauſe (as much as poſſible) we would leſſen the Bulke of the Volume.</p>
+               </div>
+               <div type="list_of_plays">
+                  <pb facs="27"/>
+                  <head>A CATALOGUE of all the Comedies and Tragedies Contained in this Booke.</head>
+                  <list>
+                     <item>_THe Mad Lover.</item>
+                     <item>The <hi>Spaniſh</hi> Curate.</item>
+                     <item>The little <hi>French</hi> Lawyer.</item>
+                     <item>The Cuſtome of the Country.</item>
+                     <item>The Noble Gentleman.</item>
+                     <item>The Captaine.</item>
+                     <item>The Beggers Buſh.</item>
+                     <item>The Coxcombe.</item>
+                     <item>The Falſe One.</item>
+                     <item>The Chances.</item>
+                     <item>The Loyall Subject.</item>
+                     <item>The Lawes of <hi>Candy.</hi>
+                     </item>
+                     <item>The Lover's Progreſſe.</item>
+                     <item>The Jſland Princeſſe.</item>
+                     <item>The Humorous Lievtenant.</item>
+                     <item>The Nice Valour, <hi>or</hi> the Paſ|ſionate Mad Man.</item>
+                     <item>The Maide in the Mill.</item>
+                     <item>The Propheteſſe.</item>
+                     <item>The Tragedy of <hi>Bonduca.</hi>
+                     </item>
+                     <item>The Sea Voyage.</item>
+                     <item>The Double Marriage.</item>
+                     <item>The Pilgrim.</item>
+                     <item>The Knight of <hi>Malta.</hi>
+                     </item>
+                     <item>The Womans Prize, <hi>or</hi> the Tamer Tamed.</item>
+                     <item>Loves Cure, <hi>or</hi> the Martiall Maide.</item>
+                     <item>The Honeſt Mans Fortune.</item>
+                     <item>The Queene of <hi>Corinth.</hi>
+                     </item>
+                     <item>Women Plea'sd.</item>
+                     <item>A Wife for a Moneth.</item>
+                     <item>Wit at ſeverall Weapons.</item>
+                     <item>The Tragedy of <hi>Valentinian.</hi>
+                     </item>
+                     <item>The Faire Maid of the Jnne.</item>
+                     <item>Loves Pilgrimage.</item>
+                     <item>The Maske of the Gentlemen of <hi>Grayes-Inne,</hi> and the <hi>Inner Temple,</hi> at the Marriage of the Prince and Princeſſe Palatine of <hi>Rhene.</hi>
+                     </item>
+                     <item>Foure Playes (or Morall Re|preſentations) in one.</item>
+                     <item>
+                        <add>The willd Goose chaſe</add>
+                     </item>
+                  </list>
+               </div>
+            </body>
+     
+  </text>
+</TEI>

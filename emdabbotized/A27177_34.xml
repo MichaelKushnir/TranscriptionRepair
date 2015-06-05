@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+					 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Comedies and tragedies written by Francis Beaumont and Iohn Fletcher ...</title>
+            <author>Beaumont, Francis, 1584-1616.</author>
+         </titleStmt>
+         <extent>473 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2001</date>
+            <idno type="marc">12491932</idno>
+            <idno type="stc">Wing B1581.</idno>
+            <idno type="vid">52257</idno>
+            <idno type="DLPS">A27177</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Comedies and tragedies written by Francis Beaumont and Iohn Fletcher ...</title>
+                  <author>Beaumont, Francis, 1584-1616.</author>
+                  <author>Fletcher, John, 1579-1625.</author>
+                  <author>Shirley, James, 1596-1666.</author>
+                  <author>Lowin, John, 1576-1659.</author>
+                  <author>Taylor, Joseph, 1586?-1653?</author>
+               </titleStmt>
+               <extent>[53], 75, 143, [1], 165, [3], 71, [1], 172, 92, 50 [i.e. 52], 28, 25-48 p. : port.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Humphrey Robinson ... and for Humphrey Moseley ...,</publisher>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>"Never printed before, and now published by the authours originall copies"</p>
+                  </note>
+                  <note>
+                     <p>First folio; includes the plays not hitherto printed, except the Wild-goose chase, which was missing, but recovered and printed in 1652. Cf. NUC pre-1956.</p>
+                  </note>
+                  <note>
+                     <p>"The Epistle dedicatorie" is signed by John Lowin, Joseph Taylor, and eight others; "To the reader" signed by Ja. Shirley, who is usually regarded as the editor.</p>
+                  </note>
+                  <note>
+                     <p>Portrait of Fletcher by Marshall.</p>
+                  </note>
+                  <note>
+                     <p>For complete contents of this edition, see NUC pre-1956 imprints.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Harvard University Libraries.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+                  <body>
+                     <div type="masque">
+                        <pb n="27" facs="428"/>
+                        <head>THE Maske of the Gentlemen of Grayes-Inne, and the Inner-Temple, Performed before the King in the Banqueting-houſe at White-hall, at the marriage of the Illuſtrious <hi>Frederick</hi> and <hi>Elizabeth,</hi> Prince and Princeſſe Palatine of the Rhene. <hi>Written by</hi> Francis Beamont <hi>Gentleman.</hi>
+                        </head>
+                        <stage>Enter Iris running, Mercury following and catching hold of her.</stage>
+                        <sp>
+                           <speaker>Mercury.</speaker>
+                           <l>_STay light-foot <hi>Iris,</hi> for thou ſtriv'ſt in vain,</l>
+                           <l>My wings are nimbler then thy feet.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Iris.</speaker>
+                           <l>Away,</l>
+                           <l>Diſſembling <hi>Mercury,</hi> my meſſages</l>
+                           <l>Aske honeſt haſte; not like thoſe wanton ones</l>
+                           <l>Your thundering father ſends.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Mer.</speaker>
+                           <l>Stay fooliſh maid,</l>
+                           <l>Or I will take my riſe upon a hill,</l>
+                           <l>When I perceive thee ſeated in a cloud</l>
+                           <l>In all the painted glory that thou haſt,</l>
+                           <l>And never ceaſe to clap my willing wing,</l>
+                           <l>Till I catch hold on thy diſcolour'd Bow,</l>
+                           <l>And ſhiver it beyond the angry power</l>
+                           <l>Of your mad miſtris to make up again.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Iris.</speaker>
+                           <l>
+                              <hi>Hermes</hi> forbeare, <hi>Juno</hi> will chide and ſtrike;</l>
+                           <l>Is great <hi>Jove</hi> jealous that I am imployd</l>
+                           <l>On her love errands? ſhe did never yet</l>
+                           <l>Claſpe weak mortality in her white armes,</l>
+                           <l>As he has often done; I onely come</l>
+                           <l>To celebrate the lone wiſht Nuptials</l>
+                           <l>Here in Olympia, which are now perform'</l>
+                           <l>Betwixt two goodly Rivers that have mixt</l>
+                           <l>Their gentle winding waves, and are to grow</l>
+                           <l>Into a thouſand ſtreams great as themſelves.</l>
+                           <l>I need not name them, for the ſound is lowd</l>
+                           <l>In Heaven and earth, and I am ſent from her</l>
+                           <l>The Queen of marriage, that was preſent here,</l>
+                           <l>And ſmild to ſee them joyne, and hath not chid</l>
+                           <l>Since it was done. Gooo <hi>Hermes</hi> let me goe.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Merc.</speaker>
+                           <l>Nay you muſt ſtay; <hi>Joves</hi> meſſage is the ſame</l>
+                           <l>Whoſe eyes are lightning, and whoſe voyce is thunder,</l>
+                           <l>Whoſe breath is aiery wind, he will, who knows</l>
+                           <l>How to be firſt in Earth as well as Heaven.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Iris.</speaker>
+                           <l>But what hath he to doe with Nuptiall rites?</l>
+                           <l>Let him ſit pleaſd upon his Starry throne,</l>
+                           <l>And fright poore mortals with his Thunder-bolts,</l>
+                           <l>Leaving to us the mutuall darts of eyes.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Merc.</speaker>
+                           <l>Alas, when ever offer'd he t' abridge</l>
+                           <l>Your Ladies power, but onely now, in theſe,</l>
+                           <l>Whoſe match concerns the generall government?</l>
+                           <l>Hath not each God a part in theſe high joyes?</l>
+                           <l>And ſhall not he the King of Gods preſume</l>
+                           <l>Without proud <hi>Juno's</hi> licence? let her know</l>
+                           <l>That when enamourd <hi>Jove</hi> firſt gave her power</l>
+                           <l>To linke ſoft hearts in undeſolving bands,</l>
+                           <l>He then foreſaw, and to himſelfe reſerv'd</l>
+                           <l>The honour of this marriage; thou ſhalt stand</l>
+                           <l>Still as a Rock, while I to bleſſe this Feaſt</l>
+                           <l>Will ſummon up with mine all-charming rod</l>
+                           <l>The Nymphs of Fountaines, from whoſe watry locks,</l>
+                           <l>(Hung with the dew of bleſſing and increaſe)</l>
+                           <l>The greedy Rivers take their nouriſhment.</l>
+                           <l>Yea Nymphs who bathing in your loved Springs,</l>
+                           <l>Beheld theſe Rivers in their infancy,</l>
+                           <l>And joy'd to ſee them when their circled heads</l>
+                           <l>Refreſht the ayre, and ſpread the ground with Flowres:</l>
+                           <l>Riſe from your Wells, and with your nimble feet</l>
+                           <l>Performe that Office to this happy paire,</l>
+                           <l>Which in theſe plaines you to <hi>Alpheus</hi> did,</l>
+                           <l>When paſſing hence, through many Seas unmixt,</l>
+                           <l>He gaind the favour of his <hi>Arethuſe.</hi>
+                           </l>
+                           <l>
+                              <hi>The Nymphs riſe and dance a little, and then make a ſtand.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Iris.</speaker>
+                           <l>Is <hi>Hermes</hi> grown a Lover? by what power</l>
+                           <l>Unknown to us calls he the maides?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Merc.</speaker>
+                           <l>Preſumptuous <hi>Iris,</hi> I could make thee dance</l>
+                           <l>Till thou forgetſt thy Ladies meſſages,</l>
+                           <l>And ranſt back crying to her; thou ſhalt know</l>
+                           <l>My power is more, onely my breath, and this</l>
+                           <l>Shall move fixt Stars, and force the Firmament</l>
+                           <l>To yield the Hyades, who govern ſhowers,</l>
+                           <l>And dewy clouds, in whoſe diſperſed drops</l>
+                           <l>Thou formſt the ſhape of thy deceitfull Bow.</l>
+                           <l>Yea maides who yeerly at appointed times</l>
+                           <l>Advance with kindly teares, the gentle floods</l>
+                           <l>Diſcend, and poure your bleſſing on theſe ſtreams,</l>
+                           <l>Which rolling down from Heaven-aſpiring hils,</l>
+                           <l>And now united in the fruitfull vailes,</l>
+                           <l>Beare all before them, raviſht with their joy,</l>
+                           <l>And ſwell in glory till they know no bounds.</l>
+                        </sp>
+                        <stage>The Cloud diſcends with the Hyades, at which the mayds ſeem to be rejoyced; they all dance a while together then make another ſtand, as if they wanted ſomething.</stage>
+                        <sp>
+                           <speaker>Iris</speaker>
+                           <l>Great wit and power hath <hi>Hermes</hi> to contrive</l>
+                           <l>A lively dance, which of one ſex conſiſts.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Merc.</speaker>
+                           <l>Alas poore <hi>Iris, Venus</hi> hath in ſtore</l>
+                           <pb n="28" facs="429"/>
+                           <l>A ſecret ambuſh of her winged boyes,</l>
+                           <l>Who lurking long within theſe pleaſant groves</l>
+                           <l>Firſt ſtuck theſe lovers with their equall darts,</l>
+                           <l>Thoſe <hi>Cupids</hi> ſhall come forth and joyn with theſe,</l>
+                           <l>To honour that which they themſelves began.</l>
+                        </sp>
+                        <stage>The Cupids come forth and dance, they are weary with their blind purſuing the Nymphs, and the Nympht weary with flying them.</stage>
+                        <sp>
+                           <speaker>Iris.</speaker>
+                           <l>Behold the Statues which wiſe <hi>Vulcan</hi> plac'd</l>
+                           <l>Under the Altar of Olympian <hi>Jove,</hi>
+                           </l>
+                           <l>And gave to them an artificiall life:</l>
+                           <l>See how they move, drawn by this heavenly joy,</l>
+                           <l>Like the wild Trees which followed <hi>Orpheus</hi> Harp.</l>
+                        </sp>
+                        <stage>The Statues come down, and they all dance till the Nymphs out-run them and loſe them, then the Cupids go off, and laſt the Statues.</stage>
+                        <sp>
+                           <speaker>Merc.</speaker>
+                           <l>And what will <hi>Juno's Iris</hi> doe for her?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Iris.</speaker>
+                           <l>Juſt match this ſhew, or mine inventions faile,</l>
+                           <l>Had it been worthier, I would have invok'd</l>
+                           <l>The blazing Comets, Clouds and falling Stars,</l>
+                           <l>And all my kindred meteors of the ayre,</l>
+                           <l>To have exceld it; but I now muſt ſtrive</l>
+                           <l>To imitate confuſion; Therefore thou</l>
+                           <l>Delightfull <hi>Flora,</hi> if thou ever feltſt</l>
+                           <l>Increaſe of ſweetneſſe in thoſe blooming Plants,</l>
+                           <l>On which the hornes of my faire Bow decline,</l>
+                           <l>Send hither all that rurall company,</l>
+                           <l>Which deck the Maygames with their clowniſh ſports;</l>
+                           <l>
+                              <hi>Juno</hi> will have it ſo.</l>
+                        </sp>
+                        <stage>The ſecond Antimaſque ruſheth in, they dance their meaſure, and as rudely depart.</stage>
+                        <sp>
+                           <speaker>Merc.</speaker>
+                           <l>
+                              <hi>Iris,</hi> we ſtrive</l>
+                           <l>Like winds at liberty, who ſhould doe worſt</l>
+                           <l>Ere we returne. If <hi>Juno</hi> be the Queen</l>
+                           <l>Of mariages, let her give happy way</l>
+                           <l>To what is done in honour of the State</l>
+                           <l>She governs.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Iris.</speaker>
+                           <l>
+                              <hi>Hermes,</hi> ſo it may be done</l>
+                           <l>Meerely in honour of the State, and thoſe</l>
+                           <l>That now have prov'd it; not to ſatisfie</l>
+                           <l>The luſt of <hi>Jupiter,</hi> in having thanks</l>
+                           <l>More then his <hi>Juno,</hi> if thy Snaky rod</l>
+                           <l>Have power to ſearch the Heaven, or ſound the Sea,</l>
+                           <l>Or call together all the ends of earth,</l>
+                           <l>To bring thee any thing that may doe grace</l>
+                           <l>To us, amd theſe, do it, we ſhall be pleas'd.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Merc.</speaker>
+                           <l>Then know that from the mouth of <hi>Jove</hi> him|ſelfe,</l>
+                           <l>Whoſe words have wings, and need not to be borne,</l>
+                           <l>I tooke a meſſage, and I bore it through</l>
+                           <l>A thouſand yeelding clouds, and never ſtaid</l>
+                           <l>Till his high will was done: The Olympian games</l>
+                           <l>Which long had ſlept, at theſe wiſht nuptials,</l>
+                           <l>He pleaſ'd to have renew'd, and all his Knights</l>
+                           <l>Are gather'd hither, who within their Tents</l>
+                           <l>Reſt on this hill, upon whoſe riſing head</l>
+                           <stage>The Altar is diſcovered with the Prieſts about it, and the Statues under it, and the Knights lying in their Tents on each ſide, neere the top of the hill.</stage>
+                           <l>Behold <hi>Joves</hi> Altar, and his bleſſed Prieſts</l>
+                           <l>Moving about it; come you holy men,</l>
+                           <l>And with your voyces draw theſe youths along,</l>
+                           <l>That till <hi>Joves</hi> Muſicke call them to their games,</l>
+                           <l>Their active ſports may give a bleſt content</l>
+                           <l>To thoſe for whom they are again begun.</l>
+                        </sp>
+                        <floatingText xml:lang="eng" type="song" n="2">
+                           <body>
+                              <head>The firſt Song, when the Prieſts deſcend, and the Knights follow them.</head>
+                              <sp>
+                                 <l>Shake off your heavy trance,</l>
+                                 <l>and leape into a dance,</l>
+                                 <l>Such as no mortals uſe to tread,</l>
+                                 <l>fit onely for <hi>Apollo</hi>
+                                 </l>
+                                 <l>To play to, for the Moon to lead,</l>
+                                 <l>And all the Stars to follow.</l>
+                              </sp>
+                           </body>
+                        </floatingText>
+                        <floatingText xml:lang="eng" type="song" n="2">
+                           <body>
+                              <head>The ſecond Song at the end of the firſt dance.</head>
+                              <sp>
+                                 <l>On bleſsed youths, for <hi>Jove</hi> doth pauſe,</l>
+                                 <l>Laying aſide his graver Laws</l>
+                                 <l>For this device:</l>
+                                 <l>And at the wedding ſuch a paire,</l>
+                                 <l>Each dance is taken for a prayer,</l>
+                                 <l>Each Song a Sacrifice.</l>
+                              </sp>
+                           </body>
+                        </floatingText>
+                        <floatingText xml:lang="eng" type="song" n="3">
+                           <body>
+                              <head>The third Song after their many dances, when they are to take out the Ladies.</head>
+                              <sp>
+                                 <speaker>Single.</speaker>
+                                 <lg>
+                                    <l>More pleaſing were theſe ſweet delights,</l>
+                                    <l>If Ladies mov'd as well as Knights;</l>
+                                    <l>Run every one of you and catch</l>
+                                    <l>A Nymph, in honour of this match;</l>
+                                    <l>And whiſper boldly in her eare,</l>
+                                    <l>
+                                       <hi>Jove</hi> wil but laugh if you forſweare.</l>
+                                 </lg>
+                              </sp>
+                              <sp>
+                                 <speaker>All.</speaker>
+                                 <lg>
+                                    <l>And this daies ſins he doth reſolve,</l>
+                                    <l>That we his Prieſts ſhould all abſolve.</l>
+                                 </lg>
+                              </sp>
+                           </body>
+                        </floatingText>
+                        <floatingText xml:lang="eng" type="song" n="4">
+                           <body>
+                              <head>The fourth Song, when they have parted with the La|dies, a ſhrill Muſique ſounds, ſuppoſed to be that which calls them to the Olympian games, at which they all make a ſeeming preparation to depart.</head>
+                              <sp>
+                                 <l>You ſhould ſtay longer if we durſt</l>
+                                 <l>Away, alas that he that firſt</l>
+                                 <l>Gave time wild wings to fly away,</l>
+                                 <l>Ha's now no power to make him ſtay.</l>
+                                 <l>And though theſe games muſt needs be plaid,</l>
+                                 <l>I would theſe paire when they are layd,</l>
+                                 <l>And not a creature nigh 'em,</l>
+                                 <l>Might catch his ſithe as he doth paſſe,</l>
+                                 <l>And clip his wings, and break his glaſſe,</l>
+                                 <l>And keep him ever by 'em.</l>
+                              </sp>
+                           </body>
+                        </floatingText>
+                        <floatingText xml:lang="eng" type="song" n="5">
+                           <body>
+                              <head>The fifth Song, when all is done, as they aſcend.</head>
+                              <sp>
+                                 <l>Peace and ſilence be the guide</l>
+                                 <l>To the man, and to the Bride:</l>
+                                 <l>If there be a joy yet new</l>
+                                 <l>In marriage, let it fall on you,</l>
+                                 <l>That all the World may wonder:</l>
+                                 <l>If we ſhould ſtay, we ſhould do worſe,</l>
+                                 <l>And turn our bleſſings to a curſe,</l>
+                                 <l>By keeping you aſunder.</l>
+                              </sp>
+                           </body>
+                        </floatingText>
+                        <trailer>FINIS.</trailer>
+                     </div>
+                  </body>
+               </text>
+               </TEI>
+

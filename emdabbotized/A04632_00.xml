@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">The workes of Beniamin Ionson.</title>
+            <author>Jonson, Ben, 1573?-1637.</author>
+         </titleStmt>
+         <extent>441 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 January (TCP phase 1)</date>
+            <idno type="marc">99847709</idno>
+            <idno type="stc">STC (2nd ed.) 14752.</idno>
+            <idno type="stc">Greg, III, p. 1070-3.</idno>
+            <idno type="vid">12766</idno>
+            <idno type="DLPS">A04632</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">The workes of Beniamin Ionson.</title>
+                  <title type="alt">Works. Vol. 1</title>
+                  <title type="alt">Workes of Benjamin Jonson.</title>
+                  <author>Jonson, Ben, 1573?-1637.</author>
+                  <author>Hole, William, d. 1624,</author>
+               </titleStmt>
+               <extent>[12], 1015, [1] p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by W: Stansby, and are to be sould by Rich: Meighen,</publisher>
+                  <date>An0 D. 1616.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Mostly in verse.</p>
+                  </note>
+                  <note>
+                     <p>The title page is engraved and signed "Guliel[mus] Hole fecit". The second state of the imprint (see The Library, ser. 6, 8:152-6).</p>
+                  </note>
+                  <note>
+                     <p>The first leaf is blank.</p>
+                  </note>
+                  <note>
+                     <p>The subsidiary plays each have separate dated title pages. Of these, "Every man out of his humour", "Cynthia's revels", and "Poetaster" have title pages in varying states; see Greg for details. Pagination and register are continuous.</p>
+                  </note>
+                  <note>
+                     <p>A number of sheets exist in two different settings, and certain of these appear to be reprints done much later; see Greg and "Studies in Bibliography" 40:106-20.</p>
+                  </note>
+                  <note>
+                     <p>A second volume was published without general title page in 1631.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the British Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+     <body>
+         <div type="title_page">
+            <p>
+               <pb facs="1"/>
+               <gap unit="unknown"/>
+               <pb facs="1"/>
+               <gap unit="unknown"/>
+            </p>
+         </div>
+         <div type="catalogue">
+            <pb facs="2"/>
+            <pb facs="2"/>
+            <head>The Catalogue.</head>
+            <list>
+               <label>Euery Man in his Humor,</label>
+               <item>To M^r. CAMBDEN.</item>
+               <label>Euery Man out of his Humor,</label>
+               <item>To the INNES of COVRT.</item>
+               <label>Cynthias Reuells,</label>
+               <item>To the COVRT.</item>
+               <label>Poētaster,</label>
+               <item>To M^r. RICH. MARTIN.</item>
+               <label>Seianus,</label>
+               <item>To ESME Lo. Aubigny.</item>
+               <label>The Foxe,</label>
+               <item>To the VNIVERSITIES.</item>
+               <label>The silent Woman,</label>
+               <item>To Sir FRAN. STVART.</item>
+               <label>The Alchemist,</label>
+               <item>To the Lady WROTH.</item>
+               <label>Catiline,</label>
+               <item>To the Earle of PEMBROK.</item>
+               <label>Epigrammes,</label>
+               <item>To the same.</item>
+               <label>The Forrest,</label>
+               <item/>
+               <label>Entertaynments,</label>
+               <item/>
+               <label>Panegyre,</label>
+               <item/>
+               <label>Masques,</label>
+               <item/>
+               <label>Barriers.</label>
+               <item/>
+            </list>
+         </div>
+         <div type="encomia">
+            <pb facs="3"/>
+            <lg>
+               <head>Ad V. CL. BEN. IONSONIVM, Carmen protrepticon.</head>
+               <l>Raptam Thrëicij lyram Neanthu●</l>
+               <l>Pulset; carmina circulis Palaemon</l>
+               <l>Scribar; qui manibus facit Deabus</l>
+               <l>Illotis, metuat Probum. Placere</l>
+               <l>Te doctis innat auribus, placere</l>
+               <l>Te raris innat auribus. Camaenas</l>
+               <l>Cùm totus legerem tuas (camaenae</l>
+               <l>Nam totum rogitant tuae, nec vllam</l>
+               <l>Qui pigrè trabat oscitationem,</l>
+               <l>Lectorem) &amp; Numeros, Acumen, Artem,</l>
+               <l>Mirum Iudicium, quod ipse censor,</l>
+               <l>Ionsoni, nimiùm licet malignus,</l>
+               <l>Si doctus simùl, exigat, viderem,</l>
+               <l>Sermonem &amp; nitidum, Facetiás{que}</l>
+               <l>Dignas Mercurio, nouás{que} Gnomas</l>
+               <l>Morum sed veterum, tuí{que} iuris</l>
+               <l>Quicquid Dramaticum tui legebam,</l>
+               <l>Tam semper fore, tám{que} te loquuium,</l>
+               <l>Vt nec Lemnia notior sigillo</l>
+               <l>Tellus, nec maculâ sacrandus Apis,</l>
+               <l>Non cesto Venus, aut comis Apollo,</l>
+               <l>Quàm Musâ fueris sciente notus,</l>
+               <l>Quàm Musâ fueris tuá notatus,</l>
+               <l>Illâ, quae vnica, sydus vt refulgens,</l>
+               <l>Stricturas, superat comis, Minorum:</l>
+               <l>In mentem subijt Stolonis illud,</l>
+               <l>Lingua Pieridas fuisse Plauti</l>
+               <l>Vsuras, Ciceronis at{que} dictum,</l>
+               <l>Saturno genitum phrasi Platonis,</l>
+               <l>Musae si Latio, Iouis{que} Athenis</l>
+               <l>Dixissent. Fore iam sed hunc &amp; illas</l>
+               <l>IonsonI numeros puto loquutos,</l>
+               <l>
+                  <pb facs="3"/>Anglis si fuerint vtri{que} fati.</l>
+               <l>Tam, mi, tu sophiam doces amaenè,</l>
+               <l>Sparsìm tám{que} sophos amaena sternis!</l>
+               <l>Sed, tot delicias, minùs placebat,</l>
+               <l>Sparsis distraherent tot in libellis</l>
+               <l>Cerdoi caculae. Volumen vnum,</l>
+               <l>Quod seri Britonum terant nepotes,</l>
+               <l>Optabam, &amp; thyasus chorús{que} amantum</l>
+               <l>Musas hoc cupiunt, tui laborum</l>
+               <l>Et quicquid reliquum est, adhuc tuís{que}</l>
+               <l>Seruatum pluteis. Tibi at videmur</l>
+               <l>Non tàm quaerere quàm parare nobis</l>
+               <l>Laudem, dum volumus palàm merentis</l>
+               <l>To laurus cupidi reposta scripta;</l>
+               <l>Dum secernere te tuás{que} Musas</l>
+               <l>Audemus numero vngulae liquorem</l>
+               <l>Gustante, vt veteres nonem sorores</l>
+               <l>Et sirenibus &amp; solent cicadis;</l>
+               <l>Dum &amp; secernere posse te videmur,</l>
+               <l>Efflictìm petimus nonúm{que} librum,</l>
+               <l>Qui nullo sacer haùt petatur aeuo,</l>
+               <l>Qui nullo sacer exolescat aeuo,</l>
+               <l>Qui curis niteat tuis secundis;</l>
+               <l>Vt nos scire aliquid simùl putetur.</l>
+               <l>Atqui hoc macte sies, velút{que} calpar,</l>
+               <l>Quod dijs inferium, tibi sacremus,</l>
+               <l>Vt nobis benè sit, tuám{que} frontem</l>
+               <l>Perfundant ederae recentiores</l>
+               <l>Et splendor nouus. Inuident coronam</l>
+               <l>Hanc tantam patriae tibi{que} (quantà</l>
+               <l>Aeternùm à merito tuo superbum</l>
+               <l>Anglorum genus esse possit olìm)</l>
+               <l>Tantùm qui penitùs volunt amaenas</l>
+               <l>Sublatas literas, timéntue lucem</l>
+               <l>Ionson I nimiam tenebriones.</l>
+               <closer>
+                  <signed>I. Selden I. C.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <pb facs="4"/>
+               <head>TO BEN. IONSON, on his workes.</head>
+               <l>MAy I subscribe a name? dares my bold quill</l>
+               <l>Write that or good or ill,</l>
+               <l>Whose frame is of that height, that, to mine eye,</l>
+               <l>Its head is in the sky?</l>
+               <l>Yes. Since the most censures, beleeues, and saith</l>
+               <l>By an implicit faith:</l>
+               <l>Least their misfortune make them chance amisse,</l>
+               <l>I'le wast them right by this.</l>
+               <l>Of all I know thou onely art the man</l>
+               <l>That dares but what he can:</l>
+               <l>Yet by performance showes he can do more</l>
+               <l>Then hath bene done before,</l>
+               <l>Or will be after. (such assurance giues</l>
+               <l>Perfection where it liues.)</l>
+               <l>Words speake thy matter; matter fills thy words;</l>
+               <l>And choyce that grace affords</l>
+               <l>That both are best: and both most fitly plac't,</l>
+               <l>Are with new VENVS grac't</l>
+               <l>From artfull method all in this point meet,</l>
+               <l>With good to mingle sweet.</l>
+               <l>These are thy lower parts. what stands aboue</l>
+               <l>Who sees not yet must loue,</l>
+               <l>When on the Base he reads BEN. IONSONS name,</l>
+               <l>And heares the rest from Fame.</l>
+               <l>This from my loue of truth: which payes this due</l>
+               <l>To your iust worth, not you.</l>
+               <closer>
+                  <signed>Ed. Heyward.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <head>Vpon SEIANVS.</head>
+               <l>SO brings the wealth-contracting ieweller</l>
+               <l>Pearles and deare stones, from richest shores and streames,</l>
+               <l>As thy accomplisht trauaile doth confer</l>
+               <l>From skill-inriched soules, their wealthyer gems;</l>
+               <l>
+                  <pb facs="4"/>So doth his hand enchase in ammeld gold,</l>
+               <l>Cut, and adorn'd beyond their natiue merits,</l>
+               <l>His solid flames, as thine hath here inrold</l>
+               <l>In more then golden verse, those better'd spirits;</l>
+               <l>So he entreasures Princes cabinets,</l>
+               <l>As thy wealth will their wished libraries;</l>
+               <l>So, on the throate of the rude sea, he sets</l>
+               <l>His ventrous foot, for his illustrous prise:</l>
+               <l>And through wild desarts, arm'd with wilder beasts,</l>
+               <l>As thou aduentur'st on the multitude,</l>
+               <l>Vpon the boggie, and engulfed brests</l>
+               <l>Of hyrelings, sworne to find most right, most rude:</l>
+               <l>And he, in stormes at sea, doth not endure,</l>
+               <l>Nor in vast desarts, amongst wolues, more danger;</l>
+               <l>Then we, that would with vertue liue secure,</l>
+               <l>Sustayne for her in euery vices anger.</l>
+               <l>Nor is this <hi>Allegorie</hi> vniustly rackt,</l>
+               <l>To this strange length: Onely, that iewells are,</l>
+               <l>In estimation meerely, so exact:</l>
+               <l>And thy worke, in it selfe, is deare and rare.</l>
+               <l>Wherein <hi>MINERVA</hi> had beene vanquished,</l>
+               <l>Had shee, by it, her sacred loomes aduanc't,</l>
+               <l>And through thy subiect wouen her graphicke thred,</l>
+               <l>Contending therein, to be more entranc't;</l>
+               <l>For, though thy hand was scarce addrest to draw</l>
+               <l>The semi-circle of <hi>SEIANVS</hi> life,</l>
+               <l>The <hi>Muse</hi> yet makes it the whole sphaere, and law</l>
+               <l>To all State liues: and bounds ambition's strife.</l>
+               <l>And as a little brooke creepes from his spring,</l>
+               <l>With shallow tremblings, through the lowest vales,</l>
+               <l>As if he fear'd his streame abroad to bring,</l>
+               <l>Least prophane sect should wrong it, and rude gales;</l>
+               <l>But finding happy channels, and supplyes</l>
+               <l>Of other foords mixe with his modest course,</l>
+               <l>He growes a goodly riuer, and descryes</l>
+               <l>The strength, that man'd him, since he left his source;</l>
+               <l>Then takes he in delight some meades, and groues,</l>
+               <l>And, with his two-edg'd waters, flourishes</l>
+               <l>Before great palaces, and all mens loues</l>
+               <l>Build by his shores, to greet his passages:</l>
+               <l>So thy chaste <hi>Muse,</hi> by vertuous selfe-mistrust,</l>
+               <l>Which is a true marke of the truest merit;</l>
+               <l>In virgin feare of mens illiterate lust,</l>
+               <l>Shut her soft wings, and durst not shew h●● spirit;</l>
+               <l>Till, nobly cherisht, now thou lett'st her flie,</l>
+               <l>Singing the sable <hi>orgies</hi> of the <hi>Muses,</hi>
+               </l>
+               <l>And in the highest pitch of <hi>tragoedie,</hi>
+               </l>
+               <l>Mak'st her command, all things thy ground produces.</l>
+               <l>Besides, thy <hi>Poëme</hi> hath this due respect,</l>
+               <l>That it lets passe nothing, without obseruing,</l>
+               <pb facs="5"/>
+               <pb facs="5"/>
+               <l>
+                  <pb facs="6"/>Worthie instruction; or that might correct</l>
+               <l>Rude manners, and renow me the well deseruing:</l>
+               <l>Performing such a liuely euidence</l>
+               <l>〈◊〉 thy narrations, that thy hearers still</l>
+               <l>Thou turn'st to thy spectators; and the sense</l>
+               <l>That thy spectators haue of good or ill,</l>
+               <l>Thou iniect'st ioyntly to thy readers soules.</l>
+               <l>So deare is held, so deckt thy numerous taske,</l>
+               <l>As thou putt'st handles to the <hi>Thespian</hi> boules,</l>
+               <l>Or stuck'st rich plumes in the <hi>Palladian</hi> caske.</l>
+               <l>All thy worth, yet, thy selfe must patronise,</l>
+               <l>By quassing more of the <hi>Castalian</hi> head;</l>
+               <l>In expiscation of whose mysteries,</l>
+               <l>Our nets must still be clogd, with heauie lead,</l>
+               <l>To make them sinke, and catch: For chearefull gold</l>
+               <l>Was neuer found in the <hi>Pierian</hi> streames,</l>
+               <l>But wants, and scornes, and shames for siluer sold.</l>
+               <l>What? what shall we elect in these extreames?</l>
+               <l>Now by the shafts of the great <hi>CYRRHAN Poet,</hi>
+               </l>
+               <l>That beare all light, that is, about the world;</l>
+               <l>I would haue all dull <hi>Poet</hi>-haters know it,</l>
+               <l>They shall be soule-bound, and in darknesse hurld,</l>
+               <l>A thousand yeares (as <hi>Sathan</hi> was, their fyre)</l>
+               <l>Ere any, worthie the <hi>poetique</hi> name,</l>
+               <l>(Might I, that warme but at the <hi>Muses</hi> fire,</l>
+               <l>Presume to guard it) should let deathlesse <hi>Fame</hi>
+               </l>
+               <l>Light halfe a beame of all her hundred eyes,</l>
+               <l>At his dimme taper, in their memories.</l>
+               <l>Flie, flie, you are too neere; so, odorous flowers</l>
+               <l>Being held too neere the sensor of our sense,</l>
+               <l>Render not pure, nor so sincere their powers,</l>
+               <l>As being held a little distance thence.</l>
+               <l>O could the world but ●e●●e how sweet a touch</l>
+               <l>The Knowledge hath, which is in loue with goodnesse,</l>
+               <l>(If <hi>Poesie</hi> were not rauished so much,</l>
+               <l>And her compos'de rage, held the simplest woodnesse,</l>
+               <l>Though of all heats, that temper humane braines,</l>
+               <l>Her● euer was most subtle, high, and holy,</l>
+               <l>First binding sauage liues, in ciuile chaines:</l>
+               <l>Solely religious, and adored solely,</l>
+               <l>If was felt this) they would not thinke a loue,</l>
+               <l>That giues it selfe, in her, did vanities giue;</l>
+               <l>Who is (in earth, though low) in worth aboue,</l>
+               <l>Most able t'honour life, though least to liue.</l>
+               <l>And so <hi>good Friend,</hi> safe passage to thy freight,</l>
+               <l>To thee a long peace, through a vertuous strife,</l>
+               <l>In which, lets both contend to <hi>vertues</hi> height,</l>
+               <l>Not making <hi>fame</hi> our obiect, but <hi>good life.</hi>
+               </l>
+               <closer>
+                  <signed>GEOR. CHAPMAN.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <pb facs="6"/>
+               <head>To his worthy friend, the Author, H. HOLLAND.</head>
+               <l>IN that, this booke doth deigne SEIANVS name,</l>
+               <l>Him vnto more, then CAESARS loue, it brings:</l>
+               <l>For, where he could not with ambition's wings,</l>
+               <l>One quill doth heaue him to the height of fame.</l>
+               <l>Yee great-ones though (whose ends may be the same)</l>
+               <l>Know, that, how euer we doe flatter kings,</l>
+               <l>Their fauours (like themselues) are fading things,</l>
+               <l>With no lesse enuie had, then lost with shame.</l>
+               <l>Nor make your selues lesse honest then you are,</l>
+               <l>To make our author wiser then he is:</l>
+               <l>Ne of such crimes accuse him, which I dare</l>
+               <l>By all his <hi>Muses</hi> sweare, be none of his.</l>
+               <l>The men are not, some faults may be these times:</l>
+               <l>He acts those men, and they did act these crimes.</l>
+            </lg>
+            <lg>
+               <head>Amicissimo, &amp; meritissimo BEN: IONSON.</head>
+               <l>QVod arte ansus et hic tuâ, <hi>Poeta,</hi>
+               </l>
+               <l>Si anderent hominum Dei{que} iuris</l>
+               <l>Consulti, veteres sequi aemulariér{que},</l>
+               <l>O omnes saperemus ad salutem.</l>
+               <l>His sed sunt veteres araneosi;</l>
+               <l>Tam nemo veterum est sequutor, vt tu</l>
+               <l>Illos quòd sequeris nou●tor audis.</l>
+               <l>Factamen quod agis; tui{que} primâ</l>
+               <l>Libricanitie induantur horâ:</l>
+               <l>Nam chartis pueritiae est neganda,</l>
+               <l>Nascuntúr{que} senes, oportet, illi</l>
+               <l>Libri, queis dare vis perennitatem.</l>
+               <l>Priscis, ingenium facit, labér{que}</l>
+               <l>Te parem; ho● superes, vt &amp; futuros,</l>
+               <l>Ex nostrâ vitiositate sumas,</l>
+               <l>Quâ priscos superamus, &amp; futuros.</l>
+               <closer>
+                  <signed>I. D.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <head>AD VTRAMQVE ACADEMIAM, DE BENIAMIN IONSONIO.</head>
+               <l>HIc ille est primus, qui doctum drama <hi>Britannis,</hi>
+               </l>
+               <l>
+                  <hi>Graiorum</hi> antiqua, &amp; <hi>Latij</hi> monimenta Theatri,</l>
+               <l>
+                  <hi>Tanquam explorator</hi> versans, foelicibus ausis</l>
+               <l>Prebebit: Magnis coeptis <hi>Gemina astra</hi> fauete.</l>
+               <l>Alterutrâ veteres contenti laude: <hi>Cothurnum</hi> hic,</l>
+               <l>At{que} pari <hi>soccum</hi> tractat <hi>Sol scenicus</hi> arte,</l>
+               <l>Das <hi>VOLPONE</hi> iocos, fletus <hi>SEIANE</hi> dedisti.</l>
+               <l>At si <hi>IONSONIAS</hi> mulctatas limite <hi>Musas</hi>
+               </l>
+               <l>Angustâ plangent quiquam: Vos, dicite, contrà,</l>
+               <l>O nimiùm miseros quibus <hi>ANGLIS ANGLICA</hi> lingua</l>
+               <l>Aut non sat nota est; aut queis (sen trans mare natis)</l>
+               <l>Hand nota omnino: Vegetet cum tempore Vates,</l>
+               <l>Mutabit patri●m, fiêt{que} ipse <hi>ANGLVS APOLLO.</hi>
+               </l>
+               <closer>
+                  <signed>E. BOLTON.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <pb facs="7"/>
+               <head>
+                  <note place="marg" anchored="true">Vpon his Foxe.</note>To my deare friend, M. BEN: IONSON.</head>
+               <l>IF it might stand with <hi>iustice,</hi> to allow</l>
+               <l>The swift conuersion of all follies; now,</l>
+               <l>Such is my <hi>mercy,</hi> that I could admit</l>
+               <l>All sorts should equally approue the wit</l>
+               <l>Of this thy euen worke: whose growing fame</l>
+               <l>Shall raise thee high, and thou it, with thy name▪</l>
+               <l>And did not manners, and my loue command</l>
+               <l>Me to forbeare to make those vnderstand,</l>
+               <l>Whom thou, perhaps, hast in thy wiser doome</l>
+               <l>Long since, firmely resolu'd, shall neuer come</l>
+               <l>To know more then they doe; I would haue showne</l>
+               <l>To all the world, the art, which thou alone</l>
+               <l>Hast taught our tongue, the rules of time of place,</l>
+               <l>And other rites, deliuer'd, with the grace</l>
+               <l>Of <hi>comick</hi> stile, which only, is farre more,</l>
+               <l>Then any <hi>English</hi> stage hath knowne before.</l>
+               <l>But, since our subtle gallants thinke it good</l>
+               <l>To like of nought, that may be vnderstood,</l>
+               <l>Lest they should be disprou'd; or haue, at best,</l>
+               <l>Stomacks so raw, that nothing can digest</l>
+               <l>But what's obscene, or barkes: Let vs desire</l>
+               <l>They may continue, simply, to admire</l>
+               <l>Fine <hi>clothes,</hi> and strange <hi>words;</hi> &amp; may liue, in age,</l>
+               <l>To see themselues ill brought vpon the stage,</l>
+               <l>And like it. Whilst thy bold, and knowing Muse</l>
+               <l>Contenes al praise, but such as thou wouldst chuse</l>
+               <closer>
+                  <signed>FRANC. BEAVMONT.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <head>VPON THE SILENT WOMAN.</head>
+               <l>HEare you bad writers, and though you not see,</l>
+               <l>I will informe you where you happy bee:</l>
+               <l>Prouide the most malicious thoughts you can,</l>
+               <l>And bend them all against some priuate man,</l>
+               <l>To bring him, not his vices, on the stage,</l>
+               <l>Your enuie shall be clad in so poore rage,</l>
+               <l>And your expressing of him shall be such,</l>
+               <l>That he himselfe shall thinke he hath no touch.</l>
+               <l>Where he that strongly writes, although he meane</l>
+               <l>To scourge but vices in a labour'd scene,</l>
+               <l>Yet priuate faults shall be so well exprest</l>
+               <l>As men doe act hem, that each priuate brest,</l>
+               <l>That ●●●des these errors in it selfe, shall say,</l>
+               <l>He meant me, not my vices, in the play.</l>
+               <closer>
+                  <signed>FRANC. BEAVMONT.</signed>
+               </closer>
+            </lg>
+            <lg>
+               <head>
+                  <note place="marg" anchored="true">Vpon his Ca|tiline.</note>To my friend M. BEN: IONSON.</head>
+               <l>IF thou had'st itch'd after the wild applause</l>
+               <l>Of common people, and had'st made thy lawes</l>
+               <l>In writing, such, as catch'd at present voice,</l>
+               <l>I should commend the thing, but not thy choise.</l>
+               <l>But thou hast squar'd thy rules, by what is good;</l>
+               <l>And art, three ages yet, from vnderstood:</l>
+               <l>And (I dare say) in it, there lyes much wit</l>
+               <l>Lost, till thy readers can grow vp to it.</l>
+               <l>Which they can ne're out-grow, to find it ill,</l>
+               <l>But must fall backe againe, or like it still.</l>
+               <closer>
+                  <signed>FRANC. BEAVMONT.</signed>
+               </closer>
+            </lg>
+         </div>
+      </body>
+    
+  </text>
+</TEI>

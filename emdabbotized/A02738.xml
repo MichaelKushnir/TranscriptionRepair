@@ -1,0 +1,3501 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A02738">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">[A comedy concernynge thre lawes, of nature Moses, &amp; Christ, corrupted by the sodomytes. Pharysees and Papystes. Compyled by Iohan Bale. Anno M. D.XXXVIII.].</title>
+            <author>Bale, John, 1495-1563.</author>
+         </titleStmt>
+         <extent>47 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2004 August (TCP phase 1)</date>
+            <idno type="marc">99846359</idno>
+            <idno type="stc">STC (2nd ed.) 1287.</idno>
+            <idno type="stc">Greg, I, 24.</idno>
+            <idno type="vid">11321</idno>
+            <idno type="DLPS">A02738</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">[A comedy concernynge thre lawes, of nature Moses, &amp; Christ, corrupted by the sodomytes. Pharysees and Papystes. Compyled by Iohan Bale. Anno M. D.XXXVIII.].</title>
+                  <title type="alt">Comedy concernynge thre lawes</title>
+                  <title type="alt">Comedy concernynge thre lawes.</title>
+                  <title type="alt">Three laws.</title>
+                  <author>Bale, John, 1495-1563.</author>
+               </titleStmt>
+               <extent>[104] p.</extent>
+               <publicationStmt>
+                  <pubPlace>[[Wesel] :</pubPlace>
+                  <publisher>Anno M. D. XXXVIII, and lately inprented per Nicolaum Bamburgensem [i.e. Dirik van der Straten],</publisher>
+                  <date>1538 [i.e. 1548?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>In verse.</p>
+                  </note>
+                  <note>
+                     <p>Title from Greg.</p>
+                  </note>
+                  <note>
+                     <p>Imprint from colophon is false; actual printer's name and suggested publication date from STC.</p>
+                  </note>
+                  <note>
+                     <p>Signatures: A-F G4.</p>
+                  </note>
+                  <note>
+                     <p>Imperfect: lacks title page.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the British Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>Moralities, English -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="play">
+            <pb facs="1"/>
+            <pb facs="1"/>
+            <head>A Comedye concernynge thre lawes, Compyled by Iohan Bale.</head>
+            <div type="prologue">
+               <head>Baleus prolocutor.</head>
+               <lg>
+                  <l>_IN ych commen welthe, most hygh prche||mynence,</l>
+                  <l>Is due vnto lawes for soch commodyte,</l>
+                  <l>As is had by them, For as Cicero geueth sentence</l>
+                  <l>Where as is no lawe, can no good order be,</l>
+                  <l>In nature, in people, in howse nor yet in citie.</l>
+                  <l>The bodyes aboue, are vnderneth a lawe,</l>
+                  <l>Who coulde rule the worlde, were it not vndre awe?</l>
+                  <l>Lyke as Chrysippus, full clarkely doth dyffyne,</l>
+                  <l>Lawe is a teacher, of matters necessary,</l>
+                  <l>A knowledge of thynges, both naturall and deuyne</l>
+                  <l>Perswadynge all truth. dysswadynge all iniury.</l>
+                  <l>A gyfte of the lorde, deuoyde of all obprobry,</l>
+                  <l>An wholesom doctryne, of men dyscrete and wyse,</l>
+                  <l>A grace from aboue and a very heauenly practyse.</l>
+                  <l>Our heauenly maker, mannys lyuynge to dyrect,</l>
+                  <l>The lawes of Nature, of Bondage, and of Grace,</l>
+                  <l>Sent into thys worlde, with vycyousnesse infect,</l>
+                  <l>In all ryghteousnesse, to walke before hys face.</l>
+                  <l>But Infydelyte, so worketh in euery place,</l>
+                  <l>That vnder the heauens, no thynge is pure <hi>&amp;</hi> cleane,</l>
+                  <l>So moch the people, to hys peruerse wayes leane.</l>
+                  <l>The lawe of Nature, hys fylthy dysposycyon.</l>
+                  <l>
+                     <pb facs="2"/>Corrupteth with ydolles, and stynkynge Sodometry.</l>
+                  <l>The lawe of Moses, with Auaryce and Ambycyon.</l>
+                  <l>He also poluteth. And euer contynually,</l>
+                  <l>Christes lawe he defyleth. with cursed hypocresy,</l>
+                  <l>And with false doctryne, as wyll apere in presence,</l>
+                  <l>To the edyfyenge, of thys Christen audyence.</l>
+               </lg>
+               <lg>
+                  <l>Of Infydelyte, God royll hymself reuenge.</l>
+                  <l>With plages of water, of wylde fyre and of sworde.</l>
+                  <l>And of hys people, due homage he wyll chalenge.</l>
+                  <l>Euer to be knowne. for their God and good lorde,</l>
+                  <l>After that he hath, those lawes agayne restorde,</l>
+                  <l>To their first bewtye commyttynge them to fayth.</l>
+                  <l>He is now in place, marke therfor what he sayth.</l>
+               </lg>
+            </div>
+            <div n="1" type="act">
+               <head>Actus Primus.</head>
+               <sp>
+                  <speaker>Deus Pater.</speaker>
+                  <lg>
+                     <l>_I Am Deus pater, a substaunce inuy|syble,</l>
+                     <l>All one with the sonne, <hi>&amp;</hi> holy ghost in essence.</l>
+                     <l>To Angell and Man. I am incom|prehensyble,</l>
+                     <l>A strength infynyte, a ryghteousnesse, a prudence,</l>
+                     <l>A mercy, a goodnesse, a truth, a lyfe, a sapyence.</l>
+                     <l>In heauen and in earth, we made all to our glory,</l>
+                     <l>Man euer hauynge, in a specyall memory.</l>
+                     <l>Man I saye agayne, whych is our owne elect,</l>
+                     <l>
+                        <pb facs="2"/>Our chosen creature, and seruaunt ouer all,</l>
+                     <l>Aboue the others, peculyarly select,</l>
+                     <l>To do vs homage and onour name to call,</l>
+                     <l>Acknowledgynge vs for hys author princypall.</l>
+                     <l>Indued hym we haue, with gyftes of specyall grace</l>
+                     <l>And lawes wyll we sende, to gouerne hym in place.</l>
+                  </lg>
+                  <lg>
+                     <l>Steppe fourih ye iii. lawes, for gydaūce of Mākynde</l>
+                     <l>Whom most inteyrly, in hart we loue and fauer.</l>
+                     <l>And teach hym to walke, accordynge to our mynde,</l>
+                     <l>In clennes of lyfe, and in a gentyll behauer.</l>
+                     <l>Depely instruct hym, our mysteryes to sauer,</l>
+                     <l>By the workes of fayth, all vyces to seclude,</l>
+                     <l>And preserue in hym, our godly symylytude.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex</speaker>
+                  <l>Of duty we ought, alwayes to be obeysaunt,</l>
+                  <l>To your cōmaundement, for iust it is and plesaunt,</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Your preceptes are true, <hi>&amp;</hi> of perpetuall strength</l>
+                  <l>On iustyce grounded, as wyll apere at length.</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>Proudenesse ye abhorre, with lyke inconuenyentes,</l>
+                  <l>All they are cursed, wych go frō your cōmaūedemētes</l>
+               </sp>
+               <sp>
+                  <speaker>Deus Pater.</speaker>
+                  <l>Our lawes are all one, though yow do thre apere</l>
+                  <l>Lyke wyse as our wyll, is all one in effect.</l>
+                  <l>But bycause that Man, in hymself is not clere</l>
+                  <l>To tyme and persone, as now we haue respect,</l>
+                  <l>
+                     <pb facs="3"/>And as thre teachers, to hym we yow dyrect,</l>
+                  <l>Though ye be but one. In token that we are thre,</l>
+                  <l>Dystyncte in persone, and one in the deyte.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>We consydre that, for as concernynge Man,</l>
+                  <l>Foure seuerall tymes, are moch to be respected.</l>
+                  <l>Of Innocency first, of hys transgressyon than,</l>
+                  <l>Than the longe season, wherin he was afflycted,</l>
+                  <l>Fynally the tyme, wherin he was redemed.</l>
+                  <l>Of pleasure is the first, the seconde of exyle.</l>
+                  <l>The third doth ponnysh, the fort doth reconcyle,</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Whā Angell was made, thys lawe he had by <hi>&amp;</hi> by,</l>
+                  <l>To serue yow hys lorde, and with laudes to prosecute</l>
+                  <l>Thys lawe was geuen Man, in tyme of innocency,</l>
+                  <l>In no wyse to eate, of the forbydden frute.</l>
+                  <l>These two lawes broken, both they were destytute,</l>
+                  <l>Of their first fredome, to their most hygh decaye,</l>
+                  <l>Tyll your only sonne, ded mānys whole raūsome paye</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>Whan Angell in heauen, and Man in paradyse,</l>
+                  <l>Those lawes had brokē. The lawe of wycked Sathā</l>
+                  <l>Impugned your lawes, by craft <hi>&amp;</hi> subtyle practyse.</l>
+                  <l>Where yow sayd. Eate not. He sayd vnto the womā,</l>
+                  <l>Eate, Ye can not dye, As Godes ye shall be than.</l>
+                  <l>By thys first of all, your lawdes Man proued true.</l>
+                  <l>And Sathans lawe false, whych he now dayly rue.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus pater.</speaker>
+                  <lg>
+                     <pb facs="3"/>
+                     <l>Lete hym thā beware, how he our lawes neglect</l>
+                     <l>Only to Angell, and Man we gaue lyberte,</l>
+                     <l>And they onlye fell, becommynge a frowarde sect.</l>
+                     <l>Not by our mocyon. but their owne vanyte.</l>
+                     <l>For that we gaue them, to their felycyte,</l>
+                     <l>Abused they haue, to their perpetuall euyll.</l>
+                     <l>Man is now mortall and Angell become a deuyll.</l>
+                  </lg>
+                  <lg>
+                     <l>Lose Man we wyll not, though he frō vs doth fal</l>
+                     <l>Our loue towardes hym, wyll be moch better than so</l>
+                     <l>Thu lawe of Nature, teache thu hym first of all,</l>
+                     <l>Hys lorde God to knowe, and that is ryght to do.</l>
+                     <l>Charge and enforce hym, in the wayes of vs to go,</l>
+                     <l>Thu lawe of Moses, And Christes lawe fynally</l>
+                     <l>Rayse hym and saue hym, to our perpetuall glory▪</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>For tyme of exyle, than I must be hys teacher.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus Pater.</speaker>
+                  <l>Yea, for thre ages, both gyde and gouerner.</l>
+                  <l>From Adam to Noah, from Noah, to Abraham,</l>
+                  <l>And than to Moses, whych is the sonne of Amram,</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Where must I remayne, for the tyme I shall be here?</l>
+               </sp>
+               <sp>
+                  <speaker>Deus Pater.</speaker>
+                  <l>In the hart of Man, hys conscyence for to stere,</l>
+                  <l>To ryghteouse lyuynge, and to a iust beleue,</l>
+                  <l>In token wherof, thys hart to the I geue.</l>
+                  <stage>Hic pro suo signo cor ministrat,</stage>
+                  <l>
+                     <pb facs="4"/>Thu shalt want no grace, to confort hym with all,</l>
+                  <l>If he to the fayth, of my first promyse fall.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Then my course is next, for tyme of hys pōnishment●</l>
+               </sp>
+               <sp>
+                  <speaker>Deus Pater.</speaker>
+                  <l>For thre ages more, to the must he consent.</l>
+                  <l>From Moses to Dauid frō thens to the Iewes exyle</l>
+                  <l>And so fourth to Christ, whych wyll Man reconcyle</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Where shall I swete lorde, for that same seasō dewell</l>
+               </sp>
+               <sp>
+                  <speaker>Deus Pater.</speaker>
+                  <l>With soch harde rulers, as wyll the people compell.</l>
+                  <l>Our mynde to fulfyll, withuot vayne gaudes of fables</l>
+                  <l>For a sygne of thys, holde these same stony tables.</l>
+                  <stage>Hic pro signo lapideas dat ei tabulas.</stage>
+                  <l>All they that obserue, our lawes inuyolablye,</l>
+                  <l>Shall euery where prospere, increase and multyplye</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex</speaker>
+                  <l>Then I perceyue well, my course is last of all.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus Pater</speaker>
+                  <l>What though it b● so? yet art thu pryncypall,</l>
+                  <l>Our all the worlde, thy beames shalt thu extende,</l>
+                  <l>And styll contynue, tyll the worlde be at an ende.</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>Where shall I father, for that same tyme perseuer?</l>
+               </sp>
+               <sp>
+                  <speaker>Deus Pater.</speaker>
+                  <l>With the faythfull <unclear>foet</unclear>, must thu contynue euer.</l>
+                  <l>Thu shalt my people, returne from farre exyle,</l>
+                  <l>And for euermore, to my grace reconcyle.</l>
+                  <l>
+                     <pb facs="4"/>Take thys precyouse boke, for a token euydent.</l>
+                  <l>A seale of my couenaunt, and a lyuynge testament.</l>
+                  <stage>Hic pro signo datei nouum testamentum</stage>
+                  <lg>
+                     <l>They that beleue it shall lyue foreuermore,</l>
+                     <l>And they that do not, wyll rue their folye sore,</l>
+                  </lg>
+                  <lg>
+                     <l>Blessed shall he be, that yow my lawes wyll kepe.</l>
+                     <l>In cytie and felde, whether he do worke or slepe,</l>
+                     <l>Hys wyfe shall encreace, hys land shall frutyfye.</l>
+                     <l>And of hys enemyes, he shall haue vyctorye.</l>
+                     <l>The skye wyll geue rayne, whā seasonable tyme shall be,</l>
+                     <l>The workes of hys hādes, shall haue prosperyte.</l>
+                     <l>Cursed shall they be, that wyll not our lawes fulfyll,</l>
+                     <l>Without and within, at market and at myll.</l>
+                     <l>Of corne and cattell, they shall haue non increase,</l>
+                     <l>Within their owne howse, shall sorowes neuer cease</l>
+                     <l>Neuer shall they be, without byle, botche, or blayne,</l>
+                     <l>The pestylence <hi>&amp;</hi> poxe, wyll worke thē deadly payne,</l>
+                  </lg>
+                  <lg>
+                     <l>Shewe thys vnto Man, <hi>&amp;</hi> byd hym take good hede,</l>
+                     <l>Of our ryghteousnesse, to stande alwayes in drede.</l>
+                     <l>We vysyte the synne. and the great abhomynacyon▪</l>
+                     <l>Of the wycked sort, to thirde and fort generacyon.</l>
+                     <l>Thu lawe of Nature, instruct hym first of all,</l>
+                     <l>Thu lawe of Moses, correct hym for hys fall,</l>
+                  </lg>
+                  <lg>
+                     <l>And thu lawe of Christ, geue hym a godly mynde.</l>
+                     <l>Rayse hym vnto grace, <hi>&amp;</hi> saue hym from the fynde.</l>
+                     <l>
+                        <pb facs="5"/>Our heauenly blessynge, be with yow euery chone,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Omnes simul.</speaker>
+                  <l>All prayse and glory, to your maieste alone.</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>Here styll to tarry, I thynke it be your mynde.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>My offyce ye knowe, is to instruct Mankynde.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Than God be with yow, we leaue ye here behynde,</l>
+               </sp>
+               <trailer>Finit Actus primus</trailer>
+            </div>
+            <div n="2" type="act">
+               <head>Incipit Actus secundus.</head>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <stage>Exeunt.</stage>
+                  <lg>
+                     <l>THe lawe in effect. is a teacher generall,</l>
+                     <l>What is to be done. <hi>&amp;</hi> what to be layed asyde</l>
+                     <l>But as touchynge me the first lawe naturall</l>
+                     <l>A knowledge I am whom God in Man doth hyde,</l>
+                     <l>In hys whole workynge, to be to hym a gyde,</l>
+                     <l>To honour hys God and seke hys neybers helth,</l>
+                     <l>A great occasyon, of peace and publyque welth,</l>
+                  </lg>
+                  <lg>
+                     <l>A sore charge I haue, Mankynde to ouer se.</l>
+                     <l>And to instruct hym, hys lorde God to obaye.</l>
+                     <l>That lorde of heauen graunt, I may so do my dewtie</l>
+                     <l>That he be pleased, and Man brought to a staye.</l>
+                     <l>Hys bryttle nature, hys slyppernesse to waye,</l>
+                     <l>
+                        <pb facs="5"/>Moch doth prouoke me. But if God set to hande,</l>
+                     <l>He shall do full wel. For non maye hym withstande,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>
+                     <gap reason="music"/>Brom, brom, brom, brom, brom. Bye brom bye <gap reason="music"/>bye. Bromes for shoes and pow●h●rynges, botes and <gap reason="music"/>buskyns for newe bromes / Brom, brom, brom.</l>
+                  <lg>
+                     <l>Marry God geue ye good euen,</l>
+                     <l>And the holy man saynt Steuen,</l>
+                     <l>Sende ye a good newe yeare.</l>
+                     <l>I wolde haue brought ye the paxe.</l>
+                     <l>Or els anymage of waxe.</l>
+                     <l>If I had knowne ye heare.</l>
+                  </lg>
+                  <lg>
+                     <l>I wyll my selfe so handle.</l>
+                     <l>That ye shall haue a candle,</l>
+                     <l>Whan I come hyther agayne.</l>
+                     <l>At thys your soden mocyon.</l>
+                     <l>I was in soch deuocyon,</l>
+                     <l>
+                        <pb facs="6"/>I had nere broke a vayne.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>That myght haue done ye smart.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>No, no, it was but a fart,</l>
+                  <l>For pastyme of my hart,</l>
+                  <l>I wolde ye had it forsoth.</l>
+                  <l>In serupp or in sowse,</l>
+                  <l>But for noyaunce of the howse,</l>
+                  <l>For easement of your toth,</l>
+                  <l>Now haue I my dreame in dede,</l>
+                  <l>God sende me wele to spede,</l>
+                  <l>And swete saynt Antony.</l>
+                  <l>I thought I shuld mete a knaue,</l>
+                  <l>And now that fortune I haue</l>
+                  <l>Amonge thys cumpany.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Why dost thu call me knaue?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>I sayd. I wolde be your slaue,</l>
+                  <l>Yf your grace wolde me haue▪</l>
+                  <l>And do your worke anon,</l>
+                  <l>I wolde so rubbe your botes,</l>
+                  <l>Therofe shuld from the rotes,</l>
+                  <l>Whan ye shuld do them on,</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Thu art dysposed to mocke,</l>
+                  <l>Sone mayst thu haue a knocke,</l>
+                  <l>
+                     <pb facs="6"/>If thu with me so game.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Your mouth shall kysse my docke,</l>
+                  <l>Your tonge shall it vnlocke,</l>
+                  <l>But I saye what is your name?</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>I am the lawe of Nature.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>I thought so by your stature,</l>
+                  <l>And by your auncyent gature,</l>
+                  <l>Ye were of soch a rature,</l>
+                  <l>Whan I first heard ye speke.</l>
+                  <l>Ye commoned with God lately,</l>
+                  <l>And now ye are hys bayly,</l>
+                  <l>Mankynde to rule dyscretely,</l>
+                  <l>Welcome syr huddy peke.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>If thu vse soch vyllanye.</l>
+                  <l>I shall dysplease the trulye.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>By the masse I the defye,</l>
+                  <l>With thy whole cuckoldrye,</l>
+                  <l>And all that with the holde.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Why dost thu me blaspheme,</l>
+                  <l>And so vngodly deme?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>For by thys blessed boke,</l>
+                  <l>
+                     <pb facs="7"/>I went ye had bene a coke,</l>
+                  <l>And that made me so bolde,</l>
+                  <l>For a coke ones hauynge age</l>
+                  <l>With ● face demure and sage,</l>
+                  <l>And auncyent to beholde.</l>
+                  <l>As yow haue here in place,</l>
+                  <l>With a hearde vpon your face,</l>
+                  <l>What is he but a coke olde?</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Ye are dysposed to dallye,</l>
+                  <l>To leape and ouersallye,</l>
+                  <l>The compasse of your wytte?</l>
+                  <l>I counsell ye yet in season,</l>
+                  <l>Sumwhat to folowe reason,</l>
+                  <l>And gnawe vpon the byrte,</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Then after our great madnesse,</l>
+                  <l>Lete vs fall to some sadnesse,</l>
+                  <l>And tell me what ye in tende,</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <lg>
+                     <l>God sent me vnto Man,</l>
+                     <l>To do the best I can,</l>
+                     <l>To cause hym to amende.</l>
+                  </lg>
+                  <lg>
+                     <l>Soche creatures as want reason.</l>
+                     <l>My rules obye yche season,</l>
+                     <l>And that in euery bondre.</l>
+                     <l>The sunne and mone doth mone,</l>
+                     <l>
+                        <pb facs="7"/>With the other bodyes aboue,</l>
+                     <l>And neuer breake their ordre.</l>
+                  </lg>
+                  <lg>
+                     <l>The trees and herbes doth growe,</l>
+                     <l>The see doth ebbe and flowe,</l>
+                     <l>And varyeth not a nayle.</l>
+                     <l>The floudes and wholsom sprynges,</l>
+                     <l>With other naturall thynges,</l>
+                     <l>Their course do neuer fayle</l>
+                  </lg>
+                  <lg>
+                     <l>The beastes and byrdes engendre,</l>
+                     <l>So do the fyshes tendre,</l>
+                     <l>Accordynge to their kynde</l>
+                     <l>Alonlye man doth fall,</l>
+                     <l>From good lawes naturall,</l>
+                     <l>By a frowarde wycked mynde.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <lg>
+                     <l>Now wyll I proue ye a lyar,</l>
+                     <l>Next cosyne to a fryar,</l>
+                     <l>And on the gall ye rubbe.</l>
+                     <l>Ye saye thy folowe your lawe,</l>
+                     <l>And varyee not a strawe,</l>
+                     <l>Whych is a tale of a tubbe / </l>
+                  </lg>
+                  <lg>
+                     <l>The sunne ones in the clyppes</l>
+                     <l>Awaye the clerenesse slyppes</l>
+                     <l>And darkened is the daye,</l>
+                     <l>Of the planetee influence,</l>
+                     <l>
+                        <pb facs="8"/>Aryseth the pestylence.</l>
+                     <l>To manye ones decaye,</l>
+                  </lg>
+                  <lg>
+                     <l>Doth not the see so rage,</l>
+                     <l>That non can it aswage,</l>
+                     <l>And swellowe in towne and streate?</l>
+                     <l>The ayre whych geueth breathe,</l>
+                     <l>Sumtyme infecteth to deathe,</l>
+                     <l>By hys most pestylent heate.</l>
+                  </lg>
+                  <lg>
+                     <l>The beastes oft vndemure,</l>
+                     <l>Whych were left to mannys cure,</l>
+                     <l>Wyll hym sumtyme deuoure.</l>
+                     <l>Thus are your rules forgote,</l>
+                     <l>As thynges of slendre note,</l>
+                     <l>In creatures daye and houre,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <lg>
+                     <l>It is the wyll of God,</l>
+                     <l>To vse them as a rod,</l>
+                     <l>Of hys iust ponnyshment.</l>
+                     <l>Whan Man doth not regarde,</l>
+                     <l>The lorde nor hys rewarde,</l>
+                     <l>Nor to hys lawes consent.</l>
+                  </lg>
+                  <lg>
+                     <l>They neuer are so ronnysh,</l>
+                     <l>But when God doth Man ponnysh.</l>
+                     <l>For hys vnhappynesse.</l>
+                     <l>From God they neuer fall,</l>
+                     <l>
+                        <pb facs="8"/>Nor from lawes naturall,</l>
+                     <l>Doynge hys busynesse.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>And yow are the same lawe,</l>
+                  <l>That kepe them vndre awe,</l>
+                  <l>By youy most polytyke wytt?</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <lg>
+                     <l>God hath appoynted me,</l>
+                     <l>Mankynde to ouerse,</l>
+                     <l>And in hys hart to sytt.</l>
+                     <l>To teache hym, for to knowe,</l>
+                     <l>In the creatures hygh and lowe,</l>
+                     <l>Hys gloryouse mageste,</l>
+                     <l>And on hys name to call,</l>
+                     <l>Or power celestyall,</l>
+                     <l>In hys necessyte,</l>
+                  </lg>
+                  <lg>
+                     <l>To thynke hym euerlastynge,</l>
+                     <l>And wonderfull in workynge,</l>
+                     <l>And that he createth all,</l>
+                     <l>Both gouerne and conserue.</l>
+                     <l>From them he neuer swerue,</l>
+                     <l>That to soch fayth wyll fall.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>In dede here is good sport.</l>
+                  <l>But why do yow resort,</l>
+                  <l>Vnto thys present place?</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>
+                     <pb facs="9"/>Man alwayes to exhort,</l>
+                  <l>To seke all helth and confort,</l>
+                  <l>Of the only God of grace.</l>
+                  <l>First in the hartes reioyce,</l>
+                  <l>And than with open voyce,</l>
+                  <l>To worshypp hym alone.</l>
+                  <l>Knowledgynge hys deyte,</l>
+                  <l>Hys power and eternyte.</l>
+                  <l>Whan he shall make hys mone▪</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas:</speaker>
+                  <l>I shall kepe ye as well from that,</l>
+                  <l>As my grandame kept her cat,</l>
+                  <l>From lyckynge of her creame.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>What wylt thu kepe me fro?</l>
+                  <l>Tell me ere thu farther go,</l>
+                  <l>Me thynke thu art in a dreame.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>From causynge of Mankynde.</l>
+                  <l>To geue to God hys mynde,</l>
+                  <l>Or hys obedyence.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>What is thy name? tell me.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Marry Infydelyte,</l>
+                  <l>Whych neuer wyll agre,</l>
+                  <l>To your benyuolence.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>
+                     <pb facs="9"/>Thu cannyst not kepe me from man.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Yet wyll I do the best I can.</l>
+                  <l>To trouble ye now and than.</l>
+                  <l>That ye shall not preuayle.</l>
+                  <l>I wyll cause ydolatrye.</l>
+                  <l>And most vyle sodomye,</l>
+                  <l>To worke so on gracyouslye,</l>
+                  <l>Ye shall of your purpose fayle.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>I defye the wycked fynde,</l>
+                  <l>With thy whole venemouse fynde,</l>
+                  <l>God putteth now in my mynde,</l>
+                  <l>To fle thy cumpanye.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Ye are so blessed a Saynt,</l>
+                  <l>And your self so wele can paynt,</l>
+                  <l>That I must me acquaynt,</l>
+                  <l>With yow no remedye.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Auoyde thu cruell enemye,</l>
+                  <l>I wyll non of the trulye,</l>
+                  <l>But shurne thy cumpanye,</l>
+                  <l>As I wolde the deuyll of hell.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <stage>Exit.</stage>
+                  <lg>
+                     <l>And are ye gone in dede?</l>
+                     <l>Small wyttam be your spede,</l>
+                     <l>
+                        <pb facs="10"/>Except ye take good hede,</l>
+                     <l>I wyll be next of your counsell.</l>
+                  </lg>
+                  <lg>
+                     <l>Now wyll I worke soch masterye,</l>
+                     <l>By craftes and sutyle polycye,</l>
+                     <l>The lawe of nature to poyson.</l>
+                     <l>With pestylent ydolatrye,</l>
+                     <l>And with most stynkynge sodomye,</l>
+                     <l>That he shall haue no Foyson.</l>
+                  </lg>
+                  <lg>
+                     <l>Where are these vyllen knaues?</l>
+                     <l>The deuyls owne kyd●yn slaues,</l>
+                     <l>That them I can not se.</l>
+                     <l>I coniure yow both here,</l>
+                     <l>And charge ye to apere,</l>
+                     <l>Lyke two knaues as ye be.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Sodomismus.</speaker>
+                  <stage>Monachus.</stage>
+                  <l>Ambo is a name full cleane,</l>
+                  <l>Knowe ye not what I meane?</l>
+                  <l>And are so good a clarke.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>By Tetragrammaton,</l>
+                  <l>I charge ye, apere anon,</l>
+                  <l>And come out of the darke.</l>
+               </sp>
+               <sp>
+                  <speaker>Sodomismus.</speaker>
+                  <stage>Intrantsimul.</stage>
+                  <l>Haue in than at a dash,</l>
+                  <l>With swash myry annet swash,</l>
+                  <l>Yet maye I not be to rash,</l>
+                  <l>
+                     <pb facs="10"/>For my holy orders sake.</l>
+               </sp>
+               <sp>
+                  <speaker>Idololatria.</speaker>
+                  <stage>Necromantic</stage>
+                  <l>Nor I sonne by my trouth,</l>
+                  <l>Cha caute a corage of slouth,</l>
+                  <l>And soch a comberouse couth,</l>
+                  <l>Ych wote not what to do.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>At Christmas and at Paske.</l>
+                  <l>ye maye daunce the deuyll a maske,</l>
+                  <l>Whyls hys great cawdron plawe.</l>
+                  <l>yow soch a prati mynyon.</l>
+                  <l>And yow now in relygyon,</l>
+                  <l>Soch two I neuer sawe.</l>
+                  <l>Is not thy name ydolatrye?</l>
+               </sp>
+               <sp>
+                  <speaker>Sodomismus.</speaker>
+                  <l>Yes, an wholsom woman verelye.</l>
+                  <l>And wele seane in Phylosophye,</l>
+                  <l>Mennys fortunes she can tell.</l>
+                  <l>She can by sayenge her Aue marye,</l>
+                  <l>And by other charmes of sorcerye,</l>
+                  <l>Ease men of toth ake by and bye,</l>
+                  <l>Yea, and fatche the deuyll from hell.</l>
+                  <l>She can mylke the cowe and hunte the foxe,</l>
+                  <l>And helpe men of the ague and poxe,</l>
+                  <l>So they brynge moneye to the boxe,</l>
+                  <l>Whan they to her make mone.</l>
+                  <l>She can fatch agayne all that is lost,</l>
+                  <l>And drawe drynke out of a rotten post,</l>
+                  <l>
+                     <pb facs="11"/>Without the helpe of the holye Ghost.</l>
+                  <l>In workynge she is alone.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>What, sumtyme thu wert an he,</l>
+               </sp>
+               <sp>
+                  <speaker>Idololatria.</speaker>
+                  <l>Yea, but now ych am a she,</l>
+                  <l>And a good mydwife per de,</l>
+                  <l>Yonge chyldren can I charme.</l>
+                  <l>With whysperynges and whysshynges.</l>
+                  <l>With crossynges and with kyssynges</l>
+                  <l>With blasynges and with blessynges,</l>
+                  <l>That spretes do them no harme.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Then art thu lyke to Clisthenes,</l>
+                  <l>To Clodius and Euclides,</l>
+                  <l>Sardinapalus and Hercules,</l>
+                  <l>Whych themselues oft transfourmed.</l>
+                  <l>Into a womannys lyckenes,</l>
+                  <l>With agylyte and quyckenes,</l>
+                  <l>But they had Venus syckenes,</l>
+                  <l>As writers haue declared.</l>
+               </sp>
+               <sp>
+                  <speaker>Sodomismus.</speaker>
+                  <l>Lete her tell fourth her matter.</l>
+               </sp>
+               <sp>
+                  <speaker>Idololatria.</speaker>
+                  <lg>
+                     <l>With holye oyle and watter,</l>
+                     <l>I can so cloyne and clarter,</l>
+                     <l>That I can at the latter,</l>
+                     <l>Manye suttylters contryue.</l>
+                     <l>
+                        <pb facs="11"/>I can worke wyles in battle,</l>
+                     <l>If I do ones but spattle,</l>
+                     <l>I can make corne and cattle,</l>
+                     <l>That they shall neuer thryue.</l>
+                  </lg>
+                  <lg>
+                     <l>Whan ale is in the fatt,</l>
+                     <l>If the bruar please me nart,</l>
+                     <l>The east shall fall downe flat.</l>
+                     <l>And neuer haue any strength.</l>
+                     <l>No man shall tonne nor bake,</l>
+                     <l>Nor meate in season make,</l>
+                     <l>If I agaynst hym take,</l>
+                     <l>But lose hys labour at length.</l>
+                  </lg>
+                  <lg>
+                     <l>Their wellys I can vp drye,</l>
+                     <l>Cause trees and herbes to dye.</l>
+                     <l>And slee all pullerye,</l>
+                     <l>Whereas men doth me moue.</l>
+                     <l>I can make stoles to daunce,</l>
+                     <l>And carthen pottes to praunce.</l>
+                     <l>That non shall them enhaunce,</l>
+                     <l>And do but cast my gloue.</l>
+                  </lg>
+                  <lg>
+                     <l>I haue charmes for the plowgh,</l>
+                     <l>And also for the cowgh,</l>
+                     <l>She shall geue mylke ynowgh,</l>
+                     <l>So longe as I am pleased.</l>
+                     <l>Apace the mylle shall go,</l>
+                     <l>
+                        <pb facs="12"/>So shall the credle do,</l>
+                     <l>And the musterde querrie also,</l>
+                     <l>No man therwith dyseased.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Thou art thu for me fytt.</l>
+               </sp>
+               <sp>
+                  <speaker>Sodomismus.</speaker>
+                  <l>The woman hath a wytt,</l>
+                  <l>And by her gere can syxt,</l>
+                  <l>Though she be sumwhat olde.</l>
+                  <l>It is myne owne swete bullye,</l>
+                  <l>My muskyne and my mullye,</l>
+                  <l>My gelouer and my cullye,</l>
+                  <l>Yea, myne owne swete hart of Golde.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>I saye yet not to holde.</l>
+               </sp>
+               <sp>
+                  <speaker>Idololatria.</speaker>
+                  <l>Peace fondelinge, tush a button,</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas:</speaker>
+                  <lg>
+                     <l>What wylt thu fall to mutton?</l>
+                     <l>And playe the hungry glutton,</l>
+                     <l>Afore thys cumpanye?</l>
+                     <l>Ranke loue is full of heate,</l>
+                     <l>Where hungry dogges lacke meate,</l>
+                     <l>They wyll durty puddynges eate,</l>
+                     <l>For wante of befe and conye.</l>
+                  </lg>
+                  <lg>
+                     <l>Hygh, mynyon for monye,</l>
+                     <l>As good is draffe as honye,</l>
+                     <l>
+                        <pb facs="12"/>Whan the daye is whote and sonnye,</l>
+                     <l>By the blessed rode of kent.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Sodomismus.</speaker>
+                  <l>Saye fourth your mynde good mother,</l>
+                  <l>For thys man is non other,</l>
+                  <l>But our owne louynge brother.</l>
+                  <l>And is very wele content.</l>
+               </sp>
+               <sp>
+                  <speaker>Idololatria.</speaker>
+                  <lg>
+                     <l>I neuer mysse but paulter,</l>
+                     <l>Our blessed ladyes psaulter,</l>
+                     <l>Before saynt Sauers aulter,</l>
+                     <l>With my bedes ones a daye.</l>
+                     <l>And thys is my commen cast,</l>
+                     <l>To heare Masse first or last.</l>
+                     <l>And the holy frydaye fast,</l>
+                     <l>In good tyme mowt I it saye.</l>
+                  </lg>
+                  <lg>
+                     <l>With blessynges of Saynt Germyne,</l>
+                     <l>I wyll me so determyne,</l>
+                     <l>That neyther foxe nor vermyne,</l>
+                     <l>Shall do my chuckens harme.</l>
+                     <l>For your gese seke saynt Legearde,</l>
+                     <l>And for your duckes saynt Lenarde,</l>
+                     <l>For horse take Moyses yearde,</l>
+                     <l>There is no better charme.</l>
+                  </lg>
+                  <lg>
+                     <l>Take me a napkyn folte,</l>
+                     <l>With the byas of a bolte,</l>
+                     <l>
+                        <pb facs="13"/>For the healynge of a colte,</l>
+                     <l>No better thynge can be.</l>
+                     <l>For lampes and for bottes,</l>
+                     <l>Take me saynt Wylfrides knottes.</l>
+                     <l>And holy saynt Thomas lottes,</l>
+                     <l>On my lyfe I warande ye.</l>
+                  </lg>
+                  <lg>
+                     <l>For the cowgh take Iudas care,</l>
+                     <l>With the parynge of a peare,</l>
+                     <l>And drynke them without feare</l>
+                     <l>If ye wyll haue remedy,</l>
+                     <l>Thre syppes are for the hyckock,</l>
+                     <l>And vj. more for the chyckock,</l>
+                     <l>Thus maye my praty pyckock,</l>
+                     <l>Recouer by and by.</l>
+                  </lg>
+                  <lg>
+                     <l>If ye can not slepe but slumber.</l>
+                     <l>Geue otes vnto saynt Vncumber,</l>
+                     <l>And beanes in a serten number.</l>
+                     <l>Vnto saynt Blase and saynt Blythe▪</l>
+                     <l>Geue onyons to saynt Cutlake,</l>
+                     <l>And garlyke to saynt Cyryake,</l>
+                     <l>If ye wyll shurne the head ake,</l>
+                     <l>Ye shall haue them at quene hythe.</l>
+                  </lg>
+                  <lg>
+                     <l>A dramme of a shepes tyrdle.</l>
+                     <l>And good saynt Frances gyrdle,</l>
+                     <l>With the hamlet of an hyrdle,</l>
+                     <l>
+                        <pb facs="13"/>Are wholesom for the pyppe.</l>
+                     <l>Besyden these charmes afore,</l>
+                     <l>I haue feates many more,</l>
+                     <l>That I kepe styll in store,</l>
+                     <l>Whome now I ouer hyppe.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>It is a spoart I trowe,</l>
+                  <l>To heare how she out blowe,</l>
+                  <l>Her witche craftes on a rowe,</l>
+                  <l>By the Masse I must nedes smyle.</l>
+                  <l>Now I praye the lete me knowe,</l>
+                  <l>What sedes that thu cannyst sowe.</l>
+                  <l>Mankynde to ouer throwe,</l>
+                  <l>And the lawe of nature begyle.</l>
+               </sp>
+               <sp>
+                  <speaker>Sodomismus.</speaker>
+                  <lg>
+                     <l>My selfe I so behaue,</l>
+                     <l>And am so vyle a knaue.</l>
+                     <l>As nature doth depraue,</l>
+                     <l>And vtterlye abheire.</l>
+                     <l>I am soche a vyce trulye,</l>
+                     <l>As God in hys great furye.</l>
+                     <l>Ded ponnysh most terryblye,</l>
+                     <l>In Sodome and in Gomoire.</l>
+                  </lg>
+                  <lg>
+                     <l>In the fleshe I am a fyre,</l>
+                     <l>And soch a vyle desyre,</l>
+                     <l>As brynge men to the myre,</l>
+                     <l>Of fowle concupyscence.</l>
+                     <l>
+                        <pb facs="14"/>We two togyther beganne,</l>
+                     <l>To sprynge and to growe in manne,</l>
+                     <l>As Thomas of Aquyne scanne,</l>
+                     <l>In the fort boke of hys sentence.</l>
+                  </lg>
+                  <lg>
+                     <l>I dwelt amonge the Sodomytes,</l>
+                     <l>The Beniamytes, and Madyanytes,</l>
+                     <l>And now the popysh hypocrytes,</l>
+                     <l>Embrace me euery where.</l>
+                     <l>I am now become all spyrytuall,</l>
+                     <l>For the clergye at Rome and ouer all,</l>
+                     <l>For want of wyues to me doth fall,</l>
+                     <l>To God they haue no feare.</l>
+                  </lg>
+                  <lg>
+                     <l>The chyldren of God I ded so moue,</l>
+                     <l>That they the doughters of men ded loue,</l>
+                     <l>Workynge soch wayes as ded not behoue,</l>
+                     <l>Tyll the floude them ouer went.</l>
+                     <l>With Noes sonne Thā I was half ioyned,</l>
+                     <l>Whan he hys dronken father scorned.</l>
+                     <l>In the Gomorytes I also reigned,</l>
+                     <l>Tyll the hand of God them brent.</l>
+                  </lg>
+                  <lg>
+                     <l>I was with Onan not vnacquaynted,</l>
+                     <l>Whan he on the grounde hys increase shed,</l>
+                     <l>For me hys bretherne Ioseph accused,</l>
+                     <l>As Genesis doth tell.</l>
+                     <l>Dauid ones warned all men of vs two,</l>
+                     <l>
+                        <pb facs="14"/>Do not as mules and horses wyll do,</l>
+                     <l>Confounded be they that to ymages go,</l>
+                     <l>Those are the wayes to hell.</l>
+                  </lg>
+                  <lg>
+                     <l>Both Esaye and Ezechiel.</l>
+                     <l>Both Hieremy and Daniel,</l>
+                     <l>Of vs the abhomynacyons tell,</l>
+                     <l>With the prophetes euerychon,</l>
+                     <l>For vs two God strake with fyre <hi>&amp;</hi> watter.</l>
+                     <l>With battayle, with plages <hi>&amp;</hi> fearfull matter,</l>
+                     <l>With paynefull exyle, than at the latter,</l>
+                     <l>Into Egipt and Babylon.</l>
+                  </lg>
+                  <lg>
+                     <l>As Paule to the Romanes testyfye,</l>
+                     <l>The gentyles after Idolatrye,</l>
+                     <l>Fell to soch bestyall Sodomye,</l>
+                     <l>That God ded them forsake.</l>
+                     <l>Who foloweth vs as he confesse,</l>
+                     <l>The kyngedom of God shall neuer possesse,</l>
+                     <l>And as the Apocalyps expresse,</l>
+                     <l>Shall synke to the burnynge lake.</l>
+                  </lg>
+                  <lg>
+                     <l>We made Thalon and Sophocles,</l>
+                     <l>Thamiras, Nero, Agathocles,</l>
+                     <l>Tibernius and Aristoteles,</l>
+                     <l>Themselues to vse vnnaturallye</l>
+                     <l>I taught Aristo and Fulmus,</l>
+                     <l>Semiramis and Hortensius,</l>
+                     <l>
+                        <pb facs="15"/>Crathes, Hyliscus, and Pontius,</l>
+                     <l>Beastes to abuse most monstru●uslye.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Marry thu art the deuyll hymselfe,</l>
+               </sp>
+               <sp>
+                  <speaker>Idolotria.</speaker>
+                  <l>If ye knewe how he coulde pelfe,</l>
+                  <l>Ye wolde saye he were soch an elfe.</l>
+                  <l>As non vnder heauen were els</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>The fellawe is wele decked,</l>
+                  <l>Dysgysed and wele necked.</l>
+                  <l>Both knaue balde and pyepecked.</l>
+                  <l>He lacketh nothynge but beles.</l>
+               </sp>
+               <sp>
+                  <speaker>Sodomismus.</speaker>
+                  <lg>
+                     <l>In the first age I beganne,</l>
+                     <l>And so perseuerde with manne,</l>
+                     <l>And styll wyll if I canne,</l>
+                     <l>So longe as he endure.</l>
+                     <l>If monkysh sectes renue,</l>
+                     <l>And popysh prestes contynue,</l>
+                     <l>Whych are of my retynue.</l>
+                     <l>To lyue I shall be sure.</l>
+                  </lg>
+                  <lg>
+                     <l>Cleane Marryage they forbyd,</l>
+                     <l>Yet can not their wayes be hyd,</l>
+                     <l>Men knowe what hath betyd,</l>
+                     <l>Whan they haue bene in parell.</l>
+                     <l>Oft haue they buryed quycke,</l>
+                     <l>
+                        <pb facs="15"/>Soch as were neuer sycke,</l>
+                     <l>Full many a propre trycke,</l>
+                     <l>They haue to helpe their quarell.</l>
+                  </lg>
+                  <lg>
+                     <l>In Rome to me they fall,</l>
+                     <l>Both Byshopp and Cardynall.</l>
+                     <l>Monke, fryre, prest and all,</l>
+                     <l>More ranke they are than antes.</l>
+                     <l>Example in pope Iulye,</l>
+                     <l>Whych sought to haue in hys furye,</l>
+                     <l>Two laddes, and to vse them beastlye,</l>
+                     <l>From the Cardynall of Nantes.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <lg>
+                     <l>Well, yow two are for my mynde,</l>
+                     <l>Steppe fourth and do your kynde.</l>
+                     <l>Leaue neuer a poynt be hynde,</l>
+                     <l>That maye corrupt in man,</l>
+                     <l>The lawe wryt in hys hart.</l>
+                     <l>In hys flesh do thy hart. <stage>Ad Sodo.</stage>
+                     </l>
+                     <l>And hys sowle to peruart, <stage>Ad Idol.</stage>
+                     </l>
+                     <l>Do thu the best thu can.</l>
+                  </lg>
+                  <lg>
+                     <l>Here haue I pratye gynnes.</l>
+                     <l>Both brouches, beades and pynnes,</l>
+                     <l>With soch as the people wynnes,</l>
+                     <l>Vnto ydolatrye.</l>
+                     <l>Take thu part of them here, <stage>Ad Idol.</stage>
+                     </l>
+                     <l>Beades, rynges, and other gere,</l>
+                     <l>
+                        <pb facs="16"/>With their abhomynacyon.</l>
+                     <l>Idolatry with wyckednesse,</l>
+                     <l>And Sodomy with fylthynesse.</l>
+                     <l>To hys most vtter dampnacyon.</l>
+                  </lg>
+                  <lg>
+                     <l>These two wyll hym so vse,</l>
+                     <l>Ich one in their abuse,</l>
+                     <l>And wrappe hym in soch euyll.</l>
+                     <l>That by their wycked cast,</l>
+                     <l>He shall be at the last</l>
+                     <l>A morsell for the deuyll.</l>
+                  </lg>
+                  <lg>
+                     <l>Now vnderneth her noynges,</l>
+                     <l>Idolatry hath kynges,</l>
+                     <l>With their nobylyte.</l>
+                     <l>Both dukes, lordes, knyghtes and earles.</l>
+                     <l>Fayre ladyes with their pearles.</l>
+                     <l>And the whole commenalte.</l>
+                  </lg>
+                  <lg>
+                     <l>Within the bownes of Sodomye.</l>
+                     <l>Doth dwell the spirytuall clergye,</l>
+                     <l>Pope, Cardinall and pryst.</l>
+                     <l>Nonne, Chanon, Monke and fryre,</l>
+                     <l>With so many els as do desyre,</l>
+                     <l>To reigne vndre Antichrist.</l>
+                  </lg>
+                  <lg>
+                     <l>Detestynge matrymonye,</l>
+                     <l>They lyue abhomynablye,</l>
+                     <l>
+                        <pb facs="16"/>And burne in carnall lust.</l>
+                     <l>Shall I fell ye farthernewes?</l>
+                     <l>At Rome for prelates are stewed,</l>
+                     <l>Of both kyndes. Thys is iust.</l>
+                  </lg>
+                  <lg>
+                     <l>The lawe of Nature I thynke,</l>
+                     <l>Wyll not be able to wynke,</l>
+                     <l>Agaynst the assaultes of them.</l>
+                     <l>They hauynge so hygh prelates.</l>
+                     <l>And so manye great estates,</l>
+                     <l>From hens to Hierusalem.</l>
+                  </lg>
+                  <lg>
+                     <l>Pause now a lyttle whyle,</l>
+                     <l>Myne eares doth me begyle,</l>
+                     <l>If I heare not a sounde.</l>
+                     <l>●yen folke hath sped I gesse,</l>
+                     <l>It is so by the Messe,</l>
+                     <l>Awaye now wyll I rounde, <stage>Exit.</stage>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <lg>
+                     <l>I thynke ye maruele, to se soch alteracyon,</l>
+                     <l>At thys tyme in me, whom God left here so pure▪</l>
+                     <l>Of me it cometh not, but of mannys operacyon,</l>
+                     <l>Whome dayly the deuyll, to great synne doth allure,</l>
+                     <l>●nd hys nature is, full bryttle and vnsure.</l>
+                     <l>By hym haue I gote thys fowle dysease of bodye.</l>
+                     <l>And as ye se here, am now throwne in a leprye.</l>
+                  </lg>
+                  <lg>
+                     <l>I wrought in hys hart, as God bad ernestlye,</l>
+                     <l>
+                        <pb facs="17"/>Hym oft prouokynge, to loue God ouer all.</l>
+                     <l>With the inner powers, But that false Idolatrye.</l>
+                     <l>Hath hym peruerted, by slayghtes dyabolycall.</l>
+                     <l>And so hath Sodomye, through hys abuses carnall.</l>
+                     <l>That he is now lost, offendynge without measure.</l>
+                     <l>And I corrupted, to my most hygh dyspleasure.</l>
+                     <l>I abhorre to tell, the abusyons bestyall.</l>
+                     <l>That they daylye vse, whych boast their chastyte.</l>
+                     <l>Some at the aulter, to incontynency fall,</l>
+                     <l>In confessyon some, full beastly occupyed be.</l>
+                     <l>Amonge the close nonnes, reigneth thys enormyte.</l>
+                     <l>Soch chyldren slee they, as they chaunce for to haue.</l>
+                     <l>And in their preuyes, prouyde them of their graue.</l>
+                  </lg>
+                  <lg>
+                     <l>Ye Christen rulers, so yow for thys a waye,</l>
+                     <l>Be not illuded, by false hypocresye.</l>
+                     <l>By the stroke of God, the worlde wyll els decaye</l>
+                     <l>Permyt prestes rather, Gods lawfull remedye</l>
+                     <l>Than they shuld incurre, most bestyall Sodomye.</l>
+                     <l>Regarde not the pope, nor yet hys whorysh kyngedom</l>
+                     <l>For he is the master, of Gomor and of Sodome.</l>
+                     <l>With Man haue I bene, whych hath me thus de|fyled▪</l>
+                     <l>With Idolatrye, and vncleane Sodomye.</l>
+                     <l>And worthye I am, from God to be exyled,</l>
+                     <l>Pytie me yet lorde, of thy most bownteouse mercye.</l>
+                     <l>I wyll fourth <hi>&amp;</hi> mourne, tyll thu sende remedye</l>
+                     <l>Promyse hast thu made, to a gloryouse lyberte,</l>
+                     <l>To brynge heauē <hi>&amp;</hi> earth, thā wylt thu (I trust) re||store me.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="3" type="act">
+               <pb facs="17"/>
+               <head>Incipit Actus tertium.</head>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <lg>
+                     <l>THe lorde perceyuynge, hys first lawe thus co|rupted,</l>
+                     <l>With vncleane vyces, sent me hys lawe of Moses,</l>
+                     <l>To se hym for synne, substancyallye corrected.</l>
+                     <l>And brought in agayne, to a trade of godlynes.</l>
+                     <l>For I am a lawe, of rygour and of hardenes.</l>
+                     <l>I strayghtly commaunde, and if it be not done.</l>
+                     <l>I thretten. I curse, and slee in my anger sone.</l>
+                  </lg>
+                  <lg>
+                     <l>To God I requyre, a perfyght obedyence,</l>
+                     <l>Condempnynge all soch, as do it not in effect.</l>
+                     <l>I shewe what synne is, I burdē sore mānys cōscyence</l>
+                     <l>To hym am I death, whan hys lyfe is infect.</l>
+                     <l>Yet if he take hede, to Christ I hym dyrect,</l>
+                     <l>Forgeuenesse to haue. with lyght, helth <hi>&amp;</hi> saluacyon,</l>
+                     <l>Least he shuld dyspayre, <hi>&amp;</hi> fall into dampnacyon.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha,</l>
+                  <l>A pastyme quoth A, I knowe not the tyme nor whan,</l>
+                  <l>I ded laugh so moch, sene I was an honest man.</l>
+                  <l>Beleue me and ye wyll, I neuer sawe soch a spott,</l>
+                  <l>I wolde ye had bene there, that ye myght haue made the fort.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Where woldest haue had met tell me good brother 〈◊〉.</l>
+               </sp>
+               <sp>
+                  <pb facs="18"/>
+                  <speaker>Infidelitas.</speaker>
+                  <l>At the Mynorasse ser, late yester nyght at complyne.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>At the Mynorasse? Why. what was there a do?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>For soch an other, wolde I to Southampton go.</l>
+                  <l>In dede yesterdaye, it was their dedycacyon</l>
+                  <l>And thydre in Gods name, came I to se the fashyon.</l>
+                  <l>An olde fryre stode forth, with spectacles on hys nose</l>
+                  <l>Begynnynge thys Anteme, a my fayth I do not glose</l>
+                  <l>
+                     <gap reason="music"/>Lapides preciosi.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>And what ded folowe of thys?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>I shall tell ye ser by Gods blys.</l>
+                  <l>Then came Dame Isbell, an olde Nōne <hi>&amp;</hi> a calme,</l>
+                  <l>Crowynge lyke a capon, and thus began the Psalme.</l>
+                  <l>
+                     <gap reason="music"/>Saepe expugnauerunt me a iuuentute mea.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>And what includeth thys mysterye?</l>
+               </sp>
+               <sp>
+                  <pb facs="18"/>
+                  <speaker>Infidelitas.</speaker>
+                  <l>A symple probleme of bytcherye.</l>
+                  <l>Whan the fryre begōne, Afore the Nonne,</l>
+                  <l>To synge of precyouse stones.</l>
+                  <l>From my youth saye she, They haue confort me,</l>
+                  <l>As it had bene for the nones.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>I assure the playne, I set not by soch gaudee,</l>
+                  <l>Thy vsage shewe the, to be brought vp amōge baudes</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <lg>
+                     <l>It was a good world, whā we had soch wholsō storyes</l>
+                     <l>Preached in our churche, on sondayes <hi>&amp;</hi> other feryes.</l>
+                     <l>With vs was it merye,</l>
+                     <l>Whan we went to Berye.</l>
+                     <l>And to our lady of grace,</l>
+                     <l>To the bloude of hayles,</l>
+                     <l>Where no good chere fayles,</l>
+                     <l>And other holye place.</l>
+                  </lg>
+                  <lg>
+                     <l>Whan the prestes myght walke.</l>
+                     <l>And with yonge wyues talke.</l>
+                     <l>Than had we chyldren plentye.</l>
+                     <l>Than cuckoldes myght leape,</l>
+                     <l>A score on a heape,</l>
+                     <l>Now is there not one to twentye.</l>
+                     <l>Whan the Monkes were fatte.</l>
+                     <l>And ranke as a ratte.</l>
+                     <l>With bellyes lyke a Bore.</l>
+                     <l>
+                        <pb facs="19"/>Then all thynges were dere,</l>
+                     <l>Both befe, breade and bere,</l>
+                     <l>Now grudge the iourers sore.</l>
+                  </lg>
+                  <lg>
+                     <l>Whan Byshoppes myght burne.</l>
+                     <l>And from the truth turne.</l>
+                     <l>The syllye symple sowle.</l>
+                     <l>Than durst no man creake,</l>
+                     <l>Open mouthe nor speake.</l>
+                     <l>Of Christ nor yet of Powle.</l>
+                  </lg>
+                  <lg>
+                     <l>Now are the knaues bolde.</l>
+                     <l>With Scriptures to holde,</l>
+                     <l>And teache them euery where.</l>
+                     <l>The carter, the sowter.</l>
+                     <l>The bodger, ther clowter,</l>
+                     <l>That all wyll awaye I fere.</l>
+                  </lg>
+                  <lg>
+                     <l>At vs so they pulle.</l>
+                     <l>Our lyuynges are dulle,</l>
+                     <l>We are now lyke to fall.</l>
+                     <l>If we do not fyght,</l>
+                     <l>For the churches ryght,</l>
+                     <l>By the Messe we shall lose all.</l>
+                  </lg>
+                  <l>But I praye ye ser, tell me what is your name▪</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>The lawe of Moses, to lye I were to blame.</l>
+               </sp>
+               <sp>
+                  <pb facs="19"/>
+                  <speaker>Infidelitas.</speaker>
+                  <l>In these same partyes, what do ye now intende?</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <lg>
+                     <l>Mankynde to refourme, that he hys lyfe amende.</l>
+                     <l>I shewe what synne is, <hi>&amp;</hi> what thynge pleaseth god,</l>
+                     <l>I confort the iust, and the yll I ponnysh with rod.</l>
+                     <l>The cōmen people, haue thought it commodyouse,</l>
+                     <l>Dyuerse Goddes to haue, with rytes superstycyouse.</l>
+                  </lg>
+                  <lg>
+                     <l>My cōmaundement is, to seke one God alone,</l>
+                     <l>And in all their nedes, to hym to make their mone.</l>
+                     <l>Amonge the Gentyles, was it thought nō iniurye,</l>
+                     <l>If a man wer hurt, to slee hys aduersarye.</l>
+                     <l>Thys thynge I forbyd, and saye, thu shalt not kyll,</l>
+                     <l>Lawe is the reuenger, the man maye do no yll.</l>
+                  </lg>
+                  <lg>
+                     <l>Some persones there are, that inordynatlye loue.</l>
+                     <l>Those are perswaded, all thynges them to behoue.</l>
+                     <l>Whych I inhybyte, saynge contynuallye,</l>
+                     <l>No rape shalt thu do, nor yet commyt aduouterye.</l>
+                     <l>Thu shalt do no theft, nor couete that is not thyne.</l>
+                     <l>Agaynst thy neyber, shalt thu not falsely dyffyne.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>We maye do nothynge, if we be pynned in thus.</l>
+                  <l>Neyther yow nor God, to that hardetrade shall bryn|ge vs.</l>
+                  <l>We must haue one God, <hi>&amp;</hi> worshypp hym alone?</l>
+                  <l>Marry that in dede, wolde make a Turke to grone.</l>
+                  <l>
+                     <pb facs="20"/>If we be stryken, we maye not stryke agayne?</l>
+                  <l>A proper bargayne, and dyscretelye vttered playne.</l>
+                  <l>For cumpanyes sake, ye saye we maye not loue?</l>
+                  <l>I defye your worst, and to yow there is my gloue.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>What, thu wylt not fyght? thy wyttes are better thā so</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>In the quarell of loue, I shall proue ye ere I go,</l>
+                  <l>By the Messe I thynke, to put ye to your fence.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Thu were moch better, to kepe thy pacyence.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Naye by cockes sowle frynd, I must lay ye on the coate</l>
+                  <l>In loues cause to fyght, ye maye sone haue me a floate</l>
+                  <l>Naye, haue at your pysche, defende ye if ye maye.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Soch a fole art thu, as seke thyne owne decaye.</l>
+                  <l>If Iones meddle, to the it wyll be death.</l>
+                  <l>Dedyst thu neuer hear that lawe sleath ī hys wreath</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>By the blessed lorde, than wyll I playe Robsons part.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Whye, what part wylt thu playe?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>By cockes sowle geue ouer. so sone as I sele smart.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>It wyll be to late, if I ones cupple with the.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>
+                     <pb facs="20"/>Then lete me alone, and we shall sone agre,</l>
+                  <l>And I shall be glad, to be acquaynted with ye.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Acquayntaunce good fellawe, thu mayst sone haue of <hi>me.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>The worst fault I haue, I am hastye now and thā,</l>
+                  <l>But it is sone gone, I toke it of a woman.</l>
+                  <l>But what meane those tables, that ye haue in your <hi>hande</hi>?</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Kepe sylence a whyle, and thu shalt vnderstande.</l>
+                  <l>Thre thynges I declare, the first are the preceptes morall.</l>
+                  <l>Next, the lawes iudycial, <hi>&amp;</hi> last the rytes ceremonyal</l>
+                  <l>The morall preceptes, are Gods cōmaundemētes ten.</l>
+                  <l>Whych ought euermore, to be obserued of all men.</l>
+                  <l>The lawes of Nature, the morall preceptes declare,</l>
+                  <l>And y^e plesaūt workes, to God they teache <hi>&amp;</hi> prepare</l>
+                  <l>They sturre man to fayth, <hi>&amp;</hi> prouoke hym also to loue</l>
+                  <l>To obeye, to sorne, and to worshypp God aboue.</l>
+                  <l>In two stonye tables, God wrote them first of all,</l>
+                  <l>That they shuld remayne, as thynges contynuall.</l>
+                  <l>The first hath but thre, whych tēde to Gods hygh ho|nour,</l>
+                  <l>Geuē hath the seconde, <hi>&amp;</hi> they concerne our neybour.</l>
+                  <l>The first doth expounde, the first lawe naturall.</l>
+                  <l>The next the other, makynge them very formall.</l>
+                  <l>In sprete is the first, y^t we shuld God honour <hi>&amp;</hi> loue.</l>
+                  <l>To outward workynge, the seconde doth vs moue.</l>
+                  <l>
+                     <pb facs="21"/>Forbyddynge all wrōges, preseruynge iust marryage,</l>
+                  <l>Norryshynge true peace, and other godly vsage.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>What is the effect, of your lawes Iudycyall?</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Soch thynges to cōmaunde, as are cyuyle or tēporall.</l>
+                  <lg>
+                     <l>From vyce to refrayne, and outwarde iniurye,</l>
+                     <l>Quyet to conserue, and publyque honestie.</l>
+                     <l>These are to support, the lawes of the seconde table.</l>
+                     <l>Ceremonyall rytes are also commendable,</l>
+                     <l>In holy dayes, garmētes, temples <hi>&amp;</hi> consecracyons,</l>
+                     <l>Sacryfyces <hi>&amp;</hi> vowes, with offerynges <hi>&amp;</hi> expiacyōs</l>
+                  </lg>
+                  <lg>
+                     <l>Whych are vnto Christ, as fygurs, types <hi>&amp;</hi> shadowes</l>
+                     <l>As Paule doth declare, in hys pystle to the Hebrues.</l>
+                     <l>These are only fygures, <hi>&amp;</hi> outwarde testymonyes,</l>
+                     <l>No man is perfyght, by soch darke ceremonyes.</l>
+                     <l>Only perteyne they, vnto the thirde cōmaundement,</l>
+                     <l>Of the Sabboth daye, tyll Christ the lorde be present.</l>
+                  </lg>
+                  <l>In hys death endyng, the whole Iudaycal presthode.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Good dayes myght ye haue, ye speake it full wele by the rode.</l>
+                  <l>I am a poore lad, <hi>&amp;</hi> by my trouth bent ernestlye,</l>
+                  <l>To wayte vpon ye, and to be your very lackye.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>
+                     <pb facs="21"/>What art thu called, I praye the hartelye.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas:</speaker>
+                  <l>Graye fryre am I non, by the Messe I cā not flatter.</l>
+                  <l>I am Infydelyte, to tell the truth of the matter.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>And hast thu so longe, dyssembled thus with me▪</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Yea, for aduauntage, to smell out your subtylyte.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Auoyde hens I saye, thu false Infydelyte.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Naye that I wyll not, by Yngham Trynyte.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Wylt thu not in dede, thā wyll I fet hyther the poure</l>
+                  <l>Of iudges <hi>&amp;</hi> kynges, to subdue the withī thys houre.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <stage>Exit.</stage>
+                  <l>Soch knyghtes wyll I haue, as shall cōfounde thē all</l>
+                  <l>As Sadducees <hi>&amp;</hi> scrybes, with the sect pharysayeal</l>
+                  <l>By helpe of my chyldren Idolatry and Sodomye.</l>
+                  <l>The lawe of Nature, I kest ones in a leprye.</l>
+                  <l>I haue yet two more, Ambycyon <hi>&amp;</hi> Couetousnes.</l>
+                  <l>Whych wyll do as moch, to the lawe of Moses.</l>
+                  <l>Where are my whoresons, that they come not awaye.</l>
+               </sp>
+               <sp>
+                  <speaker>Auaritia.</speaker>
+                  <stage>Iurisconsultus.</stage>
+                  <l>Yea, whoreson on thy face, euen in thy best araye.</l>
+                  <l>I wyll thu knowe it, I am a worshypfull Doctour.</l>
+                  <l>A Scrybe in the lawe, and a profytable proctour.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>
+                     <pb facs="22"/>By wrastynge the text, to the scriptures sore decaye.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>And what wylt thu do, my fellawe Couetousnes?</l>
+               </sp>
+               <sp>
+                  <speaker>Auaritia.</speaker>
+                  <l>A vayle wyll I sprede, vpon the face of Moses,</l>
+                  <l>That nō shal perceyue, the clerenes of hys cōtenaūce.</l>
+                  <l>Whych is of the lawe, the meanyng <hi>&amp;</hi> true ordynaūce.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Why, what wyll ye saye, vnto y^e ten cōmaundemētes?</l>
+               </sp>
+               <sp>
+                  <speaker>Ambitio.</speaker>
+                  <lg>
+                     <l>We must poyson them, with wyll workes <hi>&amp;</hi> good in|tentes.</l>
+                     <l>Where as God doth saye, No siraunge goddes thu shalt haue,</l>
+                     <l>With Sayntes worshyppynge, that clause we wyll depraue.</l>
+                     <l>And though he cōmaunde, to make no carued ymage,</l>
+                     <l>For a good intent yet wyll we haue pylgrymage.</l>
+                     <l>Though he wyll vs not, to take hys name in vayne,</l>
+                     <l>With tradycyons yet, therunto wyll we constrayne.</l>
+                  </lg>
+                  <lg>
+                     <l>No Sabboth wyl we, with Gods worde sanctyfye,</l>
+                     <l>But with lyppe labour, and ydle ceremonye.</l>
+                     <l>To father and mother, we maye owe non obedyence,</l>
+                     <l>Our relygyon is, of so great excellence.</l>
+                     <l>Though we do not slee, yet maye we heretykes burne,</l>
+                     <l>If they wyll not sone, from holy scripture turne.</l>
+                     <l>What though it be sayd. Thu shalt do no fornycacyō,</l>
+                  </lg>
+                  <lg>
+                     <pb facs="22"/>
+                     <l>Yet wyll we mayntene, moch greatter abhomynacyon</l>
+                     <l>Though theft be forbyd, yet wyll we contynually,</l>
+                     <l>Robbe the poore people, through prayer <hi>&amp;</hi> purgatorye</l>
+                     <l>God hath inhybyted, to geue false testymonye,</l>
+                     <l>Yet we wyll condempne, the Gospell for heresye.</l>
+                  </lg>
+                  <lg>
+                     <l>We shuld not couete, our neybers howse nor wyfe,</l>
+                     <l>Hys seruaunt nor beast, yet are we therin most ryfe.</l>
+                     <l>Of mē make we swyne, by the draffe of our tradycyōs</l>
+                     <l>And cause thē nothynge, to regard but superstycyōs.</l>
+                     <l>As dogges vnresonable, on most vyle carren fede,</l>
+                     <l>So wyll we cause them, seke ydolles in their nede.</l>
+                  </lg>
+                  <l>And alwayes their groūde, shall be, for a good intēt.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas:</speaker>
+                  <l>More myscheues I trowe, the deuyll coulde not inuēt</l>
+                  <l>Than your two can do by the Messe ye are alone,</l>
+                  <l>Lyttle coulde I do, were ye ones from me gone,</l>
+                  <l>To the corruptynge. of the lawe of Moyses,</l>
+                  <l>Go forwarde therfor, in your deceytfulnes.</l>
+               </sp>
+               <sp>
+                  <speaker>Auaritia.</speaker>
+                  <lg>
+                     <l>With superstycyons, the Iewes ceremonyall lawes,</l>
+                     <l>I wyll so hādle, they shall not be worth ij. strawes.</l>
+                     <l>The lawes Iudycyall. through cawtels and delayes.</l>
+                     <l>I wyll also drowne, to all ryghteouse mēnys decayes</l>
+                     <l>To set thys forwarde, we must haue sophystrye,</l>
+                     <l>Phylosophye and Logyck, as scyence necessarye.</l>
+                     <l>The byshoppes must holde, their prestes in ignoraūce</l>
+                     <l>
+                        <pb facs="23"/>With longe latyne houres, least knowledge to them chaunce.</l>
+                     <l>Lete them haue lōge mattens, lōge euē songes <hi>&amp;</hi> lōge Masses.</l>
+                     <l>And that wyll make them, as dull as euer were asses.</l>
+                     <l>That they shall neuer, be able to prophecye,</l>
+                     <l>Or yet preach the truth, to our great iniurye.</l>
+                  </lg>
+                  <lg>
+                     <l>Lete the cloysterers, be brought vp euer in sylence,</l>
+                     <l>Without the scriptures, in payne of dysobedyēce.</l>
+                     <l>Se the laye people, praye neuer but in latyne,</l>
+                     <l>Lete them haue their Crede, and seruyce all in latyne</l>
+                     <l>That, a latyne beleue, maye make a latyne sowle,</l>
+                     <l>Lete them nothynge knowe, of Christ nor yet of powle</l>
+                  </lg>
+                  <lg>
+                     <l>If they haue Englysh, lete it be for aduaūtage,</l>
+                     <l>For pardons, for Syrges, for offerynges and pylgry|mage.</l>
+                     <l>I recken to make them, a newe Crede in a whyle,</l>
+                     <l>And all in Englysh, their conscyēce to begyle.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Rehearce vnto me, the Artycles of that Crede.</l>
+               </sp>
+               <sp>
+                  <speaker>Auaritia,</speaker>
+                  <l>The artycles are these, geue eare and take good hede</l>
+                  <l>First they shall beleue, in our holy father Pope,</l>
+                  <l>Next in hys decrees, and holy decretals.</l>
+                  <l>Then in holy church. with sencer, crosse and cope.</l>
+                  <l>In the Ceremonyes, and blessed Sacramētals.</l>
+                  <l>
+                     <pb facs="23"/>In purgatory then, in pardons and in trentals,</l>
+                  <l>In praynge to sayntes, and in saynt Frāces whoode,</l>
+                  <l>In our lady of Grace, and in the blessed roode.</l>
+                  <l>They shall beleue also, in rellyckes and relygyon,</l>
+                  <l>In our ladyes psalter, in fre wyll and good wurkes.</l>
+                  <l>In the ember dayes, and in the popes remyssyon,</l>
+                  <l>In bedes and in belles, not vsed of the turkes.</l>
+                  <l>In the golden Masses, agaynst soch spretes as lurkes</l>
+                  <l>With charmes and blessynges. Thys crede wyll bryn|ge in moneye.</l>
+                  <l>In Englysh therfor, we wyl it clarkely cōueye.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Yea, and burne the knaues, that wyll not beleue that, crede,</l>
+                  <l>That into the dytche, the blynde the blynde maye lede</l>
+               </sp>
+               <sp>
+                  <speaker>Ambitio,</speaker>
+                  <l>Then I holde it best, that we alwayes condempne,</l>
+                  <l>The Byble readers, least they our acres contempne.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Yea, neuer spare them, but euermore playe the bytar,</l>
+                  <l>Expressynge alwayes, the tropes and types of thy my|tar.</l>
+               </sp>
+               <sp>
+                  <speaker>Ambitio,</speaker>
+                  <l>Why, what dost thu thynke, my mytar to sygnyfy?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>The mouth of a wolfe, and that shall I proue by <hi>&amp;</hi> by.</l>
+                  <l>If thu stoupe downewarde. loo, se hom the wolfe doth gape.</l>
+                  <l>
+                     <pb facs="24"/>Redye to deuoure, the lambes, least any escape.</l>
+                  <l>But thy woluyshnesse, by thre crownes wyll I hyde,</l>
+                  <l>Makynge the a pope, <hi>&amp;</hi> a captayne of all pryde.</l>
+                  <l>That whan thu doest slee, soch as thy lawes contēyne</l>
+                  <l>Thu mayst saye, Nor I, but the powers ded them con||dempne.</l>
+                  <l>These Labels betoken the lawes of senon <hi>&amp;</hi> cannon</l>
+               </sp>
+               <sp>
+                  <speaker>Ambitio.</speaker>
+                  <l>I trowe thu woldest saye, the ij. lawes Cyuyle <hi>&amp;</hi> Ca|non.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>As I spake I thought, <hi>&amp;</hi> styll thynke by saynt Iohan</l>
+                  <l>Yea, persecute styll the instructers of the people.</l>
+                  <l>And thu Couetousnesse, lete no bell rynge ī steple,</l>
+                  <l>Without a profyght. Tush, take moneye euery whear</l>
+                  <l>So nygh clyppe and shaue, that thu leaue neuer a heare?</l>
+               </sp>
+               <sp>
+                  <speaker>Auaritia.</speaker>
+                  <l>I caused the pope, to take but now of late,</l>
+                  <l>Of the Graye fryres, to haue canonyzate,</l>
+                  <l>Franciscus de pola, thre thousād duckates and more,</l>
+                  <l>And as moch besydes he had not longe afore,</l>
+                  <l>For a Cardynall harte, of the same holy order,</l>
+                  <l>Thus drawe we to vs, great goodes frō euery border.</l>
+                  <l>Pope Clement the seuēth payed ones for hys papacye</l>
+                  <l>Thre hoored thousād, good duckates of lawful monye</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>I maruele how he, coulde come to so moch good.</l>
+               </sp>
+               <sp>
+                  <speaker>Auaritia.</speaker>
+                  <l>Yes, yes, by pollage, and by shedynge Christen blood.</l>
+                  <l>
+                     <pb facs="24"/>Crosers and mytars, in Rome are good merchandyce</l>
+                  <l>And all to lyttle, to maynteyne their pompe and vyce.</l>
+               </sp>
+               <sp>
+                  <speaker>Ambitio.</speaker>
+                  <l>The pope for whoredom, hath in Rome and Viterbye</l>
+                  <l>Of golde and syluer, a wonderfull substaūce yearlye</l>
+                  <l>Tush they be in Englande, that moch rather wolde to dwell,</l>
+                  <l>Whores in their dyoceses, than the readers of Chri|stes Gospell.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>They do the better, for by thē they maye haue profyght</l>
+                  <l>As for the other, do trouble them daye and nyght,</l>
+                  <l>Well, now steppe forewarde, and go do your busynes.</l>
+                  <l>To the corruptynge, of the lawe of Moyses.</l>
+               </sp>
+               <sp>
+                  <speaker>Auaritia.</speaker>
+                  <l>Doubt not but we shall, make hym a crepple blynde.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Synge then at our farwel, to recreate our mynde.</l>
+                  <stage>Finita cantiuncula exeunt ambo.</stage>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <lg>
+                     <l>Now am I left alone. And these, ii. merchaūtes gone,</l>
+                     <l>Their myschefes to conclude.</l>
+                     <l>I thynke within a whyle, They wyll trappe <hi>&amp;</hi> begyle</l>
+                     <l>The worthy lawe of Iude.</l>
+                     <l>Ambycyon first of all, With hys rytes bestiall,</l>
+                     <l>wyll make the people swyne.</l>
+                     <l>In draffe wyll he thē lede, And with tradycyōs fede</l>
+                     <l>
+                        <pb facs="25"/>Where they shall suppe or dyne.</l>
+                  </lg>
+                  <lg>
+                     <l>Couetousnes wyll warke, That many one shall barke,</l>
+                     <l>Lyke dogges agaynst the truth.</l>
+                     <l>Some shall Gods worde defyle, <hi>&amp;</hi> some wyll it reuyle</l>
+                     <l>Soch beastlynesse ensuth.</l>
+                  </lg>
+                  <lg>
+                     <l>Ambycyon hath thys houre All the whole spirytuall, poure</l>
+                     <l>And maye do what hym lust.</l>
+                     <l>Now couetousnesse doth rule, And hath both horse <hi>&amp;</hi> mule.</l>
+                     <l>All matters by hym dyscust.</l>
+                     <l>Now byshopryckes are solde, <hi>&amp;</hi> the holy ghost for gold</l>
+                     <l>The pope doth bye and sell.</l>
+                     <l>The truth maye not be tolde, vndre paynes manyfolde</l>
+                     <l>With sendynges downe to hell.</l>
+                     <l>The people prestes do famysh, And their goodes frō them rauysh.</l>
+                     <l>Yea, and all the worlde they blynde.</l>
+                     <l>All prynces do they mock, And robbe the syllye flocke</l>
+                     <l>Nothynge they leaue behynde.</l>
+                     <l>On the face of Moyses, A vayle they haue cast dou|ghtles.</l>
+                     <l>The lyght of the lawe to hyde.</l>
+                     <l>Least Mē to Christ shuld cōme, frō ceremonyes dōme</l>
+                     <l>As to their heauenly gyde.</l>
+                     <l>The lawe can neuer be, at anye lyberte.</l>
+                     <l>
+                        <pb facs="25"/>Where soch two enemyes raigne.</l>
+                     <l>Now is it tyme to walke, of thys more wyll I talke,</l>
+                     <l>whan I come hyther agayne.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <stage>Exit.</stage>
+                  <lg>
+                     <l>If pytie maye moue, your gentyll christen hartes,</l>
+                     <l>Lete it now sturre ye, to mourne thys heauye chasice.</l>
+                     <l>Two enemyes with me, haue played most wycked par||tes.</l>
+                     <l>And left me starke blynde, God knoweth to my sore greuaunce,</l>
+                     <l>And I thynke also, to your more hynderaunce.</l>
+                     <l>To leade yow to Christ somtyme, a gyde I was.</l>
+                     <l>Now am I so blynde, I can not do it, Alas.</l>
+                  </lg>
+                  <lg>
+                     <l>Most rygorouslye, those enemyes now of late.</l>
+                     <l>Ded fall vpon me, and spoyle me of my syght.</l>
+                     <l>One was Ambycyon, whych euer ought me hate,</l>
+                     <l>And Couetousnesse, the other enemye hyght.</l>
+                     <l>Now forsoth and God, in their most cruell spyght.</l>
+                     <l>The one made me blynde, the other made me lame,</l>
+                     <l>And whā they had done, ther at they had great game</l>
+                  </lg>
+                  <lg>
+                     <l>Thus a blynde crypple, I wander here alone,</l>
+                     <l>Abydynge the tyme, and grace of restauracyon,</l>
+                     <l>By the sonne of God To whom I make my mone,</l>
+                     <l>My cause to pytie, and graunt me supportacyon,</l>
+                     <l>Least I be left here, to vtter desolacyon,</l>
+                     <l>And extreme decaye, without any remedye.</l>
+                     <l>
+                        <pb facs="26"/>If he ded not helpe, of goodnesse and of mercye,</l>
+                  </lg>
+                  <lg>
+                     <l>Ye christen prynces, God hath geuen yow the poure,</l>
+                     <l>With scepture and swerde, all vyces to correct.</l>
+                     <l>Let not Ambycyon, nor Couetousnesse deuoure,</l>
+                     <l>Your faythfull subiectes, nor your offycers infect.</l>
+                     <l>Haue to your clergye, a dylygent respect</l>
+                     <l>And se they do not▪ corrupt the lawes of God,</l>
+                     <l>For that doth requyre, a terryble heauye rod.</l>
+                  </lg>
+                  <lg>
+                     <l>God gaue me to man, and left me ī tables of stone,</l>
+                     <l>That I of hardenesse, a lawe shuld specyfye,</l>
+                     <l>But the pharysees, corrupted me anone,</l>
+                     <l>And toke frō me cleane, the quyuernesse of bodye,</l>
+                     <l>With clerenesse of syght, <hi>&amp;</hi> other pleasures manye.</l>
+                     <l>Now wyll I to Christ, that he maye me restore,</l>
+                     <l>To more perfeccyon, than euer I had afore.</l>
+                  </lg>
+               </sp>
+               <trailer>Finit Actus tertius.</trailer>
+            </div>
+            <div n="4" type="act">
+               <head>Incipit Actus quartus.</head>
+               <sp>
+                  <speaker>Euangeliū.</speaker>
+                  <lg>
+                     <l>_VNfaythfulnesse hath, corrupted euery Lawe,</l>
+                     <l>To the gret decaye, of Adams poste|ryte.</l>
+                     <l>Were is nott for me, whych now do / hyther drawe,</l>
+                     <l>All flesh wolde perysh, no man shuld saued be.</l>
+                     <l>
+                        <pb facs="26"/>I am Christes Gospell, and infallyble veryte,</l>
+                     <l>Soch a power of God, as saueth all that beleue,</l>
+                     <l>No burdene nor yoke, that any man wyll greue.</l>
+                  </lg>
+                  <lg>
+                     <l>In the bloude of Christ, I am a full forgeuenesse,</l>
+                     <l>Where fayth is groūded, with a sure confydence.</l>
+                     <l>I am soch a grace, and so hygh tydynges of gladnesse,</l>
+                     <l>As rayse the synner, and pacyfye hys conscyence.</l>
+                     <l>I am sprete and lyfe, I am necessarye scyence.</l>
+                     <l>I requyre but loue for mānys iustyfycatyon,</l>
+                     <l>With a fayth in Christ, for hys helth and saluacyon,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Infide●itas.</hi>
+                  </speaker>
+                  <l>Gods bene son haue ye, it is ioye of your lyfe,</l>
+                  <l>I haue hearde of ye, and of my mastres your wyfe,</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>If thu heardest of me, it was by the voyce of God.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Naye, he that spake of ye, was sellynge of a Cod,</l>
+                  <l>In an oyster bote, a lyttle beyonde quene hythe,</l>
+                  <l>A northen man was he, <hi>&amp;</hi> b●sought ye to be blythe,</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>If he spake of me, he was some godly preacher,</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Naye ser by the roode, nor yet a wholsom teacher.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>After what maner, ded he speake of me? tell.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>He swore lyke a man, by all cōtentētes of the Gospell</l>
+                  <l>
+                     <pb facs="27"/>He swore and better swore, yea, he ded sweare <hi>&amp;</hi> swe|are agayne.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>That speakynge is soch, as procureth eternall payne.</l>
+                  <l>Wyll not the people, leaue that most wycked folye?</l>
+                  <l>And is so dampnable? To heare it I am sorye.</l>
+                  <l>But what dedyst thu meane, whā thu spakest of my wyfe?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Nothynge, but I thought, it was ioye of your lyfe,</l>
+                  <l>That ye were so good, to your neybers as ye are.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>Why, how good am I? thy fantasye declare.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Ye ease them amonge, if it be as I heare,</l>
+                  <l>Whan ye are a broade, there is fyne myry cheare.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>As thu art, thu speakest, after they hartes abundaūce</l>
+                  <l>For as the man is, soch in hys vtteraunce.</l>
+                  <l>My wyf● is the church, or christen congregacyon,</l>
+                  <l>Regenerate in sprete, doynge no vyle operacyon,</l>
+                  <l>Both cleane and holy, without eyther spott or wryncle</l>
+                  <l>The lambe with hys bloude, ded her wash <hi>&amp;</hi> be spryn||cle,</l>
+                  <l>Thys is not the church, of dysgysed hypocrytes</l>
+                  <l>Of apysh shauelynges, or papystycall sodomytes.</l>
+                  <l>Nor yet as they call it, a temple of lyme and stone.</l>
+                  <l>But, a lyuysh buyldynge, grounded in fayth alone,</l>
+                  <l>
+                     <pb facs="27"/>On the harde rocke Christ, whych is the sure founda|cyon.</l>
+                  <l>And of thys church some, do reigne in euery nacyon,</l>
+                  <l>And in all cōtrayes, though their nombre be but small</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Their nomber is soch, as hath rōne ouer all</l>
+                  <l>The same Danes are they, men prophecy of playne,</l>
+                  <l>Whych shuld ouer rōne, thys realme yet ones agayne.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>What Danes speakest thu of? thy meanynge shewe more clerlye.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Dane Iohan, Dane Robert, Dane Thomas, and Da||ne harrye.</l>
+                  <l>These same are those Danes, that laye with other mēnys wyues.</l>
+                  <l>And occupyco their lādes, to the detrymēt of their ly||ues.</l>
+                  <l>These are accounted, a great part of the churche,</l>
+                  <l>For in Gods seruyce, they honourablye wurche,</l>
+                  <l>Yellynge and cryenge, tyll their throtes are full sore.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū</speaker>
+                  <l>That church was descrybed, of Esaye longe afore.</l>
+                  <l>Thys people (sayth God) with ther lyppes honour me</l>
+                  <l>In vayne worshyp they teachynge mēnys fatuyte.</l>
+                  <l>Apparaunt is that church, and open to the eyes,</l>
+                  <l>Their worshyppynges are, in outwarde ceremonyes.</l>
+                  <l>That coūterfet church stādeth al by mēnys tradycyons</l>
+                  <l>Without the scriptures, and without the hertes af|feccyons.</l>
+                  <l>
+                     <pb facs="28"/>My church is secrete, and euermore wyll be,</l>
+                  <l>Adorynge the father, in sprete, and in veryte.</l>
+                  <l>By ●he worde of God, thys Church is ruled onlye,</l>
+                  <l>And doth not consyst, in outwarde ceremonye.</l>
+                  <l>Thys congregacyon, is the true Church mylytaūt</l>
+                  <l>These coūterfet de●a●des, are the very Church ma|lygnaunt.</l>
+                  <l>To whom Christ wyll saye, I knowe nō of your sort.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Moch are they to blame, that ther bretherne so report</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>Soch are no bretherne, but enemyes to Christes blode.</l>
+                  <l>As put saluacyon, in shauen crowne, mytar, or whode.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>I praye ye how lōge, haue your swete spowse cōtynued</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū</speaker>
+                  <l>Sens the begynnynge, and now is in Christ renued.</l>
+                  <l>Adam had promyse, of Christes incarnacyon,</l>
+                  <l>So had Abraham, with hys whole generacyon.</l>
+                  <l>Whych was vnto them, a preachynge of the Gospell,</l>
+                  <l>Into saluacyon, and delyueraunce from hell.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas</speaker>
+                  <l>By thys tyme I hope, ye haue a fayre increase?</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū</speaker>
+                  <l>She is not barren, but beareth and neuer cease.</l>
+                  <l>The Corinthes first epystle, hath thys clere testymony</l>
+                  <l>In Christo Iesu, per Euangelum vos genui.</l>
+                  <l>I haue begote yow, in Iesu Christ sayth powle,</l>
+                  <l>
+                     <pb facs="28"/>By the Gospel preachynge, to the cōfort of yur sowle</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Than are ye a cuckolde, by the blessed holy masse,</l>
+                  <l>As I sayd afore, so cometh it now to passe.</l>
+                  <l>For I am a prophete, by hygh inspiracyon led.</l>
+                  <l>Now lyke I my self, moch better than I ded.</l>
+                  <l>Ye sayt that saynt paule, begate your wyfe with chyl|de</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū</speaker>
+                  <l>By mysunderstādynge, thu art vngracyously begylde</l>
+                  <l>An only mynyster, was paule in that same doynge,</l>
+                  <l>That he therin ded, was by the Gospell preachynge.</l>
+                  <l>Hys mynde is the Gospell to haue done y^t operacyon</l>
+                  <l>And thys must thy holde, for no carnall generacyon</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Marry so they saye, ye fellawes of the newe lerynge.</l>
+                  <l>Forsake holy church, and now fall fast to wynynge,</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>Naye, they forsake whoredome, with other dāpnable vsage.</l>
+                  <l>And lyue with their wyues, in lawfull marryage,</l>
+                  <l>whyls the popes oyled swarme, raigne styl● in their, olde buggerage</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Yea, poore marryed men, haue very moch a do,</l>
+                  <l>I coūte hym wysest, that can take a snatche and to go.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <lg>
+                     <l>Thu semest one of them, that detesteth matrymonye,</l>
+                     <l>Whych is a fore God, a state both iust and holye.</l>
+                     <l>Of soch as thu art, saynt paule ded prophecye,</l>
+                     <l>
+                        <pb facs="29"/>By the holy Ghost, that a serten cūpanye,</l>
+                     <l>In the latter dayes from the truth of God shuld fall</l>
+                     <l>A rendynge to spretes, of errour dyabolycall.</l>
+                  </lg>
+                  <lg>
+                     <l>Whych in hypocresy, wyll teache lyes for aduauntage,</l>
+                     <l>W●●h marked conscyences, inhybytynge marryage.</l>
+                     <l>Thu aperest by thy frutes to be Infydelyte.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>I am non other, but euen the very he,</l>
+                  <l>And hyther now come I, to cōmen the matter with ye</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>Auoyde cursed fynde, and get the out at the gates.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Naye first wyll I serue ye, as I lately serued your ma||tes</l>
+                  <l>And he●e wyll I not for thys place is for me?</l>
+                  <l>Who shuld here remayne, but Infydelyte?</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>Well, than for a tyme, I must depart from hens,</l>
+                  <l>But thys first wyll I saye, before thys audyens.</l>
+                  <l>Easyer wyll it be, concernynge ponnyshment,</l>
+                  <l>To Sodom and Gormor, in the daye of iudgement,</l>
+                  <l>Than to those cyties, that resyst the veryte,</l>
+                  <l>At the suggestyons, of Infydelyte.</l>
+                  <l>That people wyll be, for euer and euer lost,</l>
+                  <l>For it is the great synne, agaynst the holy Ghost.</l>
+                  <l>In the olde lawe first, the father hys mynde exprest,</l>
+                  <l>Than came hys sōne Christ, <hi>&amp;</hi> made it more manyfest.</l>
+                  <l>And now the holy Ghost, is come to close vp all,</l>
+                  <l>
+                     <pb facs="29"/>If he be not heard, extreme dāpnacyon wyll fall.</l>
+                  <l>No prayer remayneth, nor expyacyon for synne,</l>
+                  <l>To them that no profyght, or the worde of God wyll wynne.</l>
+                  <l>Take good hede therfor, <hi>&amp;</hi> saye that ye haue warnyng</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <stage>Exit.</stage>
+                  <l>God sende your mother, of yow to haue a fondelynge.</l>
+                  <l>By the masse I thynke, he is wele out of the waye,</l>
+                  <l>Now wyll I contryue, the dryft of an other playe.</l>
+                  <l>I must worke soch wayes, Christes lawe maye not con||tynue,</l>
+                  <l>In a whyle am I lyke, to haue non els of my retynue.</l>
+                  <l>Companyons I want, to begynne thys tragedye,</l>
+                  <l>Namely false doctryne, and hys brother hypocresye.</l>
+                  <l>They wyll not belonge, I suppose now verelye,</l>
+                  <l>By cockes fowle me thynke, I se soch a cumpanye.</l>
+                  <l>Hem I saye chyldren, wyll not my voyce be hearde?</l>
+                  <l>As good is a becke, as is a dewe vow garde.</l>
+                  <l>By my honestie welcome, myne owne cōpanyons both.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodctrina.</speaker>
+                  <stage>Intrant.</stage>
+                  <l>Thu shalt sure haue, a lyuery of the same cloth,</l>
+                  <l>Gramercyes by God, my olde frynde Infydelyte.</l>
+               </sp>
+               <sp>
+                  <speaker>hypocrisis.</speaker>
+                  <l>What, brother snyp snap, how go the worde with the?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>What, fryre flyp flap, how saye ye to, Benedicite?</l>
+               </sp>
+               <sp>
+                  <speaker>hypocrisis.</speaker>
+                  <l>Marry nothynge but well, for I crye now aduaūtage</l>
+               </sp>
+               <sp>
+                  <pb facs="30"/>
+                  <speaker>Infidelitas.</speaker>
+                  <l>At her purse or arse, tell me good fryre fuccage?</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>By the Messe at both, for I am a great penytensar,</l>
+                  <l>And syt at the pardō, Tush, I am y^e popes owne vycar</l>
+                  <l>If thu lackest a pece, I knowe where thu mayst be sped.</l>
+                  <l>With coyse of a score, <hi>&amp;</hi> brought euen to thy bed.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Art thu not ashamed, to talke so lyke a knaue?</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>No, for it is soch gere, as the holyest of vs wyll haue,</l>
+                  <l>Pope, Cardynall, byshop, mōke, chanon prest <hi>&amp;</hi> fryre,</l>
+                  <l>Not one of ye all, but a woman wyll desyre.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Our orders permyt vs not▪ to haue them in marryage</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>No, but ye fatche them in, by an other carryage.</l>
+                  <l>Ye do euen as we do, we both are of one rate.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>By the Messe I laugh, to heare thys whoreson prate</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>What fashyon vse ye, to vs here intymate.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>Ego distinguo, whether ye wyll haue lyons or parys.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Of them both to shewe, it wyll not be farre amys.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <lg>
+                     <pb facs="30"/>
+                     <l>In parys we haue, the mantell of Saynt lewes,</l>
+                     <l>Whych women seke moch, for helpe of their barēnes.</l>
+                     <l>For be it ones layed, vpon a womānys bellye,</l>
+                     <l>She go thens with chylde, the myracles are seane there Saylye.</l>
+                     <l>And besydes all thys, ye wolde maruele in cōfessyon.</l>
+                     <l>What our fathers do, to assoyle them of transgressyon</l>
+                  </lg>
+                  <lg>
+                     <l>Iohan Thessecclius, assoyled a yonge woman ones.</l>
+                     <l>Behynde the hygh aulter, tyll she cryed out of hes bones.</l>
+                     <l>And as for lyons, there is the length of our lorde,</l>
+                     <l>In a great pyller. She that wyll with a coorde,</l>
+                     <l>Be fast bounde to it, and take soch chaunce as fall,</l>
+                     <l>Shall sure haue chylde, for within it is hollowe all.</l>
+                  </lg>
+                  <lg>
+                     <l>Tush, I coulde tell ye, of moch more wondre thā this,</l>
+                     <l>In course to heare them, I thynke ye wolde blys.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>As thu hast begunne, go forewarde in it and tell.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Soch a knaue I suppose, is not from hens to hell.</l>
+               </sp>
+               <sp>
+                  <speaker>hypocrisis</speaker>
+                  <l>In our relygyon, was an holye popysh patryarke,</l>
+                  <l>Whych of all bawdrye, myght be the great monarke.</l>
+                  <l>The nōnes to confesse, he went from place to place,</l>
+                  <l>And two hōdred of them, he broached in that space.</l>
+                  <l>Many spyces he eate, hys currage to pruuoke.</l>
+                  <l>
+                     <pb facs="31"/>Soch a fellawe was he, as of that gere had the stroke.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina / </speaker>
+                  <lg>
+                     <l>Now, sumwhat wyll I tell to cōfirme thy tale withall</l>
+                     <l>In kynge ferdynāds tyme, in Spayne was a Cardynall</l>
+                     <l>Petrus mendoza, was the very man that I meane.</l>
+                     <l>Of some as he had, great nombre besydes the quene.</l>
+                     <l>One of hys bastardes, was earle, an other was duke,</l>
+                     <l>Whom also he abused, and thought it no rebuke.</l>
+                  </lg>
+                  <lg>
+                     <l>Ioannes Cremons, an other good Cardynall,</l>
+                     <l>For reformacyon of the clergye spyrituall,</l>
+                     <l>Came ones into Englāde, to dāpne prestes matrymo||nye.</l>
+                     <l>And the next nyght after, was takē doynge bytcherye.</l>
+                     <l>〈◊〉 E●fius also, whych fearcely came to dyspute,</l>
+                     <l>In lipsia with luther, myndynge there hym to cōfute</l>
+                  </lg>
+                  <lg>
+                     <l>For marryage of prestys, thre chyldren had that yeare.</l>
+                     <l>By thys maye ye se that sūtyme we make mery cheare.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Marry that ye do, I shall beare ye recorde now.</l>
+                  <l>But how wyll ye answere, for breakynge of your vow?</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>We neuer breake vowe, so longe as we do not marrye,</l>
+                  <l>Though we in whoredome, be neuer so bolde <hi>&amp;</hi> busye.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>By your order than, ye maye walke moch at large.</l>
+                  <l>What hast thu hypocresye? to laye for thy dyscharge.</l>
+               </sp>
+               <sp>
+                  <pb facs="31"/>
+                  <speaker>Hypocrisis.</speaker>
+                  <lg>
+                     <l>Saynt Frāces habyte, with the holy gyrdle <hi>&amp;</hi> whode,</l>
+                     <l>Non can go to helle, that therin dye by the rode,</l>
+                     <l>In case saynt Frances, be sure vpon their syde,</l>
+                     <l>Els maye they fortune, to be of their purpose wyde.</l>
+                     <l>For I reade of one, that shuld haue gone to the deuyll</l>
+                     <l>But the spretes of helle, coulde do to hym non euyll.</l>
+                  </lg>
+                  <lg>
+                     <l>Tyll saynt Frances came, <hi>&amp;</hi> toke frō hym hys cowle,</l>
+                     <l>Then went he to helle, the fryres ded heare hym howle.</l>
+                     <l>I wyll therfor serue, S. Frances with hart <hi>&amp;</hi> mynde</l>
+                     <l>With dayly memoryes, that he maye be my frynde.</l>
+                     <l>And than I care not, for all the deuyls in hell,</l>
+                     <l>That I haue tolde yow, is more true than the Gospel.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Then are ye more sure, thā monkes for your heretage,</l>
+                  <l>For their landes are here, but ye clayme heauen for aduauntage.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Yet is it to them a very plesaunt thynge,</l>
+                  <l>Their abbot at home, to be called lorde and kynge.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Naye, monke and chorle, for here is no kynge butone.</l>
+                  <l>If he be a kynge. hys mace is a mary bone,</l>
+                  <l>Any hys crowne a cow torde. Soch knaues as come from the carr,</l>
+                  <l>Must be called kynges, for playenge a popysh part,</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>It become not the, the Romyshe pope so to lurche.</l>
+                  <l>
+                     <pb facs="32"/>Consyderynge he is, the hyghest of the churche.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>If he be the hyghest, than is he the wether cocke,</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Ah, now I perceyue, thu art dysposed to mocke,</l>
+                  <l>Of all holy churche, he is the pryncypall heade.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas:</speaker>
+                  <l>Marry that is true, he sendeth out bulles vndre lead</l>
+                  <l>And he hath two keyes, the one to open hell,</l>
+                  <l>The other speareth heauen, thus do newe heretykes tel</l>
+                  <l>They report also, that dogges haue no deuocyō,</l>
+                  <l>To hys holy lawes, not to hys olde instruccyon.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Why shuld dogges hate hym? make that more euy|dent.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>They loue no pese porrege, nor yet reade hearynges in lent,</l>
+                  <l>Stock fysh nor oysters, but curse hym body and bone,</l>
+                  <l>And wolde hys reade sprottes, <hi>&amp;</hi> rottēfysh were gone</l>
+                  <l>Tush, I heare them I, and that maketh me full sad.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>Eyther thu doest mock, or els thu art sure mad.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas</speaker>
+                  <l>I heare the people, complayne very moch of the.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>What is their pratlinge, I praye the hartely tell me.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>They saye, thu teachest, nothyng but lowsy tradyciōs</l>
+                  <l>
+                     <pb facs="32"/>And lyes for lucre, with damnable superstycyons.</l>
+                  <l>And thus they cōclude, y^t the draffe of popysh prystes</l>
+                  <l>Is good ynough for swyne, by whom they meane the papystes.</l>
+                  <l>Yea, and they saye also, the dyet of men is all.</l>
+                  <l>To most vyle carren, the dogges wyll sonest fall.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Than do they compare, the papystes vnto dogges.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Marry that they do, <hi>&amp;</hi> to soch swynysh hogges.</l>
+                  <l>As in swyll <hi>&amp;</hi> soffe, are brought vp all their lyfe.</l>
+                  <l>Soch are the papystes, they saye both man and wyfe.</l>
+                  <l>They saye of the also, that thu art a noughty knaue,</l>
+                  <l>By prowlynge and lyenge, ye fryers wolde all haue.</l>
+                  <l>Thyne order they saye, is spronge euen out of hell,</l>
+                  <l>And all thys knowledge, they haue now of the Gos|pell.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>Why, where is he now, I besych the hartely tell,</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas</speaker>
+                  <l>By the messe abroade, <hi>&amp;</hi> I warāde ye maketh reuell.</l>
+                  <l>I commoned with hym, and he ded vs despyse,</l>
+                  <l>Agaynst hym therfor, sumwhat must we deuyse.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Marry that must we, or els it wyll be wronge,</l>
+                  <l>He wyll sure destroye vs, if we do suffer hym longe.</l>
+                  <l>Nedes must we serue hym, as we ones serued Christ.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Why mad brayned whoresōs, how ded ye hādle Christ?</l>
+               </sp>
+               <sp>
+                  <pb facs="33"/>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <lg>
+                     <l>As he preached here, we followed frō place to place,</l>
+                     <l>To trappe hym in snare, and hys doctryne to deface.</l>
+                     <l>Than founde we the meanes, to put hym so to death,</l>
+                     <l>Least he agaynst vs, shuld open any more breath.</l>
+                     <l>And we set foure knyghtes, to kepe hym downe in hys graue.</l>
+                     <l>That he neuer more, our lyuynge shuld depraue.</l>
+                  </lg>
+                  <lg>
+                     <l>And thus must we serue, the Gospell, no remedye,</l>
+                     <l>Els wyll be destroye, our lyuynge perpetuallye.</l>
+                     <l>Better one were loft, than we shuld perysh all,</l>
+                     <l>As Cayphas ones sayd, in counsell pharysaycall.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>By God <hi>&amp;</hi> wele sayd. Whā ye haue hym thys graue,</l>
+                  <l>Stāpe hym downe tyll he shyte. <hi>&amp;</hi> serue hym lyke a knaue.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrysis.</speaker>
+                  <l>We must so ordre hym, that he go no more at large.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Foure knyghtes wyll we hyre, whō we shall streyght||ly charge,</l>
+                  <l>To kepe hym downe harde. The first are ambycyouse prelates,</l>
+                  <l>Then couetouse lawers, that Gods worde spyghtful||ly hates,</l>
+                  <l>Lordes without lernynge, <hi>&amp;</hi> iustyces vnryghtfull,</l>
+                  <l>These wyll kepe hym downe, and rappe hym on the scull.</l>
+                  <l>
+                     <pb facs="33"/>Ther someners <hi>&amp;</hi> ther scribes, I warāde ye shal stere</l>
+                  <l>With balyues and catch polles, to holde hym downe euery where.</l>
+                  <l>I trowe Rugge <hi>&amp;</hi> Corbet, At Norwych wyll do their part.</l>
+                  <l>With wharton of Bongaye, and for my sake put hym to smart.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrysis.</speaker>
+                  <l>And I wyll rayse vp, in the vnyuersytees,</l>
+                  <l>The seuen slepers there, to aduaūce the popes decrees</l>
+                  <l>As Dorbel <hi>&amp;</hi> Duns, Durande <hi>&amp;</hi> Thomas of Aquyne</l>
+                  <l>The mastre of sentens▪ with Bachon the great deuyne</l>
+                  <l>Hēricus de Gādauo. And these shall read ad clerū,</l>
+                  <l>Aristotle and Albert, de secretis mulicrum,</l>
+                  <l>With the cōmentaryes, of Auicen and Aueroyes.</l>
+                  <l>And a Phebo Phebe, whych is very good for boyes.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Yea, and lete the pope, as Gods owne vycar here,</l>
+                  <l>In hys hande thre crosses, <hi>&amp;</hi> iij, crownes on hys head here.</l>
+                  <l>Hys power betokenynge, in heauē, in earth, <hi>&amp;</hi> in hell</l>
+                  <l>That he maye commaunde, all kynges to subdue the Gospell.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <lg>
+                     <l>Hys selfe maye do that, he nede cōmaunde nō other.</l>
+                     <l>Is not he the head, of the holy church our mother?</l>
+                     <l>Maye not he make sayntes, and deuyls at hys owne pleasure?</l>
+                     <l>Whych hath in hys hādes, the keyes <hi>&amp;</hi> churches trea||sure?</l>
+                     <l>So wele as he made, S. Hermā first a saynt,</l>
+                     <l>And twenty years after, of heresye hym attayne?</l>
+                     <l>
+                        <pb facs="34"/>First he sent hym to heauen, by hys canonyzacyon,</l>
+                     <l>And from thens to helle, by an excommunycacyon,</l>
+                     <l>We reade of Formosus, that after he was dead,</l>
+                     <l>One pope hys fyngars, an other cut of hys head.</l>
+                     <l>And threwe hys carkas, into the floude of Tyber,</l>
+                     <l>With the head <hi>&amp;</hi> fyngars, as Platina doth remēber.</l>
+                  </lg>
+                  <lg>
+                     <l>In token that he, is iudge ouer quyck and dead,</l>
+                     <l>And maye dāpne <hi>&amp;</hi> saue, by hys pardons vndre lead,</l>
+                     <l>Syluester the secōde, to the deuyll hymself ones gaue</l>
+                     <l>For that hygh offyce, that he myght dampne <hi>&amp;</hi> saue.</l>
+                     <l>He offered also, hys stones to Sathan, they saye,</l>
+                     <l>For prestes chastyte, and so went their marryage a|waye.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>Here is one cōmynge, enquyre what he intende.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Ha? it is the Gospell, from hym God vs defende.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <stage>Exit secreto.</stage>
+                  <l>Shewe me brother myne, who ded the hyther sende.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangelium.</speaker>
+                  <l>The father of heauen, of hys mere benyuolence,</l>
+                  <l>I desyre therfor, to haue fre audyence.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Ye mynde than to preache, afore thys cumpanye?</l>
+               </sp>
+               <sp>
+                  <speaker>Euangelium.</speaker>
+                  <l>In the lawes of God, wolde I instruct thē gladlye.</l>
+                  <l>For non other waye, there is vnto saluacyon,</l>
+                  <l>But the worde of God, in euery generacyon,</l>
+                  <l>
+                     <pb facs="34"/>That quyckeneth, that saueth, y^t bryngeth vnto heau●●</l>
+                  <l>As before hys death, Christ taugh the Apostle aleuen.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Preache here thu shalt not, without the auctoryte,</l>
+                  <l>Of pope or byshopp, or of some of their affynyte.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangelium.</speaker>
+                  <l>Gods worde neuer taketh, hys autoryte of man.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Thu shalt not here preache, do thu the best thu can.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>Gods blessynge on your good hart, it is spoken euen like a man.</l>
+                  <l>Ye knowe thys daye ser, we haue a full holy feast,</l>
+                  <l>And must go processyō, with the blessed rode of reast.</l>
+                  <l>We haue longe mattens, longe laudes, longe houres longe pyyme.</l>
+                  <l>Masse, euē songe, cōplyne, <hi>&amp;</hi> all must be done ī tyme.</l>
+                  <l>Sensynge of the aulters, <hi>&amp;</hi> castynge of holy water.</l>
+                  <l>Holy breade makynge, with other necessary matter.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangelium.</speaker>
+                  <l>Haue God commaūded, any soch thynges to be done?</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>What is that to the? go meddle thu with olde shone.</l>
+                  <l>Cannyst thu saye but they, are good sygnyfycacyons?</l>
+               </sp>
+               <sp>
+                  <speaker>Euangelium.</speaker>
+                  <lg>
+                     <l>I saye they are frutes, of your ymagynacyons</l>
+                     <l>To brynge in lucre, <hi>&amp;</hi> darken Gods hygh glorye,</l>
+                     <l>
+                        <pb facs="35"/>Of yow God doth axe. no soch vayne beggerye.</l>
+                     <l>Christ neuer sent hys, to shewe sygnyfycacyons,</l>
+                     <l>But hys lyuynge, worde to all the christen nacyons.</l>
+                     <l>Ye forsake the lorde, as Esaias doth tell,</l>
+                     <l>And hyghly blaspheme, the holie of Israel.</l>
+                  </lg>
+                  <lg>
+                     <l>In hys first chaptre, thys horryble sentence is,</l>
+                     <l>
+                        <hi>Quis haec frustranea quaesiuit de manibus</hi> uestris.</l>
+                     <l>Who hath requyred, of yow soch sacryfyce?</l>
+                     <l>In vayne offer yow, that vncōmaunded seruyce.</l>
+                     <l>Your incense to me, is great abhomynacyon,</l>
+                     <l>I fore abhorre it, and moch detest your fashyon.</l>
+                  </lg>
+                  <lg>
+                     <l>Whan ye praye to me, I geue ye non attendaunce,</l>
+                     <l>But auert my face (sayth God) <hi>&amp;</hi> my coūtenaunce.</l>
+                     <l>By thys ye maye se, that the lorde doth not regarde,</l>
+                     <l>Your māgy mutterynge, neyher graūt it any rewarde</l>
+                     <l>No mā wylleth Paule, to speake in the congregacyon</l>
+                     <l>In a straunge language, without interpretacyon.</l>
+                  </lg>
+                  <lg>
+                     <l>In your latyne houres, the flocke do ye not consydre,</l>
+                     <l>But declare your selues, to be Romysh all togydre.</l>
+                     <l>Be not led about (sayth Paule) by any straunge ler||nynge,</l>
+                     <l>What els is your doctryne, but a blynde popysh thyn||ge?</l>
+                     <l>He testyfyeth also, Non enim vt baptizarem,</l>
+                     <l>Misit me Christus, sed ut euangelizarem.</l>
+                     <l>Christ hath not me sent, that I shuld baptyse, sayth Paule.</l>
+                     <l>
+                        <pb facs="35"/>But to preach hys worde, to the confort of mannys sowle.</l>
+                     <l>Loo, though baptyme be, a thynge very necessarye,</l>
+                     <l>Yet must it geue place, to Gods worde, no remedye.</l>
+                     <l>Why than preferre ye, your draffysh ceremonyes?</l>
+                     <l>To the Gospell preachynge▪ O dampnable iniuryes.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hypocrysis.</speaker>
+                  <l>Why suffer ye hym, to pratle here so longe?</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Get the hens shortly, or with the it wyll be wronge.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <stage>Intrat.</stage>
+                  <l>Peace be here <hi>&amp;</hi> God, Mastre doctour, by your leaue,</l>
+                  <l>That I maye declare, a pardone here in my sleue.</l>
+                  <l>Of our lady of Boston, Ingham, and saynt Iohan||nes frarye,</l>
+                  <l>With the indulgence of blessyd saynt Antonye.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Wele, take thy pleasure, and do it hardelye.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>Syr he doth me wroge for thys daye it is my ●acyon.</l>
+                  <l>To preache my brotherhede, <hi>&amp;</hi> gather my lymytacyon</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Who first speake first spede, steppe fourth and reade thy pardon,</l>
+                  <l>And whan he hath done, your course is father wardē</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>What course appoynt ye, for preachyng of the Gospel</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>
+                     <pb facs="36"/>I wolde thy Gospell, <hi>&amp;</hi> thu were both now in hell.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū.</speaker>
+                  <l>Why, <hi>&amp;</hi> shall thys baggage, put by the word of God?</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Thu wylt not be answered, tyll thu fele a sharper rod.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Good christen people, I am come hyther verelye,</l>
+                  <l>As a true poctour, of the howse of saynt Antonye.</l>
+                  <l>Of cleane remyssyon, I haue brought ye indulgence,</l>
+                  <l>A pena <hi>&amp;</hi> culpa, for all your synne and offence.</l>
+                  <l>By the auctoryte, of pope Leo <hi>&amp;</hi> pope Clement,</l>
+                  <l>Pope Bonyface, pope Pius, pope Iohan <hi>&amp;</hi> pope In|nocent.</l>
+                  <l>And here I blesse ye, with a wynge of the holy Ghost.</l>
+                  <l>Frō thonder to saue ye, <hi>&amp;</hi> frō spretes in euery coost.</l>
+                  <l>Lo, here is a belle, to hange vpon your hogge,</l>
+                  <l>And saue your cattell, from the bytynge of a dogge.</l>
+                  <l>So many as wyll come, to thys holy fraternyte,</l>
+                  <l>Come paye your moneye, <hi>&amp;</hi> ye shall haue letters of me</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Lete me haue a letter, for I wyll be a brother.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrisis.</speaker>
+                  <l>Then geue me a belle, for I wyll be an other.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <lg>
+                     <l>O dampnable leadynge, of Babylonicall sodomytes,</l>
+                     <l>Your selues ye declare, to be shamefull hypocrytes.</l>
+                     <l>Lorde pytie thy people, and take awaye these gydes,</l>
+                     <l>These scorners, these robbers, these cruell homycydes</l>
+                     <l>
+                        <pb facs="36"/>Soch prophetes are they, as God ded neuer sende,</l>
+                     <l>As Hieremy sayth, they dampnable wayes pretende.</l>
+                  </lg>
+                  <lg>
+                     <l>Wo hypocrytes wo, for here ye tryfle and mocke,</l>
+                     <l>With christen people, <hi>&amp;</hi> the kyngedō of heauē vplocke</l>
+                     <l>Ye counte it a game, to lose that Christ hath bought,</l>
+                     <l>With hys precyouse bloud. <hi>&amp;</hi> here most derely sought</l>
+                     <l>Oh ye are wretches, and pestylent Antichristes,</l>
+                     <l>Mynysters of Dagon, and most deceytfull papystes.</l>
+                  </lg>
+                  <lg>
+                     <l>Lyke rauenouse wolues, poore wydowes ye deuoure,</l>
+                     <l>By tyttle of prayer, eternall dāpnacyon is youre,</l>
+                     <l>Your owne dreames ye folowe, but matter moch more wayghtye,</l>
+                     <l>Ye do not esteme, as iudgemēt, faythe, and mercye.</l>
+                     <l>Wo pharysees wo, ye make cleane outwardlye,</l>
+                     <l>But inwardes ye are full, of couetousnesse <hi>&amp;</hi> baudrye,</l>
+                  </lg>
+                  <lg>
+                     <l>Paynted tumbes are ye, a pryenge ryght bewtyfull,</l>
+                     <l>But within ye stynke, <hi>&amp;</hi> haue thoughtes very ●hame||full</l>
+                     <l>Ye slewe the prophetes, your doynges yet beare wyt|nesse,</l>
+                     <l>How thynke ye to auoyde, that poynt of vnryghteous||nesse?</l>
+                     <l>Oh ragynge serpētes, and vyperouse generacyon,</l>
+                     <l>How can ye escape, the daunger of dampnacyon?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>
+                     <pb facs="37"/>Who made the so bolde, to medle within my cure?</l>
+                  <l>And teache newe lernynge? An heretyke art thu sure?</l>
+                  <l>If due serch were made, we shuld fynde the (I thynke) no pryst.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>Yes, anoynted of God, but no popysh Antichrist.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Lete me se, where are, the letters of thy orders?</l>
+               </sp>
+               <sp>
+                  <speaker>Euangelium</speaker>
+                  <l>Where Christ hys self is, <hi>&amp;</hi> not in these same borders</l>
+                  <l>No soch pryst am I, as is anoynted with olye,</l>
+                  <l>But the holy Gost, for I am non of thys soyle.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Here I attache the, for a busye scysmatyke.</l>
+                  <l>And wyll the accuse, for an haynouse heretyke.</l>
+                  <l>Laye handes vpon hym, <hi>&amp;</hi> depryue hym of thys apa||rell.</l>
+                  <stage>Hic veste spoliatum sordidioribus induunt.</stage>
+                  <l>Loo, thus wyll I hādle, all thē y^t shall take thy quarell</l>
+                  <l>Holde awaye with thys gere, <hi>&amp;</hi> laye it fourth a syde.</l>
+               </sp>
+               <sp>
+                  <speaker>hypocrisis.</speaker>
+                  <l>Naye, tarry brother myne, for away shalt thu not slyde</l>
+               </sp>
+               <sp>
+                  <speaker>Euangeliū,</speaker>
+                  <l>I am not goynge, why doest thu slaunder me?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Burne hym to ashes, and shewe to hym no pytie.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>
+                     <pb facs="37"/>Brent shall he not be, if he wyll no more do so.</l>
+                  <l>Fellawe how sayst thu? wylt thu here abiure or no?</l>
+               </sp>
+               <sp>
+                  <speaker>Euangelium.</speaker>
+                  <l>I wyll neyther abiure, nor yet recant Gods glorye.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>I offered the reason, and therto thu wylt not applye,</l>
+                  <l>Wele get the forewarde, for thu shalt sure dye.</l>
+                  <l>The temporall power, shall iudge the to the fyre,</l>
+                  <l>At our accusement, and holy relygyouse desyre.</l>
+               </sp>
+               <sp>
+                  <speaker>Euangelium.</speaker>
+                  <l>Though yow for my sake, impryson men cruellye,</l>
+                  <l>Famysh them, stocke them, <hi>&amp;</hi> them with fagotesfrye</l>
+                  <l>Hurt me ye shall not for I can neuer dye,</l>
+                  <l>And they foy my sake, shall lyue perpetuallye.</l>
+               </sp>
+               <sp>
+                  <speaker>Pseudodoctrina.</speaker>
+                  <l>Here is a pratynge, with a very vengeaunce hens.</l>
+               </sp>
+               <sp>
+                  <speaker>Hypocrysis.</speaker>
+                  <stage>Exeunt cum eo</stage>
+                  <l>Thys horryble heretyke, now shall we well recompens</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <lg>
+                     <l>Yea, burne hym wele fryre, and lete hym no longer raygne,</l>
+                     <l>Laye on grene fagotes, to put hym to the more payne.</l>
+                  </lg>
+                  <lg>
+                     <l>By the messe I laugh, to se how thys gere doth wurke</l>
+                     <l>He is lyke of thē, to haue no more grace than a turke,</l>
+                     <l>For soch knaues they are, as a man shall not lyghtly fynde,</l>
+                     <l>And take hell ouer. Companyōs they are to my mynde</l>
+                     <l>
+                        <pb facs="38"/>My busynesse all, is now at a good conclusyon,</l>
+                     <l>That I haue here brought, these. iij. lawes to cōfusyon</l>
+                     <l>Now shall I be able, to lyue here peaceablye,</l>
+                     <l>And make frowlyke chere, with hey how fryska Iolye.</l>
+                     <l>The lawe of Nature, I kest first in a leprye.</l>
+                     <l>By the secrete helpe, of ydolatrye and sodomye.</l>
+                  </lg>
+                  <lg>
+                     <l>The lawe of Moses, I made a crypple blynde,</l>
+                     <l>Auaryce <hi>&amp;</hi> Ambycyon, to helpe me were not behynde</l>
+                     <l>And now Christes lawe, I haue brent for heresye,</l>
+                     <l>By helpe of false doctryne, <hi>&amp;</hi> my cosyne hypocresye,</l>
+                     <l>On these same. iij. lawes, all other lawes depende,</l>
+                     <l>And can not preuayle, now these are at an ende.</l>
+                  </lg>
+                  <lg>
+                     <l>If christen gouerners, do not these lawes vpholde,</l>
+                     <l>Their cyuyle ordynaūces, wyll sone be very colde.</l>
+                     <l>Well, thys valeaūt George, hath made them all to stoupe</l>
+                     <l>Cheare now maye I make, <hi>&amp;</hi> set cocke on the houpe.</l>
+                     <l>Fyll in all the pottes, and byd me welcome hostesse,</l>
+                     <l>And go call me hyther, myne owne swete mynyō Besse</l>
+                  </lg>
+               </sp>
+               <trailer>Finit Actus quartus.</trailer>
+            </div>
+            <div n="5" type="act">
+               <pb facs="38"/>
+               <head>Incipit Actus quintus.</head>
+               <sp>
+                  <speaker>Vindicta Dei.</speaker>
+                  <l>_QVid gloriaris in malicia? qui potens es in iniquitate.</l>
+                  <l>Thu vengeable wretche, replete with poyson and vyce,</l>
+                  <l>Why doest thu thus reioyce, in cruel||tie and malyce?</l>
+                  <l>Thynkest thu that God slepeth, <hi>&amp;</hi> wyll not hys defēde</l>
+                  <l>And that thy myschefe, shall neuer haue an ende?</l>
+                  <l>The bloude of innocentes, to hym for vengeaūce call</l>
+                  <l>And therfor thys houre. must I fearcely vpō the fall</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Thu sprete of the ayre, I strayghtly coniure the here.</l>
+                  <l>By panton <hi>&amp;</hi> Craton, and charge the to com no nere.</l>
+               </sp>
+               <sp>
+                  <speaker>Vindicta Dei.</speaker>
+                  <l>Thynkest thu to stoppe me, with thy folysh cōiuracyon</l>
+                  <l>Whom God sendeth hyther, for thy abhomynacyon?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>What art thu called? thy name to me rehearce.</l>
+               </sp>
+               <sp>
+                  <speaker>Vindicta Dei.</speaker>
+                  <l>I am vindicta Dei, in pōnyshment most fearce,</l>
+                  <l>With water, with swerde, and with fyre I must the pearce.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Be good in thy offyce, and thu shalt haue moneye and meate.</l>
+               </sp>
+               <sp>
+                  <speaker>Vindicta Dei.</speaker>
+                  <lg>
+                     <l>By fylthy rewardes, thu cannyst not me intreate,</l>
+                     <l>
+                        <pb facs="39"/>But that I wyll do, as God hath me commaunded.</l>
+                     <l>For if worldly gyftes, my furye myght haue changed.</l>
+                     <l>The vnyuersall worlde, had not bene drowned with water,</l>
+                     <l>Nor Sodome and Gomor, with so fyery fearfull mat|ter.</l>
+                     <l>Nor yet the Israelytes, with terrour of the sworde,</l>
+                     <l>With hungre and pestylence, in the anger of Gods worde.</l>
+                  </lg>
+                  <lg>
+                     <l>Pharao in Egipte, the plages had neuer felte,</l>
+                     <l>Myght I haue bene stopped, for syluer or for gelte.</l>
+                     <l>Into Egipte I brought, ten terryble pōnyshmentes</l>
+                     <l>Vpon the people for breakynge hys commaūdemētes</l>
+                     <l>Their wholsom waters, I tourned into bloude,</l>
+                     <l>I multyplyed frogges, to poysō therwith their fonde</l>
+                  </lg>
+                  <lg>
+                     <l>I made waspes <hi>&amp;</hi> dranes, them greuously to stynge,</l>
+                     <l>And all kyndes of flyes, sone after ded I in brynge</l>
+                     <l>Vpon their cattel, I threwe the foule pestylence,</l>
+                     <l>Both borche, byle <hi>&amp;</hi> blayne, they had for their offence.</l>
+                     <l>Lyghtenynges and haylynges, destroyed their corne and frute,</l>
+                     <l>A swarne of hungry locustes, their pastours destytute</l>
+                  </lg>
+                  <lg>
+                     <l>The space of thre dayes, I gaue them palpable darke||nesse,</l>
+                     <l>
+                        <pb facs="39"/>I slewe the first gootē, of mā <hi>&amp;</hi> beast for thy rudenes</l>
+                     <l>For I neuer stryke, but for the, Infydelyte.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Stryke for me quoth A? By the mary Masse I defye the.</l>
+               </sp>
+               <sp>
+                  <speaker>Vindicta Dei.</speaker>
+                  <l>What, thu wylt not so, thy braynes are not so lyght.</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Anger me not to moch, for if thu do, I fyght.</l>
+               </sp>
+               <sp>
+                  <speaker>Vindicta Dei.</speaker>
+                  <l>All that wyll not helpe, thy wycked workynges now,</l>
+                  <l>Whan the stronger come, the weaker must nedes bowe</l>
+                  <l>The lawe of Nature, infected thu hast with a leprye?</l>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Naye, it was not I, but that wytche Idolatrye,</l>
+                  <l>And that polde shorne knaue, that men call Sodomye</l>
+               </sp>
+               <sp>
+                  <speaker>Vindicta Dei.</speaker>
+                  <l>Of whom spronge they first? but of Infydelyte?</l>
+                  <l>Therfor thu shalt haue that plage of penalte,</l>
+                  <l>Whych they first tasted, for their inyquyre.</l>
+                  <l>For those two vyces, I drowned the worlde with wa|ter.</l>
+                  <l>In token wherof, I plage the with the same matter.</l>
+               </sp>
+               <stage>hic Infidelitatem lympha percutit.</stage>
+               <sp>
+                  <speaker>Infidelitas,</speaker>
+                  <l>Tush, I defye thy worst. Thys shall not dryue me hēce</l>
+                  <l>For after the floude, with Cham had I resydence.</l>
+                  <l>And so contynued, tyll Moyses lawe came in.</l>
+                  <l>With hys iolye tryckes, a newe rule to begyn.</l>
+               </sp>
+               <sp>
+                  <pb facs="40"/>
+                  <speaker>Vindicta Dei.</speaker>
+                  <lg>
+                     <l>And hym thu corruptedest, with Auaryce <hi>&amp;</hi> Amby|cyō,</l>
+                     <l>And so dedyst leaue hym, in myserable cōdycyō,</l>
+                     <l>Thu shalt haue therfor, that than to them was due,</l>
+                     <l>Most terryble barrayle, the Israelytes vntrue,</l>
+                     <l>That tyme ded suffer, for their infydelyte,</l>
+                     <l>Wherfor with thys swerde, I iustlye bannysh the.</l>
+                  </lg>
+                  <l>Bycause thu shalt here, geue place to Christes gospel</l>
+               </sp>
+               <stage>Gladio Infidelitatem denuo cedit.</stage>
+               <sp>
+                  <speaker>Infidelitas.</speaker>
+                  <l>Yet wyll I not hens, but agaynst ones rebell.</l>
+                  <lg>
+                     <l>Sed not I remayne, with Iudas and other more?</l>
+                     <l>Whan Christ preached here, <hi>&amp;</hi> taught them in vext hym sore?</l>
+                     <l>Yes, <hi>&amp;</hi> after that, was I with Simon Magus.</l>
+                     <l>With Saunder Copper smyth, with Elimas and De||metrius.</l>
+                     <l>And now I perseuer, amōge y^e rāke rable of papystes</l>
+                     <l>Teachyng ther shorlynges, to playe the Antichrystes.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Vindicta Dei.</speaker>
+                  <lg>
+                     <l>The innocent bloude, of sayntes contynuallye,</l>
+                     <l>Doth call vnto God, to reuenge their iniurye,</l>
+                     <l>Agaynst false doctryne, and cursed hypocresye.</l>
+                     <l>Whom thu hast raysed, the glory of the Gospell,</l>
+                     <l>To darken, and hys fryndes, most myserably to quell.</l>
+                     <l>Wherfor thu shalt haue, lyke as thu hast deserued</l>
+                  </lg>
+                  <lg>
+                     <pb facs="40"/>
+                     <l>For thy wycked doynges, thy ponyshmēt now doubled.</l>
+                     <l>Ignis ip sū precedet, the Prophete Dauid sayth thus</l>
+                     <l>Ar{que} inflam mabit in circuitu inimicos eius.</l>
+                     <l>A consumynge fyre, shall ronne before the iudge,</l>
+                     <l>Hys enemyes consumynge, they shal fynde no refuge.</l>
+                  </lg>
+                  <lg>
+                     <l>Ob scelera <hi>&amp;</hi> culpas hominum, ritus{que} nephandos</l>
+                     <l>In cineres ibit tellus, tenuem{que} fauillam.</l>
+                     <l>As Mantuan writeth, for the wyckednesse of the.</l>
+                     <l>The earth to ashes, by fyre shall turned be.</l>
+                  </lg>
+                  <stage>Ignis flamma Infidelitatem locum exire coget</stage>
+               </sp>
+               <sp>
+                  <speaker>Infidelitas</speaker>
+                  <l>Credo, credo, credo, I saye, Credo, credo, credo,</l>
+                  <l>To the deuyll of helle, by the Messe I wene I go.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus pater.</speaker>
+                  <stage>Exit.</stage>
+                  <lg>
+                     <l>As ye haue seane here, how I haue strycken with fyre</l>
+                     <l>The pestylent vyce, of Infydelyte.</l>
+                     <l>So wyll I destroye, in the fearcenesse of myne yre,</l>
+                     <l>All sectes of errour, with their enormyte,</l>
+                     <l>Whych hath rysen out, of that inyquyte.</l>
+                     <l>For as it is sayd, that my hande hath not sett,</l>
+                     <l>Shall vp by the rote, no power maye it lett.</l>
+                  </lg>
+                  <lg>
+                     <l>The Apostle Iohan, in the Apocalyps doth saye,</l>
+                     <l>He sawe a newe heauen, <hi>&amp;</hi> a newe earth aperynge.</l>
+                     <l>The olde earth <hi>&amp;</hi> see, were taken cleane a waye,</l>
+                     <l>That heauē is mānys fayth, that earth hys vnder|standynge,</l>
+                     <l>
+                        <pb facs="41"/>Whom we haue renued by our most secret workynge.</l>
+                     <l>The olde cancred earth, exylynge with the see.</l>
+                     <l>Whych is superstycyon, and Infydelyte.</l>
+                  </lg>
+                  <lg>
+                     <l>A newe Hierusalem, the sayd Iohan also se,</l>
+                     <l>As a bewtyfull bryde, prepared to her husbande.</l>
+                     <l>Our true faythfull churche, is that same fayr cytie,</l>
+                     <l>Whom we haue clensed, by the power of our ryght hande.</l>
+                     <l>As a spouse to Christ, in euery christen lande.</l>
+                     <l>Bannyshynge the sectes, of Babylonicall poperye,</l>
+                     <l>That she in the sprete, maye walke to our glorye.</l>
+                  </lg>
+                  <lg>
+                     <l>Resort ye thre lawes, for yow wyll I clere also,</l>
+                     <l>Of soch infeccyons, as by Infydelyte,</l>
+                     <l>Ye haue receyued, That ye with her maye go,</l>
+                     <l>Declarynge the wayes, of Christen lyberte,</l>
+                     <l>That vs she maye take, without perplexite,</l>
+                     <l>For her only God, and be our people styll.</l>
+                     <l>In our lawes walkynge, accordyng to our wyll.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Omnes simul.</speaker>
+                  <l>At your commaundement, we are most blessed lorde.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus pater.</speaker>
+                  <l>Approche nyghar than, and ye shall be restorde.</l>
+                  <lg>
+                     <l>Thu lawe of Nature, we first begynne with the,</l>
+                     <l>Restorynge the agayne, to thy first puryte.</l>
+                     <l>Auoyde Idolatrye, Auoyde vyle Sodomye,</l>
+                     <l>
+                        <pb facs="41"/>We charge ye no more, thys lawe to putryfye.</l>
+                     <l>Kepe styll that same hart, for a sygne perpetuall.</l>
+                     <l>That thu were written, in mannys hart first of all.</l>
+                  </lg>
+                  <lg>
+                     <l>Thu lawe of Moses, geue me that vayle from the,</l>
+                     <l>No longar shalt thu, neyther blynde nor croked be.</l>
+                     <l>Hens thu Ambycyon, and cursed Couetousnes,</l>
+                     <l>I here bannysh yow, from thys lawe euer doughtles.</l>
+                     <l>Lose not those tables, whych are a token true,</l>
+                     <l>That thu in the flesh, shalt euermore contynue.</l>
+                  </lg>
+                  <lg>
+                     <l>Thu lawe of the Gospell, though thu be last of all.</l>
+                     <l>In operacyon yet, thu art the pryncypall.</l>
+                     <l>From the I exyle, hypocresy and false doctryne,</l>
+                     <l>With all that depende, vpon the papystycall lyne.</l>
+                     <l>Reserue the same boke, for a sygne of heauēly poure.</l>
+                     <l>For that boke thu art, that Iohan from heauen ded deuoure.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Euerlastynge prayse, to thy gloryouse maieste.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Our heauēly gouernour, great is thy gracyouse pytie</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>Of mankynde thu art, the eternall felycyte.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Now leauest thy seruauntes, in thy perpetuall peace.</l>
+                  <l>To do the seruyce, from hens wyll we not ceace.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>For our eyes haue seane, what thu hast now prepared.</l>
+                  <l>
+                     <pb facs="42"/>For thy peoples helth. whych hath bene here declared</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>A lyght thu hast sent, whych is thy ioyouse Gospell.</l>
+                  <l>To the consolacyon of the howse of Israel.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>In reioyce of thys, make we some melodye.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>The name of our God, to prayse and magnyfye.</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>I assent therto, and wyll synge very gladlye.</l>
+               </sp>
+               <stage>Hie ad Dei gloriam cantabunt. In exitu Israel de Aegypto, Velaliud simile.</stage>
+               <sp>
+                  <speaker>Deus pater:</speaker>
+                  <lg>
+                     <l>Now haue we destroyed, the kyngedom of Babylon,</l>
+                     <l>And throwne the great whore, into the bottōlesse pyt,</l>
+                     <l>Restorynge agayne, the true fayth and relygyon,</l>
+                     <l>In the christen churche, as we haue thought it fyt,</l>
+                     <l>Depurynge these lawes, so to contynue y^t.</l>
+                     <l>Man is our creature, <hi>&amp;</hi> hath grace in our syght,</l>
+                     <l>To dwell with hym now, is our whole hartes delyght</l>
+                  </lg>
+                  <lg>
+                     <l>Man is our people, hys God we are agayne,</l>
+                     <l>With hym wyll we haue, contynuall resydence.</l>
+                     <l>Awaye wyll we wype, from hym all sorowe <hi>&amp;</hi> payne:</l>
+                     <l>He shall no longar, dyspayre for hys offence,</l>
+                     <l>Nor haue ī hys sowle, any carefull doubt of conscyēce</l>
+                     <l>The olde popyshnesse, is past whych was dāpnacyon,</l>
+                     <l>We haue now renued, our christen congregacyon,</l>
+                  </lg>
+                  <lg>
+                     <pb facs="42"/>
+                     <l>Grande fourth christē fayth, <hi>&amp;</hi> take our aduertysemēt</l>
+                     <l>We here appoynt the, to gouerne our congregacyon.</l>
+                     <l>Se thu do nothynge, without the admonyshment,</l>
+                     <l>Of these thre lawes here. Enprent their declaracyon</l>
+                     <l>Of my swete promyses, and than make thu relacyon,</l>
+                     <l>To my folke agayne, that they maye walke to me.</l>
+                     <l>Without popysh dreames, in a perfygt lyberte.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Fides Christiana.</speaker>
+                  <l>Most heauenly maker, in y^t thu doest commaūde me,</l>
+                  <l>Euermore wyll I, full prompt and dylygent be.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus pater.</speaker>
+                  <l>Thu lawe of Nature, shalt teache man God to knowe</l>
+                  <l>And that to refuse, wherby any yll maye growe.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>From thys your precept, shall I not varye I trowe.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus pater.</speaker>
+                  <l>The ache thu hym also, to worshyp one God aboue,</l>
+                  <l>And hys poore neyber, to prosecute with loue.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>I hope blessed lorde, to do as me shall behoue.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus pater.</speaker>
+                  <l>And thu shalt teache hym, to loue God in hys hart.</l>
+                  <l>And those to forgeue, by whom he suffereth smart.</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>In your appoyntmentes, wyll I do also my part.</l>
+               </sp>
+               <sp>
+                  <speaker>Deus pater.</speaker>
+                  <lg>
+                     <l>Worke thu in the hart, a knowledge necessarye,</l>
+                     <l>In the flesh worke thu, by outwarde ceremonye.</l>
+                     <l>
+                        <pb facs="43"/>Change thu to the spret, the workynges of these two,</l>
+                     <l>And cause our people, in a perfyght waye to go.</l>
+                     <l>Take hede christē fayth, to the teachynges of these thre</l>
+                     <l>And moue our people, to walke in the veryte.</l>
+                  </lg>
+                  <lg>
+                     <l>The promyses we made, in all these thre at Gospell,</l>
+                     <l>We wolde thu shuldest so, to our congregacyon tell.</l>
+                     <l>Our euerlastynge blessynge, be with yow euermore.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Omnes simul.</speaker>
+                  <l>To thy swete name lorde, prayse <hi>&amp;</hi> perpetuall honou||re.</l>
+               </sp>
+               <sp>
+                  <speaker>Fides Christiana.</speaker>
+                  <l>It hath pleased God, to put me in thys offyce,</l>
+                  <l>To gouerne hys churche, and christen congregacyon,</l>
+                  <l>And therin to do, as ye shall me entyce.</l>
+                  <l>Geue me I praye yow, soch wholsom exhortacyon,</l>
+                  <l>As maye be to Man, a clere edyfycacyon.</l>
+                  <l>And I wyll be glad, to take your aduertysement.</l>
+                  <l>As it shall become, any chylde obedyent.</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>Ye speake it full wele, thā marke what shall be sayed</l>
+                  <l>And dylygentlye, loke that it be obeyed.</l>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>The effect of me, is for to knowe the lorde.</l>
+                  <l>Euerlastynge, stronge, most gracyouse and godlye.</l>
+                  <l>And as touchynge Man, to haue fraternall concorde.</l>
+                  <l>Fauer to norrysh, and to do non iniurye.</l>
+                  <l>To kepe couenaūtes made, and loue true matrymonye.</l>
+                  <l>These noble effectes so temper yow in Man.</l>
+                  <l>
+                     <pb facs="43"/>That them to fulfyll, he do the best he can.</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>The effect of me, is for to worshyp the lorde.</l>
+                  <l>As one God alone, and to fle from Idolatrye.</l>
+                  <l>Nor to slee nor stele, nor yet to beare false recorde,</l>
+                  <l>To shewe what is synne, and to seke the remedye,</l>
+                  <l>Publyque peace to holde, <hi>&amp;</hi> sore to pōnysh the gyltye.</l>
+                  <l>From these good effectes, se that Mā neuer swerue,</l>
+                  <l>Than shall he be sure, that God wyll hym preserue.</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>The effect of me, is for to loue the lorde,</l>
+                  <l>In the innar sprete, and to fauer frynde <hi>&amp;</hi> enmye,</l>
+                  <l>And in all poyntes els, with Gods wyll to accorde</l>
+                  <l>To preache remyssyon, to saue and to iustyfye,</l>
+                  <l>In Christ all to seke, lyfe, iustyce, peace and mercye.</l>
+                  <l>These heauenly effectes, in Man so incorporate,</l>
+                  <l>That he maye in sprete, be newlye regenerate.</l>
+               </sp>
+               <sp>
+                  <speaker>Fides Christiana.</speaker>
+                  <lg>
+                     <l>More swete than honye, are your thre exhortacyons,</l>
+                     <l>And regestred they be, in my momoryall.</l>
+                     <l>Now wyll I forewarde, to all the christen nacyons,</l>
+                     <l>And sem effect, these lawes obserued all,</l>
+                     <l>To the abolyshment, of the dreames papystycall.</l>
+                     <l>Now the lyght is come, the darkenesse dyeth awaye,</l>
+                     <l>I trust in the lorde, men wyll walke in the daye.</l>
+                  </lg>
+                  <lg>
+                     <l>Good christen people, to these thre lawes applye,</l>
+                     <l>First knowe that ye haue, a lyuynge God aboue,</l>
+                     <l>
+                        <pb facs="44"/>Than do hym honour, and hys name magnyfye,</l>
+                     <l>Worshyp hym in spret. as the Gospel yow doth moue</l>
+                     <l>Than obeye your kynge, lyke as shall yow behoue,</l>
+                     <l>For he in hys lyfe, that lorde doth represent,</l>
+                     <l>To sauegarde of the iust, <hi>&amp;</hi> synners ponnyshment.</l>
+                  </lg>
+                  <lg>
+                     <l>Se that ye regarde, soch lawes as he doth make,</l>
+                     <l>For they are of God, as Salomon doth report.</l>
+                     <l>Of these lawes doubtles, those lawes their groun|dynges take.</l>
+                     <l>To the publyque welth, to geue ayde, strēgth <hi>&amp;</hi> cōfort</l>
+                     <l>For preseruacyon, of all the christen sort.</l>
+                     <l>In no case folowe, the wayes of Reygnolde Pole,</l>
+                     <l>To hys dampnacyon, he doubtles playeth the fole.</l>
+                  </lg>
+                  <lg>
+                     <l>Saue a due respect, vnto your contreye natyue,</l>
+                     <l>Whych hath brought ye vp, <hi>&amp;</hi> geuen ye norryshment.</l>
+                     <l>Euen from your cradles, to these dayes nutrytyue.</l>
+                     <l>So that ye maye do, to her welth and preferment,</l>
+                     <l>My master to her, no hatefull detryment.</l>
+                     <l>A dogge to hys frynde, wyll neuer be vnlouynge,</l>
+                     <l>Lete reason in ye, not lose hys naturall workynge.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Naturae lex.</speaker>
+                  <l>Who lyueth without lawe, shal perysh without lawe</l>
+                  <l>And▪ therfor we haue, thre lawes to yow descrybed,</l>
+                  <l>That after their lyue, ye shuld in your lyuynge drawe</l>
+                  <l>We▪ haue also shewed, how they haue bene corrupted,</l>
+                  <l>By fowle Idolatres, and sodomytes poluted,</l>
+                  <l>
+                     <pb facs="44"/>By couetouse prestes, and by ambycyouse prelates,</l>
+                  <l>Hypocryticall fryres, false doctours <hi>&amp;</hi> false curates</l>
+               </sp>
+               <sp>
+                  <speaker>Moseh lex.</speaker>
+                  <l>Who hath restored, these same thre lawes agayne?</l>
+                  <l>But your late Iosias, <hi>&amp;</hi> valeaūt kynge Henrye.</l>
+                  <l>No prynce afore hym, toke euer yet soch payne,</l>
+                  <l>Frō Englāde to bānysh, Idolatrye <hi>&amp;</hi> fowle sodomye</l>
+                  <l>Couetousnes. Ambycyō, false doctryne <hi>&amp;</hi> hypocresye,</l>
+                  <l>It was he that brought, Christes veryte to lyght,</l>
+                  <l>Whan he put the pope, with hys fylthynes to flyght.</l>
+               </sp>
+               <sp>
+                  <speaker>Christi lex.</speaker>
+                  <l>Frō dānable darkenesse, as my bother here doth saye,</l>
+                  <l>He hath delyuered, thys realme of Englande godlye</l>
+                  <l>Bryngynge hys subiectes, into the true path waye,</l>
+                  <l>Of their sowles sauegarde, if they now folowe it wy|selye.</l>
+                  <l>And left them he hath, the same waye styl to fortyfye,</l>
+                  <l>Hys noble sonne Edwarde, soch a kynges of god elect</l>
+                  <l>As questyonles wyll, perfourme it in effect.</l>
+               </sp>
+               <sp>
+                  <speaker>Fides Christiana.</speaker>
+                  <l>Praye all to the lorde, for the longe contynuaunce,</l>
+                  <l>Of hys graces lyfe, in thys worldes habytacyon.</l>
+                  <l>And that of hys nobles, he haue true mayntenaunce,</l>
+                  <l>In the pryncyples, of thys most worthy foundacyon.</l>
+                  <l>That he maye to Christ, brynge vs from desolacyon.</l>
+                  <l>Praye for quene Bateryne, <hi>&amp;</hi> y^e noble lorde protectour</l>
+                  <l>With the whole counsell, that God be their direc|tour,</l>
+               </sp>
+            </div>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="dramatis_personae">
+            <pb facs="45"/>
+            <head>Into fyue personages maye the partes of thys Comedy be deuyded.</head>
+            <list>
+               <item>The Prolocutour.</item>
+               <item>Christen fayth.</item>
+               <item>Infydelyte.</item>
+               <trailer>The first.</trailer>
+            </list>
+            <list>
+               <item>The lawe of Nature.</item>
+               <item>Couetousnesse.</item>
+               <item>False doctryne.</item>
+               <trailer>The seconde.</trailer>
+            </list>
+            <list>
+               <item>The lawe of Moses.</item>
+               <item>Idolatrye.</item>
+               <item>Hypocresye.</item>
+               <trailer>The third.</trailer>
+            </list>
+            <list>
+               <item>The lawe of Christ.</item>
+               <item>Ambycyon.</item>
+               <item>Sodomye.</item>
+               <trailer>The fourt.</trailer>
+            </list>
+            <list>
+               <item>Deus pater.</item>
+               <item>Vindicta Dei</item>
+               <trailer>The fift.</trailer>
+            </list>
+            <div type="part">
+               <head>The aparellynge of the six vyces, of frutes of Infydelyte.</head>
+               <p>Lete Idolatry be decked lyke an olde wytche, Sodo|my lyke a monke of all sectes, Ambycyon lyke a byshop, Couetousnesse lyke a pharyse or spyrituall lawer, false doctryne, lyke a popysh doctour, and hypocresy lyke a graye fryre. The rest of the partes are easye ynough to coniecture.</p>
+               <p>
+                  <pb facs="45"/>
+                  <figure>
+                     <figDesc>portrait of John Bale</figDesc>
+                  </figure>
+               </p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="46"/>
+            <head>A songe vpon Benedictus Compyled by Iohan Bale.</head>
+            <lg>
+               <l>_BEnedictus dominus, Deus Is|rael,</l>
+               <l>Whych hath ouerthrowne, the myghty Idoll Bel,</l>
+               <l>The false god of Rome, by poure of the Gospell,</l>
+               <l>And hath prepared, from the depe lake of hell,</l>
+               <l>Redemptionem plebis sue.</l>
+            </lg>
+            <lg>
+               <l>Et erexit cornu, of mercy helth and grace,</l>
+               <l>That cruell tyraunt, now clerely to deface,</l>
+               <l>Whose bloudy kyngedome, demynysheth apace,</l>
+               <l>By the worde of God, whych lately hath take place.</l>
+               <l>In domo Dauid pueri sui,</l>
+            </lg>
+            <lg>
+               <l>Sicut locutus est, the lorde celestyall,</l>
+               <l>That Romysh Antichrist, is lyke to haue a fall,</l>
+               <l>With hys whole table, of sectes dyabolycall,</l>
+               <l>And now the nombre, wyll florysh ouer all,</l>
+               <l>Prophetarum eius.</l>
+            </lg>
+            <lg>
+               <l>Salutem exinimicis, now we maye dayly heare,</l>
+               <l>
+                  <pb facs="46"/>The enemyes of Christ with hym doth wytnesse beare</l>
+               <l>Saul is become a paule, and preacheth euery wheare,</l>
+               <l>Now maye we receyue, most heauenly wholsom geare</l>
+               <l>De manu eorum qui derunt nos.</l>
+            </lg>
+            <lg>
+               <l>Ad faciendam, misericordiam,</l>
+               <l>The sonne of our God, from hys hygh glory cam,</l>
+               <l>To redeme the synne. of the chyldren of Adam,</l>
+               <l>And to remembre, to faythfull Abraham,</l>
+               <l>Testamenti sui sancti.</l>
+            </lg>
+            <lg>
+               <l>Iusiurandum, whych God hath made afore,</l>
+               <l>Vnto our fathers, he wyll kepe euermore,</l>
+               <l>Promesed he hath, if we regarde hys lore,</l>
+               <l>Forsakynge the pope, with hys dampnable store,</l>
+               <l>Daturum se nobis.</l>
+            </lg>
+            <lg>
+               <l>Vt sine timore, from Romysh tyrauntes fre,</l>
+               <l>The lorde graunt vs grace, that we maye speakers be,</l>
+               <l>Of hys holy worde, and therin to agre,</l>
+               <l>That in the Gospell, and christen lyberte,</l>
+               <l>Seruiamus illi.</l>
+            </lg>
+            <lg>
+               <l>In sanctitate, and purenesse of lyfe,</l>
+               <l>Lete vs now trauayle, both mayden man and wyfe,</l>
+               <l>All ryghtwys doynges, in vs be euer ryfe,</l>
+               <l>That we perseuer, without debate or stryfe,</l>
+               <l>Omnibus diebus nostris.</l>
+            </lg>
+            <lg>
+               <pb facs="47"/>
+               <l>To puer propheta, elected of the lorde,</l>
+               <l>Kynge Edwarde the sixt, to haue Gods lawe restorde,</l>
+               <l>Folowest Iosias, therof to take recorde,</l>
+               <l>In all thy doynges, and in Gods holy worde,</l>
+               <l>Parare vias eius.</l>
+            </lg>
+            <lg>
+               <l>Ad dandam scientiam, for mennys helth <hi>&amp;</hi> sauegarde</l>
+               <l>Christes holy Gospel, by theis frelye hearde,</l>
+               <l>Wherin doth consyst, their lyfe and full rewarde,</l>
+               <l>With preseruacyon, from daungerouse icoparde,</l>
+               <l>Peccatorum eorum.</l>
+            </lg>
+            <lg>
+               <l>Per uiscera, misericordiae,</l>
+               <l>Christ our dere master, vs dayly ouerse,</l>
+               <l>Least we here perysh, in our myquyte.</l>
+               <l>Our medyatour, contynually is he,</l>
+               <l>Oriens exalto.</l>
+            </lg>
+            <lg>
+               <l>Illuminare, swete lorde we the desyre,</l>
+               <l>To men in darkenesse, and in the popysh myre,</l>
+               <l>Lete not hys baggage, thy faythfull seruauntes tyre,</l>
+               <l>But vs delyuer, from them and from hell fyre.</l>
+               <l>In uiam pacis.</l>
+            </lg>
+            <closer>Amen.</closer>
+         </div>
+         <div type="rhyming_Decalogue">
+            <pb facs="47"/>
+            <head>The commaundementes breuelye.</head>
+            <l>Loue thy lorde God. Sweare thu non othe.</l>
+            <l>Thy sabbath kepe, Please thy fryndes bothe.</l>
+            <l>Wytnes non yll. Holde no mannys wyfe.</l>
+            <l>Brybe no mannys good. Slee not with knyfe.</l>
+            <l>Wysh no mannys howse. Nor oxe nor asse.</l>
+            <l>As thu wylt haue, So thu lyke casse.</l>
+         </div>
+         <div type="colophon">
+            <p>Thus endeth thys Comedy concernynge thre lawes, of Nature, Mo||ses, and Christ, corrupted by the Sodomy||tes Pharisees <hi>&amp;</hi> papystes most wycked. Compyled by Iohan Bale. <date>
+                  <hi>Anno M. D. XXXVIII,</hi>
+               </date> and lately in||prented <hi>per Nicolaum Bamburgensem</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

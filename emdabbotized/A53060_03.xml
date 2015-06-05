@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+	 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+            <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+         </titleStmt>
+         <extent>356 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 March (TCP phase 1)</date>
+            <idno type="marc">11861873</idno>
+            <idno type="stc">Wing N868.</idno>
+            <idno type="vid">50022</idno>
+            <idno type="DLPS">A53060</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+                  <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+                  <author>Newcastle, William Cavendish, 1592-1676.</author>
+               </titleStmt>
+               <extent>[24], 679 [i.e. 675], [4] p. : ill.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by A. Warren, for John Martyn, James Allestry, and Tho. Dicas ...,</publisher>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>First edition.</p>
+                  </note>
+                  <note>
+                     <p>Errata: p. [4] at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text><body><div type="play">
+            <pb n="78" facs="53"/>
+            <head>The Comedy named the Several Wits. <hi>The wise Wit, the wild Wit, the cholerick Wit, the humble Wit.</hi>
+            </head>
+            <div type="dramatis_personae">
+               <list>
+                  <head>The Names of the Persons.</head>
+                  <item>
+                     <hi>MOnsieur Generosity.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur Nobilissimo.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur Perfection.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur Importunate.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur Bon Compaignon.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur Profession.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur Comorade.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur Discretion.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur Compliment.</hi>
+                  </item>
+                  <item>
+                     <hi>Doctor Freedom, a Doctor of Physick.</hi>
+                  </item>
+                  <item>
+                     <hi>Madam Mere.</hi>
+                  </item>
+                  <item>
+                     <hi>Madamosel Caprisia.</hi>
+                  </item>
+                  <item>
+                     <hi>Madamosel Doltche.</hi>
+                  </item>
+                  <item>
+                     <hi>Madamosel Solid.</hi>
+                  </item>
+                  <item>
+                     <hi>Madamosel Volant.</hi>
+                  </item>
+                  <item>
+                     <hi>A Grave Matron.</hi>
+                  </item>
+                  <item>
+                     <hi>Madamosel Doltches Nurse.</hi>
+                  </item>
+                  <item>
+                     <hi>Two Maid-servants.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="prologue">
+               <head>PROLOGUE.</head>
+               <l>THis Play I do present to Lady wits,</l>
+               <l>And hope the wit, each several humour fits;</l>
+               <l>For though all wit, be wit, as of wit kind,</l>
+               <l>Yet different be, as men, not of one mind;</l>
+               <l>For different men, hath different minds we know,</l>
+               <l>So different Wits, in different humours flow.</l>
+               <l>The cholerick Wit is rough, and salt as brine,</l>
+               <l>The humble Wit flows smooth, in a strait line:</l>
+               <l>A wise Wit flows in streams, fresh, pure and clear,</l>
+               <l>Where neither weeds, nor troubled waves appear:</l>
+               <l>But a wild wit in every ditch doth flow,</l>
+               <l>And with the mudde doth soul, and filthy grow.</l>
+            </div>
+            <div n="1" type="act">
+               <pb n="79" facs="53"/>
+               <head>
+                  <hi>THE COMEDY</hi> NAMED THE SEVERAL WITS.</head>
+               <head type="sub">ACT I.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>
+                     <hi>Enter</hi> Madamosel Caprisia, <hi>and her maid.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MAID.</speaker>
+                     <p>Madam, <hi>Monsieur Importunate</hi> is come to visit you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Caprisia.</speaker>
+                     <p>Did not I tell you, I would receive no visits to day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>I did tell him that you desired to be excused; but he said, he would not excuse you, for he must see you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Capris.</speaker>
+                     <p>Go tell him I have taken Physick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>I did tell him so, but he said, he would stay untill it had done wor|king.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Capris.</speaker>
+                     <p>I would it were working in his belly.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene 2.</head>
+                  <stage>
+                     <hi>Enter</hi> Madamosel Volante, <hi>and Monsieur</hi> Bon Compaignon.</stage>
+                  <sp>
+                     <speaker>BOn Compaignon.</speaker>
+                     <p>Lady, hearing of your great wit, I am come to prove report.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Volante.</speaker>
+                     <p>You will find him a lyer, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>I had rather report should be a lyer, than I a Lover.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Volante.</speaker>
+                     <p>Why, then we agree in a mind, for I had rather be thought a fool, than to be troubled with a fools company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>You need not be troubled with that, for love is strongest absented.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Volante.</speaker>
+                     <p>O! but there is an old Proverb, that love will break tho|rough stone-walls, wherefore if you be in love, you will haunt me like a <hi>Fai|ry,</hi> no locks nor bolts will keep you out, for fairy love will creep thorough a creavice.</p>
+                  </sp>
+                  <sp>
+                     <pb n="80" facs="54"/>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>Faith Lady! I find now, that love is the Queen of <hi>Fay|ries,</hi> for it hath crept thorough the key-hole of my eares, and hath got into my head, and their dances such roundelayes, as makes my brain dissie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Volante.</speaker>
+                     <p>If once your brain begins to be dissie, your senses will stagger, and your reason will fall down from its feat, and when the reason is displaced, and the wit is distemper'd, the mind become mad, and to prevent the mischief that may follow, I will depart in time.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scene 3.</head>
+                  <stage>
+                     <hi>Enter</hi> Madamosel Caprisia, <hi>as at the door meets Monsieur</hi> Importunate, <hi>he stops her passage.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MOnsieur Importunate.</speaker>
+                     <p>You shall not pass, untill you have paid me a tri|bute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Caprisia.</speaker>
+                     <p>What Tribute?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Importunate.</speaker>
+                     <p>A kiss.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Capris.</speaker>
+                     <p>I will pay no such tribute, for I will bring such a number of words armed with such strong reasons, as they shall make my way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Importunate.</speaker>
+                     <p>Your words will prove poor Pilgrims, which come to offer at the Altar of my lips.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Capris.</speaker>
+                     <p>Nay, rather than so, they shall come as humble Petitioners, and as it were, kneeling at your heart, shall with innocency beg for gentle ci|vility.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Importunate.</speaker>
+                     <p>I will shut the gates of my ears against them, and my lips as a bar shall force them back, being a precise factious rout.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Capris.</speaker>
+                     <p>Satire shall lead my sharp words on, break ope those gates, and anger like consuming fire shall both destroy your will and base desire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Importunate.</speaker>
+                     <p>I will try that.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Capris.</speaker>
+                     <p>But I will rather make a safe retreat, than venture, least your rude strength might overcome my words.</p>
+                  </sp>
+                  <stage>She goeth back, he follows her</stage>
+                  <sp>
+                     <speaker>Monsieur Importunate.</speaker>
+                     <p>I will march after, at the heels of you.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <pb n="81" facs="54"/>
+                  <head>Scene 4.</head>
+                  <stage>
+                     <hi>Enter</hi> Madamosel Doltche, <hi>and Monsieur</hi> Compliment.</stage>
+                  <sp>
+                     <speaker>DOltche.</speaker>
+                     <p>Sir, you prayse me so much, as I may doubt, or rather believe you flatter me; for it is not possible to be so rare a creature, as you ex|press me to be, unless I were something divine, perchance I may be worthy of some of your inferiour Prayses, but not all your high and mighty ones.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Compliment.</speaker>
+                     <p>You are more than either I can express, or think you to be.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Doltche.</speaker>
+                     <p>Nay, if I be above your thoughts, I am above your de|light; for man-kind takes no great pleasure in that they comprehend not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mons. Compliment.</speaker>
+                     <p>I believe you do not comprehend how well I love you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Doltche.</speaker>
+                     <p>No truely, for love is like infinite, it hath no circumference, wherefore I will not trouble my self in loves wayes, since it is an endlesse journey.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mons. Compliment.</speaker>
+                     <p>But surely, Lady, though you cannot find that worth in me, as merits your esteem and affection, yet you will favour me for your la|thers command, and love me for his desire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>If my Father desires me to dye, I shall satisfie his desire, for it is in my power to take away my own life, when I will; but it is not in my power to love those my Father would have me; for love is not to be com|manded, nor directed, nor governed, nor prescribed, for love is free, and not to be controuled; Also I may marry a man my Father desires me, but sure my Father will not desire, nor command me to marry, if I cannot love the man he would have me marry, as I ought to do a Husband.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="5" type="scene">
+                  <head>Scene 5.</head>
+                  <stage>
+                     <hi>Enter Madam.</hi> Caprisia, <hi>and a Grave Matron.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MAtron.</speaker>
+                     <p>
+                        <hi>Madamosel Caprisia,</hi> there is a Gentleman, one of my acquain|tance doth desire to see you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Capris.</speaker>
+                     <p>He desires more than I do, for I never see a man, but I wish a vail before my sight, or one before his.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>Have you taken a surfeit of eyes, as you hate to look on a mans face.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Capris.</speaker>
+                     <p>Yes, of wanton eyes, that skips from face to face, which makes me love the blind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>I wonder whether the soul may be satisfied, or surfeit as the sen|ses do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>The thoughts, passions and appetites, which are begot betwixt the soul and senses, will surfeit, if they be over-fed.</p>
+                  </sp>
+                  <stage>
+                     <pb n="82" facs="55"/>
+                     <hi>Enter Monsieur Bon Compaignon.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>What is that Lady that is over-fed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>A fools-head.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>How can a fools head be over-fed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>With hearing and seeing more than it can digest into under|standing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>You have not such a head, Lady, for your head is so full of wit, as it perpetually flows thorough your lips; yet whatsoever it doth re|ceive, the Son of reason doth digest, and refines into spirits of senses.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>I must confess, my tongue is more fertil than my brain, the which comes more words from the one, than sense or reason from the other; but least I should over-fill your ears with my idle talks, I will leave you.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>And I will follow you, for my ears are unsatisfied, ha|ving but a taste of her wit, which makes a greater appetite.</p>
+                  </sp>
+                  <stage>Bon Compaignon, and Matron Ex.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <head>Scene 6.</head>
+                  <stage>
+                     <hi>Enter</hi> Madamosel Solid, <hi>Monsieur</hi> Profession, <hi>and Monsieur</hi> Co|morade <hi>his friend.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MOnsieur Prosession.</speaker>
+                     <p>Lady, you live, as if you lived not, living so solitary a life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Solid.</speaker>
+                     <p>Indeed, few doth live as they should, that is, to live within themselves; for the soul, which is the supream part of the life, is never at home, but goeth wandering about, from place to place, from person to person, and so from one thing to another, and not only the soul wanders thus; but all the Family of the soul, as the thoughts and passions; for should any thing knock at the gates of the soul, which are the senses, or enter the cham|bers of the soul, which is the heart, and the head, they would find them empty, for the thoughts and passions, which passions are of the Bed-cham|ber, which is, the heart and Presence-chamber, which is, the head where|in they ought to wait, are for the most part, all gone abroad; as for the thoughts, they are gone to inquire news, walking and running into every Vil|lage, Town, City and Country, and Kingdom, all to inquire what such and such persons said or acted, and the particular affairs of every particular per|son, and every particular Family, as whether they increase with riches, or decay with poverty; whether they live beyond their means, or keep within their compasse; what men and women are in love, who are constant, and who are false; what contracts are signed, or what contracts are broken; who marries, and who lives single lives; who is happy in marriage, and who is not; what children is born, who hath children, and who hath none; who is handsome, and who is ill-favoured; who dyes, and of what diseases they died of; whether they left wealth or were poor, or who were their Heirs,
+<pb n="83" facs="55"/>
+or Executors; who are Widowers, Widows or Orphants; who hath losses, crosses and misfortunes, who is in favour or disgrace with such Princes or States; who is at Law, what suits there is lost or gained; what bribes were given and taken, who was arrested, or imprisoned for debts; or set in the Pillary or Stocks for disorder, or cast into the Counter for misdemeanour; who is accused or imprisoned for Robbery, Murther or Treason; who is con|demned or reprieved; what deaths they died, or torments indur'd; what Laws there is made, repeald or broke; what Officers or Magistrates there are made, plac'd or displac'd, or put out; what factions or bruleries there is, what leagues and associates there is made betwixt States and Princes; vvhat Wars, or Peace there is, or like to be betwixt such or such Kingdoms; vvhat triumphs, or shevvs there is, or like to be; vvhat Mountebanks, Tumblers, and Dancers there is; vvhat strange Birds, Beasts or Monsters there is to be seen; what Drunkards, Bavvds and Whores there is, vvhat Da●●s hath been sought, and the cause of their quarrels; who hath lost at play, and vvho hath vvon, vvhat nevv fashions there is; vvhat Stuffs, Silks, Laces, and Imbroideries there is; vvhat Lords, Ladyes, Knights or Esquires hath nevv Coaches or Live|ries; vvhat rich cloths they had, or have; what Church is most frequented, vvhat Balls, Masks, Plays &amp; Feasts there is, or like to be, and many the like vain, idle, unusefull, unprofitable inquiries, observations and entertainments; their thoughts imployes and vva●ts their time vvith: as for the passions and affe|ctions, they are as much abroad, as the rest of the thoughts, some being vvith such and such men, or such and such vvomen, as first vvith one, and then vvith another; or vvith such a house, or houses, or lands, or vvith such Jevv|els, or Place, or Hangings, or Pictures, or the like; also the passions and af|fections wander; amongst Beasts, as with such a Horse, Dog, Monkey, or the like; or with Birds, as with such a Hawk, Cock of the Game, or pra|ting Parrot, or singing Linet, or the like; or the passions and affections are attending, watching, or seeking after such or such Offices or Commands, Governments or Titles; nay, the very soul itself goeth after such and such designes, so as it doth, as it were, run away from it self, it follows the World, and worldly things, but never draws any benefit to it self, but that soul that keeps at home, which very few souls doth; imployes it self, for it self, it on|ly views the World for knowledge, yet so, as it looks, as out of a window on a prospect, it uses the World out of necessity, but not serves the World out of slavery; it is industrious for its own tranquility, fame and everlasting life, for which it leaves nothing unsought, or undone, is a wise soul.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Profession.</speaker>
+                     <p>Madam, my soul is tyed to your soul, with such an un|dissoulable knot of affection, that nothing, no, not death can lose it, nor break it asunder; wherefore, wheresoever your soul doth go, thine will follow it, and bear it company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Solid.</speaker>
+                     <p>Then your soul vvill be <hi>incognita,</hi> for my soul vvill not know whether your soul will be with it, or not.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <sp>
+                     <speaker>Monsieur Comorade.</speaker>
+                     <p>Faith <hi>Thom.</hi> its happy for thy soul, to be drawn by her magnetick soul; for that may draw, lead or direct thy soul to Heaven; otherwise thy soul will fall into Hell with the pressure of they sins, for thy soul is as heavy, as crime can make it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mons. Prof.</speaker>
+                     <p>Why, then the divel would have found my soul an honest soul, in being full weight, his true coyn, &amp; the right stamp of his Picture, or Figure,
+<pb n="84" facs="56"/>
+for vvhich he vvould have used my soul vvell, and if Heaven gives me not this, Lady, Hell take me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Comorade.</speaker>
+                     <p>Certainly you may be the Divels guest, but whether you will be the Ladys Husband, it is to be doubted.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mons. Profession.</speaker>
+                     <p>Well, I will do my endeavour to get her, and more, a man cannot do.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="7" type="scene">
+                  <stage>
+                     <hi>Enter</hi> Madamosel Caprisia, <hi>and Monsieur</hi> Importunate.</stage>
+                  <sp>
+                     <speaker>MOnsieur Importunate.</speaker>
+                     <p>You are the rarest beauty, and greatest wit in the World.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Capris.</speaker>
+                     <p>Wit is like beauty, and beauty is oftener created in the fan|cie, than the face; so wit oftener by opinion, than in the brain, not, but surely there may be a real beauty, and so a real wit, yet that real wit, is no wit to the ignorant, no more than beauty to the blind, for the wit is lost to the un|derstanding, as beauty is lost to the eyes, and it is not in nature to give, what is not in nature to receive, nor in nature to shew what is not in nature to be seen; so there must be eyes to see beauty, and eares to hear wit, and under|standing to judge of both, and you have neither judgments eyes, nor under|standings ears, nor rational sense.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Importunate.</speaker>
+                     <p>VVhy, then you have neither beauty nor wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Capris.</speaker>
+                     <p>I have both, but your commendations are from report; for fools speaks by rote, as Parrots do.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <stage>Monsieur Importunate solus.</stage>
+                  <sp>
+                     <speaker>Monsieur Importunate.</speaker>
+                     <p>She is like a Bee loaded with sweet honey, but her tongue is the sting, that blisters all it strikes on.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="8" type="scene">
+                  <head>Scene 8.</head>
+                  <stage>
+                     <hi>Enter</hi> Madamosel Volante, <hi>and Monsieur</hi> Bon Compaignon.</stage>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>Lady, why are you so silent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Volante.</speaker>
+                     <p>VVhy soul I speak to those that understands me not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>VVhy? are you so difficult to be understood.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Volante.</speaker>
+                     <p>No, but understanding is so difficult to find.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>So, and since there is such a total decay of understanding in every brain, as there is none to be found, but in your own, you will make a new Common-wealth in yours, where your thoughts, as wife Magistrates, and good Citizens, shall govern and traffick therein, and your words shall be as Letters of <hi>Mart,</hi> and your senses shall be as legate Embassadors that lives in other Kingdoms, which takes instructions, and give intelligence, or rather your thoughts are destinies, and fates, and your words their several de|crees.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Volante.</speaker>
+                     <p>Do you think my thoughts can warrant Laws, or can my words decree them?</p>
+                  </sp>
+                  <sp>
+                     <pb n="85" facs="56"/>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>I believe your thoughts are so wise and just, that what|soever they allow of, must be best, and your words are so witty, rational; po|sitive and powerfull, as none can contradict them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Volante.</speaker>
+                     <p>Good Sir, contradict your self, or Truth will contradict you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>Nay faith, I will never take the pains to contradict my self; let Truth do what she will.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II.</head>
+               <div n="9" type="scene">
+                  <head>Scene 9.</head>
+                  <stage>
+                     <hi>Enter Madam la</hi> Mere, <hi>and her daughter</hi> Madamosel Caprisia.</stage>
+                  <sp>
+                     <speaker>Madam Mere.</speaker>
+                     <p>Daughter, did you entertain the Lady <hi>Visit</hi> civilly?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Capris.</speaker>
+                     <p>Yes Mother, extraordinary civilly, for I gave her leave to entertain herself with her own discourse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Mere.</speaker>
+                     <p>That was rudely.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Capris.</speaker>
+                     <p>O no, for certainly it is the height of courtship to our sex, to let them talk all the talk themselves; for all women takes more delight to discourse themselves, than to hear another; and they are extreamly pleased, if any listens, or at lest seems to listen to them, For the truth is, that tal|king is one of the most luxurious appetites women have; wherefore I could not be more civiller, than to bar and restrain the effeminate nature in my self, to give her tongue liberty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam. Mere.</speaker>
+                     <p>But you should have spoken a word now, and then, as giving her civilly some breathing rest for her discourse to lean upon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Capris.</speaker>
+                     <p>Her speech was so strong, and long-winded, as it run with a full speed, without stop or stay, it neither need spurre nor whip; the truth is it had been well, if it had been held in with the bridle of moderation, for it ran quite beyond the bounds of discretion, although sometimes it ran upon the uneven wayes of slander, other times upon the stony ground of censure, and sometimes in the soul wayes of immodesty, and often upon the furrows of non-sense; besides, it did usually skip over the hedges of Truth, and certainly, if the necessities of nature, and the separations of Neigh-bour|hood, and the changes and inter-course of, and in the affairs of the VVorld, and men did not forcibly stop, sometimes a womans tongue, it would run as far as the confines of death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Mere.</speaker>
+                     <p>But let me tell you Daughter, your tongue is as sharp, as a Serpents sting, and will wound as cruelly and deadly where it bites.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>It proves my tongue a womans tongue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mad. Mere.</speaker>
+                     <p>VVhy should a womans tongue have the effects of a Serpents sting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>The reason is evident, for the great Serpent that tempted, and so perverted our Grandmother <hi>Eve</hi> in Paradise, had a monstrous sting, and our Grandmother whetted her tongue with his sting, and ever since, all her effe|minate rase hath tongues that stings.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="10" type="scene">
+                  <pb n="86" facs="57"/>
+                  <head>Scene 10.</head>
+                  <stage>
+                     <hi>Enter</hi> Madamosel Doltche, <hi>and Monsieur</hi> Bon Compaignon.</stage>
+                  <sp>
+                     <speaker>BOn Compaignon.</speaker>
+                     <p>Lady, Monsieur <hi>Nobilissimo</hi> is so in love with you, as he cannot be happy, untill you be his wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>I wonder he should be in love with me, since I have neither beau|ty to allure him, nor so much riches, as to intice him, nor wit to perswade him to marry me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>But Lady, you have vertue, good nature, sweet dispositi|on, gracefull behaviour, which are sufficient Su●jects for love to settle on, did you want what you mentioned, out you have all, not only what any man can with or desire with a wife, but you have as much as you can wish and desire to have your self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>I will rather be so vain, as to strive to believe you, than rudely to contradict you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>It is neither erroneous, nor vain to believe a truth, Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>Nor civil to make a doubt, Sir; but I am obliged unto you for that, you help to cover my defects, and wants in nature, with your civil com|mendation, and your kind estimation of me.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="11" type="scene">
+                  <head>Scene 11.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Importunate, <hi>and Madamosel</hi> Caprisia.</stage>
+                  <sp>
+                     <speaker>IMportunate.</speaker>
+                     <p>My fair wit, you look as if you were angry with me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>You dwell not so long in my mind, as to make me angry, my thoughts are strangers to your figures.</p>
+                  </sp>
+                  <stage>She offers to go away, and he holds her from going.</stage>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Nay faith, now I have you, I will keep you perforce, untill you pay me the kiss you owe me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Let me go, for I had rather my eyes were eternally seal'd up, my ears for ever stopt close from sound, than hear or see you.</p>
+                     <p>I care not whether you hear, or see me, so you will kisse me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Let me go, or otherwise my lips shall curse you, and my words be|ing whetted with injurie, are become so sharp, as they will wound you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate</speaker>
+                     <p>I will keep you untill your words begs for mercy in the most humblest stile, and after the most mollifying manner.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Hell take you, or Earth devoure you like a beast, never to rise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Love strike your heart with shooting thorough your eyes.</p>
+                  </sp>
+                  <sp>
+                     <pb n="87" facs="57"/>
+                     <speaker>Capris.</speaker>
+                     <p>May you be blown up with pride, untill you burst into madnesse, may your thoughts be more troubled than rough waters, more raging than a tempest; may your senses feel no pleasure, your body find no rest, nor your life any peace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>May you love me with a doting affection; may I be the only man you will imbrace, and may you think me to be as handsome as <hi>Narcis|sus did himself.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>You appear to me in all the horrid shapes that fancy can in|vent.</p>
+                  </sp>
+                  <stage>Enter Madam Mere.</stage>
+                  <sp>
+                     <speaker>Madam Mere.</speaker>
+                     <p>Why, how now daughter, alwayes quarreling.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Can you blame me, when I am beset with rudeness, and assaulted with uncivil actions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Mere.</speaker>
+                     <p>Let her alone, Monsieur <hi>Importunate,</hi> for she is a very Shrew.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Well, go thy wayes, for all the Shrews that ever nature made, you are the cursest one.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="12" type="scene">
+                  <head>Scene 12.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Volante, <hi>and a Grave</hi> Matron.</stage>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>I am not of the humour; as most vvomen are, vvhich is, to please themselves vvith thinking, or rather believing, that all men that looks on them, are in love vvith them: But I take pleasure, that all men that I look on, should think I am in love vvith them; vvhich men vvill soon be|lieve, being as self-conceited as vvomen are.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>But vvhere is the pleasure, Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Why, in seeing their phantastical garbs, their strutting postures, their smiling faces, and the jackanapesly actions, and then I laugh in my mind, to think vvhat fools they are, so as I make my self merry at their folly, and not at my own.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>But men vvill appear as much Jackanapeses, when they are in love vvith you, as if they thought you vvere in love vvith them, for all Lovers are apish, more or less.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>I grant all Lovers are, but those that think themselves beloved, ap|pears more like the grave <hi>Babboon,</hi> than the skipping <hi>Iackanapes</hi>; for though their actions are as ridiculous, yet they are vvith more formality, as being more circumspectly foolish, or self-conceitedly vain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>Well, for all your derisions and gesting at men, I shall see you at onetime or other, shot vvith <hi>Cupids</hi> arrovv.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>By deaths dart, you may; but never by loves arrovv; for death hath povver on me, though love hath none.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>There is an old saying, that time, importunity and opportunity, vvins the chastest She, vvhen those are joyned vvith vvealth and dignity; but
+<pb n="88" facs="58"/>
+to yield to a lawfull love, neither requires much time, nor pleading, if the Sui|ters have but Person, Title and Wealth, which women for the most part do prize, before valour, wisdom or honesty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Women hath reason to prefer certainties before uncertainties; for mens Persons, Titles and Wealths, are visible to their view and knowledge, but their Valours, Wisdoms and Honesties, doth rest upon Faith; for a coward may fight, and a fool may speak rationally, and act prudently some|times, and a knave may appear an honest man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Marrons.</speaker>
+                     <p>They may so, but a valiant man, will never act the part of a cow|ard; nor a wise man prove a fool, nor an honest man appear a knave.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>There can be no proof of any mans Valour, Wisdom or Ho|nesty, but at the day of his death, in aged years, when as he hath past the danger in Wars, the tryals in Miseries, the malice of Fortune, the tempta|tions of Pleasures, the inticements of Vice, the heights of Glory, the changes of Life, provokers of Passion, deluders of Senses, torments of Pain, or painfull Torments, and to chose a Husband that hath had the Tryals, and ex|periences of all these, is to chose a Husband out of the Grave, and rather than I will marry death, I will live a maid, as long as I live, and when I dye, let death do what he will with me.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="13" type="scene">
+                  <head>Scene 13.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Profession <hi>in mourning; then enters his Friend, Monsieur</hi> Comorade.</stage>
+                  <sp>
+                     <speaker>MOnsieur Comorade.</speaker>
+                     <p>Well met, I have travelled thorough all the Town, and have inquired of every one I could speak to, and could neither hear of thee, nor see thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>It were happy for me, if I had neither ears nor eyes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Why, what is the matter, man?</p>
+                  </sp>
+                  <stage>He observes his mourning and then starts.</stage>
+                  <stage>Gods-me! Now I perceive thou art in mourning: which of thy Friends is dead?</stage>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>The chiefest friend I had, which mas my heart; For that is dead, being kill'd with my Mistress cruelty, and buryed in her incon|stancy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>I dare swear, not the whole heart; for every mans heart, is like a head of Garlick, which may be divided into many several cloves: Wherefore, cheer up, man; for it is but one clove, that death, or love, hath swallowed down into his Stomach, to cure him of the wind-cholick; and since thy heart hath so many cloves, thou mayst well spare him one, and be never the worse; But if it be buryed, as you say, in your Mistresses incon|stancy; it is to be hop'd it will be converted into the same inconstant humour, and that will cure the other part of thy heart.</p>
+                  </sp>
+                  <sp>
+                     <pb n="89" facs="58"/>
+                     <speaker>Profession.</speaker>
+                     <p>O! She was the Saint of my thoughts, and the Goddesse of my soul.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Prethee let me be thy moral Tutor, to instruct thee in the know|ledge of Truth, and to let thee know, that vertue is the true Goddesse, to which all men ought to bow to; and that youth, beauty and wealth, are sixt to be forsaken, when vertue comes in place; and vertue is constant, both to its principals and promises; Wherefore, if thy Mistresse be inconstant, she cannot be vertuous, wherefore let her go.</p>
+                  </sp>
+                  <stage>Monsieur Profession <hi>setches a great sigh, and goes out without speaking a word.</hi>
+                  </stage>
+                  <stage>Comorade alone.</stage>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>I think his heart is dead in good earnest; for it hath no sense of what I have said.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="14" type="scene">
+                  <head>Scene 14.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Mere, <hi>and her Daughter Madamosel</hi> Caprisia.</stage>
+                  <sp>
+                     <speaker>MERE.</speaker>
+                     <p>Daughter, you have a sufficiency of wit and beauty, to get many Lovers to chose a Husband, if you had but patience to enter|tain, and prudence to keep them; But your being crosse, will lose your Lo|vers, as soon as your beauty hath taken them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>It is no prize for a woman to have such Lovers, that hath amo|rous natures; for it is their nature that drives them to her, and not the womans beauty or wit, that draws them to her; and there is less force required to drive, than to draw; but the truth is, that most men hath such threed-bare souls, as if the nap of their understanding were worn of; or indeed, their souls seems, as if there were never any woven thereon, as that nature hath made all their souls, thin and course, or as if time had Moath-eaten them, which makes me, although not to hate you, yet to despise that Sex; for men that should imitate the Gods, yet are they worse than Beasts, which makes me shun their beastly company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>Daughter, you speak and judge passionately, and passion can never reason well; for how is it possible, for reason to exercise its function, when passion opposes, and is too strong for it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Truth may be delivered in passion, but not corrupted with passion; for truth is truth, howsoever it be divulged, or else it is no truth, but false|hood.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="14" type="scene">
+                  <pb n="90" facs="59"/>
+                  <head>Scene 14.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Perfection, <hi>and Madamosel</hi> Solid, <hi>drest very fine.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>PErfection.</speaker>
+                     <p>You are wondrous fine, to day, Madam.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>If I seem fine, to day, I am obliged more to my fancie, than my wealth, for this finerie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>The truth is, you are so adjousted, so curiously accoutred, as I perceive, judgement and wit were joyned associates in your dressing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>I had rather be commended, or applauded for judgement and wit, than for wealth and beauty; for I had rather have my soul commended, than my person, or fortunes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>Certainly, I believe you have a more rational soul, than any other of your Sex have.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>Alas? My soul is but a young soul, a meer Novice soul, it wants growth, or my soul is like a house, which time the architectour hath newly begun to build; and the senses, which are the Labourers, wants information and experience, which are the materiall for the rational soul to be built on, or with; but such materials as hath been brought in, I strive and endeavour to make the best, and most convenient use for a happy life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>How say you? the best use for a good Wife!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>No, that little reason I have, tells me, to be a Wife, is to be unhap|py, for content seldom in marriage dwells, disturbance keeps possession.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>If you disprayse marriage, you will destroy my hopes, and frustrate my honest design.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>VVhy? what is your design?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>To be a Suiter to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>And what is your hopes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>To be your Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>If I thought marriage were necessary, although unhappy, yet there would be required more wit and judgement in chosing a Husband than in dressing my self; wherefore it were requisite, that some of more wit and judgement than my self, should chose for me, otherwise I may be betray'd by flattery, outward garb, insinuations or false-hood, and through an unex|perienced innocency, I may take words and shews, for worth and merit, which I pray the Gods I may not do; for to marry an unworthy man, were to me to be at the height of affliction, and marriage being unhappy in it self, needs no addition to make it worse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>Madam? Discretion forbids me to commend my self, although I am a Lover; For had I merits worthy great praises, it were unfit I should mention them; but there is not any man or woman, that is, or can be ex|actly known, either by themselves or others; for nature is obscure, she ne|ver divulges herself, neither to any creature, nor by, or through any creature; for the hides herself under infinite varieties, changes and chances; She dis|guises herself with antick Vizards, she appears sometimes old, sometimes young, sometimes vaded and withered, sometimes green and flourishing, sometimes feeble and weak, sometimes strong and lusty, sometimes defor|med, and sometimes beautifull; sometimes she appears with horrour, some|times with delight, sometimes she appears in glimsing lights of knowledge,
+<pb n="91" facs="59"/>
+then clouds herself with ignorance. But, Madam, since we are as ignorant of our souls, as of our fortunes, and as ignorant of our lives, as of our deaths; we cannot make any choice upon certainties, but upon uncertainties, and if we be good whilst we live, our deaths will be our witnesse to prove it; in the mean time, let our promises stand bound for us, which is the best ingagement we can give; although it may sail; and let our marriage be as the Bond of agreement, although we may forfeit the same, yet let us make it as sure as we can.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>I will consider it, and then I will answer your request.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>That is, to yield.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>It is like enough.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="16" type="scene">
+                  <head>Scene 16.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Caprisia, <hi>and Monsieur</hi> Importunate.</stage>
+                  <sp>
+                     <speaker>IMportunate.</speaker>
+                     <p>My fair Shrew, are you walking alone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Caprisia.</speaker>
+                     <p>My thoughts are my best Companions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Pray, let a thought of me be one of the company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>When you enter into my mind, you do appear so mean, as my nobler thoughts, scorns that thought that bears your figure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Thoughts are as notes, and the tongue is the Fiddle that makes the musick; but your words, as the cords, are out of tune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>You say so, by reason they are not set to your humour, to sound your prayse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>I say you are very handsome, nature hath given you a surpas|sing beauty, but pride and self-conceit, hath cast such a shadow, as it hath darkened it, as vaporous clowds doth the bright Sun.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Your opinions are clowdy, and your tongue like thunder, strikes my ears with rude, uncivil words.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <stage>He alone.</stage>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>I perceive humility, dwels not with beauty, nor with; but is, as great a stranger, as with Riches and Titles.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="17" type="scene">
+                  <pb n="92" facs="60"/>
+                  <head>Scene 17.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Volante, <hi>and Monsieur</hi> Discretion.</stage>
+                  <sp>
+                     <speaker>DIscretion.</speaker>
+                     <p>Madam, the same of your wit, drew me hither.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>I am sorry my wit hath a greater fame, than my worth, that my vain words should spread further than my vertuous actions, for noble fame is built on worthy deeds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Discretion.</speaker>
+                     <p>But it were pity you should bury your wit in silence; Besides, your discourse may profit the hearers, either with delight or instructi|ons.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>O no, for discourses pleases according to the humour, or under|standing of the hearers; Besides, it is the nature of mankind, to think each other fools, and none but themselves wise; Then why should I wast my life to no purpose, knowing times motion swift.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Discretion.</speaker>
+                     <p>You do not wast your life through your words, if your words gets you a fame, and esteem of the VVorld.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>VVhat shall I be the better, in having the VVorlds esteem, nay, it is likely that prayses (whilst I live) may do me harm, creating vain and false opinions in my imaginations of self-conceit, of being wiser, or wittier, than really I am; which opinions may make me commit errors, and I had rather the VVorld should laugh at me, for want of wit, than scorn me for my follies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Discretion.</speaker>
+                     <p>But if witty discourses, will get you an esteem, what will your wise actions, and vertuous life; and prayse is the reward to all noble en|deavours; beside, prayse is no burthen, but it often serves as a ballance, to make the life swim steady in Sea-faring VVorld: But yet, Lady, I would not have your wit out-run your prayse, which it will do, if you spur it too hard, for wit must be used like a strong spirited horse, it must be restraind with a bridle, not prick'd with the spur, least it should run away, and fling the Rider, which is, the Speaker, into a ditch of disgrace; neither must it run wildly about, but must be wrought, to obey the hand and the heel, which is, time and occasion, to stop, and to change, as when to speak, and to whom to speak, and on what to speak, and when to make a stop of silence, other|wise, it will run out of the smooth paths of civility, or the clean wayes of modesty: Besides, wit must not only be taught, to amble in rhime, and to trot in prose, but to have a sure footing of sense, and a setled head of reason, least it should stumble in disputes, or fall into impertinent discourses; like|wise, wit may be taught to go in aires of fancies, or low, upon the ground of proof.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>But Sir, you must consider, that women are no good managers of wit, for they spoyl all their tongue rides on, hackneys it out, untill it be|comes a dull jade.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Discretion.</speaker>
+                     <p>Least I should give an ill example of tyreing in our allego|rical discourse, I shall kiss your hands, and take my leave for this time.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <stage>
+                     <pb n="97" facs="60"/>
+                     <hi>Madamosel alone.</hi>
+                  </stage>
+                  <stage>She fetches a great sigh.</stage>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Monsieur <hi>Discretion</hi> is a handsom man, he hath a wise counte|nance, and a manly garo; his discourse is rational and witty, sober and di|fercet: But good Lord! how foolishly I talk to him? I never spake duller, nor so senselesly, since I was taught words, and he came purposely, as he told me, to hear me speak, and prove my wit; But it was a sign he heard none, for he grew soon a weary of my company, he staid so short a time: I am troubled often with prating fools, whose visits are as tedious, as their discour|ses: But Lord! why do I condemn others, as fools, when this Gentleman, Monsieur <hi>Discretion,</hi> hath proved me one.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>ACT III.</head>
+               <div n="18" type="scene">
+                  <head>Scene 18.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Caprisia, <hi>and Monsieur</hi> Importunate.</stage>
+                  <sp>
+                     <speaker>IMportunate.</speaker>
+                     <p>What? musing by your self, alone! May I question your oughts?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>If you do, you will not be resolved, for there is none at home, to give you an answer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Why, where are they? wandring abroad?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>They like a brood of Birds, are flown out of their Neasts; for thoughts flies with swifter speed, than time can do, having large wings, of quick desire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Faith, you are a great wit!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>You are a great trouble!</p>
+                  </sp>
+                  <stage>She offers to go forth, He stayes her; She is angry.</stage>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>What, you will not force me to stay against my will?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Yes, that I will; For your Father saith, you shall be my Wife, and then you will imbrace, and kiss me, as coy as you are now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Which if I do, I wish my arms, when they do wind about your waste, may sting as Serpents, and that my kisses may prove poyson to your lips.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>What, are you seriously angry; Nay, then 'tis time to leave you.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <stage>The Lady alone.</stage>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>I have heard, that gallant men are civil to our Sex, but I have met with none, but rough, rude, rugged natures, more cruel than wild Tygars.</p>
+                  </sp>
+                  <stage>
+                     <pb n="98" facs="61"/>
+                     <hi>Enter Monsieur Bon Compaignon.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>Why do you complain of our Sex, Lady? what is it you would have?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>I would have a gray-headed wisdom, a middle-aged humour, a
+fresh mouthed wit, a new bloom'd youth, and a beauty that every one fan|cies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>Why, so you have.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Then I have what I desire.</p>
+                  </sp>
+                  <stage>She goes out.</stage>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>O! She hath a sharp wit, it is vitral wit.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="19" type="scene">
+                  <head>Scene 19.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Solid, <hi>and Monsieur</hi> Comorade.</stage>
+                  <sp>
+                     <speaker>COmorade.</speaker>
+                     <p>Lady, you have kill'd a Gentleman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>Who, I! why, I never had the courage to kill a fly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>You have kill'd him with your disdain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>I am sorry he had so weak a life, as so slight a cause, as a womans disdain, could destroy it; but for my part, I disdain no man, although I can|not intimately love all men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>He is but one man, Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>And I have but one particular love to give, or rather I may say, to be gain'd, for I cannot dispose of it; for it will be only disposed by it self, without my leave, so as I must be guided by that which will not be guided by me? I can lend my pity, but not give him my love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>I suppose you have given him some encouragement, and hopes, if not an assurance, by reason, he sayes, you have forsaken him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>Not unless common civility, be an encouragement, and ordinary conversation gives hopes; as for an assurance, indeed I gave Monsieur <hi>Pro|fession</hi>; For <hi>I</hi> did assure him, <hi>I</hi> could not love him, as he would have me love him, as Husband. But, O vain man! to brag of that he never had.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>'Tis no brag, Lady, to confess he is forsaken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>It is a brag, for in that he implyes, he hath been beloved, for the one must be, before the other.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Pray Madam, let me perswade you, to entertain his love, he is a Gentleman who hath worth, person and wealth, all which he offers you, as to his Goddesse, and a good offer is not to be refused, Lady, when it may lawfully be taken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>You say true, Sir, and could <hi>I</hi> perswade my love, as easily as you can commend the man, 'tis likely <hi>I</hi> should not refuse him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>But you will be thought cruel, to let a Gentleman dye, for want of your love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>Why, put the case <hi>I</hi> have other Lovers, as passionate, and worthy as he; how would you have me divide my self amongst them? Or can you
+<pb n="99" facs="61"/>
+tell me how to please them; I cannot marry them all, the Laws forbids it, and to be the common Mistresse to them, all honour, and honesty forbids it; for though there is some excuse for men, who hath by custom their liberty in amours, because their amours obstructs not nature, so makes breach of honesty; but women are not only barr'd by nature, but custom of subjection, and modesty of education, wherefore, if they should take liberty to seve|ral Lovers, or loves courtships, they would not only dishonour themselves, and their whole Sex, and their living friends; but their dishonour would out|reach their Posterity, and run back to their Fore-fathers, that were dead long, long before they were born; for their unchaste lives, would be as marks of disgrace, and spots of infamie upon the Tombs of those dead Ancestors, and their ashes would be full'd with their stains, whereas, a chast woman, and a gallant man, obliges both the living, and the dead; for they give honour to their dead Ancestors in their Graves, and to those friends that are living in the World, and to those that shall succeed them; Besides, their exam|ples of their vermes, for all Ages to take out patterns from.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Madam, you have answered so well, for your self, and Sex, as I can say no more in the behalf of my friend.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="20" type="scene">
+                  <head>Scene 20.</head>
+                  <stage>
+                     <hi>Enter Madam la</hi> Mere, <hi>and</hi> Madamosel Caprisia <hi>her daughter.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MEre.</speaker>
+                     <p>Daughter, your tongue is so sharp, as it is not only poynted, but edged on both sides.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Use, Mother, will blunt the poynt, and flat the edges.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>No, Daughter, the more 'tis used, the sharper it will be, for words and passions, are the whetstones to that Razor.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>As long as that Razor shaves no reputation, let it raze, or shave, what it will.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="21" type="scene">
+                  <head>Scene 21.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Solid, <hi>Madamosel</hi> Doltche, <hi>Madamosel</hi> Vo|lante, <hi>and a Grave</hi> Matron.</stage>
+                  <sp>
+                     <speaker>MAtron.</speaker>
+                     <p>Madamosel <hi>Solid,</hi> what say you to Monsieur <hi>Ralleries</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>I say of him, as I would of a wild or skittish jade, who hath only strength to kick and fling, but not to travel, or to bear any weight; so Rallerie, is antick postures, and laughing reproaches, not solid and judicious discourses, or continued speeches, the truth is, a ralleying wit, is like ob|structed, or corrupted lungs, which causes difficult, and short breathing; So that wit, is short and pussing, spurting out words, questions and replyes; 'tis squib wit, or boys sport</p>
+                  </sp>
+                  <sp>
+                     <pb n="100" facs="62"/>
+                     <speaker>Matron.</speaker>
+                     <p>Madamosel <hi>Doltche,</hi> what say you of Monsieur <hi>Satericals</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>As <hi>I</hi> would of frosty weather; his wit is sharp, but wholesome, and though he hath a frowning brow, yet he hath a clear soul.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>Madamosel <hi>Volante,</hi> What say you of Monsieur <hi>Pedants</hi> wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>As <hi>I</hi> would of Leeches; for as Leeches sucks bloud from the back parts of men, and spues it forth, when rubb'd with salt; so Monsieur <hi>Pedant</hi> sucks wit from other mens pens, and mouths, and then spues it sorth again; being rubb'd with the itch of prayse; But all the learned knows, the wit was no more his own, than the bloud that was suck'd, was the Lee|ches.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>What say you of Monsieur <hi>Lyricks</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>As <hi>I</hi> would of a Bird, that chirps more than sings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>Madamosel <hi>Doltche,</hi> What say you of Monsieur <hi>Tragedians</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>As <hi>I</hi> would of Winter, wherein is more rain than Sun-shines, more storms than calms, more night than day; so his wit, hath more melan|cholly than mirth, causing, or producing tears, sighs and sadnesse; the truth is, his wit dwels in the shades of death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>Madamosel <hi>Solid,</hi> what say you to Monsieur <hi>Comicals</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>As <hi>I</hi> would of the Spring, which revives, and refreshes the life of every thing, it is lightsom and gay; So Monsieur <hi>Comicals</hi> wit is chearfull, pleasant, lively, natural and profitable, as being edifying.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="22" type="scene">
+                  <head>Scene 22.</head>
+                  <stage>
+                     <hi>Enter Madam la</hi> Mere, <hi>and Madamosel</hi> Caprisia, <hi>her Daughter</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MERE.</speaker>
+                     <p>Daughter, let me tell you, you have brought your Hogs to a fair Market.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>That is better, than to keep them in a foul stye, Mother.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>You cannot speak without crossing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Nor readily crosse without speaking.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>I am sure, your bitter discourses, and crosse answers, hath caused the Lady, namely, the Lady <hi>Hercules,</hi> to send a rayling message, by a Messen|ger, to declare her anger for your abusive discourses against her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>
+                        <hi>I</hi> never mentioned her in my discourse, in my life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>But you speak against big, and tall women.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>
+                        <hi>I</hi> gave but my opinion of the size, and Sex, not of any particular, and <hi>I</hi> may speak freely, my opinion of the generalities.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>You may chance, by your opinion of the generalities, to be gene|rally talk'd of.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>VVhy, then <hi>I</hi> shall live in discourse, although discourse were dead in me, and who had not rather live, although an ill life, than dye?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>But you might live so, as to gain every bodyes good opinion, if you would palliate your humour, and sweeten your discourse, and endeavour to please in conversation.</p>
+                  </sp>
+                  <sp>
+                     <pb n="101" facs="62"/>
+                     <speaker>Capris.</speaker>
+                     <p>Which do you mean, Mother! either to please my self, or the company?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>Why, the company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>That is impossible, for in all company, there is diversities, and contrarieties of humours, passions, appetites, delights, pleasures, opinions, judgements, wits, understandings, and the like, and for talking, speaking and discoursing, they are inter-changing, inter-mixing, reasoning, arguing dispu|ting, which causes contradictions, wherefore to agree in, and to every hu|mour, passion, opinion, and discourse, is impossible; indeed one may seem|ly, or truly agree, and approve of any one opinion or discourse; but not a diversity of discourses, opinions; also one may flatteringly applaud, or sooth any particular persons humour, but not diverse persons, diverse hu|mours, but to flatter, is base, as to approve in their words, and disapprove in their thoughts, as to commend, or applaud that, or those, that is not praise-worthy: But howsoever, for the soothing of any bodies humour, I will ne|ver take the pains, for why should I make my self a slave to the several hu|mours of mankind, who is never in one humour two minutes, and why may not I think, or desire to be flattered, and humoured, as well as others, and when I am not flattered, and humoured, to be as much displeased at others, as others at me: VVherefore, good Mother, be not you displeased, that I chose rather to displease my self, than any body else, besides your self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>You will follow your own wayes, Daughter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>I cannot walk safer, than in my own ground, Mother.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="23" type="scene">
+                  <head>Scene 23.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Perfection, <hi>and Madamosel</hi> Solid.</stage>
+                  <sp>
+                     <speaker>SOlid.</speaker>
+                     <p>Dear Mistress, I fear my absence hath made you forget me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>No certainly, I cannot forget you, by reason my brain is hung about with the memory of your worthy nature, and meritorious actions; which my love doth admire, and takes delight for to view each several piece and part.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>Do you love me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>How can I chose but love, when in my infancy, such a number of words, in your praise, was thrown into my ears, like seeds into the Earth, which took root in my heart, from which love sprouted forth, and grew up with my years.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>And will you be constant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>As day is to the Sun!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>Do you speak truth?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>Truly, I have been bred up so much, and so long, in the wayes of truth, as <hi>I</hi> know no tract of dissembling; and therefore, certainly, my words will ever keep within the compass of Truth, and my actions will alwaies turn, and run with that byas, but why do you seem to doubt, in making such questions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>
+                        <hi>I</hi> will truly confess, <hi>I</hi> have heard, that since <hi>I</hi> have been in the Countrey, you had entertained another Lover.</p>
+                  </sp>
+                  <sp>
+                     <pb n="102" facs="63"/>
+                     <speaker>Solid.</speaker>
+                     <p>It's false, but false reports, is like breathing upon a pure and clear Glasse, it dimns it for a time; but that malicious breath, soon vanishes, and leaves no stain behind it; so I hope your jealousie will do the like, it will vanish, and leave no doubt behind it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>
+                        <hi>I</hi> hope you are not angry with me, for telling you, or for being my self troubled, at what was reported.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>No, for innocency is never concern'd, it always lives in peace and quiet, having a satisfaction in it self, wherefore reports only siezes on the guilty, arresting them with an angry turbulency.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>But, perchance you may be angry for my jealousie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>No, for jealousie expresses love, as being affraid to lose, what it desires to keep.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>Then, <hi>I</hi> hope you do not repent the love you have placed on me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>Heaven may sooner repent of doing good, than <hi>I</hi> repent my love and choyce.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perfection.</speaker>
+                     <p>Dear Mistress, my mind is so full of joy, since it is clear'd of suspition, and assured of your love, as my thoughts doth fly about my brain, like birds in Sun-shine weather.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="24" type="scene">
+                  <head>Scene 24.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Nobilissimo, <hi>and Madamosel</hi> Doltche.</stage>
+                  <sp>
+                     <speaker>NObilissimo.</speaker>
+                     <p>Sweet Lady, will you give me leave to be your Servant!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>
+                        <hi>I</hi> wish <hi>I</hi> were a Mistress worthy of your service.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobiliss.</speaker>
+                     <p>There is no man shall admire more your beauty, and wit, nor be more diligent to your youth, nor shall honour your merits, and love your vertue more than <hi>I.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>Indeed, <hi>I</hi> had rather be honoured for my merit, than for my birth, for my breeding, than for my wealth, and <hi>I</hi> had rather be beloved for my vertue, than admired for my beauty; and <hi>I</hi> had rather be commended for my silence, than for my wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>It were pity you should bury your great wit in silence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>My wit is according to my years, tender and young.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Your wit, Lady, may entertain the silver haired Sages.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>No surely, for neither my years, nor my wit, are arrived to that degree, as to make a good companion, having had neither the experience of time, nor practice of speech; for <hi>I</hi> have been almost a mute hitherto, and a stranger to the VVorld.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>The VVorld is wide, and to travel in it, is both dangerous and difficult; wherefore, you being young, should take a guide, to protect and direct you, and there is no Guide nor Protector so honourable, and safe, as a Husband; what think you of marriage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>Marriage, and my thoughts, live at that distance, as they seldom meet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>VVhy, <hi>I</hi> hope you have not made a vow, to live a single life.</p>
+                  </sp>
+                  <sp>
+                     <pb n="103" facs="63"/>
+                     <speaker>Doltche.</speaker>
+                     <p>No, for the Laws of Morality, and Divinity, are chains, which doth sufficiently restrain mankind, and tyes him into a narrow compasse; and though I will not break those chaining Laws, to get lose, and so become lawless; yet I will not tye nature harder with vain opinions, and unnecessary vows, than she is tyed already.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>You shall need no Tutour, for you cannot only instruct your self, but teach others.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>Alas, my brain is like unplanted ground, and my words like wild fruits, or like unprofitable grain, that yields no nourishing food to the understanding; Wherefore, if I should offer to speak, my speech must be to ask questions, not to give instructions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Certainly, Lady, nature did study the architectour of your form, and drew from herself the purest extractions, for your mind, and your soul, the essence or spirits of those extractions, or rather you appear to me, a miracle, something above nature, to be so young and beautifull, and yet so vertuous, witty and wise, grac'd with such civil behaviour; for many a grave beard, would have wagg'd with talking, lesse sense, with more words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>Youth and age, is subject to errors, one for want of time to get experience, the other through long time, wherein they lose their me|mory.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Pray let me get your affections, and then I shall not lose my hopes of a vertuous Lady to my wife.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="25" type="scene">
+                  <head>Scene 25.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Caprisia, <hi>and Monsieur</hi> Generosity.</stage>
+                  <sp>
+                     <speaker>GEnerosity.</speaker>
+                     <p>Lady, are you walking studiously alone? may I not be thought rude, if I should ask what your studies are?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>I am studying, how some studies for pain, some pleasure, some dangers, some quarrels, some to be wicked, some to be learned, some to be ignorant, some to be foolish, some to be famous, but few to be wise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>Who studies to be wicked?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Thieves, Murtherers, Adulterers, Lyers, and Extortioners.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>Who studies to be learned?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Linguists.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>Who studies to be ignorant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Divines.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity,</speaker>
+                     <p>Who studies quarrels?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Lawyers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>Who studies dangers?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Souldiers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>VVho studies to be fools?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Buffoones.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity,</speaker>
+                     <p>VVho studies fame?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Poets.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>VVho studies pleasure?</p>
+                  </sp>
+                  <sp>
+                     <pb n="104" facs="64"/>
+                     <speaker>Capris.</speaker>
+                     <p>Epicures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>VVho studies pain?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Epicures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>Do Epicures study both for pain, and pleasure?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Yes, for they that surfeit with pleasure, must endure pain; and Epicures studies the height of pleasure, which no sooner injoyed, but pain follows.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>VVho studies to be wise?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>They that study Temperance, Prudence, Fortitude and Ju|stice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>And, what study you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>I study how I may avoid the company of mankind, also, to be quit of your Lordships presence.</p>
+                  </sp>
+                  <stage>He alone.</stage>
+                  <stage>She goeth out.</stage>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>She is so handsome, no humour can ill become her.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="26" type="scene">
+                  <head>Scene 26.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Profession, <hi>and Monsieur</hi> Comorade.</stage>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>
+                        <hi>Thom.</hi> Give me leave to rejoyce with thee, for the resurrecti|on of thy heart, that was kill'd with thy Mistresses cruelty, and buried in her constancy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>VVell, well? make your self merry.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>But prethee, in what plight is thy heart? I doubt it is lean, weak and pale, and in a puling condition, lying in the Grave of thy Mistresses in|constancy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>Faith, I cannot tell; the good Angel that brought into life, can give a better account of it, than I can.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>VVhere shall I seek this good Angel? amongst the effeminate or masculine Sex: For I suppose, it is an Angel that is of one Sex, although I have heard, Angels are of neither Sex; but prethee, of which shall I in|quire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>Of the divine Sex, and the divinest of her Sex.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>You may as well bid me inquire of that which is not to be found, for every particular man that is a Servant to any particular of these an|gelical creatures, will prefer his own Mistress, to be the divinest, and so the most absolutest.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>All men that sees my Mistresse, and doth not adore her, as the only She, is damned in ignorance, and condemned to perpetual blindnesse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Say you so, then I will not see her, for fear I should be one of the damned, and therefore I will give over that design, as the search of her, and go to a Tavern, and drink the good health of thy heart, and leave the in|quiry after it, and if you will go with me, so.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>I cannot, without the breach of gratitude, deny thy kindnesse; wherefore, I will bear thee company.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="27" type="scene">
+                  <pb n="105" facs="64"/>
+                  <head>Scene 27.</head>
+                  <stage>
+                     <hi>Enter Doctor</hi> Freedom, <hi>and Madamosel</hi> Doltche, <hi>Madamosel</hi> Solid, <hi>Madamosel</hi> Volante.</stage>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>O, you are welcome, Doctor <hi>Freedom.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>If I be not welcome now, I shall never be welcome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Why, Doctor? what Present have you brought us? that can make you so acceptable, is it perpetual youth, or undeniable beauty, or ever|lasting life? But prethee, Doctor, what is it that will make thee so wel|come?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Why, my self; here being so many young Ladies together, and not a man amongst them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Thy self, Doctor! why, thou art not worth the dregs of an Uri|nal, of a sick water, if it were not for our charity, and generosity, more than thy merit, ability or service, you would have but a cold entertainment, and a rule welcome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Well, my young, wity, saterycal Patient, you will take a surfeit of fruit, milk, puddings, pyes, or sweet-meats, one of these dayes, and then you will flatter me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>You say right, Doctor; but now I speak truth, and is not that better than to flatter, or dissemble; For there is none but sick, and deprav'd souls, that will deliver Truth with a quarter, half, or three quartred face, like Merchants, or mechanick, that would sell off their ill commodities, with a broken light, but a noble and healthfull soul, shews the full face of Truth, in a clear light; wherefore, the sick and base, will flatter, but the noble and free, will speak truth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>VVell, I am sure you think better of me in your thoughts, than your words expresses.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Let me tell you, my words and thoughts, are so well acquainted, as they never dissemble, and there is such a friendship betwixt them, as they never move several wayes, but runs even together: But let me tell thee, Do|ctor, I have such a spleen to thy Sex, as I desire to kill them, at least, to wound them with spitefull words; and I wish I had beauty enough for to damn them, causing them to be perjured, by forsaking other women, they were bound by sacred vows, and holy bonds.</p>
+                  </sp>
+                  <stage>Enter Monsieur Discretion.</stage>
+                  <sp>
+                     <speaker>Discretion.</speaker>
+                     <p>It is well, Master Doctor, that you can be priviledg'd amongst the young Ladyes, at all times, when such as <hi>I,</hi> that have not your Profession, are oftentimes shut, and lockt out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Faith, if you have no better entertainment, than <hi>I</hi> have had since <hi>I</hi> came, it were better you were from them, than with them, for their tongues are as sharp as needles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>'Tis a sign we want work, when we are forc'd to stitch our wit upon you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Discretion.</speaker>
+                     <p>How dare you anger the Doctor, when your life lyes upon his skill.</p>
+                  </sp>
+                  <sp>
+                     <pb n="106" facs="65"/>
+                     <speaker>Volante.</speaker>
+                     <p>O! His skill lyes upon chance, and it is a chance, whether he kills, or cures, is it not, Doctor?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>No, for <hi>I</hi> can kill my Patients, when <hi>I</hi> will, although not cure them, when I will.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>VVell, then, Doctor, when <hi>I</hi> would dye, <hi>I</hi> will send for you, but not when <hi>I</hi> would live.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Discretion.</speaker>
+                     <p>Your Servant, Ladies.</p>
+                  </sp>
+                  <stage>Monsieur Discretion goeth out.</stage>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Good Lady <hi>Wit,</hi> follow Monsieur <hi>Discretion,</hi> he will make you a wise Lady, and make your wit discreet, as it should be.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>O Doctor! how you mistake, for wit cannot be made, it is a Creator, and not a Creature; for wit was the first Master, or Mistress of Arts; the first Husband-man, Granger, Gardiner, Carver, Painter, Graver, Caster and Moulder, Mason, Joyner Smith, Brasier, Glazier, the first Chand|ler, Vintener, Brewer, Baker, Cook, Confectioner, the first Spinster, VVeaver, Knitter, Tayler, Shoo-maker, and millions the like; also wit was the first Navigator, Architector, Mathematician, Logitian, Geometrician, Cosmo|grafir, Astronomer, Astrologer, Philosopher, Poet, Historian and Hearold; also wit made the first Common-wealth, invented Laws for Peace, Arms for VVars, Ceremonies for State and Religion; also musick, dancing, dressing, masking, playing for delight and pleasure; wit divides time, imployes time, prevents time, and provides for time; it makes Heavens, and Hells, Gods and Divels.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>VVell, go thy wayes, for though thou hast a heavenly mind, and an angelical beauty, yet thou hast a devilish wit,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>It shall be sure to torment thee, Doctor, but do you hear, Doctor? pray present my service to Monsieur <hi>Discretion,</hi> and tell him, it was a signe he lik'd not our company, he made so short a stay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>He perceived by your usage of me, that if he stayd, you would beat him out of your company, with your two edged tongues; but <hi>I</hi> will tell him what a Rallery you are.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>
+                        <hi>I</hi> hope you will give me a good report, for <hi>I</hi> have fully charged you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>You have over-charged me, and therefore it is likely <hi>I</hi> shall break into exclamations.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <pb n="107" facs="65"/>
+               <head>ACT IV.</head>
+               <div n="28" type="scene">
+                  <head>Scene 28.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Importunate, <hi>and Madamosel</hi> Caprisia.</stage>
+                  <sp>
+                     <speaker>IMportunate.</speaker>
+                     <p>Lady, if I may not be your Husband, pray let there be a friendship between us?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>What kind of friendship would you make? for there are so many, and of such different natures, as I know not which you would be; as some friendship is made by beauty, some by flattery, some by luxurie, some by factions, others by knavery, and all for interest.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>None for love?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>No, but some are made by lust, but they last not long.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>And is there no friendship made by vertue?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>O no, for vertue may walk all the World over, and meet never a friend, which is the cause she lives alone; for all the World thinks her too rigid for Society, which makes mankind adhere to her enemie vice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>Doth not marriage make a friendship?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Very seldom, for marriage is like a Common-wealth, which is a contract of bodyes, or rather a contract of interest, not a friendship betwixt souls, and there is as much Faction, and oftener civil Wars in marriage, than in publick Common-wealths.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Importunate.</speaker>
+                     <p>I desire our friendship may be Platonick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>That is too dangerous, for it oftimes proves a Traytor to Cha|stity.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="29" type="scene">
+                  <head>Scene 29.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Nobilissimo, <hi>Madamosel</hi> Doltche, <hi>and her Nurse.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>NUrse.</speaker>
+                     <p>Sir, you must give me leave to chide you, for staying so long with my Nurse-child, as you keep her from her dinner, either go away, or stay and dine with her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Good Nurse, be patient, for though I am engaged to dine with other company; yet her discourse is such charming musick, as I have not power to go from her, as yet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>If my discourse sounds musical, 'tis only when you are by, but when you are absent, the strings of my voice, or speech, is as if they were bro|ken, for then my tongue is out of Tune, and my wit is out of humour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>My dearest and sweetest Mistress, may your merits be rewar|ded
+<pb n="108" facs="66"/>
+by Fame, your vertue by Heaven, your life by Nature, and all your earthly desires by Fortune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>And my love by the return of yours:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>When I forsake you, may Hell take my soul, and Divels tor|ment it for ingratitude and perjury.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="30" type="scene">
+                  <head>Scene 30.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Volante, <hi>and a Grave</hi> Matron.</stage>
+                  <sp>
+                     <speaker>MAtron.</speaker>
+                     <p>Madamosel <hi>Doltche</hi> seems to be a very fine, sweet Lady, well-behav'd, sober, modest, discreet, and of a gentle nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Most commonly, every one seems best at the first sight, by reason they put on their civilest demeanors, gracefullest garbs, modestest counte|nance, and speaks their most choycest phrases, or words, when they meet strangers; all which, makes them appear to their advantage, when after ac|quantaince, they will seem but vulgar, as when they are used to their ordina|ry garbs, countenances and phrases, and that their natures and dispositions were known, they will appear to be no better than their Neighbours; nay, perchance not so good; the like will Madamosel <hi>Doltche</hi> appear to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>I do suppose she looks more familiar on her acquaintance, than strangers, and it is likely, she looks more grave, and sober on strangers, than on her known friends, and familiars; yet those several looks and countenan|ces, may be as pleasing, and obliging, the one, as the other; for though the one may be more kind, the other may be more respectfull; for every ones countenance and behaviour, is to be ordered according to the several degrees or relations of several persons, and to several persons, and to several sexes, or according to their condition, state, life and fortune, and according to the times and occasions; for women are, or should be, more free and confident to, and in the company of women, than men; and men are more respect|full in their discourse and behaviour to women, than to their own Sex, and a merry countenance in a sad condition or state of life or fortunes, would not be seemly; mirth in the house of mourning, would be inhumane, or to dance or sing over the Graves of their Parents, Children, Husbands, Wives or Friends, would be unnatural, or to be merry in the time of a general calami|ty, as in timate of VVars, Plagues, or Pamine, or Deluges, or to be sad or froward in a general rejoycing; but a sad countenance, and a grave behaviour, is as sitting, and seems comely and handsome in a time of calamity, as a merry countenance, and a dancing behaviour, in a time of rejoycing; for tears becomes the face, sometimes, as well as smiles, and blushing may ap|pear and expresse a modest nature to strangers, when to familiar acquaintan|tances, blushing might be thought an accuser, or witnesse of some crime, yet bashfull eyes at all times, becomes modest Virgins.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>I hate bashfull eyes, for they are like to troubled waters, thick and unsteady, rouling from place to place, without an assurance; for modest Virgins may look upon the VVorld with a confident brow, if they have no guilt to stain their cheeks with blushes, and surely amongst well-brod persons,
+<pb n="109" facs="66"/>
+there is none so rude, injurious, or uncivil, to force the bloud to rise, or stop the light, in causing bashfull eyes, but such as condemns a confident counte|nance in Virgins faces; my eye of understanding will cast a despising glance on such ridiculous fools, and the tongue of reason condemns them.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="31" type="scene">
+                  <head>Scene 31.</head>
+                  <stage>
+                     <hi>Enter Madam la</hi> Mere, <hi>and</hi> Madamosel Caprisia <hi>her daughter.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MERE.</speaker>
+                     <p>I wonder, Daughter, you should be so rudely uncivil to Monsieur <hi>Generosity,</hi> to use him so unkindly, as to entertain him with scornfull words, and disrespectfull behaviour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Why did he come to visit me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>To offer his service, and to professe his affection to your person and vertue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>I care not for his service, or affection.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>But he is a person of an honourable Title, and can make you a great Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Give me leave to tell you, Mother, that nature hath given me Ti|tles of Honour, Wit and Beauty, to which all men will bow to, with re|spect; Titles from Kings, poor petty things to those.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>But Daughter, let me tell you, that wit and beauty, without mo|desty, civility and vertuous courtesie, may insnare facile fools, and allure fond persons, but not perswade the judicious to esteem you, nor the constant to sue to you, nor true love to desire you; you may have vain Boasters, and amotous Flatterers to court you; but none that is wise, or honourable, will marry you, and to use this Noble Lord so disrespectfully, who is indued with vertue, and adorned with the graces, and beloved of the Muses, is a crime unpardonable.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Mother, the Muses and the Graces are Witches, which enchants the soul, and charms the Spirits, and makes the Senses extravagant, and the actions desperate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>Methinks they should charm you; if they have such power.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>My humour is a Spell against all such charms.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="32" type="scene">
+                  <pb n="110" facs="67"/>
+                  <head>Scene 32.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Profession, <hi>and Monsieur</hi> Comorade <hi>his Friend.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>COmorade.</speaker>
+                     <p>You are well met, for I was going to your lodging to see you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>And I am now going home, and therefore let us go toge|ther.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Where have you been?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>At a house you often resort to.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>What, at a Bawdy-house?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>Yes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Why, how durst you venture?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>Why?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Why! why if your angelical Mistresse should come to hear of it; Faith, she would bury your heart again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>Yes, is it were not out of her power.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Why, hath she not the Possession?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>No saith.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>How comes that to passe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>I know not how, but upon some dislike, it grew weary, and by some opportunity, it found it stole home, and since it hath promised never to leave me again; for it hath confessed to me, it hath been most miserably tor|mented with doubts, fears, jealousies and despairs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Prethee let me tell thee, as a friend, that thy heart, is a false ly|ing heart, for there inhabits no torments amongst angelical bodies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>By your favour, in <hi>Plutoes</hi> Court, there be Angels as well, and as many as in <hi>Ioves</hi>; But let me tell you, that if I did not love you very well, I would call you to an account, for calling my heart, a false lying heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Prethee pacifie thy self, for I am sure <hi>I</hi> have had but a heartless friend of thee, all the time of thy hearts absence, and if <hi>I</hi> should rayle of thy heart, thou hast no reason to condemn me; but prethee, tell me, had not thy heart some pleasure sometimes to mitigate the torments?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>No saith, for my heart tells me, that what with rigid vertue, cruel scorn, and insulting pride, it never had a minutes pleasure, nor so much as a moment of ease; and if that there were no more hopes of happiness amongst the Gods in Heaven, than there is amongst the Goddesses on Earth, it would never desire to go to them, or dwell amongst them: Nay, my heart says, it should be as much affraid to go to Heaven, and to be with the Gods, as mortals are to go to Hell, to be with Divels.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>But if pleasure, and happiness, is not to be found with vertue, nor with the Gods, where shall we seek for it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>I will tell you what my heart saith, and doth assure me; that is, that pleasure lives alwaies with vice, and that good fellowship is amongst the damned, and it doth swear, it is a most melancholly life, to live with those that are called the blessed, which are the Goddesses on Earth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Why, then let us return to the house from whence you came.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>No faith, I am dry, wherefore I will go to a Tavern.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Content.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="33" type="scene">
+                  <pb n="111" facs="67"/>
+                  <head>Scene 33.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Caprisia <hi>alone, in a studeous humour, walking for a time silently; then speaks.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>CApris.</speaker>
+                     <p>Which shall I complain of? Nature or Education; I am compassionate by nature; for though I am froward, I am not cru|el, I am pious by education; for though I am froward, I am not wicked, I am vertuous by nature, and education; for though I am froward, I am neither dishonest, unchaste, base, or unworthy: Why then, 'tis Fortune I must complain of, for Fortune hath given me plenty, and plenty hath made me proud, and pride hath made me self-conceited, self-conceit hath bred disdain, and disdain scorn; So pride, disdain, and scorn, makes me disap|prove all other creatures actions, or opinions, but my own; and this disap|proving is that which men calls cross, pievish, and froward disposition, being most commonly, accompanied with sharp satyrical words, and angry frowns.</p>
+                     <l>These faults i'l conquer, whereresoere they lye;</l>
+                     <l>I'l rule my froward humour, or i'l dye.</l>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="34" type="scene">
+                  <head>Scene 34.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Solid, <hi>and a</hi> Matron.</stage>
+                  <sp>
+                     <speaker>SOlid.</speaker>
+                     <p>Lord! Lord! I wonder men and women should spend their time so idley, and wast their lives so vainly, in talking so ignorantly, and acting so foolishly upon the great Stage, or the Stage of the great World.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>VVhy, how would you have them spend their time, or talk, or act?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>I would have them spend their time, to gain time, as to prevent or hinder times oblivion, and to speak and act to that design,
+<quote>
+                           <l>—That when their bodies dye,</l>
+                           <l>Their Names and Fames, may live eternally.</l>
+                        </quote>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>But it is not in every mans, or womans power, to get same, for some are made uncapable by nature, others are hindred by fortune, some are obstructed by chance, others want time and opportunity, wealth, birth and education, and many that are pull'd back by envie, spite and malice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>VVhat man or woman soever, that nature is liberal to, may eter|nalize themselves; as for fortune, she may hinder the active, the like may chance, envie, spite and malice, but cannot hinder the contemplative; the like may time and opportunity; but poor poverty and birth, can be no hin|drance to natural wit, for natural wit, in a poor Cottage, may spin an after|life, enter-weaving several colour'd fancies, and threeds of opinions, making fine and curious Tapestries to hang in the Chambers of fame, or wit may
+<pb n="112" facs="68"/>
+and carve Images of imaginations, to place and set forth the Gardens of fame, making fountains of Poetry, that may run in smooth streams of verse, or wit may paint and pensel out some Copies, and various Pictures of Na|ture, with the pensels of Rhethorick on the grounds of Philosophy, to hang in the Galleries of fame; Thus the Palacesses of fame may be furnished and adorn'd by the wit of a poor Cottager.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="35" type="scene">
+                  <head>Scene 35.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Caprisia, <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>CApris.</speaker>
+                     <p>Item, I am to be courteous, but not familiar; to be merry, but not wild; to be kind, but not wanton, to be friendly, but not intimate; to be sociable, but not troublesome; to be conversable, but not talkative; to look soberly, but not frowningly; to return answers civilly, to ask questions wisely, to demand rights honestly, to argue rationally, and to maintain opi|nions probably: These rules I will strictly observe, and constantly practice.</p>
+                  </sp>
+                  <stage>Enter Monsieur Bon Compaignon.</stage>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>Sir, I cry <hi>peccavi,</hi> and ask your pardon, for speaking so unhand|somely of the effeminate Sex, when I was last in your company; for my in|discretion made me forget, so as not to remember, that all men hath either VVives, Sisters, Daughters or Mothers: But truly, my discourse proceeded neither from spite or malice, but from the consideration of my own faults, which being so many, did bury the good graces of other women, for though I am vertuously honest, yet I am but rudely fashion'd, and untoward for conversation; but though my discourse had a triangular countenance, for it seem'd foolish, spi●efull and wicked; yet pray, Sir, believe, the natural face, was a perfect, round, honest face.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>Lady, what faults soever, your Sex is guilty of, your vertues will get their pardon, and your beauty will cover their blemishes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>I wish my indiscretion had not discovered my froward imperfecti|ons, but I am sorry, and shall hereafter endeavor to rectifie my errours.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="36" type="scene">
+                  <head>Scene 36.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Nobilissimo, <hi>and</hi> Nurse.</stage>
+                  <sp>
+                     <speaker>NObilissimo.</speaker>
+                     <p>Good Nurse, where is my vertuous, sweet Mistresse?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse.</speaker>
+                     <p>In her chamber, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>VVhat is she doing?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse.</speaker>
+                     <p>She is reading.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>VVhat Books doth she read? are they Divinity, Morality, Philosophy, History or Poetry?</p>
+                  </sp>
+                  <sp>
+                     <pb n="113" facs="68"/>
+                     <speaker>Nurse.</speaker>
+                     <p>Sometimes her study is of one, and then of another; But now I think, her chief study, is you, wherein she may read humanity.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Doltche, <hi>and seeing Monsieur</hi> Nobilissimo <hi>with her Nurse, starts back, and then comes forth blushing.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Nurse.</speaker>
+                     <p>Lord child! what makes you blush?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>Not crimes, but my blushing, is caused by a sudden assault, or surprisal meeting him; I did not expect to meet at this time, which raised up blushes in my face; for blushing is like the full and falling tide; for the bloud flows to the face, and from thence ebbes to the heart, as passions moves the mind;</p>
+                     <l>And thoughts as waves, in curling folds do rise,</l>
+                     <l>And lashfull eyes, are like the troubled skies.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Sweet Mistress, crimes cannot stain your cheeks with blushes, but modesty hath penseld Roses there, which seems as sweet, as they look fair.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>I desire my looks and countenance, may alwaies appear so, as they may never falsly accuse me; and as I would not have my looks, or counte|nance, wrong my innocency, or deceive the Spectators, so I would not have my heart be ungratefull to bury your presence in silence; Wherefore, I give you thanks, Sir, for the noble Present you sent me to day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>I was affraid you would not have accepted of it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>Truly, I shall refuse no Present you shall send me, although it were ushered with scorn, and attended with death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>My kind Mistress, I shall never send you any Present, but what is ushered by my love, attended by my service, and presented with the offer of my life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse.</speaker>
+                     <p>Child, you are very free of kind words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>And my deeds shall answer my words, is need requires; yet I am sorry if my speaking over-much, should offend; but I chose rather, to set bosses of words on the sense of my discourse, although it obscures the glosse of my speech, than my love should be buried in my silence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Sweet Mistresse, your loving expressions gives such joy unto my heart, and such delight unto my hearing, as my soul is inthron'd in hap|pinesse, and crown'd with tranquility.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse.</speaker>
+                     <p>Pray Heaven, you both may be as full of Love, Joy and Peace, when you are married, as you express to have now; But let me tell you, young Lovers, that <hi>Hymen</hi> is a very temperate, and discreet Gentleman in love, I will assure you; neither doth he expresse himself in such high poe|tical Raptures, for his discourse is plain, and ordinary.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Nay, sometimes his discourse is extraordinary, as when he hath Wars; but Nurse, thou art old, and the fire of love, if ever thou hadst any, is put out by old Father <hi>Times extinguisher.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>True love never dyes, nor can time put it out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>'Tis true, but Nurse seems by her speech, as if she had never known true love; for true love, as it alwaies burns clear, so it alwaies flames high, far infinite is the fewel that feeds it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse.</speaker>
+                     <p>Well, well? young Lovers, be not so confident, but let me advise
+<pb n="114" facs="69"/>
+you to ballance reason on both sides, with hopes, and doubts, and then the judgement will be steady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>But in the scales of love, Nurse, nothing must be but confi|dence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse.</speaker>
+                     <p>Yes, there must be temperance, or love will surfeit, and dye with excess.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doltche.</speaker>
+                     <p>Love cannot surfeit, no more than souls with grace, or Saints of Heaven.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="37" type="scene">
+                  <head>Scene 37.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Caprisia, <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>CApris.</speaker>
+                     <p>My smiles shall be as Baits, my eyes as Angels, where every look shall be a hook to catch a heart; I'l teach my tongue such art, to plant words on each heart, as they shall take deep root, from whence pure love shall spring; my lips shall be as flowery banks, whereon sweet Rhethorick grows, and cipherous fancy blows; from which banks, love shall wish to gather Posies of kisses, where every single kisse shall differ as Roses, Pinks, Violets, Primroses, and Daffidillies, and the breath therefrom, shall be as fragant as the touch, soft thereon, and as the Sun doth heat the Earth, so shall my imbraces heat my Lovers thoughts with self-conceit, which were before like water, frozen with a dejected and despairing cold. <hi>Hay ho</hi>!</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <div n="38" type="scene">
+                  <head>Scene 38.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Profession, <hi>and Madamosel</hi> Solid.</stage>
+                  <sp>
+                     <speaker>PRofession.</speaker>
+                     <p>Dear Mistress, you are the only She that is fit to be crown'd; the sole Empresse of the World.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>Let me tell you, Sir? I had rather be a single Shepheardesse, than the sole Empress of the World; for I would not be a Mistress of so much power, to be as a Servant to so much trouble.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>But, put the case <hi>Alexander</hi> were alive, and would crown you Empress of the World, you would not refuse that honour, but accept of it, for the sake of renown.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>Yes, I should refuse it, for if I could not get renown by my own merits, I should wish to dye in Oblivion, for I care not; Nay, I despise such
+<pb n="115" facs="69"/>
+honours and renowns, as comes by derivations, as being deriv'd from another, and not inherent in my self, and it is a poor, and mean renown, that is gain'd or got, only by receiving a gift from a fellow-creature, who gives out of pas|sion, appetite, partiality, vain-glory, or fear, and not for merit or worth|sake; wherefore, no gifts but those that comes from the Gods, or Nature, are to be esteem'd, or received with thanks, but were to be refused, had man the power to chose, or to deny.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>Sweet Mistress, nature hath crown'd you with beauty and wit, and the Gods hath given you a noble soul.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>I wish they had, for the Gods gifts are not like to mans, and natures crown is beyond the golden crown of Art, which are greater glories, than Power, Wealth, Title or Birth, or all the outward honours gain'd on Earth; but I desire the Gods may crown my soul with reason and understanding; Heaven crown my mind with Temperance and Fortitude; Nature crown my body with Health and Strength, time crown my life with comely and discreet age; Death crown my separation with peace and rest; and Fame crown my memory with an everlasting renown; thus may my creation be to a happy end.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Profession.</speaker>
+                     <p>Gods, Fortune and Fates hath joyned to make me happy in your love, and that which will make me absolutely happy, is, that <hi>I</hi> shall marry you, and imbrace you as my wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solid.</speaker>
+                     <p>The absolute happiness is, when the Gods imbraces man with mer|cy, and kisses him with love.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="39" type="scene">
+                  <head>Scene 39.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Caprisia.</stage>
+                  <sp>
+                     <speaker>CApris.</speaker>
+                     <p>Hay, ho! who can love, and be wise? but why do <hi>I</hi> say so? For reason loves wisely; 'tis only the mistaken senses that loves foolishly; indeed, the sense doth not love, but sondly, and foolishly affects, for it, 'tis an humoursome and inconstant appetite that proceeds from the body, and not that noble passion of true love which proceeds from the soul: But O! what a ridiculous humour am <hi>I</hi> fallen into, from a cholerick humour, into an amorous humour; Oh! <hi>I</hi> could tear my soul from my body, for having such whining thoughts, and such a mean, submissive, croaching, feigning, flattering humour, and idle mind; a cholerick humour, is noble to this, for it is commanding, and seems of an heroick spirit, but to be amorous, is base, beastly, and of an inconstant nature.</p>
+                     <l>Oh! How apt is busie life to go amisse,</l>
+                     <l>What foolish humours in mans mind there is:</l>
+                     <l>But O! The soul is far beyond the mind,</l>
+                     <l>As much as man is from the beastly kind.</l>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="40" type="scene">
+                  <pb n="116" facs="70"/>
+                  <head>Scene 40.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Volante, <hi>and Doctor</hi> Freedom.</stage>
+                  <sp>
+                     <speaker>DOctor.</speaker>
+                     <p>Are you weary of, your life? that you send me; for you said, you would not send for me, untill you had a desire to dye.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>True, Doctor, and if you cannot cure me, kill me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>In my conscience, you have sent for me to play the wanton.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Why, Doctor? If I do not infringe the rules and laws of mo|desty, or civility, I cannot commit wanton faults,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Yes faith, your tongue may play the wanton,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Indeed, Doctor, I had rather tell a wanton truth, than a mo|dest lye.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Well, what is your disease?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Nay, that you must guesse, I can only tell my pains.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Where is your pain?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>In my heart and head.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Those be dangerous parts, but after what manner are your pains?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>On my heart there lyes a weight, as heavy as the World on <hi>Atlas</hi> shoulders; and from my melancholly mind, arises such damps of doubts, as almost quenches out the fire of life, did not some hope, though weak, which blows with fainting breath, keep it alive, or rather puffs than blows, which intermitting motions, makes my pulse unequal, and my bloud to ebbe and flow, as from my heart, unto my face; and from my face, unto my heart again; as for my head, it feels drousie, and my spirits are dull; my thoughts uneasily doth run, crossing, and striving to throw each other down; this causes broken sleeps, and frightfull dreams, and when I awake at every noyse, I start with fears, my limbs doth shake.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>VVhy, this disease is love, wherefore <hi>I</hi> cannot cure you; for love no more than wit, can neither be temper'd, nor yet be rul'd, for love and wit, keeps neither moderate bounds, nor spares diet, but dyes most commonly of a surfeit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>O yes, discretion can cure both.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Then send for Monsieur <hi>Discretion,</hi> and hear what he sayes to you, for your disease is past my skil.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>By your industry, Doctor, help may be found, in giving directi|ons, and ordering the cordial.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>So <hi>I</hi> understand you would have my counsel what you should do, and my industry to order, and get a meeting between Monsieur <hi>Discretion</hi> and you, and to make the match betwixt you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>You understand me right.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>VVell, <hi>I</hi> will study the means, and trye if <hi>I</hi> can procure thee a man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Good fortune be your guide.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>And Monsieur <hi>Discretion,</hi> your Husband,</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="41" type="scene">
+                  <pb n="117" facs="70"/>
+                  <head>Scene 41.</head>
+                  <stage>
+                     <hi>Enter Madamosel</hi> Caprisia, <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>CApris.</speaker>
+                     <p>Thoughts be at rest, for since my love is honest, and the person I love worthy, I may love honourably, for he is not only learned with study, experienced with time and practice, but he is natures favourite, she hath endued his soul with uncontrouled reason, his mind with noble thoughts, his heart with heroick generosity, and his brain with a supream wit; Besides, she hath presented his judgement and understanding, with such a clear Pro|spective-glasse of speculations, and such a Multiplying-glass of conception, as he seeth farther, and discerns more into natures works, than any man she hath made before him.</p>
+                  </sp>
+                  <stage>She slops a little time, then speaks.</stage>
+                  <sp>
+                     <p>But let me consider? I have us'd this worthy Gentleman uncivilly, nay rudely, I have dispised him; wherefore he cannot love me, for nature ab|hors neglect, and if he cannot love me in honesty, he ought not to marry me, and if I be not his wife, for certain I shall dye for love, or live a most un|happy life, which is far worse than death. <hi>Hay ho</hi>!</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Madam la</hi> Mere <hi>her Mother.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>What, Daughter, sick with love?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>O, Mother? love is a Tyrant, which never lets the mind be at rest, and the thoughts are the torments, and when the mind is tormented, the bo|dy is seldom in health.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>Well, to ease you, I will go to this Lord <hi>Generosity,</hi> and pray him to give you a visit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>By no means, Mother, for <hi>I</hi> had rather dye with love, than live to be despised with scorn, for he will refuse your desires, or if he should come, it would be but to express his hate, or proudly triumph on my unhappy state.</p>
+                  </sp>
+                  <stage>Madamosel Caprisia goes out.</stage>
+                  <stage>Madamosel Mere alone.</stage>
+                  <sp>
+                     <speaker>Mere.</speaker>
+                     <p>She is most desperately in love, but <hi>I</hi> will endeavour to settle her mind.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="42" type="scene">
+                  <head>Scene 42.</head>
+                  <stage>
+                     <hi>Enter Doctor</hi> Freedom, <hi>and Madamosel</hi> Volante.</stage>
+                  <sp>
+                     <speaker>DOctor.</speaker>
+                     <p>Am not <hi>I</hi> a good Doctor now, that hath got you a good Hus|band?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Nay, Doctor, he is but a Suiter, as yet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Why do not you woe upon the Stage, as the rest of your Como|rades doth?</p>
+                  </sp>
+                  <sp>
+                     <pb n="118" facs="71"/>
+                     <speaker>Volante.</speaker>
+                     <p>O fye, Doctor <hi>Discretion</hi> never whines our love in publick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>So you love to be in private?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Why, Doctor, the purest love is most conceal'd, it lyes in the heart; and it warms it self by its own fire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Take heed, for if you keep it too tenderly, and close, it may chance to catch cold when it comes abroad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>True love ought to keep home, and not to gossip abroad.</p>
+                  </sp>
+                  <stage>Enter a Servant-maid.</stage>
+                  <sp>
+                     <speaker>Servant-maid.</speaker>
+                     <p>Madam Monsieur <hi>Discretion</hi> is come to visit you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Come, Doctor, be a witnesse of our contract?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>
+                        <hi>I</hi> had rather stay with your maid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>She hath not wit to entertain you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>Nor none to anger me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Volante.</speaker>
+                     <p>Pray come away, for no wise man is angry with wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>
+                        <hi>I</hi> perceive, if <hi>I</hi> do not go with you, that you will call me fool.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="43" type="scene">
+                  <head>Scene 43.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Comorade, <hi>and Monsieur</hi> Bon Compaignon.</stage>
+                  <sp>
+                     <speaker>BOn Compaignon.</speaker>
+                     <p>
+                        <hi>Comorade,</hi> what cause makes you so fine to day?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>
+                        <hi>I</hi> am going to two weddings to day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>Faith, one had been enough; but how can you divide yourself betwixt two Bridals?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>
+                        <hi>I</hi> shall not need to divide my self, since the Bridals keeps toge|ther; for they are marryed both in one Church, and by one Priest, and they feast in one house.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>And will they lye in one bed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>No surely, they will have two beds, for fear each Bride-groom should mistake his Bride.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>VVell, I wish the Bride-grooms, and their Brides joy, and their Guests, good chear.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>VVill not you be one of the Guests?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>No, for a <hi>Bon Compaignon</hi> shuns <hi>Hymens</hi> Court, neither will <hi>Hymen</hi> entertain him: But who are the Brides and Bride-grooms?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>Monsieur <hi>Nobilissimo,</hi> and Madamosel <hi>Doltche,</hi> and Monsieur <hi>Perfection</hi>; and Madamosel <hi>Solid.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>Is Monsieur <hi>Profession</hi> a Guest there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Comorade.</speaker>
+                     <p>No, for he swears now, that he hates marriage, as he hates death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon Compaignon.</speaker>
+                     <p>But he loves a Mistress, as he loves life.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="44" type="scene">
+                  <pb n="119" facs="71"/>
+                  <head>Scene 44.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Generosity, <hi>and Madamosel</hi> Caprisia; <hi>he follow|ing her.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>GEnerosity.</speaker>
+                     <p>Lady, why do you shun my company, in going from me, praystay, and give my visit a civil entertainment; for though <hi>I</hi> am not worthy of your affection, yet my love deserves you civility.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>
+                        <hi>I</hi> know you are come to laugh at me, which is ignobly done; for heroick, generous spirits, doth not triumph on the weak effeminate Sex.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>Pray believe <hi>I</hi> am a Gentleman, for if <hi>I</hi> loved you not, yet <hi>I</hi> would never be rude, to be uncivil to you, or your Sex; But <hi>I</hi> love you so well, as when <hi>I</hi> leave to serve you with my life, may nature leave to nourish me, fortune leave to favour me, and Heaven leave to blesse me, and then let death cast me into Hell, there to be tormented.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capris.</speaker>
+                     <p>
+                        <hi>I</hi> am more obliged to your generous affections, than to my own merits.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Generosity.</speaker>
+                     <p>The ill opinion of your self doth not lessen your vertues, and if you think me worthy to be your Husband, and will agree, we will go strait to Church, and be marryed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Capri.</speaker>
+                     <p>
+                        <hi>I</hi> shall not refuse you.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         </body></text></TEI>
+

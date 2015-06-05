@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+            <author>Cox, Robert, d. 1655.</author>
+         </titleStmt>
+         <extent>31 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 November (TCP phase 1)</date>
+            <idno type="marc">12241232</idno>
+            <idno type="stc">Wing C6711.</idno>
+            <idno type="vid">56778</idno>
+            <idno type="DLPS">A34847</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+                  <author>Cox, Robert, d. 1655.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, with the addition of Simpleton the smith, not before extant.</edition>
+               </editionStmt>
+               <extent>[2], 40 p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Edward Archer ...,</publisher>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>One-act plays.</term>
+               <term>English drama -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+  <text>
+     <body>
+         <div type="play">
+                     <head>Here follow the Rurall sports on the Birth-day
+of the Nymph Oenone.</head>
+                     <div type="dramatis_personae">
+                        <list>
+                           <head>The Names of the Persons.</head>
+                           <item>Two Shepheards in love with <hi>Oenone.</hi>
+                              <list>
+                                 <item>Amintas</item>
+                                 <item>Dorilas</item>
+                              </list>
+                           </item>
+                           <item>Two other Shepheards.
+<list>
+                                 <item>Strephon</item>
+                                 <item>Dorus</item>
+                              </list>
+                           </item>
+                           <item>A Rustick Swain, conceited that
+<hi>Oenone</hi> is enamored of him.
+<list>
+                                 <item>Hobbinall</item>
+                                 <item>God Pan.</item>
+                                 <item>Satyres.</item>
+                              </list>
+                           </item>
+                           <item>Oenonee.</item>
+                           <item>Amarillis.</item>
+                           <item>Cloris▪</item>
+                           <item>Phillis.</item>
+                        </list>
+                     </div>
+                     <div type="body_of_play">
+                        <stage>Enter <hi>Dorilas,</hi> as coming to the place where <hi>Oenones</hi>
+Birth-day is to be celebrated.</stage>
+                        <sp>
+                           <speaker>Dorilas.</speaker>
+                           <l>THis is the place, the way me thought was long,</l>
+                           <l>And my slow pace did my affection wrong.</l>
+                           <l>
+                              <pb n="18" facs="20"/>
+For who is he that would not wing his hast,</l>
+                           <l>When by <hi>Oenone's</hi> eys he shall be grac'd.</l>
+                           <l>Most potent Shepherdess who hast power t'enthrall</l>
+                           <l>Not only my poor heart alone, but all.</l>
+                           <l>For every one that reigns here, strives to be</l>
+                           <l>Rather her captive, then at liberty.</l>
+                           <l>Her eys do perfectly two Suns present,</l>
+                           <l>And yet but one graces the Firmament,</l>
+                           <l>The colour of her lips doth justly show</l>
+                           <l>Like that of <hi>Cheries</hi> when they kindly grow</l>
+                           <l>And such a form they have, they may entice</l>
+                           <l>To think such only grew in Paradice.</l>
+                           <l>The Lambs are fatter that by her do feed,</l>
+                           <l>And all her Ewes more frequently do breed</l>
+                           <l>Then any Shepherds, and do yeild each year</l>
+                           <l>A larger fleece then any others bear;</l>
+                           <l>As if she brought a miracle to pass,</l>
+                           <l>And fed them with her looks more then the grass.</l>
+                           <l>If then she will (when other Shepherds stand</l>
+                           <l>To beg a favour from her eys or hand)</l>
+                           <l>Esteem me most, my poor heart then will be</l>
+                           <l>Taught the true sense of a felicitie.</l>
+                           <l>But soft,—me thinks from yonder grove I hear</l>
+                           <l>Voyces that are familiar to my ear,</l>
+                           <l>Ile not go to them; for <hi>Love</hi> says my duty</l>
+                           <l>Is to attend none but <hi>Oenone</hi>'s beauty.</l>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <floatingText>
+                           <body>
+                              <div type="dialogue">
+                                 <head>A Dialogue sung between Dorus the Shepherd,
+and Cloris the Shepherdess.</head>
+                                 <sp>
+                                    <speaker>Cloris.</speaker>
+                                    <l>YOu have forgot then (<hi>Dorus</hi>) your protest.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Dor.</speaker>
+                                    <l>No, I have not my <hi>Cloris,</hi> 'tis confest.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Clor.</speaker>
+                                    <l>But yet I saw you slide, a Garland neatly ty'd</l>
+                                    <l>
+                                       <pb n="19" facs="20"/>
+Into <hi>Uranias'</hi> hand; let it suffice,</l>
+                                    <l>Though <hi>Love</hi> be blind, <hi>Lovers</hi> have many eys.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Dor.</speaker>
+                                    <l>Will you appear so strangely full of passion?</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Clor.</speaker>
+                                    <l>I have cause to fear dissembled love's in fashion.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Dor.</speaker>
+                                    <l>Then why did you, I pray,</l>
+                                    <l>With <hi>Strephon</hi> sport and play?</l>
+                                    <l>You kist and danc'd, till day was past its prime,</l>
+                                    <l>And all the while my heart did beat the time.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Clor.</speaker>
+                                    <l>May <hi>I</hi> not dance, or harmlesly be kist?</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Dor.</speaker>
+                                    <l>So I may chance give garlands if I list.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Clor.</speaker>
+                                    <l>But when you are so free,</l>
+                                    <l>Me thinks you steal from me.</l>
+                                    <l>For every Lover will this Text approve,</l>
+                                    <l>There's charity in all things but in love.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Dor.</speaker>
+                                    <l>That day the storm fell to be true you swore,</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Clo.</speaker>
+                                    <l>When the sun shin'd agen, you vowd much more.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Dor.</speaker>
+                                    <l>Those faithfull vows I made,</l>
+                                    <l>were by yourself betraid:</l>
+                                    <l>For I have learn'd to know it is my due,</l>
+                                    <l>To be no constanter in love then you.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>Chorus.</speaker>
+                                    <l>Then jealousies be gone, and keep my sheep,</l>
+                                    <l>Lest that the Wolf should make their number small,</l>
+                                    <l>But of my love nothing command shall keep</l>
+                                    <l>But <hi>Cloris</hi> will, and <hi>Cloris</hi> will is all.</l>
+                                 </sp>
+                              </div>
+                           </body>
+                        </floatingText>
+                        <stage>Enter Amintas and Dorilas.</stage>
+                        <sp>
+                           <speaker>Amint.</speaker>
+                           <l>Shepheard, thy love is most unnatural:</l>
+                           <l>For Nature does command friendships observance,</l>
+                           <l>But by the fond desires thy heart is fild with,</l>
+                           <l>Thou prov'st thy self ungratefull.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Dor.</speaker>
+                           <l>That Character was never coveted,</l>
+                           <l>Nor must I wrong my innocence so much,</l>
+                           <l>
+                              <pb n="20" facs="21"/>
+Not to demand a reason of this slander.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Amin.</speaker>
+                           <l>I will produce the truth thou wouldst profess,</l>
+                           <l>A witness 'gainst thy self: How oft have <hi>I</hi>
+                           </l>
+                           <l>With care and industry preserv'd thy flock?</l>
+                           <l>And when thy tender Lambs have been in danger,</l>
+                           <l>How many times have I opos'd the wolf,</l>
+                           <l>And made my strength defender of their weakness?</l>
+                           <l>And when thy self hast follow'd idle pastimes,</l>
+                           <l>Thy Flocks and mine have still been twin'd together,</l>
+                           <l>Till by my vigilance I have instructed</l>
+                           <l>The enemies to Shepherds and their Flocks.</l>
+                           <l>They were to fear me, as thy sheep did them.</l>
+                           <l>Nor have I had a thought (except those dear ones</l>
+                           <l>That have been busied by <hi>Oenone's</hi> vertues)</l>
+                           <l>Which has not stil paid tribute to thy friendship.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Dor.</speaker>
+                           <l>You then would have prerogative in love,</l>
+                           <l>And leave no priviledge to me but friendship,</l>
+                           <l>If you allow <hi>Oenone</hi> vertuous.,</l>
+                           <l>And that her eys have power to pierce all hearts,</l>
+                           <l>Why should the man which you will call a friend,</l>
+                           <l>Be banisht from the blest socitie</l>
+                           <l>Of those who are her servants? 'Twere a crime</l>
+                           <l>Against her beautie to beleeve she should</l>
+                           <l>Merit but one mans service; he which reigns here,</l>
+                           <l>
+                              <hi>I</hi> know must love, and that necessitie</l>
+                           <l>Makes rivals necessarie.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Streph.</speaker>
+                           <l>Tis a truth</l>
+                           <l>
+                              <hi>I</hi> must acknowledg, pardon me my friend,</l>
+                           <l>
+                              <hi>I</hi> find the Nymph <hi>Oenone</hi> is too worthy;</l>
+                           <l>Yet her perfections (were they centupled)</l>
+                           <l>Shall not dissolve, nor in the least diminish</l>
+                           <l>What has bin formerly esteem'd a triumph,</l>
+                           <l>Which is, a perfect frindship.</l>
+                        </sp>
+                        <sp>
+                           <pb n="21" facs="21"/>
+                           <speaker>Dor.</speaker>
+                           <l>In that confidence</l>
+                           <l>Thus we unite agen—But who comes here?</l>
+                        </sp>
+                        <stage>Entr Hobbinall with a paper in his hand.</stage>
+                        <sp>
+                           <speaker>Streph.</speaker>
+                           <l>'Tis <hi>Hobbinall,</hi>
+                           </l>
+                           <l>One that beleeves 'tis but <hi>Oenone's</hi> dutie</l>
+                           <l>Directly to confess her selfe beholding</l>
+                           <l>To him for his affection: he supposes</l>
+                           <l>That his deserts are greater then her beauties,</l>
+                           <l>And is as confident the fair Nymph loves him,</l>
+                           <l>As we are that she does not; yet his fortune</l>
+                           <l>Is more to be commeded then our fate;</l>
+                           <l>For she is pleas'd to smile at his rude actions,</l>
+                           <l>The best of our endeavours are not valued.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Dor.</speaker>
+                           <l>What paper's that he ruminates upon?</l>
+                           <l>Let us observe a little.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>'Tis a strange thing <hi>I</hi> find my self out everie
+day more then other, to be one of the understandingst,
+sweetest, neatest, and compleatest Shepherds that ever
+took hook in hand. Tother day <hi>I</hi> saw my face in a pail
+of water, and <hi>I</hi> had much adoe to forbear drowning of
+my self: 'tis no wonder then, that the beauteous
+Nymph <hi>Oenone</hi> makes much of me, and lets all the
+other Shepherds shake their ears like Asses; And the
+truth is, if <hi>I</hi> can find never a handsomer she shall serve
+the turn. This was her birth-day, she being born in the
+year—one thousand six hundred,—nay hold a
+little; but on this day of the month it was, Winter or
+Summer, in the honour of which we all keep holiday;
+and therefore for the credit of her beauty, and the honor
+of my own Poetry, have made such a Copie of Verses
+on her, as will make her a thousand times handsomer
+then ever she was in her life.—</p>
+                           <p>
+                              <pb n="22" facs="22"/>
+                              <hi>I</hi> will peruse them now with the eys of understan|ding.</p>
+                           <stage>He reads.</stage>
+                           <l>
+                              <hi>OEnone</hi> fair, whose Beauty does enrich us,</l>
+                           <l>Tell me the cause why thou dost so bewitch us.</l>
+                           <l>On this day thou wert born, though not begotten,</l>
+                           <l>This day Ile think on when th' art dead &amp; rotten.</l>
+                           <l>And though thy coyness and thy pretty scorn</l>
+                           <l>Makes many wish that thou hadst nere been born.</l>
+                           <l>Yet for my own part this Ile swear and say,</l>
+                           <l>I wish thy time of Birth were every day.</l>
+                           <p>If she do not run mad for love of me now, 'tis pitie
+she should have Verses made on her as long as she
+lives.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Streph.</speaker>
+                           <p>Let's interrupt him—<hi>Hobbinall</hi> well met.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>It may be so.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Dor.</speaker>
+                           <p>But why so strange man? <hi>I</hi> hope you will re|member
+we are your fellow Shepherds.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>You were once, but now <hi>I</hi> command you to
+know, <hi>I</hi> am a Master Shepherd; for the fair Nymph
+<hi>Oenone,</hi> that makes all your mouths run over with wa|ter,
+does acknowledge me to be both Master and Mi|stresse.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Streph.</speaker>
+                           <p>In part 'tis true, yet if you well consider, she
+makes you but her sport, no otherwise.</p>
+                           <p>If she make me her sport, 'tis more then ever she
+can make of thee: for thou art one of the sowrest
+lookt fellows that ever crept out of a vineger-bottle.</p>
+                        </sp>
+                        <stage>Enter Oenone.</stage>
+                        <sp>
+                           <speaker>Dor.</speaker>
+                           <p>Here comes the fairest <hi>Idae</hi> ever nourisht.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>
+                              <hi>I</hi> will accost her.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Streph.</speaker>
+                           <p>Forbear a while good <hi>Hobbinall.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <l>It was my fault.</l>
+                           <l>
+                              <pb n="23" facs="22"/>
+To be so credulous; but 'twas his sin</l>
+                           <l>To be so lavish of his protestations.</l>
+                           <l>Oh <hi>Paris, Paris,</hi> thy inconstant nature</l>
+                           <l>Argues the fickleness which Poets fansie</l>
+                           <l>In women, but a Fiction.</l>
+                           <l>I that have formerly acknowledg'd thee</l>
+                           <l>The onely person meriting respect,</l>
+                           <l>Must now produce this thy particular falshood,</l>
+                           <l>As one to dare example; let no more</l>
+                           <l>The Shepherds be at strife to please <hi>Oenone,</hi>
+                           </l>
+                           <l>Let every Maypole-meeting every feast,</l>
+                           <l>Be honor'd by a happier Nymph then I,</l>
+                           <l>To be the Mistress of those harmless pastimes.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Dor.</speaker>
+                           <l>Hail to the Nymph that graces <hi>Idaes</hi> vale,</l>
+                           <l>Accept my service at this dayes solemnity.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Streph.</speaker>
+                           <p>And if the same from me can be accepted,
+nothing so pleasing is as to present it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>I, you may talk as finely as you wil, but when</l>
+                           <l>I come to speak once, I'm sure you will be kickt off.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Oen.</speaker>
+                           <l>What you profess may wel claim an acceptance.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>Now wil I see who is the most deserving Shep|herd
+in all the vale of <hi>Idae</hi>—little rogue, howdost thou?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <p>O <hi>Hobbinall,</hi> you are welcome, I thought
+you had forgot me, you are my sport, and should be
+ever neer me.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>Look you there, I am her sport she says; when
+will she give any of you such an honorable title: but
+Sport, I do not think but thou art a Conjurer, or a
+Witch, or a Divell at least; for thou hast infused such a
+combustion of Poetry in my head, that I fear I shall
+never be my own man agen, nor my Masters neither.—
+There's a Copie of verses, read 'um; nay, they are my
+own, as sure as my name's <hi>Hobbinall.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <pb n="24" facs="23"/>
+                           <speaker>Oenone.</speaker>
+                           <p>
+                              <hi>I</hi> thank you Sport, Ile study a requitall.</p>
+                        </sp>
+                        <stage>Enter Amintas, Dorus, Amarillis, Cloris,
+and Phillis.</stage>
+                        <sp>
+                           <speaker>Amintas.</speaker>
+                           <l>Fair one, we come to celebrate this day</l>
+                           <l>With other Shepherds who admire and joy,</l>
+                           <l>To know so fair acreature as your self</l>
+                           <l>At this time of the year made the world happy.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Phil.</speaker>
+                           <p>And we as bound to honour you (the fairest)
+that ever grac't our sex, are come to attend upon your
+recreations.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <l>Your expressions,</l>
+                           <l>(As they cause blushes) do exact a thanks.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Dor.</speaker>
+                           <l>Honour me</l>
+                           <l>With your fair hand, Nymph, that I may lead</l>
+                           <l>The way to all those pastimes which will follow.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <p>The honor is to me, and <hi>I</hi> accept it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>Id'e laugh at that, no <hi>Sport,</hi> Ile dance with thee
+my self.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <l>Some other time,</l>
+                           <l>By chance I may be at leasure.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>Will you not? well, by this hand then Ile stand
+out and laugh at every thing you do, right or wrong.
+<stage>A dance.</stage>
+Pshaw waw, this dancing is like my mothers Mares
+trot, <hi>Sport,</hi> shall <hi>I</hi> shew thee a dance of my own fashion?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <p>It cannot but content.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>Nay, I know that, hark hither, Lads.</p>
+                           <stage>Ex. Hob. Str.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <l>Thus I beguile my passion, shadowing over</l>
+                           <l>With a false vail of mirth, my reall sorrows;</l>
+                           <l>For when time takes an end, not all the stories</l>
+                           <l>Which ever did lament forsaken Lovers,</l>
+                           <l>Shall shew a parallell to my misfortune.</l>
+                           <l>
+                              <pb n="25" facs="23"/>
+My griefs shall stay, when all my joys depart,</l>
+                           <l>And nothing but sad thoughts shall fill my heart.</l>
+                        </sp>
+                        <stage>Hobbinall and the Shepherds dance a Morris.</stage>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>How like you this <hi>Sport:</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <l>Beyond Expression, <hi>Sport,</hi>
+                           </l>
+                           <l>I see your Vertues were conceal'd too long▪</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <p>I so they were, but I mean to shew them every day
+as fast as I can. But sirrah, <hi>Sport,</hi> yonder's God <hi>Pan,</hi>
+with a company of the bravest Satyrs that ever wore
+horns on their heads: come, Shepherds, let's go make
+them drunk, and saw off all their horns.</p>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <stage>Enter Pan.</stage>
+                        <sp>
+                           <speaker>Pan.</speaker>
+                           <l>Hail to that Nymph that graces <hi>Idaes</hi> Vale,</l>
+                           <l>VVhose beauty adds a Lustre to all those</l>
+                           <l>That doe acknowledge <hi>Pan</hi> as their chief Patron.</l>
+                           <l>Not any <hi>Satyr</hi> henceforth for thy sake,</l>
+                           <l>Shall own the nature he was bred withall.</l>
+                           <l>But all their actions shall be like thy beautie,</l>
+                           <l>Smooth and delightful, and when thou commandst,</l>
+                           <l>Sweet <hi>Philomel</hi> shall quite forget her Rape,</l>
+                           <l>And overcome with joy that thou art present,</l>
+                           <l>Joyn with the other birds in cheerfull notes.</l>
+                           <l>The very trees shall entertain no whisper</l>
+                           <l>From the rude winds, but what shall please thy ear,</l>
+                           <l>And when thou speak'st the beasts shall dance more
+nimbly,</l>
+                           <l>Then when the <hi>Thracian Orpheus</hi> charm'd their senses.</l>
+                           <l>And every object that can yeeld delight,</l>
+                           <l>Shall be <hi>Oenones</hi> vassall: in the mean time,</l>
+                           <l>I, and those <hi>Satyrs</hi> that attend my person,</l>
+                           <l>
+                              <pb n="26" facs="24"/>
+Will move in dance, to let <hi>Oenone</hi> find,</l>
+                           <l>She can make gentle a rough <hi>Satyrs</hi> mind.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <l>Since my weak fortune knows no retribution,</l>
+                           <l>But my weak thanks, accept them, being presented.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Pan.</speaker>
+                           <l>Approach then <hi>Satyrs,</hi> and let each one strive</l>
+                           <l>To express the service due unto <hi>Oenone.</hi>
+                           </l>
+                        </sp>
+                        <stage>A dance of Satyrs.</stage>
+                        <sp>
+                           <speaker>Oenone.</speaker>
+                           <l>Now honor me to grace my Bower a while,</l>
+                           <l>Where I will strive to let my Patron prove,</l>
+                           <l>How fain I would be gratefull to his love.</l>
+                        </sp>
+                        <stage>Exeunt.</stage>
+                     </div>
+                  </div>
+      </body>
+  </text>
+</TEI>

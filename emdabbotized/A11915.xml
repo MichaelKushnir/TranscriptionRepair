@@ -1,0 +1,3127 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A11915">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">The sixt tragedie of the most graue and prudent author Lucius, Anneus, Seneca, entituled Troas with diuers and sundrye addicions to the same. Newly set forth in Englishe by Jasper Heywood student in Oxonforde. Anno domini. 1559. Cum priuilegio ad imprimendum solum.</title>
+            <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65.</author>
+         </titleStmt>
+         <extent>49 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 January (TCP phase 1)</date>
+            <idno type="marc">99838746</idno>
+            <idno type="stc">STC (2nd ed.) 22227a.</idno>
+            <idno type="stc">Greg 28b.</idno>
+            <idno type="vid">3134</idno>
+            <idno type="DLPS">A11915</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">The sixt tragedie of the most graue and prudent author Lucius, Anneus, Seneca, entituled Troas with diuers and sundrye addicions to the same. Newly set forth in Englishe by Jasper Heywood student in Oxonforde. Anno domini. 1559. Cum priuilegio ad imprimendum solum.</title>
+                  <title type="alt">Troades. English</title>
+                  <title type="alt">Troades.</title>
+                  <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65.</author>
+                  <author>Heywood, Jasper, 1535-1598,</author>
+               </titleStmt>
+               <extent>[86] p.</extent>
+               <publicationStmt>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <publisher>In Fletestrete within Temple barre, at the signe of the hand and starre, by Richard Tottyll,</publisher>
+                  <date>[1559]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Imprint from colophon.</p>
+                  </note>
+                  <note>
+                     <p>Signatures: [A]-E F3.</p>
+                  </note>
+                  <note>
+                     <p>Quires E and F and inner form of D partly from same setting as STC 22227--STC.</p>
+                  </note>
+                  <note>
+                     <p>Identified as STC 22227b on UMI microfilm.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the British Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="1"/>
+            <pb facs="1"/>
+            <p>¶THE SIXT TRAGE||die of the most graue and prudent author Lucius, Anneus, Seneca, entituled Troas, with diuers and sundrye addicions to the same. Newly set forth in Englishe by Iasper Heywood stu|dient in Oxen|forde.</p>
+            <p>Anno domini. 1559.</p>
+            <p>¶ Cum priuilegio ad impri|mendum solum.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <pb facs="2"/>
+            <head>¶TO THE MOST HIGH and verteouse princesse, Elyzabeth by the grace of god Queene of England, Fraunce, and Ireland defender of the faith her highnes most humble and obedient subiect● Iasper Heywood studient in the vniuersite of Ox|ford wissheth helth welth, honour, &amp; felicitie.</head>
+            <p>_IF cōsideration of your graces goodnes toward vs all your louing sub|iectes whych flyeng fame by mowthes of men resowndes had not fully in me repressed al dreade of reprehension (Most noble princesse and my drad soueraigne Lady) If the wisdome that God at these yeres in your highnes hath planted, had not seemde to me a strong defence against all byt of shameles arrogāce (reproche wherof flong with disdain|full wordes from ireful tōgues, as adders stinges
+<pb facs="3"/>
+should strike me) fynally if the learning with which GOD hath endued your maies●ye had not ben to me a comfortable perswasion of your gracious fauour towarde the simple gift and dutie of a scholer, I would not haue incurred so daungerous note of presumption, in attemp|ting a subiect to hys princesse, a simple scholer to so excellently learned, a rashe yong man to so noble a Queene by none other signe to signifie allegeance and dutie toward your highnes saue by writing: when oft times is the pen the onely accuser in some pointes of hym that therwith doth endite. But now, to si (most gracious Lady) that thing come to passe which to the honour of him and for the welth of vs god hath ordained, a Princesse to raigne ouer vs, such one, to whom great fredome is for vs to serue, what ioy may serue to triumphe at that blissefull day, or what should we spare with pen to preache abrode that inward gladnes of hart that floweth from the brestes of vs your most louing subiects? beseching god that it may please hym to graunt your grace long and prosperous gouernance of the imperyal crowne of Englande. Then well vnderstanding how greatly your highnes is delighted in the
+<pb facs="3"/>
+swete sappe of fine and pure writers, I haue here presumed to offer vnto you such a simple new yeres gift as neither presenteth golde nor perle, but dutie &amp; good will of a scholler, a piece of Seneca translated into Englishe which I the rather enterprise to giue to your highnes, as well for that I thought it should not be vnplea|sant for your grace to se some part of so excellent an author in your owne tong (the reading of whom in laten I vnderstande delightes greatly your maiesty) as also for that none may be a bet||ter iudge of my doinges herein, then who best vnderstandeth my author: and the authoritie of your graces fauour towarde thys my little worke, may be to measure defence and shield● against the sting of reprehending tōgues. Which I most humbly beseching your highnes end● with prayer to god to sende vs long the fruition of so excellent and gracious a Ladie.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="4"/>
+            <head>¶To the readers.</head>
+            <p>_ALthough (gentle Reader) thou mayst perhaps thinke me arro|gant, for that I onely among so many fine wittes, and towardly youth, (with which England this day florisheth) haue enterprised to set forth in englishe, thys present piece, of the flowre of all writers Seneca, as who saye not fearing what grauer heddes might iudge of me, in attēpting so harde a thyng, yet vpon me pondering what next ensueth, I trust both thy selfe shalt clere thyne owne suspicion, and thy chaunged opinion, shal iudge of me more right|full sentence. For neyther haue I taken thys worke first in hand, as once entēding it shoulde come to light (of well doing whereof I vtterly dispayred) and being done but for mine owne priuate excercyse. I am in mine opinion herein blameles, thoughe I haue (to proue my selfe) pryuatly taken &amp; part which pleased me best. of so excellent an aucthor, for better is time spēt in the best then other, and at first to attempt the hardest writers, shal make a man more prompt, to translate the easyer with more facilitie. But now sins by request, and frendshyp of those, to whom I coulde deny nothing, this woorke a|gainst my will, extorted is out of my handes, I nedes must craue thy pacience in reading, and facilitie of iudgement: when thou shalt aparāt|ly see, my wi●les lacke of learning, praying the to consyder. how harde a thyng it is for me, to touche at full in all poyntes, the aucthoures
+<pb facs="4"/>
+minde, (being in many places very harde and doubtfull and the worke muche corrupt by the defaute of euill printed bookes) and also how farre aboue my powre, to keepe that grace, and maiestye of style, that Seneca doth, when both so excellent a writer, hath past the reache of all imitacion, and also thys our englishe toong (as many thinke and I here fynde) is farre vn|able, to compare with the latten, but thou (good reader) if I in any place, haue swerued from the trew sence. or not kept the royaltie of speach, meete for a tragedy, impute the tone to my youth: and lack of iugement, the other to my lacke of eloquence. Now as concerning sondry places augmented and some altered in thys my translacion. Fyrst forasmuch as thys worke se|med vnto me, in some places vnpersyite (whe|ther left so of the authour or part of it lost as tyme deuoureth all thynges I wotte not) I haue (where I thought good,) wyth addicyon of mine owne pen, supplied the want of some thynges, as the fyrst Chorus, after the fyrst act beginning thus. O ye to whom &amp;c. Also in the second acte. I haue added the speche of Achilles spright, rysing from hell to require the sacrifice of Polixena beginning in this wise. Forsaking now &amp;c. Againe the three last sta|ues of the Chorus after the same acte, and as for the third Chorus which in Seneca begyn|neth thus, Que <hi>vocat sedesi</hi> for as much, as no|thing is therin but a heaped noumbre of farre &amp; strange countreies, consydering with my selfe, y^t
+<pb facs="5"/>
+the names of so many vnknowne countreyes mountaines. desertes, and woodes should haue no grace in the englishe tonge, but be a straunge and vnpleasaunt thing to the readers, (exce●e I should expounde the histories of eche one, which would be farre to tedious) I haue in the place therof, made a nother beginning in thys maner. O Ioue that leadst &amp;c. whych al|teracyon may be borne withall, seeing that the Corus is no part of the substance of the matter. In the rest I haue for my sclender learning, endeuored to kepe touche with the Latten, not woorde for woorde or verse for verse as to ex||pounde it, but neglecting the placing of the wordes obserued their sence. Take ●entle rea|der this in good worth, wyth all hys fautes fauour my first beginninges, and amende ra|ther with good will, such thynges as herein are ●mis, then to depraue or discommende my la|bour and paynes, for the fautes, seing that I haue herein, but onely made way to other that can farre better do thys or like, desyring them that as they can, so they woulde. Fare well gētle reader, &amp; accept my good will.</p>
+         </div>
+         <div type="preface">
+            <pb facs="5"/>
+            <head>The preface to the tragedye.</head>
+            <lg>
+               <l>_THe ten yeares stege of Troy, who list to here</l>
+               <l>And of thaffaires, that there befell in fight</l>
+               <l>Reade ye the workes, y^e long sins written were</l>
+               <l>Of all thassautes and of that latest night,</l>
+               <l>When Turrets tops, in Troy they blased bright</l>
+               <l>Good clerkes they were, that haue it written well</l>
+               <l>As for thys worke, no worde therof doth tell.</l>
+            </lg>
+            <lg>
+               <l>But dares Phrygian, well can all reporte</l>
+               <l>With dictis eke of Crete in grekishe tong</l>
+               <l>And Momere telles, to Troy the Greekes resort</l>
+               <l>In scanned verse, and Maro hath it song</l>
+               <l>Eche one in writ hath pend a story long</l>
+               <l>Who doubtes of ought, and casteth care to knowe</l>
+               <l>These antique authors, shall the story showe.</l>
+            </lg>
+            <lg>
+               <l>The ruines twain● of Troy, the cause of eche</l>
+               <l>The glittering holmes, in fielde the banners spred</l>
+               <l>Achilles yres, and Hectors fightes they teache</l>
+               <l>There may the iestes of many a knight be red●</l>
+               <l>Patroclus, Pyrrhus, Aiax, Diomed,</l>
+               <l>With Troylus, Parys, many other more,</l>
+               <l>That day by day, there sought in field full sore.</l>
+            </lg>
+            <lg>
+               <l>And how the Grekes at ende an engine made</l>
+               <l>A hugye horse where many a warlike knight.</l>
+               <l>Enclosed was, the Troianes to inuade</l>
+               <l>With Synons craft, when Greekes had fained flight</l>
+               <l>While close they lay, at Tenedos from sight,</l>
+               <l>Or how Eneas els as other say,</l>
+               <l>●nd false Antenor did the towne betray.</l>
+            </lg>
+            <lg>
+               <pb facs="6"/>
+               <l>But as for me. I nought therof endight,</l>
+               <l>Mine author hath not all that story ●end.</l>
+               <l>My pen hys wordes in englishe must resight.</l>
+               <l>Of latest woes that fell on Troy at ende,</l>
+               <l>What finall fates the cruell gods could sende.</l>
+               <l>And how the Grekes when Troy was burnt, g●n wre●●</l>
+               <l>Theyr ire on Troians, therof shall I speake.</l>
+            </lg>
+            <lg>
+               <l>Not I with speare who pearced was in fielde,</l>
+               <l>Whose throte there cut, or head y●orued was,</l>
+               <l>Ne bloodshed blowes, that rent both ●arge and shielde</l>
+               <l>Shall I resight. all that I ouer pas.</l>
+               <l>The worke I w●ight, more wofull is alas,</l>
+               <l>For I the mothers teares must here complaine,</l>
+               <l>And blood of babes, that giltles haue been slaine.</l>
+            </lg>
+            <lg>
+               <l>And such as yet, coulde neuer weapon wrest,</l>
+               <l>But on the lappe are woont to dandled be,</l>
+               <l>Ne yet forgotten had the mothers brest,</l>
+               <l>How greekes them slew, alas here shall ye se,</l>
+               <l>To make reporte therof, ay woe is me,</l>
+               <l>My song is mischiefe, murder miserye.</l>
+               <l>And hereof speakes, thys dolfull tragedye.</l>
+            </lg>
+            <lg>
+               <l>Thou fury fell, that from thy deepest den</l>
+               <l>Couldest cause thys wrath of hell, on Troy to lyght,</l>
+               <l>That workest woe, guyde thou my hand and pen,</l>
+               <l>In weepyng verse of sobbes and sighes to wright,</l>
+               <l>As doth mine aucthor them be waile aryght,</l>
+               <l>Helpe wofull Muse for me besemeth will</l>
+               <l>Of others teares, with wrepyng ●ye to tell.</l>
+            </lg>
+            <lg>
+               <pb facs="6"/>
+               <l>When battred were to grounde the towres of Troye</l>
+               <l>In writ as auncient authors do ●esight.</l>
+               <l>And Greekes againe repayrde to sens with ioye.</l>
+               <l>Up ryseth here from hell ●chilles spright.</l>
+               <l>Uengeance he craues with blood his death to quight.</l>
+               <l>Whom Parys had in Phebus temple slaine,</l>
+               <l>with guile betrapt for loue of Polyxeyne.</l>
+            </lg>
+            <lg>
+               <l>And wrathe of hell there is none other price</l>
+               <l>That may asswage: but blood of her alon●</l>
+               <l>Polyxena he craues for sacrifice,</l>
+               <l>With threatninges on the grecians many one</l>
+               <l>Except they shed her blood before they gone.</l>
+               <l>The sprightes the hell, and depest pittes byneathe,</l>
+               <l>O virgin dere, alas, do thrust thy deathe.</l>
+            </lg>
+            <lg>
+               <l>And Hectors sonne, Astyanax, alas,</l>
+               <l>Pore seely foole hys mothers onely ioye,</l>
+               <l>Is iudge to die by sentense of Calchas</l>
+               <l>Alas the while, to death is led the boye,</l>
+               <l>And tumbled downe from Turrets ●ops in Troy.</l>
+               <l>What ruthfull teares may serue to wayle the woe,</l>
+               <l>Of Hectors wife that doth her childe forgot</l>
+            </lg>
+            <lg>
+               <l>Her pinching pang of harte, who may expresse,</l>
+               <l>But such as of like woes, haue borne a parte●</l>
+               <l>Or who bewayle her ruthfull heuinesse</l>
+               <l>That neuer yet hath felt therof the smart?</l>
+               <l>Full well they wote the w●●s of heauy hart.</l>
+               <l>What is to leese a babe from mothers brest,</l>
+               <l>They know that are in such a case distrest.</l>
+            </lg>
+            <lg>
+               <pb facs="7"/>
+               <l>Fyrst how the Quene lamentes the fall of Troy.</l>
+               <l>As hath myne author done, I shall it wright</l>
+               <l>Next how from Hectors wife they led the boy.</l>
+               <l>To dye, and her complaintes I shall resight,</l>
+               <l>The Maydens death then must I last endyght.</l>
+               <l>Now who that list the Quenes complaint to heare.</l>
+               <l>In following verse, it shall forthwith appeare.</l>
+            </lg>
+         </div>
+         <div type="dramatis_personae">
+            <head>The speakers in this tragedie.</head>
+            <list>
+               <item>Hecuba Queene of Troy.</item>
+               <item>A company of women.</item>
+               <item>The spright of Achilles.</item>
+               <item>Talthybius, a Grecian.</item>
+               <item>Agamemnon, Kyng of Grekes.</item>
+               <item>Calchas.</item>
+               <item>Pyrrhus.</item>
+               <item>Chorus.</item>
+               <item>●ndromacha.</item>
+               <item>An olde man Troian.</item>
+               <item>Ulysses.</item>
+               <item>Astyanax.</item>
+               <item>Helena.</item>
+               <item>The messenger.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="7"/>
+            <head>TRO AS OF SFNECA</head>
+            <div n="1" type="act">
+               <head>The first acte</head>
+               <sp>
+                  <speaker>Hecuba.</speaker>
+                  <l>_WHo so in pompe of prowde estate,</l>
+                  <l>or kingdome sets delight:</l>
+                  <l>Or who that ioyes in princes court</l>
+                  <l>to beare the sway of might.</l>
+                  <l>Ne dredes the fates which from aboue</l>
+                  <l>the wauering gods downe flinges:</l>
+                  <l>But fast affiaunce fixed hath,</l>
+                  <l>in fraile and fickle thinges:</l>
+                  <l>Let him in me both see the face,</l>
+                  <l>of fortunes flattring ioye:</l>
+                  <l>And eke respect the ruthfull ende,</l>
+                  <l>of the (O rumons Troye)</l>
+                  <l>For neuer gaue she plainer proofe,</l>
+                  <l>then thys ye present se:</l>
+                  <l>How fraile and brittle is thestate,</l>
+                  <l>of pride and high degre.</l>
+                  <l>The flowre of flowring Asia, lo●</l>
+                  <l>whose fame the heauens resounde,</l>
+                  <l>The worthy woorke of gods aboue,</l>
+                  <l>is batered downe to grounde.</l>
+                  <l>And whose assautes they sought afarre,</l>
+                  <l>from west with banners spredde,</l>
+                  <l>where Tanais colde her branches seuen.</l>
+                  <l>abrode the worlde doth shedde.</l>
+                  <l>With hugye host and from the east,</l>
+                  <l>where springes the newest dea,</l>
+                  <l>Where Luke warme Tygris chanell runs,</l>
+                  <l>and metes the ruddy sea.</l>
+                  <l>
+                     <pb facs="8"/>And which from wandering lande of Scythe,</l>
+                  <l>the bande of widowes sought:</l>
+                  <l>With fire and sworde thus battred be,</l>
+                  <l>her turrets downe to nought.</l>
+                  <l>The walles but late of high renowne.</l>
+                  <l>lot here their rumous fall:</l>
+                  <l>The buildings burne and flashing flame,</l>
+                  <l>swepes through the palays all.</l>
+                  <l>Thus euery house full hye it smokes,</l>
+                  <l>of olde ●ssara●lls lande:</l>
+                  <l>Ne yet the ●●ame witholdes from spoyle.</l>
+                  <l>the gredo victours hande.</l>
+                  <l>The surging smoke the asure skye,</l>
+                  <l>and light hath hid away:</l>
+                  <l>And (as with clowde beset) troyes as|shes</l>
+                  <l>staynes the dusky day.</l>
+                  <l>Through pearst with ire and gredy of hart,</l>
+                  <l>the victor from a farre.</l>
+                  <l>Doth vewe the long assauted Troy,</l>
+                  <l>the gayne or ten yeres warre.</l>
+                  <l>And eke the miseries therof,</l>
+                  <l>abhorres to looke vpon,</l>
+                  <l>An though he see it yet scant himselfe●</l>
+                  <l>beleues it might be won,</l>
+                  <l>The spoyles therof wyth gredy hand.</l>
+                  <l>they snatche and beare away:</l>
+                  <l>A thousand shippes would not receiue</l>
+                  <l>a boorde: so huge a pray.</l>
+                  <l>The prefull might I doe protest,</l>
+                  <l>of goddes aduerse to me,</l>
+                  <l>My contries dust, and Troiane king,</l>
+                  <l>I call to witnes thee.</l>
+                  <l>
+                     <pb facs="8"/>Whom Troy now hides and vnderneth</l>
+                  <l>the stones, arte ouer trode:</l>
+                  <l>With all the gods that guyde thy ghost,</l>
+                  <l>and Troy that lately stode.</l>
+                  <l>And you also yt flocking ghostes,</l>
+                  <l>of all my children dere:</l>
+                  <l>Ye lesser sprightes: what euer ill,</l>
+                  <l>hath hapned to vs here.</l>
+                  <l>What euer Phebus waterishe ●ace,</l>
+                  <l>in fury hath foresayde:</l>
+                  <l>At raging rise from seas, when erste,</l>
+                  <l>the monstres had him frayde.</l>
+                  <l>In childbed bandes I saw it yore,</l>
+                  <l>and wist it should be so:</l>
+                  <l>And I in vaine before Cassan|dra</l>
+                  <l>tolde it long ago.</l>
+                  <l>Not false Ulysses kindled hath</l>
+                  <l>these fires, nor none of his:</l>
+                  <l>Not yet deceitfull Sinons craft,</l>
+                  <l>that hath byn cause of thys.</l>
+                  <l>My fire it is wherwith ye burne,</l>
+                  <l>and Parys is the brande:</l>
+                  <l>That smoketh in thy towres (O Troy)</l>
+                  <l>the flowre of Phrygian lande.</l>
+                  <l>But ay alas vnhappy age,</l>
+                  <l>why doste thou yet so sore,</l>
+                  <l>Bewaile thy contries fatall fall.</l>
+                  <l>thou knewest it long before.</l>
+                  <l>Beholde thy last cala●tte●,</l>
+                  <l>and them bewayle with teares:</l>
+                  <l>Account as olde Troies ouerturne●</l>
+                  <l>and past by many yeares.</l>
+                  <l>
+                     <pb facs="9"/>I saw the slaughter of the king;</l>
+                  <l>and how he lost his life:</l>
+                  <l>By thawlters side (more mischief was)</l>
+                  <l>with stroke of Pyrrhus knife.</l>
+                  <l>When in his hand he wounde his lockes.</l>
+                  <l>and drew the king to grounde:</l>
+                  <l>And hid to hiltes his wicked sworde,</l>
+                  <l>in depe and dedly wownde.</l>
+                  <l>Which when the gored king had toke,</l>
+                  <l>as willing to be slayne,</l>
+                  <l>Out of the olde mans throte he drew.</l>
+                  <l>his bloody blade agayne.</l>
+                  <l>Not pitie of hys yeres, alas,</l>
+                  <l>in mans extremest age:</l>
+                  <l>From slaughter might hys hand withhold,</l>
+                  <l>ne yet his yre asswage.</l>
+                  <l>The gods are witnes of the same</l>
+                  <l>and eke the sacrifies,</l>
+                  <l>That in hys kingdome holden was,</l>
+                  <l>that flat on grounde now lies.</l>
+                  <l>The father of so many kinges</l>
+                  <l>Pryam of auncient name,</l>
+                  <l>Untombed lieth and wants in blase</l>
+                  <l>of Troy: hys funerall flame.</l>
+                  <l>Ne yet the gods are wreakt, but lo●</l>
+                  <l>hys sonnes and daughters all,</l>
+                  <l>Such lordes they serue as doth by chance</l>
+                  <l>of lot, to them befall.</l>
+                  <l>Whom shall I follow now for pray?</l>
+                  <l>or where shall I be led?</l>
+                  <l>There is perhaps among the grekes,</l>
+                  <l>that Hectors wife will wed.</l>
+                  <l>
+                     <pb facs="9"/>Some man desyres Helenus spouse</l>
+                  <l>some would Antenors haue,</l>
+                  <l>And in the grekes there wantes not some</l>
+                  <l>that would Cassandra craue.</l>
+                  <l>But I alas most wofull wight,</l>
+                  <l>whom no man sekes to chuse,</l>
+                  <l>I am the onely refuge left,</l>
+                  <l>and me they cleane re●use,</l>
+                  <l>Ye carefull captiue company</l>
+                  <l>why stints your wofull crye?</l>
+                  <l>Bea●e on your brestes and piteouslye</l>
+                  <l>complayne with voyce so hye,</l>
+                  <l>As mete may be for Troyes estate,</l>
+                  <l>let your complaintes rebounde</l>
+                  <l>In tops of treese: and cause the hils,</l>
+                  <l>to ring with terible sounde.</l>
+               </sp>
+               <div n="2" type="scene">
+                  <head>The second sceane.</head>
+                  <stage>The women.</stage>
+                  <sp>
+                     <speaker>Hecuba</speaker>
+                     <l>_NOt folke v●apt, nor new to wepe (o Queen●)</l>
+                     <l>thou wilst to wayle, by practise are we taught</l>
+                     <l>For all these yeres, in such case haue we bene</l>
+                     <l>since first the Troian guest, &amp; my clas sought●</l>
+                     <l>Ana saylde the seas, that ledde him on his way</l>
+                     <l>with sacred ship, to Cibell dedicate</l>
+                     <l>From whence he brought, his vnrepyning pray,</l>
+                     <l>the ●●use alas, of all this dyre debate</l>
+                     <l>Ten times now hid, the hils of Id●y bee,</l>
+                     <l>with snow of siluer hewe, all ouer layde.</l>
+                     <l>And bared is for Troian roges eche tree,</l>
+                     <l>ten times in feelde, the haruest man afrayde,</l>
+                     <l>
+                        <pb facs="10"/>The spykes of corne hath reapt, since neuer day</l>
+                     <l>his wayling wantes, new cause renewes our w●.</l>
+                     <l>Lift vp thy hand, (o Quene) crye well away:</l>
+                     <l>we follow thee, we are wel taught therto.</l>
+                  </sp>
+                  <sp>
+                     <speaker>HEC.</speaker>
+                     <l>Ye faithful fellowes of your casualtie</l>
+                     <l>Untye that tyre, that on your heades ye weare,</l>
+                     <l>And as behoueth state of misery,</l>
+                     <l>let fall about your woful neckes. your heare.</l>
+                     <l>In dust of Troy, rub al your armes about.</l>
+                     <l>in slacker wede, and let your brestes ●e tyde</l>
+                     <l>Downe to your bellies, let your limmes lye out,</l>
+                     <l>for what wedlocke should you your bosomes hyde?</l>
+                     <l>Your garmentes loose, and haue in readines</l>
+                     <l>your furious handes, vpon your brestes to knocke</l>
+                     <l>This habite wel besemeth our distres</l>
+                     <l>it pleaseth me, I know the Troian flocke</l>
+                     <l>Renew agayn your long accustomed cryes</l>
+                     <l>and more then earst, lament your miseries.</l>
+                     <l>We bewayle Hector.</l>
+                  </sp>
+                  <sp>
+                     <speaker>WO.</speaker>
+                     <l>¶Our heare we haue vntide, now euery chon●</l>
+                     <l>All rent for sorowes of our cursed cac●</l>
+                     <l>our lockes out spreades● the knots we haue vndone</l>
+                     <l>And in these ashes slayned is our face.</l>
+                  </sp>
+                  <sp>
+                     <speaker>HEC.</speaker>
+                     <l>¶Fil vp your handes &amp; make therof no spare●</l>
+                     <l>for this yet lawfull is, from Troy to take,</l>
+                     <l>Let downe your garmentes from your shoulders bare</l>
+                     <l>and suffre not your clamour so to slake.</l>
+                     <l>Your naked breastes wait for your handes to smight</l>
+                     <l>now dolour depe, now sorow, shew thy might</l>
+                     <l>Make al the coastes that compas Troy about</l>
+                     <l>witnesse the sound, of all your careful crye</l>
+                     <l>Cause from the caues, the Eccho to cast out</l>
+                     <l>
+                        <pb facs="10"/>Rebounding voyce of al your misery:</l>
+                     <l>not as she wontes, the latter woord to sound</l>
+                     <l>But al your woe, from farre let it rebounde</l>
+                     <l>Let al the seas it heare, and eke the land</l>
+                     <l>Spare not your brestes with heauy stroke to stryke</l>
+                     <l>beate ye your selues, eche one with cruel hand</l>
+                     <l>For yet your wonted crye doth me not like</l>
+                     <l>We bewayle Hector.</l>
+                  </sp>
+                  <sp>
+                     <speaker>WO.</speaker>
+                     <l>¶Our naked armes, thus here we rent for thee,</l>
+                     <l>and bluddy shoulders, (Hector) thus we teare:</l>
+                     <l>Thus with our fistes, our heades lo beaten be</l>
+                     <l>and al for ther, behold we hale our heare.</l>
+                     <l>Our dugges alas, with mothers handes be torne</l>
+                     <l>and where the fleshe is wounded round about</l>
+                     <l>Which for thy sake, we rent thy death to morne</l>
+                     <l>the flowing streames of blud, they spring therout,</l>
+                     <l>Thy countreys shore, and destinied delaye,</l>
+                     <l>and thou to weeried Troians wast an ayde.</l>
+                     <l>A wall thou wast, and on thy shoulders Troy</l>
+                     <l>ten yeres it stode: on thee alone it stayde,</l>
+                     <l>With thee it fell: and fatall day alas</l>
+                     <l>of Hector both, and Troy but one there was.</l>
+                  </sp>
+                  <sp>
+                     <speaker>HEC.</speaker>
+                     <l>¶Enough hath hector: turne your plaint &amp; mone</l>
+                     <l>and shed your teares for Pryame euery chone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>WO.</speaker>
+                     <l>¶Receiue our plaintes, O lord of Phrigian land,</l>
+                     <l>and old twise captiue king, receiue our feare,</l>
+                     <l>Whyle thou wert king, Troy hurtles then could stand</l>
+                     <l>though shaken twyse, with Grecian sword it weare,</l>
+                     <l>And twyse did shot of Hercles quyuer beare:</l>
+                     <l>at latter los of Hecubes sonnes all</l>
+                     <l>and roges for kinges, that high on pyles we reare:</l>
+                     <l>thou father shu●st our latest funerall.</l>
+                     <l>
+                        <pb facs="11"/>And beaten downe, to Ioue for sacrifies.</l>
+                     <l>like liueles, blocke, in Troye thy carkas lies.</l>
+                  </sp>
+                  <sp>
+                     <speaker>HEC.</speaker>
+                     <l>¶Yet turne ye once your treares, another way,</l>
+                     <l>my Pryames death, should not lamented be</l>
+                     <l>O Troianes all, full happy is Pryame say,</l>
+                     <l>for free from bondage, downe descended he,</l>
+                     <l>To the lowest ghostes: and neuer shall sustayne</l>
+                     <l>his captiue necke, with Greekes to yoked be</l>
+                     <l>He neuer shall, beholde the Atrides twayne</l>
+                     <l>nor false Ulysses euer shall he see,</l>
+                     <l>Not he a pray, for Grekes to tryumphe at</l>
+                     <l>his neck shall subiect, to their conquestes beare</l>
+                     <l>Ne gyue his handes, to tye behind his backe</l>
+                     <l>that to the rule of scepters wonted weare</l>
+                     <l>Nor folowing Agamemnons chart, in bande</l>
+                     <l>shall he be pompe, to proude Mycenas lande.</l>
+                  </sp>
+                  <sp>
+                     <speaker>WO.</speaker>
+                     <l>¶Full happy Pryame is, eche one we say</l>
+                     <l>that tooke with him his kingdome, then that stoode</l>
+                     <l>Now safe in shade, he sekes the wandring way</l>
+                     <l>and treades the pathes of all Elizius woode,</l>
+                     <l>And in the blessed sprites, full happie he,</l>
+                     <l>againe there sekes, to mete with Hectors ghoste,</l>
+                     <l>Happy Pryame, happy who so may see,</l>
+                     <l>his kingdome all, at ones with him be loste.</l>
+                  </sp>
+               </div>
+               <div type="chorus">
+                  <head>¶Chorus added the tragedy by the translatour.</head>
+                  <l>_O Ye to whom, the lord of land and seas,</l>
+                  <l>of lyfe and death, hath grafited here the powre</l>
+                  <l>Lay down your lofty lookes, your pryde app●as</l>
+                  <l>the crowned king, fleeth not his fatall howre.</l>
+                  <l>
+                     <pb facs="11"/>Who so thou be, that leadst thy land alone</l>
+                  <l>thy life was limite, from thy mothers wombe,</l>
+                  <l>Not purple robe, not glorious glittring throne,</l>
+                  <l>ne crowne of golde, redemes the from the tombe</l>
+                  <l>A king he was, that wayting for the vayle,</l>
+                  <l>of him that slew, the Minotaure in fight.</l>
+                  <l>Begylde with blackenes, of the wonted sayle</l>
+                  <l>in seas him sonke, and of his name they hight.</l>
+                  <l>So he that wilde, to win the golden spoyle</l>
+                  <l>and first with ship, by seas to seke renowne,</l>
+                  <l>In lesser waue, at length to death gan boyle,</l>
+                  <l>and thus the daughters, brought their father downe●</l>
+                  <l>Whose songes, the woodes hath drawen, and riuers held.</l>
+                  <l>and byrdes to heare his notes, did theyrs forsake,</l>
+                  <l>In peece meale throwne, amid the Thracian feelde,</l>
+                  <l>without returne hath sought the Stigian lake.</l>
+                  <l>They sit aboue, that hold our life in line,</l>
+                  <l>and what we suffre, downe they fling from hye</l>
+                  <l>No carke, no care, that euer may vntwine</l>
+                  <l>the thrids, that wouen are aboue the skye,</l>
+                  <l>As witnest he, that somtime kyng of Greece,</l>
+                  <l>had Iason thought, in drenching sees to drowne</l>
+                  <l>who scapte both death, and gaynde the golden fleece,</l>
+                  <l>whom sates aduaunce, ther may no powre pluck downe</l>
+                  <l>The highest god, somtime that Saturne hight</l>
+                  <l>his fall him taught to credit their decryes</l>
+                  <l>The rule of heauens: he lost it by their might</l>
+                  <l>and Ioue his sonne, now turnes the rolling skyes.</l>
+                  <l>Who weneth here to win eternall welth,</l>
+                  <l>let him behold this present perfit proofe,</l>
+                  <l>And learne, the secrete steppe, of chaunces stelth,</l>
+                  <l>most nere alas, when most it semes aloofe.</l>
+                  <l>
+                     <pb facs="12"/>In slipper ioy, let no man put his trust</l>
+                  <l>let none dispayre, that heauy happes hath past</l>
+                  <l>The swete with sowre, she mingleth as she lust</l>
+                  <l>whose doubtfull web, pretendeth nought to last.</l>
+                  <l>Frayltie is the thrid, that Clothoes rocke hath sponne</l>
+                  <l>now from the distaffe dr●wne, now knapt in twayne</l>
+                  <l>With al the world, at length his end he wonne,</l>
+                  <l>whose works haue wrought, his name sholl gret remain</l>
+                  <l>and he, whose trauelles, twelue, his name display,</l>
+                  <l>that feared nought, the force of worldly hu●t,</l>
+                  <l>In fine alas hath found his fatall day,</l>
+                  <l>and dyed with smart of Dianyra●s shurt,</l>
+                  <l>If prowes might eternitie procure,</l>
+                  <l>then Pryame yet should liue in lyking lust</l>
+                  <l>●y portly pompe of pride, thou art vnsure</l>
+                  <l>●o learne by him, o lunges ye are but dust.</l>
+                  <l>and Hecuba that waileth now in care,</l>
+                  <l>that was so late of high estate a Queene</l>
+                  <l>a mirrour is, to teache you what you are</l>
+                  <l>your wauering welth, o princes, here is seene.</l>
+                  <l>Whom dawne of day, hath seen in high estate</l>
+                  <l>before sonnes set, alas hath had his fall</l>
+                  <l>The cradelles rocke, apointes the lyfe his date</l>
+                  <l>from setled ioy, to sodayn funerall.</l>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>The second acte. ¶The sprite of Achilles added to the tra|gedie by the translatour.</head>
+               <div n="1" type="scene">
+                  <pb facs="12"/>
+                  <head>The first seeane.</head>
+                  <lg>
+                     <l>_FOrsaking now the places tenebrous,</l>
+                     <l>and depe dennes of thinfernal regione</l>
+                     <l>from all the shadowes of ●listous</l>
+                     <l>That wander there the pathes full many on●.</l>
+                     <l>Lo, here am I returned all alone.</l>
+                     <l>The same Achill whose feerce and heauy hand</l>
+                     <l>Of all the world, no wight might yet withstand.</l>
+                  </lg>
+                  <lg>
+                     <l>What man so stout of all the Grecians host.</l>
+                     <l>That hath not somtime craued Achilles aide,</l>
+                     <l>and in the Troians, who of prowes most</l>
+                     <l>That hath not fearde to see my banners splayde</l>
+                     <l>Achilles lo, hath made them all afrayde.</l>
+                     <l>and in the Grekes hath been a piller post,</l>
+                     <l>That sturdy stode against ther Toiane host.</l>
+                  </lg>
+                  <lg>
+                     <l>Where I haue lackte, the Grecians went to wracke</l>
+                     <l>Troy hath proude what Achilles sword could do</l>
+                     <l>Where I haue come the Troianes fled a backe,</l>
+                     <l>Retiring fast from field their walles vnto,</l>
+                     <l>No man that might Achilles stroke fordo,</l>
+                     <l>I dealt such stripes amid the Troian route,</l>
+                     <l>That with their blood I stainde the fieldes about.</l>
+                  </lg>
+                  <lg>
+                     <l>Mighty Memnon, that with his Persian bande,</l>
+                     <l>Would Pryames part with all his might mayntayn●</l>
+                     <l>Lo now he lythe and knoweth Achilles hand</l>
+                     <l>amid the field is Troylus also slayne.</l>
+                     <l>Ye Hector gr●at, whom Troy accounted playne</l>
+                     <l>The flowre of chiualry that might be found,</l>
+                     <l>all of Achilles had their mortall wound,</l>
+                  </lg>
+                  <lg>
+                     <pb facs="13"/>
+                     <l>But Paris lo, such was his false disceite,</l>
+                     <l>Pretending mariage of Polyxeine,</l>
+                     <l>Behind the aulter lay for me in wayte</l>
+                     <l>Where I vnwares haue falne into the trayne</l>
+                     <l>And in Appolloes church he hath me slaine</l>
+                     <l>Wherof the bell will now iust vengeance haue,</l>
+                     <l>And here agayne, I come my right to craue.</l>
+                  </lg>
+                  <lg>
+                     <l>The depe Auerne my rage may not sustayne</l>
+                     <l>Nor beare the angers of Achilles spright</l>
+                     <l>From Acheront, I rent the soyle in twayne</l>
+                     <l>and through the ground, I grat● again to sight</l>
+                     <l>Hell could not hide Achilles from the light,</l>
+                     <l>Uengeans and blood doth Orcus pit require,</l>
+                     <l>To quench the furies of Achilles yre.</l>
+                  </lg>
+                  <lg>
+                     <l>The hatefull land● that worse then Tartar● is</l>
+                     <l>and burning thrust excedes of Tantalus,</l>
+                     <l>I here beholde againe, and Troye is this</l>
+                     <l>O, trauell worse, th●n slon● of Sisyphus</l>
+                     <l>and paynes that passe the panges of Tityus</l>
+                     <l>To light more lothsome surie hath me sent</l>
+                     <l>Then hooked whele, that I●ions fleshe doth rent.</l>
+                  </lg>
+                  <lg>
+                     <l>Remembred is alowe where spretes do dwell</l>
+                     <l>The wicked slaughter wrought by wyly way,</l>
+                     <l>Not yet reuenged hath the depest hell,</l>
+                     <l>Achilles blood on them that did him slay</l>
+                     <l>But now of vengeans comes the yrefull day</l>
+                     <l>and darkest dennes of Tartare from beneath</l>
+                     <l>Conspire the fates: of them that wrought my death.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="13"/>
+                     <l>Now mischief, murder, wrath of hell drawth nere</l>
+                     <l>and dyre Phlegethon flood doth blood require</l>
+                     <l>Achilles death shalbe reuenged here</l>
+                     <l>With slaughter such as Stygian lakes desyre</l>
+                     <l>Her daughters blood shall slake the sprites yre,</l>
+                     <l>Whose sonne we slew. wherof doth yet remayne,</l>
+                     <l>The wrath beneath, and hell shalbe theyr payne.</l>
+                  </lg>
+                  <lg>
+                     <l>From burning lakes the furies wrath I threate,</l>
+                     <l>and syer that nought but streames of blood may slake</l>
+                     <l>The rage of wynde and seas these shippes shal beate,</l>
+                     <l>and Ditis depe on you shal vengeans take,</l>
+                     <l>The sprites crye out, the earth and seas do quake</l>
+                     <l>The poole of Styx, vngrateful Grekes it seath,</l>
+                     <l>With slaughtred blood reuenge Achilles death.</l>
+                  </lg>
+                  <lg>
+                     <l>The soile doth shake to beare my heauy foote</l>
+                     <l>and fearth agayn the sceptours of my hand</l>
+                     <l>The poales with stroke of thunderclap ring out</l>
+                     <l>The doubtful starres amid their course do stand,</l>
+                     <l>and fearful Phebus hides his blasing brand.</l>
+                     <l>The trembling lakes agaynst their course do slyte,</l>
+                     <l>For dreade and terrur of Achilles spryte.</l>
+                  </lg>
+                  <lg>
+                     <l>Great is the raunsom, ought of dewe to me,</l>
+                     <l>Wherwith yt must the sprites, and hell appease,</l>
+                     <l>Polyxena shal sacrifised be,</l>
+                     <l>Upon my tombe, their yreful wrath to please,</l>
+                     <l>and with her blood, ye shal asswage the sease</l>
+                     <l>Your ships may not returne to Greece againe</l>
+                     <l>Til on my tombe Polyxena be slayne.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="14"/>
+                     <l>And for that she should then haue been my wyle,</l>
+                     <l>I will that Pyrrhus render her to me,</l>
+                     <l>and in such solemne sort byreeue her lyfe,</l>
+                     <l>as ye are wont the weddinges for to see,</l>
+                     <l>So shall the wrath of hell appeased be,</l>
+                     <l>Nought els but this may satisfye our yre,</l>
+                     <l>Her will I haue, and her I you require.</l>
+                  </lg>
+               </div>
+               <div n="2" type="scene">
+                  <head>The second sceane.</head>
+                  <stage>Talthybius. Chorus.</stage>
+                  <l>_ALas how long the lingring greekes</l>
+                  <l>in heauen do make delay,</l>
+                  <l>When either war by seas they seeke</l>
+                  <l>or home to pas their way.</l>
+                  <sp>
+                     <speaker>CHO.</speaker>
+                     <l>¶Why shew what cause doth hold your ships</l>
+                     <l>and Grecian nauie stayes,</l>
+                     <l>Declare if any of the gods</l>
+                     <l>haue stopt your homeward wayes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>TAL.</speaker>
+                     <l>¶My mynd is masde my trembling 〈◊〉</l>
+                     <l>quake and are afearde,</l>
+                     <l>For straunger newes of trueth then these</l>
+                     <l>I thinke wer neuer hearde.</l>
+                     <l>Lo I my self haue plainly seene,</l>
+                     <l>in dawning of the day,</l>
+                     <l>When Phebus fyrst gan to approche,</l>
+                     <l>and dryue the starres away.</l>
+                     <l>The earth all shaken sodeynly</l>
+                     <l>and from the hollow ground,</l>
+                     <l>My thought I heard with roring crye</l>
+                     <l>a depe and dreadful sound.</l>
+                     <l>
+                        <pb facs="14"/>That shoke the woods and all the treese</l>
+                     <l>rong out with thunder stroke,</l>
+                     <l>From Ida hilles downe fell the stones</l>
+                     <l>the mountayn tops wer broake.</l>
+                     <l>and not the earth hath only quak●e</l>
+                     <l>but all the sea likewise,</l>
+                     <l>Achilles presence felt and knewe</l>
+                     <l>and high the surges ryse.</l>
+                     <l>The clouen ground Erebus pitts</l>
+                     <l>then shewed and depest dennes,</l>
+                     <l>That downe to Goddes that guyde beneath,</l>
+                     <l>the way appearde from hence.</l>
+                     <l>Then shoke the tombe from whence anon</l>
+                     <l>in flame of fyrie light,</l>
+                     <l>appeareth from the hollow canes</l>
+                     <l>Achilles noble spright.</l>
+                     <l>as wonted he his Thracian armes</l>
+                     <l>and banners to disploye</l>
+                     <l>and welde his weighty weapons well,</l>
+                     <l>against thassautes of Troye.</l>
+                     <l>The same Achilles semed he than</l>
+                     <l>that he was wont to be</l>
+                     <l>amid the hostes, and casely could</l>
+                     <l>I know, that this was he.</l>
+                     <l>With carkas slayne in furious fight</l>
+                     <l>that stopt and filde eche flood,</l>
+                     <l>and who by slaughter of his hand</l>
+                     <l>made Xanthus runne with blood</l>
+                     <l>as when in chariote high he sate</l>
+                     <l>with lofty stomacke stought.</l>
+                     <l>While Hector both and Troy at once</l>
+                     <l>he drew the walles abought.</l>
+                     <l>
+                        <pb facs="15"/>alowde he cryde and euery coaste,</l>
+                     <l>rang with Achilles sound</l>
+                     <l>and thus with hollow voyce he spake.</l>
+                     <l>from bottome of the ground.</l>
+                     <l>The grekes shal not with little price</l>
+                     <l>redeme Achilles yre,</l>
+                     <l>A princely raunsome must they geue,</l>
+                     <l>for so the fates require.</l>
+                     <l>Unto my ashes Polyxene,</l>
+                     <l>spoused shal here be slaine,</l>
+                     <l>By Pyrrhus hand, and all my tombe</l>
+                     <l>her blood shal ouerstayn●.</l>
+                     <l>This sayd, he straight sanke downe agayne</l>
+                     <l>to Plutoes depe regione,</l>
+                     <l>The earth then closde the hollow caues</l>
+                     <l>were vanished and gone.</l>
+                     <l>Therwith the wether waxed clere,</l>
+                     <l>the raging windes did slake,</l>
+                     <l>The tombling seas began to rest,</l>
+                     <l>and al the tempest brake.</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>The third sceane.</head>
+                  <stage>Pyrrhus. Agamemnon. Calchas.</stage>
+                  <l>WHat tyme our sayles we should haue spred,</l>
+                  <l>vpon Sygeon seas,</l>
+                  <l>With swift returne from long delay,</l>
+                  <l>to seke our homeward wayes.</l>
+                  <l>
+                     <pb facs="15"/>Achilles rose whose onely hand,</l>
+                  <l>hath geuen grekes the spoyle.</l>
+                  <l>Of Troia sore annoyde by him</l>
+                  <l>and leueld with the soyle.</l>
+                  <l>With spede requighting hys abode</l>
+                  <l>and former long delaye,</l>
+                  <l>At Scyros yl● and Lesbos both●</l>
+                  <l>amid the Egeon sea.</l>
+                  <l>Till he came here in doubte it stoode,</l>
+                  <l>of fall or sure estate</l>
+                  <l>Then though ye hast to graunt his will</l>
+                  <l>ye shall it geue to late.</l>
+                  <l>Now haue the other captaynes all,</l>
+                  <l>the pryce of their manhood,</l>
+                  <l>What els rewarde for his prowes,</l>
+                  <l>then her all onely blood?</l>
+                  <l>Are his desertes thinke you but light,</l>
+                  <l>that when he might haue fled,</l>
+                  <l>And passing Pelyus yeres in peace,</l>
+                  <l>a quyet life haue led.</l>
+                  <l>Detected yet his mothers craftes,</l>
+                  <l>forsooke his womans wede●</l>
+                  <l>And with his weapons proued himselfe,</l>
+                  <l>a manly man in dede?</l>
+                  <l>The king of Mysya Telephus</l>
+                  <l>that would the grekes withstand●</l>
+                  <l>Coming to Troy forbidding vs,</l>
+                  <l>the passage of his land.</l>
+                  <l>To late repenting to haue felt,</l>
+                  <l>Achilles heauy stroke,</l>
+                  <l>Was glad to craue his health agayne●</l>
+                  <l>where he his hurt had toke.</l>
+                  <l>
+                     <pb facs="16"/>For when his sore might not be salued</l>
+                  <l>as tolde Appollo plaine,</l>
+                  <l>Except the speare that gaue the hurt</l>
+                  <l>restored helpe agayne.</l>
+                  <l>Achilles plasters cured his cuttes</l>
+                  <l>and saued the king aliue</l>
+                  <l>His hand both might and mercy knew</l>
+                  <l>to s●ay and then reuiue.</l>
+                  <l>When Thebes fell: ●etion saw it</l>
+                  <l>and might it not withstand.</l>
+                  <l>The captiue king could nought redres</l>
+                  <l>the ruine of his land.</l>
+                  <l>Lyrnesus little likewyse felt</l>
+                  <l>his hand and downe it fill,</l>
+                  <l>With rume ouerturned lyke</l>
+                  <l>from top of haughty hill.</l>
+                  <l>and taken Brys●is land it is</l>
+                  <l>and prisoner is she caught</l>
+                  <l>The cause of stryfe betwene the kinges</l>
+                  <l>is Chryses come to n●ught.</l>
+                  <l>Tenedos yle wel knowne by fame</l>
+                  <l>and fertile soyle he tooke</l>
+                  <l>That sostreth ●atte the Thracian flockes</l>
+                  <l>and sacred ●illa shooke.</l>
+                  <l>What bootes to blase the brute of him</l>
+                  <l>whom trompe of fame doth shew●</l>
+                  <l>Through all the coastes where C●icus flood</l>
+                  <l>with swelling streame doth flow●</l>
+                  <l>The ruthfull ruine of theese realmes</l>
+                  <l>so many townes bette downe.</l>
+                  <l>another man would glory count</l>
+                  <l>and worthy great renowne.</l>
+                  <l>
+                     <pb facs="16"/>But thus my father made his way</l>
+                  <l>and these his iourneys are,</l>
+                  <l>And battayles many one he sought.</l>
+                  <l>whyle warre he doth prepare.</l>
+                  <l>As whisht I may his merites more</l>
+                  <l>shall yet not this remayne.</l>
+                  <l>Well knowen and counted prayse enough●</l>
+                  <l>that he hath Hector slayne?</l>
+                  <l>During whole life the Grecians all</l>
+                  <l>might neuer take the towne</l>
+                  <l>My father only vanquisht Troy●</l>
+                  <l>and you haue pluc●● it downe,</l>
+                  <l>Reioyse I may your parentes prayse</l>
+                  <l>and brute abrode his actes</l>
+                  <l>It semeth the soon to folow well</l>
+                  <l>his noble fathers acte●.</l>
+                  <l>In sight of Pryame Hector slayne</l>
+                  <l>and Memnon both they laye.</l>
+                  <l>With heauy cheere hi● parentes wayt●●</l>
+                  <l>to mourne his dying day.</l>
+                  <l>Himselfe abhorde his handy works</l>
+                  <l>in ●ight that had them slayne</l>
+                  <l>The sonnes of Coddes I chilles knew●</l>
+                  <l>wer borne to dye agayne.</l>
+                  <l>The woman Queene of Amasons</l>
+                  <l>that greende the Greekes full sore</l>
+                  <l>Is turnde to flight then ceast out feare</l>
+                  <l>we drade their bowes no more.</l>
+                  <l>If ye wel way his worthines</l>
+                  <l>Achilles ought to haue</l>
+                  <l>Though he from Argos or Myce|nas</l>
+                  <l>would a virgin craue.</l>
+                  <l>
+                     <pb facs="17"/>Doubte ye herein? allow ye not</l>
+                  <l>that streight his will be doon.</l>
+                  <l>And count ye cruel Pryanies blood</l>
+                  <l>to giue to Peleus sonne?</l>
+                  <l>For Helens sake your own childes blood,</l>
+                  <l>appeasde Dyanaes yre,</l>
+                  <l>● wonted thing and done ere this,</l>
+                  <l>it is that I requyre.</l>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶The onely faulte of youth it is</l>
+                     <l>not to refrayne his rage●</l>
+                     <l>The fathers blood already sturres,</l>
+                     <l>in Pryames wanton age</l>
+                     <l>Somtime Achilles grieuo●s checkes</l>
+                     <l>I bare with pacient hart,</l>
+                     <l>The more thou mayst the more thou oughtf●e,</l>
+                     <l>to suffre in good part.</l>
+                     <l>Whereto would ye with slaughtred blood</l>
+                     <l>a noble spirite slayne?</l>
+                     <l>Thinke what is mete the grekes to doo</l>
+                     <l>and troians to sustayne.</l>
+                     <l>The proude estate of tiranye</l>
+                     <l>may neuer long endure.</l>
+                     <l>The king that rules with modest mean●</l>
+                     <l>of safetie may be sure.</l>
+                     <l>The higher steppe of princely state</l>
+                     <l>that fortune hath vs synde,</l>
+                     <l>The more behouthe a happy man</l>
+                     <l>humilitie of mynde.</l>
+                     <l>And dreade the chaunge that chau●ce may bring</l>
+                     <l>whose gyftes so sone be los●e</l>
+                     <l>And chiefly then to feare the gods,</l>
+                     <l>whyle they the fauour most.</l>
+                     <l>
+                        <pb facs="17"/>In beating downe that w●rr● hath 〈◊〉,</l>
+                     <l>by proofe I haue ben taught,</l>
+                     <l>What pomp● and pride, in twinke of Iye,</l>
+                     <l>may fall and come to naught.</l>
+                     <l>Troye made me fierr● and proude of minde,</l>
+                     <l>Troy makes me frayde with all:</l>
+                     <l>The Greekes now stande where Troy ●●te fell,</l>
+                     <l>eche thing may haue his fall.</l>
+                     <l>Sometime I grau●● I did my selfe,</l>
+                     <l>and sceptors proudly beate,</l>
+                     <l>The thing that might aduaunce my harte●</l>
+                     <l>makes me the more to feare.</l>
+                     <l>Thou Priame perfite proofe presen●st.</l>
+                     <l>thou art to me eftsones:</l>
+                     <l>A cause of pride, a glas of f●●re,</l>
+                     <l>a mirrour for the nones.</l>
+                     <l>Should I account the sceptors owght,</l>
+                     <l>but glorious vanitie?</l>
+                     <l>Much like the borowed brayded here,</l>
+                     <l>the face to bewtefie.</l>
+                     <l>One sodaine chaunce may turne to naught.</l>
+                     <l>and maime the might of men,</l>
+                     <l>With fewer then a thousande shippes,</l>
+                     <l>and yeres in les then ten.</l>
+                     <l>Not she that guides the, slipper whel●,</l>
+                     <l>of fate: doth so delaye:</l>
+                     <l>That she to all possession grauntes,</l>
+                     <l>of ten yeres setled staye.</l>
+                     <l>With leaue of Greec● I will confesse,</l>
+                     <l>I would haue wo●ne the towne,</l>
+                     <l>But not with ruine thus 〈◊〉,</l>
+                     <l>to se it beaten downe●</l>
+                     <l>
+                        <pb facs="18"/>But loe the battel made by night</l>
+                     <l>and rage of feruent minde,</l>
+                     <l>Could not abyde the brideling bitte</l>
+                     <l>that reason had assinde.</l>
+                     <l>The happy sword once staynde with blood</l>
+                     <l>vnsacyable is,</l>
+                     <l>And in the darke the feruent rage</l>
+                     <l>doth strike the more amis.</l>
+                     <l>Now are we wreake on Troy to much</l>
+                     <l>let all that may remaine.</l>
+                     <l>A virgin borne of princes blood</l>
+                     <l>for offring to be slaine</l>
+                     <l>And geuen be, to staine the tom●e</l>
+                     <l>and ashes of the ded,</l>
+                     <l>And vnder name of wedlocke se</l>
+                     <l>the giltles blood be shed,</l>
+                     <l>I will not graunt: for mine should bee</l>
+                     <l>therof both faute and blame,</l>
+                     <l>Who when he may forbiddeth not</l>
+                     <l>offence: doth will the same.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶And shall hys sprightes haue no rewar●●</l>
+                     <l>their angers to appayse?</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>Ye● very great, for all the world●</l>
+                     <l>shall celebrate hys prayse.</l>
+                     <l>And landes vnknowne that neuer s●w</l>
+                     <l>the man so praisde by fame,</l>
+                     <l>Shall here and keep● for many yeres,</l>
+                     <l>the glory of his name.</l>
+                     <l>If bloodshed vayle hys ashes ought</l>
+                     <l>strike of an oxe● hed.</l>
+                     <l>And let no blood that may be cause</l>
+                     <l>of mothers teares be shed</l>
+                     <l>
+                        <pb facs="18"/>What furious fran●ye may this be</l>
+                     <l>that doth your wyll so leade,</l>
+                     <l>This earnest carefull sute to make</l>
+                     <l>in trauaile for the deade?</l>
+                     <l>Let not such enuy towarde your fa|ther</l>
+                     <l>in your hart remaine,</l>
+                     <l>That for hys sacrifice ye woulde</l>
+                     <l>procure an others payne.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶ Proude tyrant while prosperiti●</l>
+                     <l>thy stomacke doth aduaunce,</l>
+                     <l>And cowardly wretch that shrinks for fer●</l>
+                     <l>in case of fearefull chaunce.</l>
+                     <l>Is yet againe thy brest enflamde,</l>
+                     <l>with brande of venus might?</l>
+                     <l>Wilt thou alone so oft depriue</l>
+                     <l>A chilles of hys right?</l>
+                     <l>Thys hand shall giue the sacrifice</l>
+                     <l>the which if thou withstande.</l>
+                     <l>A greater slaughter shall I make,</l>
+                     <l>and worthy Pyrrhus hande.</l>
+                     <l>And now to long from princes slaugh|ter</l>
+                     <l>doth my hande abide,</l>
+                     <l>And meete it were that Poly●eine</l>
+                     <l>were layde by Priames syde.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>I nought deny but Pyrrhus chiefe</l>
+                     <l>renowne: in warre is this,</l>
+                     <l>That Priam slaine wyth cruell sworde,</l>
+                     <l>to your father humbled is.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶My fathers foes we haue them knowne,</l>
+                     <l>submit themselues humblye,</l>
+                     <l>And Pryam presently ye wotte,</l>
+                     <l>w●s gladdde ●o craue mercye●</l>
+                     <l>
+                        <pb facs="19"/>But tho● for feare not stout to rule,</l>
+                     <l>lyest close from ●oes vp shit:</l>
+                     <l>While thou to Aiax and vlis|ses,</l>
+                     <l>doos●e thy will commit.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶But nedes I must and will confesse</l>
+                     <l>your father dyd not feare:</l>
+                     <l>When burnt our fleete with Hectors brandes,</l>
+                     <l>and Greekes they slawghtred weate,</l>
+                     <l>While loytring then a loofe he lay,</l>
+                     <l>vnmindefull of the ●ight.</l>
+                     <l>In steade of armes with scratche of quill,</l>
+                     <l>hys sownding harpe to smight.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶ Great Hector then despising the</l>
+                     <l>Achilles songes dyd feare:</l>
+                     <l>And thessale shippes in greatest drede,</l>
+                     <l>in quiet peace yet weare.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶ For why aloofe the thessale fleete●</l>
+                     <l>they lay from Tro●ans handes,</l>
+                     <l>And well your father might haue rest,</l>
+                     <l>he felt not Hectors brandes,</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶Well semes a noble king to giue</l>
+                     <l>an other king reliefe,</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG</speaker>
+                     <l>¶Wh●e hast thou then a worthie king</l>
+                     <l>be●ieued of hys lyefe?</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶ ● point of mercie sometime is,</l>
+                     <l>what liue● in care to kill.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶But now your mercie moueth you</l>
+                     <l>a virgins death to will.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶Account ye cruell now her death</l>
+                     <l>whose sacrifice I craue.</l>
+                     <l>Your own ders daughter once ye know,</l>
+                     <l>your selfe to thaulters g●ue.</l>
+                  </sp>
+                  <sp>
+                     <pb facs="19"/>
+                     <speaker>AG.</speaker>
+                     <l>Nought els could saue the Greke● from sta●,</l>
+                     <l>but thon●●e blood of her:</l>
+                     <l>A king before his children ought,</l>
+                     <l>his countrey to prefer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶The law doth spare no captiues blood</l>
+                     <l>nor wilthe their death to staye.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶That which the law doth not forbid,</l>
+                     <l>yet shame doth ofte say nay.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶The conquerour what thing he lyst,</l>
+                     <l>may lawfully fulfill.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶So much the les he ought to lyst,</l>
+                     <l>that may do what he will.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶Thus boast ye these as though in all</l>
+                     <l>ye onely dare the stroke:</l>
+                     <l>When Pyrthus loosed hath the greekes,</l>
+                     <l>from bond● of ten yeres yoke.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶Hath S●yros yle such stomaks bred●</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶No bretherns wrath it knowt●.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶Beset about it is with waue.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶The seas: it do enclose.</l>
+                     <l>●hyestes noble stock I knowe,</l>
+                     <l>and Atreus eke full well,</l>
+                     <l>And of the bretherns dire debate.</l>
+                     <l>perpetuall faine doth tell.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG.</speaker>
+                     <l>¶And thou a bastarde of a mayde,</l>
+                     <l>deflowred priuely.</l>
+                     <l>Whom (then a boy) Achilles gate,</l>
+                     <l>in filthy letchery.</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶The same Achill that doth posses,</l>
+                     <l>the raigne of goddes aboue.</l>
+                     <l>With ●hetys seas: with ●●cus sprightes,</l>
+                     <l>the starred heauen with Ioue.</l>
+                  </sp>
+                  <sp>
+                     <pb facs="20"/>
+                     <speaker>AG.</speaker>
+                     <l>¶The same Achilles that was st●ine,</l>
+                     <l>by stroke of parys ●onde</l>
+                  </sp>
+                  <sp>
+                     <speaker>PYR.</speaker>
+                     <l>¶The same Achilles, whom no god,</l>
+                     <l>durst euer yet withstande</l>
+                  </sp>
+                  <sp>
+                     <speaker>AG</speaker>
+                     <l>¶The stoutest man I rather would●</l>
+                     <l>hys chekes he should refraine,</l>
+                     <l>I could them tame, but all your bragges,</l>
+                     <l>I can full will sustaine.</l>
+                     <l>For euen the captiues spares my sworde:</l>
+                     <l>let Calchas called be.</l>
+                     <l>If destenies require her blood.</l>
+                     <l>I wyll therto agre.</l>
+                     <l>Calchas whose counsell rulde our shippes,</l>
+                     <l>and nauy hyther brought,</l>
+                     <l>Unlokst the po●le and hast by arte,</l>
+                     <l>the secretes therof sought.</l>
+                     <l>To whom the bowelles of the beast,</l>
+                     <l>to whom the thunder clap,</l>
+                     <l>And blas●ng starre with flaming traine,</l>
+                     <l>betokeneth what shall ha●.</l>
+                     <l>Whose wordes with decrest price I bought,</l>
+                     <l>now tell vs by what meane,</l>
+                     <l>The will of Gods agreeth that we</l>
+                     <l>returne to Greece againe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>CAL.</speaker>
+                     <l>¶The fates apoint the Grekes to bye</l>
+                     <l>theyr wale● with wonted price.</l>
+                     <l>And with what cost ye came to Troy,</l>
+                     <l>ye shall repayre to Greece</l>
+                     <l>With blood ye came, with blood ye must,</l>
+                     <l>from hence returne againe,</l>
+                     <l>And where Achilles ashes lyeth,</l>
+                     <l>the virgin shall be slaine,</l>
+                     <l>
+                        <pb facs="20"/>In ●●mely sort of habite● such</l>
+                     <l>as maydens wont ye se,</l>
+                     <l>Of Thessalie, or Myeen●s els,</l>
+                     <l>what time they wedded be.</l>
+                     <l>With Pyrrhus hand she shall be slaine,</l>
+                     <l>of right it shalbe so.</l>
+                     <l>And meete it is that he the so●ne,</l>
+                     <l>his fathers right should do.</l>
+                     <l>But not this only stayeth our shippes,</l>
+                     <l>our sayles may not be spred,</l>
+                     <l>Before a worthier blood then thine,</l>
+                     <l>(Pol●●ena) be shed.</l>
+                     <l>which thirst the fates, for ●ri●mes ne|phew,</l>
+                     <l>Hectors little boye:</l>
+                     <l>The grekes shall tumble hedlong downe,</l>
+                     <l>from hyghest towre in Troy.</l>
+                     <l>Let him there die, this only way</l>
+                     <l>ye shall the gods appeas,</l>
+                     <l>Then spread your thousand sayles with ioy,</l>
+                     <l>ye nede not feare the seas.</l>
+                  </sp>
+               </div>
+               <div type="chorus">
+                  <head>Chorus.</head>
+                  <lg>
+                     <l>MAy thys be true or doth the fable fayne,</l>
+                     <l>When corps is dead the sprite to liue as yet●</l>
+                     <l>when death our tyes with heauy hand doth straine</l>
+                     <l>And fatall day our leames of light hath shet,</l>
+                     <l>And in the tombe, our ashes once be set,</l>
+                     <l>Hath not the soule likewise his funerall,</l>
+                     <l>But still alas do wretches liue in thrall?</l>
+                  </lg>
+                  <lg>
+                     <l>Or els doth all at once together dye●</l>
+                     <l>And may no part his fatall howre delay.</l>
+                     <l>
+                        <pb facs="21"/>But with the breath the soule from hence doth flie●</l>
+                     <l>Amid the cloudes to vanish quite away,</l>
+                     <l>As dankye shade fireth from the yon●● by day?</l>
+                     <l>And may no iote escape from destenie,</l>
+                     <l>When once the brande hath burnde the bodye?</l>
+                  </lg>
+                  <lg>
+                     <l>What euer then the ryse of some may see,</l>
+                     <l>And what the weste that setts the sonne doth knowe,</l>
+                     <l>In all Neptunus raigne what euer bee,</l>
+                     <l>That restles seas doe washe and ouer flow,</l>
+                     <l>with purple waues still tombling to and fro.</l>
+                     <l>Age shall consume: eche thing that liuthe sh●ll die,</l>
+                     <l>With swifter race then Pegasus doth flie.</l>
+                  </lg>
+                  <lg>
+                     <l>And with what whyrle, the twise sixe signes do flie,</l>
+                     <l>With course as swift, as rectoure of the spheares,</l>
+                     <l>Doth guide those glistring globes eternallie,</l>
+                     <l>And Hecate her chaunged hornes repeares,</l>
+                     <l>So drauthe on deathe, and life of eche thing weares,</l>
+                     <l>And neuer may the man, retourne to sight,</l>
+                     <l>That once hath fel● the stroke of Parcas might.</l>
+                  </lg>
+                  <lg>
+                     <l>For as the fume that from the fire doth pas,</l>
+                     <l>With tourne of hande, doth vanishe out of sight</l>
+                     <l>And swifter then the northen boreas,</l>
+                     <l>With whirling blaste and storme of raging might,</l>
+                     <l>Driuthe far away and puttes the cloudes to flyght,</l>
+                     <l>So fleeth the spright that rules our life away,</l>
+                     <l>And nothing taryeth after dying day.</l>
+                  </lg>
+                  <lg>
+                     <l>Swift is the race we ronne, at hand the marke,</l>
+                     <l>Laye downe your hope, that weight here ought to wy●.</l>
+                     <l>
+                        <pb facs="21"/>And who dredes ought, cast of thy carefull carke,</l>
+                     <l>Wilt thou it wotte what state thou shalt be in,</l>
+                     <l>When deade thou arte? as thou hadst neuer bin.</l>
+                     <l>For gredy time it doth deuour vs all,</l>
+                     <l>The worlde it swayes to Chaos heape to fall.</l>
+                  </lg>
+                  <lg>
+                     <l>Death-hurtes the corps and spareth not the spright,</l>
+                     <l>And as for all the dennes of Tenare deepe,</l>
+                     <l>With Cerberus kingdome darke that knowes no lyght,</l>
+                     <l>And streightest gates that he there sits to keepe,</l>
+                     <l>They fansyes are, that followe folke by sleept</l>
+                     <l>Such rumours vayne, but fayned lies they are,</l>
+                     <l>And fables, lyke the dreames in heauy care.</l>
+                  </lg>
+                  <lg>
+                     <head>These three staues following are added by the translatour.</head>
+                     <l>O dreadfull day: alas the sory time,</l>
+                     <l>Is come of all the mothers ruthfull wo,</l>
+                     <l>Istranax, alas thy fatall line,</l>
+                     <l>Of life is worne, to death straight shalt thou go,</l>
+                     <l>The sisters haue decreed it should be so,</l>
+                     <l>There may no force alas escape their hande,</l>
+                     <l>The mighty Ioue their will may not withstande.</l>
+                  </lg>
+                  <lg>
+                     <l>To see the mother, her tender childe forsake.</l>
+                     <l>What ientle hart that may from teares reframe,</l>
+                     <l>Or who so fierce that would not pittie take,</l>
+                     <l>To see alas the gilties infant slaine.</l>
+                     <l>For sory hart the teares mine ●yes do staine,</l>
+                     <l>To thinke what sorowe shall her hart oppresse,</l>
+                     <l>Her little chylde to leese remedylesse,</l>
+                  </lg>
+                  <lg>
+                     <pb facs="22"/>
+                     <l>The double cares of Hectors wife to wayle,</l>
+                     <l>Good Ladies haue your teares in reddines,</l>
+                     <l>And you with whom should pitie most preuaile.</l>
+                     <l>Rue on her greefe: bewaile her heauines.</l>
+                     <l>With sobbing hart, lament her deepe distres</l>
+                     <l>When she with teares● shall take leaue of her soon,</l>
+                     <l>And now (good ladies) here what shall be doon.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>The thirde acte.</head>
+               <stage>Andromacha. Senex. Vlisses.</stage>
+               <l>_ALas ye carefull company</l>
+               <l>why hal● ye thus your heares?</l>
+               <l>Why beate you so your boyling br●stes</l>
+               <l>and staine your iyes with teares?</l>
+               <l>The fall of Troy is new to you</l>
+               <l>but vnto me not so,</l>
+               <l>I haue foresene this carefull case</l>
+               <l>ere thys time long ago</l>
+               <l>When fierce Achilles Hector slewe</l>
+               <l>and drew the corps abought</l>
+               <l>Then then me thought I wist it well,</l>
+               <l>that Troy should come to nought.</l>
+               <l>In sorowes sonke, I sensles am</l>
+               <l>and wrapt alas in woe,</l>
+               <l>But soone except thys babe me helde,</l>
+               <l>to Hector would I goe.</l>
+               <l>Thys seely soole my stomack tames</l>
+               <l>amyd my miserye,</l>
+               <l>And in the houre of heauiest happes,</l>
+               <l>permittes me not to dye,</l>
+               <l>
+                  <pb facs="22"/>Thys onely cause constraynth 〈◊〉 yet</l>
+               <l>the Gods for him to pray,</l>
+               <l>with trackt of time prolonges my payne,</l>
+               <l>delayes my dying daye.</l>
+               <l>He takes fro me the lacke of feare</l>
+               <l>the onely frute of yll.</l>
+               <l>For while he liues yet haue I lefte</l>
+               <l>wherof to feare me styll.</l>
+               <l>No place is left for better chaunce,</l>
+               <l>with woorse we are opprest:</l>
+               <l>To scare alas and se no hope,</l>
+               <l>is worste of all the rest.</l>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶What sodaine feare thus moues your minde,</l>
+                  <l>and vexeth you so sore?</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Still stil alas of one mishap</l>
+                  <l>there ryseth more a●d more.</l>
+                  <l>Not yet the dolefull destenyes</l>
+                  <l>of Troy become to ende</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶And what more grieuous chaunces yet</l>
+                  <l>prepare the gods to sende?</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶The caues and de●s of hell be rent</l>
+                  <l>for Troians greater feare,</l>
+                  <l>And from the bottomes of theyr tombes</l>
+                  <l>the hidden sprightes appeare.</l>
+                  <l>May none but Greekes alone from hell</l>
+                  <l>returne to lyfe agayne?</l>
+                  <l>Would god the fates would finishe soone</l>
+                  <l>the sorowes I sustaine,</l>
+                  <l>Death thankfull were, a common care</l>
+                  <l>The Troians all oppres,</l>
+                  <l>But me alas amaseth moste</l>
+                  <l>the fearefull heauines.</l>
+                  <l>
+                     <pb facs="23"/>That all astonied a● for dreade,</l>
+                  <l>and horrour of the sight:</l>
+                  <l>That in my sleepe appearde to me,</l>
+                  <l>by dreame this latter night.</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>Declare what sightes your dreame hath showed</l>
+                  <l>and tell what doth you feare.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Two partes of all the silent night,</l>
+                  <l>almost then passed weare.</l>
+                  <l>And then the clere seuen clustred beames</l>
+                  <l>of starres: were fallen to rest.</l>
+                  <l>And first the slepe so long vnknowne</l>
+                  <l>my weried iyes opprest.</l>
+                  <l>If this be slepe the astonied mase,</l>
+                  <l>of minde in heauy moode,</l>
+                  <l>When sodenly before mine iyes,</l>
+                  <l>the spright of Hector stoode.</l>
+                  <l>Not like as he the Greekes was w●nt</l>
+                  <l>to battaile to require</l>
+                  <l>Or when amid the Grecians shippes,</l>
+                  <l>he threw the brandes of fyre.</l>
+                  <l>Nor such as raging on the Grekes,</l>
+                  <l>with slaughtring stroke had slaine,</l>
+                  <l>And bare in dede the spoiles of him</l>
+                  <l>that did Achilles fayne.</l>
+                  <l>His countenance not now so bright.</l>
+                  <l>Nor of so liuely chere,</l>
+                  <l>But sad and heauy like to owres,</l>
+                  <l>and cladde with vglie heare.</l>
+                  <l>It did me good to se him though,</l>
+                  <l>when shaking then his hed:</l>
+                  <l>Shake of thy slepe in hast he sayd,</l>
+                  <l>and quickly leaue thy bed.</l>
+                  <l>
+                     <pb facs="23"/>Conuey into some secret place,</l>
+                  <l>our sonne, O faithfull wife,</l>
+                  <l>Thys onely hope there is to helpe,</l>
+                  <l>finde meane to saue his life.</l>
+                  <l>Leaue of thy piteous teares he sayde</l>
+                  <l>doost thou yet waile for Troy?</l>
+                  <l>Would god it lay on grownde full flatte,</l>
+                  <l>so ye might saue the boy.</l>
+                  <l>Up stirre he sayd thy selfe in hast,</l>
+                  <l>conueye him priuelie,</l>
+                  <l>Saue if ye may the tender blood.</l>
+                  <l>of Hectors progenie.</l>
+                  <l>Then straight in trembling feare I w●nte</l>
+                  <l>and roulde mine iyes abought</l>
+                  <l>Forgetting long my childe, pore wre●che,</l>
+                  <l>and after Hector sought.</l>
+                  <l>But straight alas● I wist not how</l>
+                  <l>the spright away did passt,</l>
+                  <l>And me forsoke before I coulde,</l>
+                  <l>my husbande once embrasse.</l>
+                  <l>O childe: O noble fathers broode</l>
+                  <l>and Troians only ioye,</l>
+                  <l>O worthy seede of thauncient bloode.</l>
+                  <l>and beaten house of Troye.</l>
+                  <l>O ymage of thy father loe,</l>
+                  <l>thou liuely bearst his face,</l>
+                  <l>Thys countenance, 〈◊〉 my Hector ●ad,</l>
+                  <l>and euen such was his pace.</l>
+                  <l>The pitche of all his body such,</l>
+                  <l>his handes thus would he beare.</l>
+                  <l>His shoulders hygh, his th●etning 〈◊〉</l>
+                  <l>euen such as thine they weare.</l>
+                  <l>
+                     <pb facs="24"/>O sonne: begotte to late for Troye</l>
+                  <l>but borne to soone for me,</l>
+                  <l>Shall euer tyme yet come againe</l>
+                  <l>and happy day may be,</l>
+                  <l>That thou mayst once reuenge, and builde</l>
+                  <l>againe the towres of Troye,</l>
+                  <l>And to the towne and Troians bothe</l>
+                  <l>restore theyr name with ioye?</l>
+                  <l>But why do I, forgetting state</l>
+                  <l>of present desteny.</l>
+                  <l>So great thinges wishe● enough for cap|tiues</l>
+                  <l>is to liue onely.</l>
+                  <l>Alas what priuy● place is left</l>
+                  <l>my little childe to hyde?</l>
+                  <l>What seate so secret may be founde</l>
+                  <l>where thou mayste safely bide?</l>
+                  <l>The towre that with the walles of gods</l>
+                  <l>so valiaunt was of might,</l>
+                  <l>Through all the worlde so notable</l>
+                  <l>so flourishing to sight,</l>
+                  <l>Is turnde to dust: and fiue hath all</l>
+                  <l>consumde that was in Trope●</l>
+                  <l>Of all the towne not so much now</l>
+                  <l>is left to hyde the boye.</l>
+                  <l>What place were best to choose for guyle</l>
+                  <l>the holly tombe is heere,</l>
+                  <l>That thenmies sworde will spare to spoil●</l>
+                  <l>where lythe my husbande deare.</l>
+                  <l>Which costly worke hys father buylt●</l>
+                  <l>kyng Pryame lyberall,</l>
+                  <l>And it vp raysde with charges great,</l>
+                  <l>for Hectors funerall.</l>
+                  <l>
+                     <pb facs="24"/>Herein the bones and ashes bothe</l>
+                  <l>of Hector loe they lye,</l>
+                  <l>Best is that I commit the sonne</l>
+                  <l>to hys fathers custodye.</l>
+                  <l>A colde and fearefull swet doth roune,</l>
+                  <l>through out my membres all,</l>
+                  <l>Alas I carefull wretche do feare,</l>
+                  <l>what chaunce may the befall.</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶Hide him away: this onely way</l>
+                  <l>hath saued many more,</l>
+                  <l>To make the enmies to beleue,</l>
+                  <l>that they were deade before.</l>
+                  <l>He wilbe sought: scant any hope</l>
+                  <l>remaineth of fatenes●</l>
+                  <l>The payse of his nobilitie</l>
+                  <l>doth him so sore oppres.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶What way were best to worke: that none</l>
+                  <l>our doinges might bewray?</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶Let none beare witnes what ye doe</l>
+                  <l>remoue them all away.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶What of the enmies ●ske me: where</l>
+                  <l>Astianax doth remaine?</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶●hen shall ye boldely aunswere make</l>
+                  <l>that he in Troy was slaine.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶What shall it helpe to haue him hyd?</l>
+                  <l>at length they will him finde●</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶At first the enmies rage is fierce</l>
+                  <l>delay doth slake hys minde.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶But what preuailes, since free from feare</l>
+                  <l>we can him neuer hyde?</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶Let yet the wretche take hys defence</l>
+                  <l>more careles there to byde.</l>
+               </sp>
+               <sp>
+                  <pb facs="25"/>
+                  <speaker>ANDR.</speaker>
+                  <l>¶What lande vnknowne out of the w●y</l>
+                  <l>what vnfrequented place,</l>
+                  <l>May kepe thee safe? who aydes our feare?</l>
+                  <l>who shall defende our case?</l>
+                  <l>Hector Hector, that euermore</l>
+                  <l>thy frendes didst well defende,</l>
+                  <l>Now chiefly ayde thy wife and childe</l>
+                  <l>and vs some succour sende.</l>
+                  <l>Take charge to kept and couer close</l>
+                  <l>the treasures of thy wife,</l>
+                  <l>And in thy ashes hyde thy soon</l>
+                  <l>preserue in tombe his life.</l>
+                  <l>Draw nere my childe vnto the tombe</l>
+                  <l>why fliest thou backward so?</l>
+                  <l>Thou takest great scorne to lurke in deus</l>
+                  <l>thy noble hart I knowe.</l>
+                  <l>I see thou art asham●e to feare</l>
+                  <l>shake of thy princely minde,</l>
+                  <l>And beare thy breste as thee behoues</l>
+                  <l>as chaunce hath thee assinde.</l>
+                  <l>Beholde our case: and see what flocke</l>
+                  <l>remayneth now of Troy</l>
+                  <l>The tombe: I wofull captiue wretche</l>
+                  <l>and thou a sely boye.</l>
+                  <l>But yelde we must to sory 〈◊〉</l>
+                  <l>thy chaunce must breake thy breste,</l>
+                  <l>Go to: creepe vnderneath, thy fa|thers</l>
+                  <l>holy seates to reste.</l>
+                  <l>I fought the fates, may wretches help●</l>
+                  <l>thou hast thy sauegarde there.</l>
+                  <l>If not: all ready then pore foole</l>
+                  <l>thou hast thy sepulchere.</l>
+               </sp>
+               <sp>
+                  <pb facs="25"/>
+                  <speaker>SEN.</speaker>
+                  <l>The tombe hym closely hydes: but le●●</l>
+                  <l>your feare should him detraye,</l>
+                  <l>Let him here lye, and farre from hence,</l>
+                  <l>goe ye some other waye.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶ The les he feares that feares at h●●de</l>
+                  <l>and yet if nede be so,</l>
+                  <l>If ye thinke meete a little hens</l>
+                  <l>for safetie let vs go.</l>
+               </sp>
+               <sp>
+                  <speaker>SEN.</speaker>
+                  <l>¶A little whyle kepe sylence now</l>
+                  <l>refrayne your playnt and crye,</l>
+                  <l>His cursed foote now hythee moues</l>
+                  <l>the lord of Cephalye.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶Now open earth, and tho● my spouse</l>
+                  <l>from Styx rent vp the grounde,</l>
+                  <l>Deepe in thy bosome hyde my sonne,</l>
+                  <l>that he may not be sounde.</l>
+                  <l>Ullysses comes with doutfull pace</l>
+                  <l>and chaunged countenaunce</l>
+                  <l>He knittes in hart deceitfull craft</l>
+                  <l>for some more greuous chaunce.</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶ Though I be made the 〈◊〉</l>
+                  <l>of heauy newes to you●</l>
+                  <l>This one thing first I shall desyre</l>
+                  <l>that ye take thys for true.</l>
+                  <l>That though the wordes come from my mo●th,</l>
+                  <l>and I my message tell,</l>
+                  <l>Of trueth yet are they 〈◊〉 of myne</l>
+                  <l>ye may beleue me well.</l>
+                  <l>It is the woorde of all the Greekes</l>
+                  <l>and they the authors bee,</l>
+                  <l>Whom Hectors blo●●●〈…〉</l>
+                  <l>theyr countreys for to see.</l>
+                  <l>
+                     <pb facs="26"/>Our carefull trust of peace vnsure</l>
+                  <l>doth styll the Grekes detayne,</l>
+                  <l>And euermore our doutfull feare,</l>
+                  <l>yet draweth vs backe agayne.</l>
+                  <l>And ●u●●reth not our weried handes,</l>
+                  <l>our weapons to forsake,</l>
+                  <l>In chylde yet of Andromach●,</l>
+                  <l>Whyle Troian● comfort take,</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶ And ●●yth your Augure Calchas so?</l>
+               </sp>
+               <sp>
+                  <speaker>ULYS.</speaker>
+                  <l>¶ Though Calchas nothyng sayde</l>
+                  <l>Yet Hector telles it vs hymselfe,</l>
+                  <l>Of whose seede are we frayde.</l>
+                  <l>The woorthy blood of noble men</l>
+                  <l>oftimes we see it playne,</l>
+                  <l>Doth after in theyr heyres succede</l>
+                  <l>and quickely sprynges agayne.</l>
+                  <l>For so the horneles yong●ng yet,</l>
+                  <l>of hygh and sturdy beste,</l>
+                  <l>With lofty necke, and braunched browe,</l>
+                  <l>doth shortly rule the rest.</l>
+                  <l>The tender 〈◊〉, that of the lop|ped</l>
+                  <l>stocke doth yet remayne,</l>
+                  <l>To matche the tree that bare the boughe,</l>
+                  <l>in tyme startes vp agayne.</l>
+                  <l>With equall to●●e to former wood,</l>
+                  <l>the rowme it doth supplye,</l>
+                  <l>And spreddes on soyle alowe the shade,</l>
+                  <l>to heauen hys braunches hye.</l>
+                  <l>Thus of one sparke by chaunce yet le●●</l>
+                  <l>it happeneth so full oft.</l>
+                  <l>The fyre hath quickely caught 〈…〉</l>
+                  <l>and ●●amthe agayne aloft,</l>
+                  <l>
+                     <pb facs="26"/>So feare we yet least Hectors blood,</l>
+                  <l>might rise ere it be long,</l>
+                  <l>Feare castes in all thextremitie</l>
+                  <l>and oft interprets wrong.</l>
+                  <l>If ye respeckte our case, ye may</l>
+                  <l>not blame these olde souldiars</l>
+                  <l>Though after yeres &amp; monthes twise 〈◊〉,</l>
+                  <l>they feare againe the wars.</l>
+                  <l>And other trauailes, dreading Troye,</l>
+                  <l>not yet to be well woon,</l>
+                  <l>A great thing doth the Grecians moue,</l>
+                  <l>the feare of Hectors soon.</l>
+                  <l>Ryd vs of feare, this stayeth our 〈◊〉,</l>
+                  <l>and pluckes their ●acke againe,</l>
+                  <l>And in the hauen our n●u●e stickes,</l>
+                  <l>till Hectors blood●●e slaine.</l>
+                  <l>Count mee not ●●erce for that by fates</l>
+                  <l>I Hectors sonne require,</l>
+                  <l>For I as well if chaunce it woulde</l>
+                  <l>Orestes should desire.</l>
+                  <l>But sins that nedes it must be so,</l>
+                  <l>beare it with pacient hart,</l>
+                  <l>And suffre that which Agamem|non,</l>
+                  <l>suffred in good part.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶Alas my childe would god 〈…〉,</l>
+                  <l>yet in thy mothers hande,</l>
+                  <l>And that I knewe what destenies,</l>
+                  <l>the helde, or in what lande.</l>
+                  <l>For neuer should the mothers ●●●th,</l>
+                  <l>her tender childe forsake,</l>
+                  <l>Though through my drest the 〈◊〉 all,</l>
+                  <l>their cruell weapons strake.</l>
+                  <l>
+                     <pb facs="27"/>Nor though the Greekes, with pinching bandes</l>
+                  <l>of yron: my handes had bounde,</l>
+                  <l>Or els in feruent flame of fyre</l>
+                  <l>besette my body rounde.</l>
+                  <l>But now my little chylde (poore wretche)</l>
+                  <l>alas where might he bee?</l>
+                  <l>Alas what cruell destenye,</l>
+                  <l>what chaunc● hath hapt to thee?</l>
+                  <l>Art thou yet rangeing in the feeldes</l>
+                  <l>and wandrest there abrode?</l>
+                  <l>Or smothered els in dusty smoke</l>
+                  <l>of Troy: or ouertrode●</l>
+                  <l>Or haue the Greekes thee slayne alas</l>
+                  <l>and laught to see thy blood●</l>
+                  <l>Or torne art thou with Iawes of beastes</l>
+                  <l>or cast to fowles for fo●de?</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶Dissemble not, hard is for thee</l>
+                  <l>Ulysses to disceiue,</l>
+                  <l>I can full well the mothers craftes</l>
+                  <l>and subteltie perceiue.</l>
+                  <l>The policy of Goddesses,</l>
+                  <l>Ullysses hath vndoon,</l>
+                  <l>Set all these fayned woordes asyde,</l>
+                  <l>tell me where is thy soon?</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Where is Hector? where all the rest?</l>
+                  <l>that had with Troy their fall●</l>
+                  <l>Where Pryamus? you aske for one</l>
+                  <l>but I require of all.</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶Thou shalt constrayned be to tell</l>
+                  <l>the thyng thou doost denye.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶A happy chaunce wer death, to ●e●</l>
+                  <l>that doth desyre to dye,</l>
+               </sp>
+               <sp>
+                  <pb facs="27"/>
+                  <speaker>ULY.</speaker>
+                  <l>¶Who most desyres to dye: would ●ay|nest</l>
+                  <l>liue when death drawthe on,</l>
+                  <l>These noble wordes with present feare</l>
+                  <l>of death: would soone v●●ou.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Ulysses if ye will constrayne</l>
+                  <l>Andromacha with feare,</l>
+                  <l>Threten my lyfe, for now to dye</l>
+                  <l>my chiefe desyre it weare</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶With steppes, with fyre, tormenting death</l>
+                  <l>we will the trueth out wrest.</l>
+                  <l>And dolour shall thee force, to tell</l>
+                  <l>the secretes of thy brest.</l>
+                  <l>And what thy hart hath deepest hyd</l>
+                  <l>for payne thou shalt expres</l>
+                  <l>Oftymes thextremitie preuayles,</l>
+                  <l>much more then ientlenes.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Set me in midst of burning flame,</l>
+                  <l>with woundes my body rent,</l>
+                  <l>Use all the meanes of crueltie,</l>
+                  <l>that ye may all inuent.</l>
+                  <l>Prouethe with thyrst, and hunger both,</l>
+                  <l>and euery torment trye,</l>
+                  <l>Pearce through my ●ides with burning yrons,</l>
+                  <l>in prison let me lye.</l>
+                  <l>Spare not the woorst ye can deuyse</l>
+                  <l>(if ought be worse then this)</l>
+                  <l>Yet neuer geat ye more of me</l>
+                  <l>I wot not where he is,</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶ It is but vayne to hyde the thing</l>
+                  <l>that straight ye will deteckte.</l>
+                  <l>No feares may moue the mothers hart.</l>
+                  <l>she doth them all neglecte.</l>
+                  <l>
+                     <pb facs="28"/>This tender loue ye beare your childe,</l>
+                  <l>wherin ye stande so stoute.</l>
+                  <l>So muche more circumspectly war●the,</l>
+                  <l>the Greekes to looke aboute.</l>
+                  <l>Least after ten yeres trachte of time.</l>
+                  <l>and battaile borne so farre.</l>
+                  <l>Some one should liue that on our chil|dren,</l>
+                  <l>might renew the warre.</l>
+                  <l>As for my selfe, what Calchas sayeth,</l>
+                  <l>I would not feare at all.</l>
+                  <l>But on Telemachus I dreade,</l>
+                  <l>the smarte of warres woulde fa●.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶Now will I make Ulysses gladde,</l>
+                  <l>and all the Greekes also.</l>
+                  <l>Needes must thou wofull wretch confesse.</l>
+                  <l>declare thy hidden wo.</l>
+                  <l>Reioyce ye sonnes of Atreus,</l>
+                  <l>there is no cause of dred.</l>
+                  <l>Be glad Ullysses tell the Greekes,</l>
+                  <l>that Hectors sonne is ded.</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶By what assurance prouest thou that●</l>
+                  <l>How shall we credite the?</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶What euer thing the en●ies hand.</l>
+                  <l>may threaten, h●ppe to me</l>
+                  <l>Let spedy fates me slaye forthwith,</l>
+                  <l>and earth me hide at ones,</l>
+                  <l>And after death from tombe againe,</l>
+                  <l>remoue yet Hectors bones,</l>
+                  <l>Except my soon already now,</l>
+                  <l>do rest among the ded,</l>
+                  <l>And that except Astyanax.</l>
+                  <l>into his tombe be fed.</l>
+               </sp>
+               <sp>
+                  <pb facs="28"/>
+                  <speaker>ULY.</speaker>
+                  <l>¶Then fully ●re the fates 〈◊〉</l>
+                  <l>with Hectors childes disceace:</l>
+                  <l>Now shall I beare the Grecians worde,</l>
+                  <l>of sure and certaine peace.</l>
+                  <l>Ulysses why what doost thou now?</l>
+                  <l>the Greekes will euery chone,</l>
+                  <l>Beleue thy wordes: whom credit she thou?</l>
+                  <l>the mothers tale alone.</l>
+                  <l>Thinkst thou for sauegarde of her chylde</l>
+                  <l>the mother will not lie?</l>
+                  <l>And bread the more the worse mischaunce,</l>
+                  <l>to gyue her sonne to dye?</l>
+                  <l>Her faith she bindes with bonde of othe,</l>
+                  <l>the trueth to verifie,</l>
+                  <l>What thing is more of weight to feare,</l>
+                  <l>then so to sweare and lye?</l>
+                  <l>Now call thy craftes togither all,</l>
+                  <l>bestirre thy wits and minde,</l>
+                  <l>And show thy selfe Ulysses now,</l>
+                  <l>the truthe herin to finde.</l>
+                  <l>Searche well the mothers minde: beholde</l>
+                  <l>she weepes and waileth out,</l>
+                  <l>And here and there with doutfull pace,</l>
+                  <l>she rangeth all about.</l>
+                  <l>Her careful eares she doth applie,</l>
+                  <l>to harken what I say,</l>
+                  <l>More fraide she seemes then sorowfull.</l>
+                  <l>Now worke some wilye way.</l>
+                  <l>For 〈…〉 there is,</l>
+                  <l>and crafty pollecie,</l>
+                  <l>Yet once againe by other 〈◊〉,</l>
+                  <l>I will the mother tri●.</l>
+                  <l>
+                     <pb facs="29"/>Thou wretched woman mayst reioye●,</l>
+                  <l>that dead he is: alas</l>
+                  <l>More dolefull death by desteny</l>
+                  <l>for him decreed ther was.</l>
+                  <l>From Turrets top to haue been cast</l>
+                  <l>and cruelly been slayne.</l>
+                  <l>Which only towre of all the rest,</l>
+                  <l>doth yet in Troy remayne.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶My spright fa●●th me, my limmes do qua●e,</l>
+                  <l>feare doth my wittes confound,</l>
+                  <l>And as the y●e congeales with frost.</l>
+                  <l>my blood with colde is bound.</l>
+               </sp>
+               <sp>
+                  <speaker>ULYS.</speaker>
+                  <l>¶●he trembleth to● this way, this way</l>
+                  <l>I will the trueth out wrest,</l>
+                  <l>The mothers feare detecteth all</l>
+                  <l>the secretes of her brest.</l>
+                  <l>I will renew her feare: goe ●ears</l>
+                  <l>bestyrre ye spedely,</l>
+                  <l>To seke this enmy of the Grekes,</l>
+                  <l>where euer that he lye.</l>
+                  <l>Well done, he will be found at length,</l>
+                  <l>go to, s●ill seke hym out,</l>
+                  <l>Now shall he dye: what dost thou feare?</l>
+                  <l>why dost thou looke about?</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Would god that any cause ther were,</l>
+                  <l>yet left that might me fray,</l>
+                  <l>My hart at last now all is l●●t,</l>
+                  <l>hath layde all feare away.</l>
+               </sp>
+               <sp>
+                  <speaker>ULYS.</speaker>
+                  <l>¶Sins that your chyld now hath ye say</l>
+                  <l>already suffred death.</l>
+                  <l>And with his blood we may not pourge</l>
+                  <l>the hostes as Calchas sayth.</l>
+                  <l>
+                     <pb facs="29"/>Our flete passe not (as well inspired,</l>
+                  <l>doth Calchas prophecy)</l>
+                  <l>Tyll Hectors ashes cast abrode,</l>
+                  <l>The waues may pacify,</l>
+                  <l>And tombe be rent, now sins the boy</l>
+                  <l>hath scapt his desteny.</l>
+                  <l>Nedes must we breake this holy tombe</l>
+                  <l>where Hectors ashes lye.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶What shall I do? my mynd distrac|ted,</l>
+                  <l>is with double feare,</l>
+                  <l>On thone my sonne, on thother syde</l>
+                  <l>my husbandes ashes deare.</l>
+                  <l>Alas which part, should moue me most,</l>
+                  <l>the cruell goddes I call,</l>
+                  <l>To witnes with me in the truth,</l>
+                  <l>and ghostes that guyde thee all.</l>
+                  <l>Hector, that nothing in my soon</l>
+                  <l>is els that pleaseth me,</l>
+                  <l>But thou alone● god graunt him lyfe,</l>
+                  <l>he might resemble the,</l>
+                  <l>Shall Hectors ashes ●rowned be?</l>
+                  <l>byde I such cruelty,</l>
+                  <l>To see hys bones cast in the seas?</l>
+                  <l>yet let Astianax dye●</l>
+                  <l>And canst thou wretched mother byde,</l>
+                  <l>thint owne chyldes death to see?</l>
+                  <l>And 〈◊〉 from the hy● towres top</l>
+                  <l>that hedlong throwne he be?</l>
+                  <l>I can, and will take in good part,</l>
+                  <l>his death and cruell payne,</l>
+                  <l>So that my Hector 〈◊〉 death,</l>
+                  <l>●e not remoued agayne.</l>
+                  <l>
+                     <pb facs="30"/>The boye that life and senses hathe</l>
+                  <l>may feele hys payne and dye,</l>
+                  <l>But Hector loe hys deathe hathe plaste,</l>
+                  <l>at rest in tombe to lye.</l>
+                  <l>What doost thou stay? determyne which</l>
+                  <l>thou wilt preserue of twayne.</l>
+                  <l>Art thou in doubte? saue thys: loe here</l>
+                  <l>thy Hector dothe remayne.</l>
+                  <l>Dothe Hectors be, thone quick of spright</l>
+                  <l>and drawing toward hys strengthe</l>
+                  <l>And one that may perhaps reuenge</l>
+                  <l>hys fathers deathe at lengthe.</l>
+                  <l>Alas I can not saue them bothe</l>
+                  <l>I thinke that best it weare.</l>
+                  <l>That of the twayne I saued hym,</l>
+                  <l>that dothe the Grecyans feare.</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶It shalbe done that Calchas woordes</l>
+                  <l>to vs dothe Prophecye●</l>
+                  <l>And nowe shall all thys sumpteous woorke</l>
+                  <l>be throwne downe vtterlye.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶That once ye solde?</l>
+               </sp>
+               <sp>
+                  <speaker>UL.</speaker>
+                  <l>¶I will it all</l>
+                  <l>from toppe to bottom rende</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶The fayth of Godds I call vppon</l>
+                  <l>Achilles vs defende.</l>
+                  <l>And Pyrrhus ayde thy fathers ryght</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶Thys tombe abrode shall lye</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶O mischiefe, neuer durst the Greekes</l>
+                  <l>showe yet suche crueltye.</l>
+                  <l>Ye strayne the Temples, and the Godds</l>
+                  <l>that moste haue fauorde you,</l>
+                  <l>The deade ye spare not, on theyr t●●bes</l>
+                  <l>your furye rageth now.</l>
+                  <l>
+                     <pb facs="30"/>I will theyr weapons all resist</l>
+                  <l>my selfe wyth naked hande,</l>
+                  <l>The yre of harte shall geeue me strength,</l>
+                  <l>theyr armoure to withstande.</l>
+                  <l>As fierce as dyd the Amasones</l>
+                  <l>beate downe the Greekes in fight,</l>
+                  <l>And Menas once enspyrde with God,</l>
+                  <l>in sacryfice dothe smyght:</l>
+                  <l>With speare in hande, and while with fu|rious</l>
+                  <l>pace she treades the grounde.</l>
+                  <l>And woode as one in rage: she strikes</l>
+                  <l>and feelythe not the wounde:</l>
+                  <l>So wyll I ronne on midste of them</l>
+                  <l>and on theyr weapons dye,</l>
+                  <l>And in defence of Hectors tombe,</l>
+                  <l>among hys asshes lye.</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶Cease ye ● dothe rage and fury vayne</l>
+                  <l>of woman moue ye ought.</l>
+                  <l>Dispatch with speede what I commaunde,</l>
+                  <l>and plucke downe all to nought.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Slay me rather here with swoorde</l>
+                  <l>ridde me out of the waye.</l>
+                  <l>Breake vp the deepe Auerne, and ryd</l>
+                  <l>my destenies delaye.</l>
+                  <l>Ryse Hector and byset thy foes</l>
+                  <l>breake thou Ulysses yre,</l>
+                  <l>A spright arte good enough for hym,</l>
+                  <l>beholde he casteth fyre.</l>
+                  <l>And weapon shakes with mighty hande</l>
+                  <l>do ye not Greekes hym see?</l>
+                  <l>Or els dothe Hectors spright appeare</l>
+                  <l>but onely vnto me?</l>
+               </sp>
+               <sp>
+                  <pb facs="31"/>
+                  <speaker>ULY.</speaker>
+                  <l>Down quight withall.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>What wilt thou suf|fer</l>
+                  <l>both thy sonne be slayne,</l>
+                  <l>And after death thy husbandes bones</l>
+                  <l>to be remoued againe?</l>
+                  <l>Perhaps thou mayst with prayer yet</l>
+                  <l>appease the Grecians all,</l>
+                  <l>Els down to ground the holly tombe</l>
+                  <l>of Hector, straight shall fall.</l>
+                  <l>Let rather dye the chyld poore wretch</l>
+                  <l>and let the Grekes him kyll,</l>
+                  <l>Then father and the sonne should cause</l>
+                  <l>the tone the others yll.</l>
+                  <l>Ulysses, at thy knees I fall,</l>
+                  <l>and humbly aske mercy.</l>
+                  <l>These handes that no mans feete els knew,</l>
+                  <l>fyrst at thy fete they lye,</l>
+                  <l>Take pitie on the mothers case,</l>
+                  <l>and sorowes of my brest,</l>
+                  <l>Uouchsafe my prayers to receiue,</l>
+                  <l>and graunt me my request.</l>
+                  <l>And by how much the more the goddes</l>
+                  <l>haue the aduaunced hye,</l>
+                  <l>More easely strike the poore estate,</l>
+                  <l>of wretched misery.</l>
+                  <l>God graunt the chast bed of thy god|ly</l>
+                  <l>wyfe Penelope,</l>
+                  <l>May the receiue, and so agayne</l>
+                  <l>La●rta may the see.</l>
+                  <l>And that thy sonne Telemachus,</l>
+                  <l>may mete thee ioyfully,</l>
+                  <l>His graundsers yeres, and fathers witt●.</l>
+                  <l>to passe full happely.</l>
+                  <l>
+                     <pb facs="31"/>Take pittie on the mothers teares,</l>
+                  <l>her little child to saue,</l>
+                  <l>He is my onely comfort left</l>
+                  <l>and thonely ioy I haue.</l>
+               </sp>
+               <sp>
+                  <speaker>ULY.</speaker>
+                  <l>¶Bring furth thy sonne and aske.</l>
+               </sp>
+               <div n="2" type="scene">
+                  <head>The second sceane.</head>
+                  <sp>
+                     <speaker>Andromacha.</speaker>
+                     <l>_COme hyther child out of thy dens to me</l>
+                     <l>thy wretched mothers lamentable store,</l>
+                     <l>This pa●e Ulysses, ●oe this bade is he,</l>
+                     <l>that stayeth your ships, ● stareth you so sore.</l>
+                     <l>Submit thy self my soon with humble hand,</l>
+                     <l>and worship flatte on ground, thy maisters feete,</l>
+                     <l>Think it no shame, as now the case doth stand</l>
+                     <l>the thing that fortune wilth a wretch is mete,</l>
+                     <l>Forget thy worthy stacke of kingly 〈◊〉.</l>
+                     <l>thinke not on Pryames great nobilite,</l>
+                     <l>And put thy father Hector from thy mynd,</l>
+                     <l>such as thy fort 〈◊〉 thy stomake be●</l>
+                     <l>Behaue thy selfe 〈…〉, bend thy knee,</l>
+                     <l>and though thy grief pearce not thy tender yeares,</l>
+                     <l>Yet learne to wretched 〈◊〉 by me,</l>
+                     <l>and take ensample a● thy mothers 〈◊〉●</l>
+                     <l>Once Troye hath seen the weping of a thylde,</l>
+                     <l>When little 〈…〉,</l>
+                     <l>And he to whom all beastes in strength 〈◊〉 yelde,</l>
+                     <l>that made hys 〈…〉 take theyr 〈◊〉</l>
+                     <l>His little enmies teares yet ouerc●●●,</l>
+                     <l>Pryame (he said) receiue thy liberty,</l>
+                     <l>
+                        <pb facs="32"/>In sente of honor keepe thy kingly name,</l>
+                     <l>but yet thy sceptors rule more faythfullye●</l>
+                     <l>Loc such the conquest was of Hercules</l>
+                     <l>of him yet learne your hartes to mollifye.</l>
+                     <l>Do onely Her●tes cruell weapons pirate</l>
+                     <l>and may no ende be of your crueltye?</l>
+                     <l>No lesse then Pryame kneeles to thee this boy</l>
+                     <l>that lyeth and asketh onely life of thee.</l>
+                     <l>As for the rule and gouernaunce of Troy</l>
+                     <l>where euer fortune will there let it bee.</l>
+                     <l>Take mercy on the mothers ruthfull teares</l>
+                     <l>that with theyr streames my checkes do ouerflowe</l>
+                     <l>And spare thys giltles infants tender yeares</l>
+                     <l>that humbly falleth at thy feete so lowe.</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>The thyrde sceane.</head>
+                  <stage>Vlysses. Andromacha. Astyanax</stage>
+                  <l>_OF trenthe the mothers greate sorow,</l>
+                  <l>dothe moue my hart fall sore.</l>
+                  <l>But yet the mothers of the Greekes,</l>
+                  <l>of neede must moue me mo●e.</l>
+                  <l>To whom thys hope may cause in tyme</l>
+                  <l>a greate calamytis.</l>
+                  <sp>
+                     <speaker>ANDR.</speaker>
+                     <l>¶may euer he the burnt ruynes</l>
+                     <l>of Troy reedifie?</l>
+                     <l>And shall these handes in time to come,</l>
+                     <l>ereckt the towne agayne?</l>
+                     <l>If thys be thonely helpe we haue,</l>
+                     <l>there dothe no hope remayne</l>
+                     <l>
+                        <pb facs="32"/>For Troy, we stand not now in case</l>
+                     <l>to cause your feare of mynde,</l>
+                     <l>Doth ought auaile hys fathers force,</l>
+                     <l>or stock of noble kinde?</l>
+                     <l>Hys fathers harte abated was.</l>
+                     <l>he drawne the walles abought.</l>
+                     <l>Thus euell happs, the haughetest hart</l>
+                     <l>at length they bryng to nought.</l>
+                     <l>If ye will needes oppresse a wretche</l>
+                     <l>what thyng more greeuous weare.</l>
+                     <l>Then on hys noble necke he shoulde</l>
+                     <l>the yoke of bondage beare?</l>
+                     <l>To serue in life, doth any man</l>
+                     <l>thys to a king deny?</l>
+                  </sp>
+                  <sp>
+                     <speaker>ULY.</speaker>
+                     <l>¶Not Ulysses wylth hys deathe</l>
+                     <l>but Calchas Prophecy</l>
+                  </sp>
+                  <sp>
+                     <speaker>ANDR.</speaker>
+                     <l>O false inuent or of discryt●</l>
+                     <l>and heynous crueltye.</l>
+                     <l>By manhode of whose hand in warre,</l>
+                     <l>no man dyd euer dye.</l>
+                     <l>But by disceite and craftye trayne</l>
+                     <l>of mynde that mischefe seekes,</l>
+                     <l>Before thys tyme full many one</l>
+                     <l>deade is: ye of the Greekes.</l>
+                     <l>The Prophets woordes and giltlesse gods</l>
+                     <l>sayste thou my sonne requyre?</l>
+                     <l>Naye: mischiefe of thy breste it is</l>
+                     <l>thou dooste hys death desyre.</l>
+                     <l>Thou night souldier, and stought of harts</l>
+                     <l>a little chylde to staye,</l>
+                     <l>Thys enterpryse thou tak●●● alone</l>
+                     <l>and that by open daye.</l>
+                  </sp>
+                  <sp>
+                     <pb facs="33"/>
+                     <speaker>ULY.</speaker>
+                     <l>¶Ulysses manhode well to Greekes</l>
+                     <l>to much to you is knowne,</l>
+                     <l>I may not spend the tyme in wordes,</l>
+                     <l>out nauy wil be gone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>AN.</speaker>
+                     <l>¶A little stay, while I my last</l>
+                     <l>farewell geue to my chyld</l>
+                     <l>And haue with oft embracing him,</l>
+                     <l>my gredy sorowes filde.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ULY.</speaker>
+                     <l>¶Thy greuons sorowes to redresse,</l>
+                     <l>would god it lay in me,</l>
+                     <l>But at thy will to take delaye</l>
+                     <l>of time, I graunt it thee.</l>
+                     <l>Now take thy last leaue of thy sonne,</l>
+                     <l>and fill thy self with teares,</l>
+                     <l>Oft tymes the weping of the eyes,</l>
+                     <l>the inward grief out weares.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ANDR.</speaker>
+                     <l>¶O deere, o swete, thy mothers pledge,</l>
+                     <l>farewell my only ioy.</l>
+                     <l>Farewell the flowre of honour left</l>
+                     <l>of beaten house of Troy</l>
+                     <l>O Troians last calamitie</l>
+                     <l>and feare to Grecians part</l>
+                     <l>Farewell thy mothers only hope,</l>
+                     <l>and vayne comfort of hart.</l>
+                     <l>Oft wisht I thee thy fathers strength.</l>
+                     <l>and half thy graundsyres yeres.</l>
+                     <l>But all for nought, the Goddes haue all</l>
+                     <l>dispoynted our desyres.</l>
+                     <l>Thou neuer shalt in ●egall court</l>
+                     <l>thy sceptors take in hand</l>
+                     <l>Nor to thy people geue dec●●ese</l>
+                     <l>nor leade with law thy land.</l>
+                     <l>
+                        <pb facs="33"/>Nor yet thyne enmyes ouercome</l>
+                     <l>by might of handy stroke,</l>
+                     <l>Nor lende the conquerd nacyons all</l>
+                     <l>vnder thy seruyle yoke.</l>
+                     <l>Thou neuer shalt beate downe in fight</l>
+                     <l>and Grekes with sworde pursewe,</l>
+                     <l>Nor at thy Charyot Pyr●hus plucke</l>
+                     <l>as Achylles Hector drewe.</l>
+                     <l>And neuer shall these tender handes</l>
+                     <l>thy weapons welde and wreste,</l>
+                     <l>Thou neuer shalte in woddes pursue</l>
+                     <l>the wylde and mighty beaste.</l>
+                     <l>Nor as accustomde is by guyse</l>
+                     <l>and sacryfice in Troye,</l>
+                     <l>With measure swifte: betwene the aul|ters</l>
+                     <l>shalte thou daunce with ioye.</l>
+                     <l>O greeuous kynde of cruell deathe</l>
+                     <l>that dothe remayne for thee,</l>
+                     <l>More wofull thyng then Hector● deathe</l>
+                     <l>the walles of Troye shall see.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ULYS.</speaker>
+                     <l>¶Now breake of all thy mothers teares</l>
+                     <l>I may no more tyme spende.</l>
+                     <l>The greuous sorowes of thy harte</l>
+                     <l>will neuer make an ende.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ANDR.</speaker>
+                     <l>¶Ulysses spare as yet my teares</l>
+                     <l>and graunte a wht●e delays,</l>
+                     <l>To close hys eyes yet with my hands</l>
+                     <l>ere he departe awaye.</l>
+                     <l>Thou dye●● but yong: yet fearde thou arte</l>
+                     <l>thy Troy doth wayte for thee.</l>
+                     <l>Goe noble hart thou shalt agayne</l>
+                     <l>the noble Troians see.</l>
+                  </sp>
+                  <sp>
+                     <pb facs="34"/>
+                     <speaker>●S.</speaker>
+                     <l>¶ Helpe me mother?</l>
+                  </sp>
+                  <sp>
+                     <speaker>AN.</speaker>
+                     <l>¶ Alas my childe</l>
+                     <l>why takste thou holde by me?</l>
+                     <l>In vayne thou callte where helpe none is</l>
+                     <l>I can not succoure thee.</l>
+                     <l>As when the little tender beaste</l>
+                     <l>that heares the Lyon crye,</l>
+                     <l>Strayght for defence he seekes hys dam</l>
+                     <l>and crowching downe dothe lye.</l>
+                     <l>The cruell beaste when once remo|ued</l>
+                     <l>is the dam awaye,</l>
+                     <l>In greedy iawe with rauening bit</l>
+                     <l>doth snatch the tender praye</l>
+                     <l>So straight the enmies will thee take</l>
+                     <l>and from my syde the Beare.</l>
+                     <l>Receyue my kisse and teares poore chylde</l>
+                     <l>receyue my rented heare.</l>
+                     <l>Departe thou hence now full of me</l>
+                     <l>and to thy father goe,</l>
+                     <l>Salute my Hector in my name</l>
+                     <l>and tell him of my woe.</l>
+                     <l>Complayne thy ●● others griefe to hym</l>
+                     <l>if former cares may moue,</l>
+                     <l>The spryghtes: and that in funerall flame</l>
+                     <l>they leese not all theyr loue.</l>
+                     <l>O crewell Hector suffrest thou</l>
+                     <l>thy wife to be opprest●</l>
+                     <l>With bonde of Grecyans heauy yoke</l>
+                     <l>and lyest thou still at rest●</l>
+                     <l>Achylles rose ● take here agayne</l>
+                     <l>my teares and rented heare,</l>
+                     <l>And (all that I haue le●te to sende)</l>
+                     <l>thys kisse thy father beare.</l>
+                     <l>
+                        <pb facs="34"/>Thy coate yet for my comfort leaue</l>
+                     <l>the tombe hath touched it</l>
+                     <l>If of hys ashes ought here lye</l>
+                     <l>I will seke it euery whit.</l>
+                  </sp>
+                  <sp>
+                     <speaker>ULY.</speaker>
+                     <l>¶There is no measure of thy teares</l>
+                     <l>I may no lenger staye</l>
+                     <l>Deferre no farder our returne</l>
+                     <l>breake of our shipps delaye.</l>
+                  </sp>
+               </div>
+               <div type="chorus">
+                  <head>Chorus altered by the translater.</head>
+                  <l>
+                     <hi>O</hi> Ioue that leadst the lampes of fyre</l>
+                  <l>and dekst with slamyng star●es the sky</l>
+                  <l>Why is it euer thy desyre</l>
+                  <l>to care theyr course so orderly?</l>
+                  <l>That now the frost the leaues hath worne</l>
+                  <l>and now the spryng dothe cloath the tree,</l>
+                  <l>Now fyry Leo rypes the Corne</l>
+                  <l>and still the soyle shoulde changed be?</l>
+                  <l>But why arte thou that all doos●e guide</l>
+                  <l>betwene whose handes the poales do sway●</l>
+                  <l>And at whose will the Orbes do slide</l>
+                  <l>careles of mans estate alwaye?</l>
+                  <l>Regarding not the good mans case,</l>
+                  <l>nor caring how to hurte the ill</l>
+                  <l>Chaunce beareth rule in euery place,</l>
+                  <l>and turneth mans estate at will.</l>
+                  <l>She geues the wrong the vpper hande</l>
+                  <l>the better parte she dothe oppresse,</l>
+                  <l>She makes the highest lowe to stande</l>
+                  <l>her kyngdome all is orderlesse.</l>
+                  <l>O par●itte proofe of her frayltie,</l>
+                  <l>the princely towres of Troye bet downe</l>
+                  <l>
+                     <pb facs="35"/>The flowre of Asya here ye see</l>
+                  <l>with turne of hande quight ouerthrown●</l>
+                  <l>The tuthfull ende of Hectors sonne</l>
+                  <l>whome to his death the Greekes haue led</l>
+                  <l>Hys fatall howre is come and gonne</l>
+                  <l>and by thys tyme the childe is ded</l>
+                  <l>Yet still alas more cares encrease,</l>
+                  <l>o Troians dolefull destenye,</l>
+                  <l>Fast dothe approche the maydes decease</l>
+                  <l>and now Polyxena shall dye.</l>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <head>The fourth ackte.</head>
+               <stage>Helena. Andromacha. Hecuba.</stage>
+               <l>_WHat euer wofull wedding yet,</l>
+               <l>were cause of funerall.</l>
+               <l>Of walling, teares, blood, slaughter 〈◊〉</l>
+               <l>or other mischief● all,</l>
+               <l>I worthy matche for Helena,</l>
+               <l>and meete for me it ware,</l>
+               <l>My wedding torche hath byn the cause,</l>
+               <l>of all the Troians care.</l>
+               <l>I am constrainde to hurt them yet,</l>
+               <l>after their ouerthrowe</l>
+               <l>The false and fained mariages,</l>
+               <l>of Pyrthus must I showe.</l>
+               <l>And geue the maide the Greekes attir●</l>
+               <l>and by my policie,</l>
+               <l>Shall Marys sister be betraide,</l>
+               <l>and b●〈◊〉 shall dye.</l>
+               <l>
+                  <pb facs="35"/>But let her be begu●●ed thus,</l>
+               <l>the les should be her paine</l>
+               <l>If that ●nware, without the feare</l>
+               <l>of death: she myght be slaine.</l>
+               <l>What ceasest thou the will of Gr●ekes,</l>
+               <l>and message to fulfill?</l>
+               <l>Of hurt constrainde the faute returnthe</l>
+               <l>to thauthor of the ill.</l>
+               <l>O noble virgin of the fa|mous</l>
+               <l>house: and stocke of Troy,</l>
+               <l>To thee, the Gresians haue me sent</l>
+               <l>I bring the newes of ioy.</l>
+               <l>The gods ●ue on thy afflicted state,</l>
+               <l>more mercifull they be,</l>
+               <l>A great and happy mariage loe,</l>
+               <l>they haue preparde for the.</l>
+               <l>Thou neuer should if Troy had stoode,</l>
+               <l>so nobly wedded be,</l>
+               <l>Nor Priame neuer could preferre,</l>
+               <l>the to so hye degree.</l>
+               <l>Whom flowre of all the G●●cyon name,</l>
+               <l>the prince of honour hongur hie.</l>
+               <l>That beares the scepters ouer all.</l>
+               <l>The lande of Thessal●e,</l>
+               <l>Doth in the law of wedlocke chose</l>
+               <l>and for his wife require●</l>
+               <l>To sacred rig●tes of lawfull bed,</l>
+               <l>doth Pyr●hus thee desire</l>
+               <l>Loe Thetys great with all the rest,</l>
+               <l>of gods that guide by se●.</l>
+               <l>Eche one shall thee account as theyrs,</l>
+               <l>and ioy by wedding ●ea.</l>
+               <pb facs="36"/>
+               <pb facs="36"/>
+               <l>
+                  <pb facs="37"/>And Peleus shall thee daughters call,</l>
+               <l>when thou arte Pyrthus wife,</l>
+               <l>And Ner●us shall account thee hys</l>
+               <l>the space of all thy life.</l>
+               <l>Put of thy mourning 〈◊〉 now.</l>
+               <l>thys regall vesture weare</l>
+               <l>Forget henceforth thy cantiue state,</l>
+               <l>and semely broyde thy heare.</l>
+               <l>Thy fall hath lift thee higher vp.</l>
+               <l>and doth thee more aduaunce.</l>
+               <l>Oft to be taken in the warre,</l>
+               <l>doth bring the better chaunce.</l>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶This ill the Troians neuer knew</l>
+                  <l>in all their griefes and paine,</l>
+                  <l>Before this time ye neuer made,</l>
+                  <l>vs to reioyce in vaine.</l>
+                  <l>Troye towres geue light, o semely tyme</l>
+                  <l>for mariage to be made</l>
+                  <l>Who woulde refuse the wedding daye</l>
+                  <l>that Helayne dothe perswade?</l>
+                  <l>The Plague and Ruine of eche parte</l>
+                  <l>beholde doste thou not see,</l>
+                  <l>These tombes of noble men: and how</l>
+                  <l>theyr boanes here scattered bee?</l>
+                  <l>Thy bryde bed hath bene cause of thys</l>
+                  <l>for thee all these be ded,</l>
+                  <l>For thee the blood of Asya bothe</l>
+                  <l>and Europe hath bene shed.</l>
+                  <l>When thou in ioy and pleasure bothe</l>
+                  <l>the fighting folke from farre,</l>
+                  <l>Haste veude: in doubte to whom to wishe</l>
+                  <l>the glory of the warre.</l>
+                  <l>
+                     <pb facs="37"/>Goe to prepare the maryages</l>
+                  <l>what neede the torchis light?</l>
+                  <l>Be holde the towres of Troy do shyne</l>
+                  <l>with brandes that blase full bright.</l>
+                  <l>O Troians all set to your handes,</l>
+                  <l>thys wedlock celebrate:</l>
+                  <l>Lament thys day with wofull cry</l>
+                  <l>and teares in seemely rate.</l>
+               </sp>
+               <sp>
+                  <speaker>HELE.</speaker>
+                  <l>¶ Though care do cause the want of 〈◊〉</l>
+                  <l>and reasons rule denye.</l>
+                  <l>And heauy hap dothe oftimes hate</l>
+                  <l>hys mates in myserye,</l>
+                  <l>Yet I before moste hatefull iudge</l>
+                  <l>dare well defende my parte,</l>
+                  <l>That I of all your grieuous cares</l>
+                  <l>sustayne the greatest smarte.</l>
+                  <l>Andromach● for Hector weepes,</l>
+                  <l>for Priame Hecuba,</l>
+                  <l>For onely Parys priuely</l>
+                  <l>bewayleth Helen●.</l>
+                  <l>A harde and grieuous thing it is</l>
+                  <l>captiuitie to beare.</l>
+                  <l>In Troy that yoke I suffred long</l>
+                  <l>a prisoner whole ten yeare.</l>
+                  <l>Turnde are the fates, Troy beaten downe.</l>
+                  <l>to Greece I must repeate,</l>
+                  <l>The natiue countrey to haue loste</l>
+                  <l>is ill, but woorse to feare.</l>
+                  <l>For dreade thereof you neede not care</l>
+                  <l>your euilles all be paste.</l>
+                  <l>On me both partes will vengeauce take</l>
+                  <l>all lightes to me at laste.</l>
+                  <l>
+                     <pb facs="38"/>Whom eche man prysoner takes God won</l>
+                  <l>she standes in slipper staye,</l>
+                  <l>And me not captiue made by lotte</l>
+                  <l>yet Parys led aways</l>
+                  <l>I haue bene cause of all these warres</l>
+                  <l>and then your woes w●re wrought,</l>
+                  <l>When fyrst your shippes the Spartane seas</l>
+                  <l>and land of Grecia sought.</l>
+                  <l>But if the Goddesse wilde it so</l>
+                  <l>that I theyr praye shoulde be,</l>
+                  <l>And for rewarde to her beautyes iudge</l>
+                  <l>she had appoynted me.</l>
+                  <l>Then pardon Parys: thinke thys thynge</l>
+                  <l>in wrathfull iudge dothe lye,</l>
+                  <l>The sentence Menclaus geues</l>
+                  <l>and he thys case shall trye.</l>
+                  <l>Now turne thy plaintes ●ndromache.</l>
+                  <l>and weepe for Polyxeyne.</l>
+                  <l>mine iyes for sorowes of my hart.</l>
+                  <l>theyr teares may not refreyne.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶Alas what care makes Heleyue weepes</l>
+                  <l>What griefe doth she lament?</l>
+                  <l>Declare what craftes Ulisses castes,</l>
+                  <l>what mischief hath he sent?</l>
+                  <l>Shall she from heyght of Idey hill</l>
+                  <l>be hedlong tombled downe?</l>
+                  <l>Or els out of the turrets toppe</l>
+                  <l>in Troy, shall she be throwne?</l>
+                  <l>Or will they cast her from the cliues,</l>
+                  <l>into Svgeon se●es?</l>
+                  <l>In bottome of the surging waues,</l>
+                  <l>to ende her ruthfull dayes?</l>
+                  <l>
+                     <pb facs="38"/>Show what thy countenance hides, ● tell</l>
+                  <l>the secretes of thy brest:</l>
+                  <l>Some woes in Pyrthus wedding are</l>
+                  <l>farre woorse then all the rest.</l>
+                  <l>Goe to, geue sent case on the mayde,</l>
+                  <l>pronounce her destenye:</l>
+                  <l>Delude no lenger our mishaps,</l>
+                  <l>we are preparde to dye.</l>
+               </sp>
+               <sp>
+                  <speaker>HEL.</speaker>
+                  <l>¶Would god ther pounder of the gods</l>
+                  <l>would geue his dome so right:</l>
+                  <l>That I also on poynt of sworde</l>
+                  <l>myght leese the lothsome light.</l>
+                  <l>Or at Actulles tombe, with stroke</l>
+                  <l>of Pyrrhus hand be s●ayne:</l>
+                  <l>And beare a part of all thy fates</l>
+                  <l>O wretched Polyxeyne.</l>
+                  <l>Whom yet Achilles wooth to wed.</l>
+                  <l>and where his asshes lie●</l>
+                  <l>Requireth that thy blood be shed,</l>
+                  <l>and at his tombe to die.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶Beholde loe, how her noble minds</l>
+                  <l>of death doth gladly heare.</l>
+                  <l>She decks her selfe: her regall weede,</l>
+                  <l>in semely wise to weare.</l>
+                  <l>And to her hed she settes her hande,</l>
+                  <l>the broyded heare to lay●</l>
+                  <l>To wed she thought it death: to dye,</l>
+                  <l>she thinkes a wedding day.</l>
+                  <l>But helpe, alas, my mother sowndes.</l>
+                  <l>to heare her daughters death.</l>
+                  <l>Arise: plucke vp your hart and take,</l>
+                  <l>againe the panting breath.</l>
+                  <l>
+                     <pb facs="39"/>Black good mother how slender stay●</l>
+                  <l>that doth thy life sustaine?</l>
+                  <l>A little thing shall happye thee.</l>
+                  <l>thou arte almost past thy payne.</l>
+                  <l>Her brethe returnes: she doth reuiue,</l>
+                  <l>her limmes their life do take.</l>
+                  <l>So se when wretches faine would die●</l>
+                  <l>how death doth them forsake.</l>
+               </sp>
+               <sp>
+                  <speaker>HEC.</speaker>
+                  <l>¶Doth yet Achilles liue alas,</l>
+                  <l>to worke the Troians spight?</l>
+                  <l>Doth he rebell agaynst vs yet?</l>
+                  <l>O hande of Parys light.</l>
+                  <l>The very tombe and asshes lo●,</l>
+                  <l>yet thirsteth for our blood.</l>
+                  <l>A happy heape of childern ●ate●</l>
+                  <l>on euery side me stood.</l>
+                  <l>It weried me to deale the mo●</l>
+                  <l>thers kisse among them all</l>
+                  <l>The rest are lost and this alon●,</l>
+                  <l>now doth me mother call.</l>
+                  <l>Thou only childe of Hecuba,</l>
+                  <l>a comfort left to mee,</l>
+                  <l>A stayer of my sory state,</l>
+                  <l>and shall I now leese thee?</l>
+                  <l>Departe O wretched soule, and from</l>
+                  <l>this carefull carcas flye,</l>
+                  <l>And case me of such ruthfull fates,</l>
+                  <l>to se my daughter dye.</l>
+                  <l>My weping wettes, alas my eyes●</l>
+                  <l>and staines them ouer all,</l>
+                  <l>And down my cheekes the sodein streames</l>
+                  <l>and showres of teares do fall.</l>
+                  <pb facs="39"/>
+                  <pb facs="40"/>
+                  <pb facs="40"/>
+                  <pb facs="41"/>
+                  <pb facs="41"/>
+                  <pb facs="42"/>
+                  <l>
+                     <pb facs="42"/>But thou dere doughter mayst be gladde</l>
+                  <l>Cassandra woulde reioyce,</l>
+                  <l>Or Hectors wife thus wed to bee</l>
+                  <l>if they might haue theyr choyce.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶We are the wretchis Hecuba</l>
+                  <l>in cursed case we stande,</l>
+                  <l>Whom strayght the shippe shall tosse by seus</l>
+                  <l>into a foreine lande.</l>
+                  <l>But as for Heleyns grieues be gone</l>
+                  <l>and turned to the best,</l>
+                  <l>She shall agayne her natiue con|trey</l>
+                  <l>see: and liue at rest.</l>
+               </sp>
+               <sp>
+                  <speaker>HELE.</speaker>
+                  <l>¶Ye woulde the more enuy my state</l>
+                  <l>if ye might knowe your owne,</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶And grouthe there yet more griefe to me</l>
+                  <l>that er●te I haue not knowne?</l>
+               </sp>
+               <sp>
+                  <speaker>HELE.</speaker>
+                  <l>¶Such ma●●ters must ye serue as doth</l>
+                  <l>by chaunce of lotts befall</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Whose seruant am I then become</l>
+                  <l>whome shall I maister call?</l>
+               </sp>
+               <sp>
+                  <speaker>HELE.</speaker>
+                  <l>¶By lotte ye fall to Pyrrhus hands</l>
+                  <l>you are hys prysoner.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>¶Cassandra is happye: fury saues</l>
+                  <l>perhaps and Phebus her.</l>
+               </sp>
+               <sp>
+                  <speaker>HELE.</speaker>
+                  <l>¶These king of Greekes Cassandra keepes</l>
+                  <l>and hys captiue is shee</l>
+               </sp>
+               <sp>
+                  <speaker>HEC.</speaker>
+                  <l>¶Is any one among them all</l>
+                  <l>that prysoner woulde haue me?</l>
+               </sp>
+               <sp>
+                  <speaker>HELE.</speaker>
+                  <l>¶You chaunsed to Ulysses are</l>
+                  <l>hys pray ye are become.</l>
+               </sp>
+               <sp>
+                  <speaker>HEC.</speaker>
+                  <l>¶Alas what cruell, dyre and yre|full</l>
+                  <l>dealet of the dome.</l>
+                  <l>
+                     <pb facs="43"/>What god vniust doth so deuide,</l>
+                  <l>the captiues to their lordes?</l>
+                  <l>What greuous arbiter is he?</l>
+                  <l>that to such choyse accordes.</l>
+                  <l>What cruell hand to wretched folke,</l>
+                  <l>so euill fates hath caste?</l>
+                  <l>Who hath among Achilles ar|mour,</l>
+                  <l>Hectors mother plaste?</l>
+                  <l>Now am I captiue and beset,</l>
+                  <l>with all calamitee.</l>
+                  <l>My bondage greeues me not, but him</l>
+                  <l>to serue it shameth mee.</l>
+                  <l>He that Achilles spoyles hath woon,</l>
+                  <l>shall Hectors also haue:</l>
+                  <l>Shall barraine lande enclosde with seas,</l>
+                  <l>receyue my boanes in graue?</l>
+                  <l>Leade me Ulysses where thou wilt.</l>
+                  <l>leade me, I make no stay,</l>
+                  <l>My maister I, and me my fates,</l>
+                  <l>shall follow euery way.</l>
+                  <l>Let neuer calme come to the seas,</l>
+                  <l>but let them rage with windt,</l>
+                  <l>Come fire and sword, myne own mischafice</l>
+                  <l>and Priames let me finde.</l>
+                  <l>In meane time haps this deepe distres</l>
+                  <l>my cares can know no calme:</l>
+                  <l>I ran the race with Priamus</l>
+                  <l>but he hath woon the Palme.</l>
+                  <l>But Pyrthus comes with swiftened pace</l>
+                  <l>and thretning browes doth wrest.</l>
+                  <l>What stayest thou Pyrthus? strike thy sworde</l>
+                  <l>now through this wofull brest.</l>
+                  <l>
+                     <pb facs="43"/>And both at ones the parents of</l>
+                  <l>thy fathers wyfe now slay,</l>
+                  <l>Murderer of age, lykes thee her blood?</l>
+                  <l>he drawth my daughter awaye.</l>
+                  <l>Defile the gods and staine the sprighte●●</l>
+                  <l>of hell with slaughtred blood,</l>
+                  <l>To aske your mercye what auayles?</l>
+                  <l>our praiers do no good.</l>
+                  <l>The vengeance aske I on your ships,</l>
+                  <l>that it the gods may pleas,</l>
+                  <l>According to this sacrifice.</l>
+                  <l>to guide you on the seas.</l>
+                  <l>This wishe I to your thousand sayles,</l>
+                  <l>Gods wrath light on them all,</l>
+                  <l>Euen to the ship that beareth me,</l>
+                  <l>what euer may befall.</l>
+               </sp>
+               <div type="chorus">
+                  <head>Chorus.</head>
+                  <lg>
+                     <l>
+                        <hi>A</hi> Comfort is to mans calamitie</l>
+                     <l>A dolefull flocke of felowes in distres.</l>
+                     <l>And swete to him that morurnes in miseri●</l>
+                     <l>To heare them wayle whom sorowes like oppr●●</l>
+                     <l>In depest care his griefe him bytes the les,</l>
+                     <l>That his estate bewailes not all alone,</l>
+                     <l>But seeth with him the teares of many one.</l>
+                  </lg>
+                  <lg>
+                     <l>For still it is the chefe delight in woe,</l>
+                     <l>And ioy of them that sonke in sorowes are,</l>
+                     <l>To see lyke fates byfall to many moe,</l>
+                     <l>That may take parte of all their wofull fare.</l>
+                     <l>And not alone to be opprest with care.</l>
+                     <l>Ther is no wight: of woe that doth complayn●,</l>
+                     <l>when al the rest do like mischaunce sustaine.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="44"/>
+                     <l>In all this world if happy man were none,</l>
+                     <l>None (though he were) would thinke hymself a wretche,</l>
+                     <l>Let once the rytche with heapes of gold be gone,</l>
+                     <l>whose hundred hed his pastours ouerretche,</l>
+                     <l>Then would the poore mans hart begyn to stretche</l>
+                     <l>There is no wretche whose lyfe him doth displease</l>
+                     <l>But in respect of those that liue at ease.</l>
+                  </lg>
+                  <lg>
+                     <l>Swete is to hym that standes in depe distres,</l>
+                     <l>To see no man in ioyfull plight to be,</l>
+                     <l>Whose only vessell, wynd and waue oppres,</l>
+                     <l>Full sore hys chaunce bewayles and wepeth he,</l>
+                     <l>That with his owne none others wracke doth se</l>
+                     <l>When he alone makthe shipwrak on the sande</l>
+                     <l>And naked falles to long desyred lande.</l>
+                  </lg>
+                  <lg>
+                     <l>A thousand sayle who seeth to drenche in seas</l>
+                     <l>with better will the storme hath ouerpast</l>
+                     <l>His heauy hap doth him the lesse displease,</l>
+                     <l>When broken boardes abrode be many cast</l>
+                     <l>And shypwrackt shyppes to shore they flit full fast,</l>
+                     <l>With doubled waues when stopped is the flood,</l>
+                     <l>With heape of them that there haue lost theyr good.</l>
+                  </lg>
+                  <lg>
+                     <l>Full sore dyd Phryxus Hellens losse complayne,</l>
+                     <l>What tyme the leader of hys flocke of shepe,</l>
+                     <l>Upon hys backe alone he bare them twayne,</l>
+                     <l>And wet hys golden lockes amyd the depe.</l>
+                     <l>In piteous playnt alas he gan to wepe</l>
+                     <l>The death of her it dyd hym depe displease,</l>
+                     <l>That shypwrak made amyd the drenchyng seas.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="44"/>
+                     <l>And piteous was the playnt and heauy moode</l>
+                     <l>Of wofull Pyr●ha and eke Deucalion,</l>
+                     <l>That nought behelde about them but the floode,</l>
+                     <l>When they of all mankynde were left alone</l>
+                     <l>Amyd the seas full sore they made theyr mone</l>
+                     <l>To see themselues thus left alyue in woe</l>
+                     <l>When neyther land they saw nor fellowes moe.</l>
+                  </lg>
+                  <lg>
+                     <l>A non these playnts, and Troianes teares shall quasie,</l>
+                     <l>And here and there the shyppe th●m tosse by seas</l>
+                     <l>When trompets sounde sh●ll warne to hoyse vp sayle</l>
+                     <l>And through the waues with wynd to seke theyr way●●:</l>
+                     <l>Then shall these captiues goe to ende theyr dayes</l>
+                     <l>In land vnknowne: when once with hasty ore</l>
+                     <l>The drenching depe they take and shonne the shore.</l>
+                  </lg>
+                  <lg>
+                     <l>What state of mynde shall then in wretches ●e,</l>
+                     <l>When shore shall synke from syght and seas aryse?</l>
+                     <l>When I dey hyll to lurke aloofe they see?</l>
+                     <l>Then poynt with hand from farre where Troia lyse,</l>
+                     <l>Shall chyld and mother: talking in thys wyse:</l>
+                     <l>Loe yonder Troye, where smoke it fumeth hye,</l>
+                     <l>By this the Troianes, shall theyr countrey spye.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>The fifth acte.</head>
+               <stage>Messenger. Andromacha. Hecuba.</stage>
+               <l>_ODyre fierce, wretched, horrible,</l>
+               <l>o ciuil fates accutlle,</l>
+               <l>Of Matsh 〈…〉 yeres bloodshed blowes.</l>
+               <l>the wofulst and the wurste.</l>
+               <l>A la● which s●ould I syr●● bewayle?</l>
+               <l>thy cares Andromacha●</l>
+               <l>
+                  <pb facs="45"/>Or els lament the wretched age</l>
+               <l>of wofull ●ecaba?</l>
+               <sp>
+                  <speaker>HEC</speaker>
+                  <l>What euer ●●ns calamities</l>
+                  <l>y● wayle for mine it is</l>
+                  <l>I beare the smart of all their woes,</l>
+                  <l>eche other feeles but hys.</l>
+                  <l>Who euer he, I am the wretche</l>
+                  <l>all happes to me at last.</l>
+               </sp>
+               <sp>
+                  <speaker>MES.</speaker>
+                  <l>Slaine is the mayde, and from the w●lles</l>
+                  <l>of Troy: the childe is cast.</l>
+                  <l>But both, (as them became) they toke</l>
+                  <l>their death, with s●omack stout.</l>
+               </sp>
+               <sp>
+                  <speaker>ANDR.</speaker>
+                  <l>Declare the double slaughters then●</l>
+                  <l>and tell the whole throughout.</l>
+               </sp>
+               <sp>
+                  <speaker>MES.</speaker>
+                  <l>¶One towre of all the rest ye knowe●</l>
+                  <l>doth yet in Troy remaine,</l>
+                  <l>Where Pryam wonted was to sit,</l>
+                  <l>and vewe the armyes twaine.</l>
+                  <l>His little Nephew the with him</l>
+                  <l>to leade and from a farre,</l>
+                  <l>His fathers ●ightes with fyre and swoord●</l>
+                  <l>to showe, and feates of warre.</l>
+                  <l>This towre, somtime well knowne by fame,</l>
+                  <l>and Troians honor most.</l>
+                  <l>Is now with captaines of the Greekes,</l>
+                  <l>beset on euery coaste.</l>
+                  <l>With swift recourse and from the shippes.</l>
+                  <l>in clustred heapes anone.</l>
+                  <l>Both tagge and ●agge, they ronne to g●●●●</l>
+                  <l>what thing should there be done.</l>
+                  <l>Some clime the hilles, to seeke a place●</l>
+                  <l>where they might see it best,</l>
+                  <l>
+                     <pb facs="45"/>Some on the rockes a tiptoe stande●</l>
+                  <l>to ouerlooke the rest.</l>
+                  <l>Some on theyr temples weare the Pyne,</l>
+                  <l>some beeche, some crownes o● baye.</l>
+                  <l>For garlandes torne is euery tree,</l>
+                  <l>that standeth in theyr waye.</l>
+                  <l>Some from the highest mowntaynes top,</l>
+                  <l>aloofe beholdeth all</l>
+                  <l>Some sca●e the buyldings halfe yburnte,</l>
+                  <l>and some the ruynous wall</l>
+                  <l>Ye some there weare (o mischiefe loe)</l>
+                  <l>that for the more despyght,</l>
+                  <l>The tombe of Hector sitts vpon,</l>
+                  <l>beholders of the sight.</l>
+                  <l>With pryncely pace Ulysses then,</l>
+                  <l>past through the preasyd b●nde</l>
+                  <l>Of Greekes, kyng Pryames little Ne|phew,</l>
+                  <l>leadyng by the hande.</l>
+                  <l>The chylde with vnrepining gate</l>
+                  <l>past through hys enmyes handes,</l>
+                  <l>Up toward the walles, and as anone</l>
+                  <l>in turretts top he standes,</l>
+                  <l>From thence adowne, hys lo●tye lookes</l>
+                  <l>he cast on euery parte,</l>
+                  <l>The neerer death more free from care</l>
+                  <l>he seemde, and feare of harte.</l>
+                  <l>Amyd hys ●oes, hys stomake swelles,</l>
+                  <l>and fierce he was to syght,</l>
+                  <l>Like Tygers whelye, that threats in vaine</l>
+                  <l>with toothlesse chap to byght,</l>
+                  <l>Alas, for pittye them eche one,</l>
+                  <l>〈◊〉 on hys tender yeares,</l>
+                  <l>
+                     <pb facs="46"/>And all the rowte that present were,</l>
+                  <l>for him they shed theyr teares.</l>
+                  <l>Yea not Ulysses them restraynde,</l>
+                  <l>but tricklyng downe they fall,</l>
+                  <l>And onely he, wept not, (poore foole,)</l>
+                  <l>whome they bewayled all.</l>
+                  <l>But whyle on Gods Ulysses callde,</l>
+                  <l>and Calchas woords expounde,</l>
+                  <l>In midste of Pryames land alas,</l>
+                  <l>the childe leapte downe to grounde.</l>
+               </sp>
+               <sp>
+                  <speaker>AN.</speaker>
+                  <l>¶What crewell Colchus coulde or scythe</l>
+                  <l>such slaughter take in hande?</l>
+                  <l>Or by the shore of Caspyan sea,</l>
+                  <l>what barbarous lawles lande?</l>
+                  <l>Busyrides to thaulters yet,</l>
+                  <l>no infantes bloode hath shed:</l>
+                  <l>Nor neuer yet were children slayne,</l>
+                  <l>for feaste of Dyomed.</l>
+                  <l>Who shall alas in tombe thee laye,</l>
+                  <l>or hyde thy limmes againe?</l>
+               </sp>
+               <sp>
+                  <speaker>MES.</speaker>
+                  <l>¶What lymmes frō such a hedlong fall,</l>
+                  <l>coulde in a chylde remayne?</l>
+                  <l>Hys bodyes payse, throwne downe to grounde,</l>
+                  <l>hathe battred all hys boanes,</l>
+                  <l>Hys face, hys noble fathers markes,</l>
+                  <l>are spoylde agaynst the stoa●es.</l>
+                  <l>Hys necke vnioynted is: hys hed</l>
+                  <l>so dashte with flint stone stroake,</l>
+                  <l>That scattred is the brayne aboute,</l>
+                  <l>the sculle is all to broake.</l>
+                  <l>Thus lieth he now dismembred corps,</l>
+                  <l>deformde, and all to rent.</l>
+               </sp>
+               <sp>
+                  <pb facs="46"/>
+                  <speaker>ANDR.</speaker>
+                  <l>Lot herein doth he yet likewise,</l>
+                  <l>hys father represent.</l>
+               </sp>
+               <sp>
+                  <speaker>MES.</speaker>
+                  <l>What tyme the chylde, had hedlong falne</l>
+                  <l>thus from the walles of Troye.</l>
+                  <l>And all the Greekes them selues bewaylde,</l>
+                  <l>the slaughter of the boye.</l>
+                  <l>Yet streyght returne they backe, and at</l>
+                  <l>Achilles tombe agayne</l>
+                  <l>The second mischiefe goe to woorke,</l>
+                  <l>the deathe of Polyxeyne</l>
+                  <l>This tombe the waues of surging seas,</l>
+                  <l>beset the vtter syde.</l>
+                  <l>The other parte the feeldes encloase</l>
+                  <l>aboute, and pastours wyde.</l>
+                  <l>In vale enuyroned with hilles,</l>
+                  <l>that rounde aboute do ryse.</l>
+                  <l>A sloape on heyght erected are</l>
+                  <l>the bankes, in theater wyse.</l>
+                  <l>By all the shore then swarme the Greekes</l>
+                  <l>and thyck on heapes they prease:</l>
+                  <l>Some hoape that by her death, they shall</l>
+                  <l>theyr shippes delay release.</l>
+                  <l>Some other ioye, theyr enmies stocke</l>
+                  <l>thus beaten downe to bee:</l>
+                  <l>A greate parte of the people, bothe</l>
+                  <l>the slaughter hate and see.</l>
+                  <l>The Troians eke, no lesse frequent</l>
+                  <l>theyr owne calamyties,</l>
+                  <l>And all affrayde, behelde the last</l>
+                  <l>of all theyr myseryes.</l>
+                  <l>When fyrste proceedyd torches bryght</l>
+                  <l>as guise of wedlock is.</l>
+                  <pb facs="47"/>
+                  <pb facs="47"/>
+                  <l>
+                     <pb facs="48"/>And author therof led the way</l>
+                  <l>the lady Tyndaris.</l>
+                  <l>Such wedlocke (pray the Troians then)</l>
+                  <l>god send Herinyona●</l>
+                  <l>And would god to her husband so,</l>
+                  <l>restorde wer Helena.</l>
+                  <l>Feare masde eche parte, but Polyxene,</l>
+                  <l>her bashefull looke downe cast:</l>
+                  <l>And more then erste her glyttring eyes,</l>
+                  <l>and beawty shynde at last.</l>
+                  <l>As swetest semes then Phebus light.</l>
+                  <l>when downe his beames do sway,</l>
+                  <l>When starres agayne, with night at hand,</l>
+                  <l>oppresse the doutfull day.</l>
+                  <l>Astonied much the people were,</l>
+                  <l>and all, they her commende.</l>
+                  <l>And nowe much more then euer ●arst,</l>
+                  <l>they praysde her, at her ende.</l>
+                  <l>Some with her beauty moued were,</l>
+                  <l>some with her tender yeares:</l>
+                  <l>Some to behold the turnes of chaunce,</l>
+                  <l>and how eche thyng thus weares.</l>
+                  <l>But most them mones her valiant mynd,</l>
+                  <l>and lofty stomake hye,</l>
+                  <l>So strong, so stout, so ready of heart,</l>
+                  <l>and well prepaide to dye.</l>
+                  <l>Thus passe they furth, and bolde, before</l>
+                  <l>kyng Pyrrhus gothe the mayde,</l>
+                  <l>They pittie her, they meruell her,</l>
+                  <l>theyr heartes wer all afrayde.</l>
+                  <l>As soone as then, the hard hyll top.</l>
+                  <l>(where dye she should) they trode.</l>
+                  <l>
+                     <pb facs="48"/>And hye vppon his fathers tombe,</l>
+                  <l>the youthfull Pyrrhus stode.</l>
+                  <l>The manly mayde she neuer shronke,</l>
+                  <l>one foote, nor backwarde drewe</l>
+                  <l>But boldely turnes to meete the stroke,</l>
+                  <l>with sloute vnchanged he●●e</l>
+                  <l>Her corage moues eche one, and ●oe</l>
+                  <l>a strange thing monstrouse lyke.</l>
+                  <l>That Pyrthus euen himself stoode styll,</l>
+                  <l>for dreade, and durst not stryke.</l>
+                  <l>But as he had, his glittering sworde,</l>
+                  <l>in her to hills vp doon,</l>
+                  <l>The purple blood, at mortall wounde,</l>
+                  <l>then gusshing out it spoon.</l>
+                  <l>Ne yet her corage her forsooke,</l>
+                  <l>when dyeng in that stownde,</l>
+                  <l>She fell as therthe should her reuenge,</l>
+                  <l>with Ireful rage to grownde.</l>
+                  <l>Eche people wept: the Troians fyrst,</l>
+                  <l>with preuye fearefull crye.</l>
+                  <l>The Grecians ●ke, eche one bewaylde,</l>
+                  <l>her death, apparantly.</l>
+                  <l>This order had the sacrifice,</l>
+                  <l>her blood the tombe vp droonke,</l>
+                  <l>No drop remaynth aboue the grounde,</l>
+                  <l>but downe forthwith it soon●e.</l>
+               </sp>
+               <sp>
+                  <speaker>HEC.</speaker>
+                  <l>Now go, now go ye Grekes, &amp; now,</l>
+                  <l>repayre yt safel●e home.</l>
+                  <l>With careles ships, and hoysed sayles,</l>
+                  <l>Now cut the sallt sea ●ome.</l>
+                  <l>The childe and virgin, both be slaine,</l>
+                  <l>your battels●●●ysht are.</l>
+                  <l>
+                     <pb facs="49"/>Alas where shall I end my age?</l>
+                  <l>or whether beare my care?</l>
+                  <l>Shall I my dawghter, or my ne|phew?</l>
+                  <l>or my husband mone?</l>
+                  <l>My contrey els, or all at once?</l>
+                  <l>or els my selfe alone?</l>
+                  <l>My wishe is deathe, that children doth</l>
+                  <l>and virgins fiersly takes</l>
+                  <l>Where euer crewell death dothe haste</l>
+                  <l>to stryke, it me for sakes.</l>
+                  <l>Amyd the enmies weapons all,</l>
+                  <l>amyd bothe sworde and fyre,</l>
+                  <l>All night sought for, thou fleeste from me,</l>
+                  <l>that do thee moste desyre.</l>
+                  <l>Not flame of fyre, not fall of towre,</l>
+                  <l>nor cruell enmyes hande,</l>
+                  <l>Hath ryd my life: how neere alas,</l>
+                  <l>coulde death to Pryame stande?</l>
+               </sp>
+               <sp>
+                  <speaker>MES.</speaker>
+                  <l>¶Now captiues all, with swyft recourse</l>
+                  <l>repayre ye to the seayes,</l>
+                  <l>Now spreade the ships, theyr sayles abroade,</l>
+                  <l>and foorthe they seeke theyr wayes.</l>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Imprinted at London in Fletestrete within Temple barre, at the signe of the hand and starre, by Ri|chard Tottyll.</p>
+            <p>Cum priuilegio ad impris mendum solum.</p>
+            <pb facs="49"/>
+         </div>
+      </back>
+   </text>
+</TEI>

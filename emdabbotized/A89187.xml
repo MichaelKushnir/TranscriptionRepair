@@ -1,0 +1,327 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A89187">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Mrs. Parliament her invitation of Mrs. London, to a Thankesgiving dinner.:  For the great and mighty victorie, which Mr. Horton obtained over Major Powell in Wales. Their discourse, desires, designes, as you may heare from their own mouthes. Munday 29 of May, in the eight yeare of the reigne of our soveraigne Lady Parliament. ...</title>
+            <author> Mercurius Melancholicus, fl. 1648.</author>
+         </titleStmt>
+         <extent>6 400dpi TIFF images (displayed as GIF) and XML-encoded text (displayed as HTML).</extent>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2011 April (TCP phase 2)</date>
+            <idno type="DLPS">A89187</idno>
+            <idno type="vid">110795</idno>
+            <idno type="Aleph">5355008</idno>
+            <idno type="stc">Wing (2nd ed.) M2283</idno>
+            <idno type="stc">Thomason E.446[7]</idno>
+            <idno type="bibno">(UnM)99858737e</idno>
+            <availability>
+               <p>Where applicable, subject to copyright.  Other restrictions on distribution may apply.  Please  go to http://www.umdl.umich.edu/ for more information.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Mrs. Parliament her invitation of Mrs. London, to a Thankesgiving dinner.:  For the great and mighty victorie, which Mr. Horton obtained over Major Powell in Wales. Their discourse, desires, designes, as you may heare from their own mouthes. Munday 29 of May, in the eight yeare of the reigne of our soveraigne Lady Parliament. ...</title>
+                  <author> Mercurius Melancholicus, fl. 1648.</author>
+               </titleStmt>
+               <extent>[2], 3, 6-8 p.    </extent>
+               <publicationStmt>
+                  <pubPlace>[London :</pubPlace>
+                  <publisher>s.n.],</publisher>
+                  <date>Printed in the year. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 1: Mercurius Melancholicus.</note>
+                  <note>"Mercurius Melancholicus" was a pseudonym used by a number of Royalist writers including Martin Parker and John Crouch.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Although catchword on p.3 does not match that of p.6 and text is not continuous, print show-through indicates that p.3 and p.6 were printed on the same leaf.</note>
+                  <note>Annotation on Thomason copy: "June 6th".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script mrcb2eeboutf.xsl on 2007-07-06.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>Political satire, English</term>
+               <term>Great Britain -- Politics and government</term>
+               <term>Great Britain -- History -- Wales</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="1"/>
+            <pb facs="1"/>
+            <p>M^r^s. PARLIAMENT Her Invitation of M^r^s^. LONDON, TO A <hi>Thankeſgiving Dinner.</hi>
+            </p>
+            <p>For the great and mighty Victorie, which M^r. <hi>Horton</hi> obtained over Major <hi>Powell</hi> in <hi>Wales.</hi>
+            </p>
+            <p>Their Diſcourſe, Deſires, Deſignes, as you may heare from their owne mouthes.</p>
+            <p>Munday 29 of <hi>May,</hi> in the eight yeare of the Reign● of our ſoveraigne Lady <hi>Parliament.</hi>
+            </p>
+            <floatingText>
+               <body>
+                  <div type="poem">
+                     <head>Mrs. PARLIAMENT, her Invitation to Mrs. LONDON.</head>
+                     <lg>
+                        <l>Deare Siſter know, this is the Day,</l>
+                        <l>On which wee ought to Feast and Pray;</l>
+                        <l>Becauſe the <hi>Welſh-men</hi> wee did ſlay</l>
+                        <l>
+                           <hi>the cleane contrary way.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Now ſhortly wee must Pray ag●n,</l>
+                        <l>Becauſe wee kill'd the <hi>Surrey</hi> men;</l>
+                        <l>Who did aſſault us, you know when</l>
+                        <l>
+                           <hi>the cleane contrary way.</hi>
+                        </l>
+                     </lg>
+                     <byline>By Mrs. <hi>Truth</hi> principall Secretary in ordinary (protempore) to Mrs. <hi>Parliament.</hi>
+                     </byline>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Printed in the year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="2"/>
+            <pb n="1" facs="2"/>
+            <head>
+               <hi>Mrs.</hi> PARLAMEENT, her Invitation OF <hi>Mrs.</hi> LONDON, to a <hi>Thankſgiving Dinner.</hi>
+            </head>
+            <head type="sub">FOR The great and mighty Victory, which Mr. <hi>Horton</hi> obtayned over Major <hi>Powell</hi> in <hi>Wales.</hi>
+            </head>
+            <byline>By <hi>Mercurius Melancholicus.</hi>
+            </byline>
+            <div type="part">
+               <stage>Enter Mrs. <hi>London,</hi> and Mrs. <hi>Common-Councell.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mrs. London.</speaker>
+                  <p>NOW, our good Lord be thanked for this great Vi|ctory, which the <hi>Righteous</hi> under the Command of that holy Saint <hi>Morton,</hi> have obtained over the <hi>wicked,</hi> under the Command of thoſe <hi>Reprobates, Poyer, Powell</hi> and <hi>Langhorne.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Com. Counſ.</speaker>
+                  <p>'Twas a happie Providence my dear Si|ſter, and much to be admired amongſt the Saints, for this will prove the animation of our owne party, and the diſcouraging of our enemies thoſe <hi>pagan Cavaliers,</hi> who now begin to take armes, and to fall foule on the <hi>people of the Lord.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Lond.</speaker>
+                  <p>Very true Siſter, who would have thought of this new diſtemper, or that our honourable Siſter <hi>Mrs. Par|liament,</hi> who was arrived to the very higheſt pitch of honour and ſaid to her ſelfe, <hi>J ſit like a Queene, and ſhall know no ſor|row,</hi> ſhould on the ſudden become wretchedly miſerable, ſhe whom a Nation courted, offering their lives and eſtates at her feet, and maintained her for the ſpace of ſeaven yeares, in open <hi>Rebellion</hi> and <hi>Diſloyalty</hi> againſt her head and Husband, ſhe that imagined her ſelfe ſo ſure, that no humane ſtrength could ſhake her, is now become in a manner deſolate.</p>
+                  <lg>
+                     <pb n="2" facs="3"/>
+                     <l>Like to a Whore, both old, and evill growne,</l>
+                     <l>Shee hated is, and pittied by none.</l>
+                  </lg>
+               </sp>
+               <stage>Enter Mrs. <hi>Militia</hi> a Malignant.</stage>
+               <sp>
+                  <speaker>Mrs. Mil.</speaker>
+                  <p>Hell take this <hi>everlaſting Parliament,</hi> or rather, this incorrigible <hi>Iunto,</hi> what a toſſing to and fro they make of me; the <hi>King</hi> my true and onely Maſter muſt not <hi>Com|mand</hi> me, (becauſe forſooth) like another <hi>Minerva,</hi> the fate of new <hi>Troy,</hi> as once that of the old conſiſts in me, <hi>Mrs. Par|liament</hi> who hath commanded me this ſeaven yeares (the <hi>De|vill</hi> take her for it) is now woed by <hi>Mrs. London</hi> to part with me, and let her another while injoy me; this ſhe hath (but to her great coſt) obtained, and now;</p>
+                  <lg>
+                     <l>As at the firſt, a Royall Prince did owne me,</l>
+                     <l>His Power layd by, ſeaven yeares the world hath known me.</l>
+                  </lg>
+                  <lg>
+                     <l>A three pil'd Bawd, to <hi>Mrs. Parliament;</hi>
+                     </l>
+                     <l>Now <hi>Mrs. Londons;</hi> Cuckolds bee content.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Lond.</hi>
+                  </speaker>
+                  <p>Looke Siſter, yonders that malignant Dame, Mrs. <hi>Militia,</hi> muttering to herſelfe againſt Mrs. <hi>Parliament,</hi> O 'tis a notable <hi>Scold</hi> and of ſuch force, that ſhee is able to breake open yron barri●ado'd gates, to ſtand an Army and toſſe huge Cities in the Ayre, but J have purchas'd her of Mrs. <hi>Parliament,</hi> with a round ſumme of money, and the truth is, that godly woman, is altogether ſwayed by <hi>Gold,</hi> ſhe will do nothing for me without greating i'the fiſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Com. Coun.</hi>
+                  </speaker>
+                  <p>Tis very true, <hi>experientia docet,</hi> for my part had I the money once J freely parted with, mov'd with my ſiſter Parliaments pious words, I'de be adviſed ere I gave it away, but I hope well of her, and that with us, ſhe is a <hi>Saint</hi> by calling; how does Mrs. <hi>Militia.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Mil.</hi>
+                  </speaker>
+                  <p>Sick ſick at heart, of the very ſame diſeaſe, that is now ſo catching, the <hi>Pox,</hi> the <hi>Plague,</hi> and all thoſe cruell malladies <hi>Pandora</hi> brought on earth to ruine men though all conjoyn'd in one, are not ſo miſchievous.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Coun.</hi>
+                  </speaker>
+                  <p>What diſeaſe Mrs. <hi>Militia.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Mil.</hi>
+                  </speaker>
+                  <p>Why? Its called <hi>Parliament,</hi> the ſame that hath murdered ſo many thouſands of loyall Engliſh ſubjects, this
+<pb n="3" facs="3"/>
+                      Mrs. <hi>Truth,</hi> her Speaker <hi>(pro Tempore)</hi> well knowes, who for her honour hath buſied himſelf, to raiſe an <hi>Anagram,</hi> on her name, and to anex an <hi>Epigram</hi> thereto, 'tis this.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>PARLIAMENT, <hi>Anagramma,</hi> A TRAP IL MEN.</head>
+               <lg>
+                  <head>Epigram.</head>
+                  <l>A Trap they are, a Snare unto their Nation,</l>
+                  <l>Having undone them, by a Reformation;</l>
+                  <l>A Trap that Sathan ſet, as ſince wee find,</l>
+                  <l>To fetter Kings, and ruine all mankind:</l>
+                  <l>A <hi>Snare, a Trap,</hi> a <hi>Pit,</hi> wherein wee fall,</l>
+                  <l>And if they live, then muſt wee periſh all.</l>
+                  <l>But yet there's hope, it ſo, may ſhortly hap,</l>
+                  <l>Theſe Traytors, ſhall be tane in their owne <hi>TRAP,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>ILL MEN.</head>
+                  <l>
+                     <hi>Ill men, yea ſuch a vile Rebellions crew,</hi>
+                  </l>
+                  <l>
+                     <hi>No Hiſtory records, no Age ere knew;</hi>
+                  </l>
+                  <l>
+                     <hi>Men meerly made of miſchiefe, blood, and error,</hi>
+                  </l>
+                  <l>
+                     <hi>Men borne to bee their owne, and the worlds terror.</hi>
+                  </l>
+                  <l>
+                     <hi>Devils yet cloath'd in Fleſh, curſed Projectors,</hi>
+                  </l>
+                  <l>
+                     <hi>Good Mens ſure ruine, evill mens Protectors,</hi>
+                  </l>
+                  <l>
+                     <hi>Haters of ſacred Peace, damn'd Regicides,</hi>
+                  </l>
+                  <l>
+                     <hi>Horſleaches, Canibals, and Patricides:</hi>
+                  </l>
+                  <l>
+                     <hi>Who place their thrones on Immolated men,</hi>
+                  </l>
+                  <l>
+                     <hi>Have baniſht Juſtice, hoping ſhee agen</hi>
+                  </l>
+                  <l>
+                     <hi>Will never more returne, by Furies nurst,</hi>
+                  </l>
+                  <l>
+                     <hi>Gotten by Devils, in their Cradles curst:</hi>
+                  </l>
+                  <l>
+                     <hi>VVhom all the powers of Hell, this ſeaven yeares</hi>
+                  </l>
+                  <l>
+                     <hi>Have ayded; Slaves that joy to drinke our teares.</hi>
+                  </l>
+                  <l>
+                     <hi>But the time now will ſhortly happen when</hi>
+                  </l>
+                  <l>
+                     <hi>Treaſon muſt terminate, in thoſe,</hi> Ill men.</l>
+               </lg>
+               <p>
+                  <gap unit="page" extent="2"/>
+                  <pb n="6" facs="4"/>
+                   
+it printed is ſufficient to make the people out of conceit with Mrs. <hi>Parliament,</hi> while the world ſtands. <hi>Mrs. Co●;</hi> t'is this ſame witch Mrs. <hi>Truth</hi> that hath undone us, but who comes here. <hi>Mrs. Parliament, Mrs. Thanksgiving. Mrs. Humiliation.</hi>
+               </p>
+               <sp>
+                  <speaker>Mrs Lon.</speaker>
+                  <p>
+                     <hi>O Mrs Parliament,</hi> I much joy to ſee you never was woman of your ranke ſo contemned and abuſed, here was, <hi>Mrs Militia</hi> the <hi>Malignant</hi> but even now, who ſhewed mee and my ſiſter Common counſell, an <hi>Anagram,</hi> which the <hi>Traitoreſſe Truth</hi> had framed on your names, wherein ſhee taxes you of I know not how many crimes, and ſayes you are worthy to bee <hi>hangd,</hi> as an <hi>enemie</hi> to your <hi>Country.</hi>
+                  </p>
+               </sp>
+               <p>
+                  <hi>Mrs Parliament,</hi> no matter what <hi>Truth</hi> reports, you know I care not for her, but for <hi>Mrs. Militia</hi> and the reſt ò the <hi>Malignants,</hi> I have given order for their removall, twentie miles from thy preſence <hi>Mrs. London, Mrs Common counſell,</hi> you are to publiſh the order, reade it <hi>Mrs Thankgiving.</hi> Mrs. Thanksgiving Reads.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <dateline>
+                           <date>Tueſday May 22. 1648,</date>
+                        </dateline>
+                     </opener>
+                     <p>I Mrs Parliament, by the permiſſion and aſſiſtance of Pluto, of England, Scotland, and Ireland, Supreams Governeſſe, doe de|cree and ordaine that al Papiſts by whom I meane al thoſe that are for Monarchicall government, for the Booke of Common Prayer, for Archbiſhops, and for order and decencie in the● Church of God, that all ſouldiers of fortune and all other perſons whatſoever, that have borns Armes againſt mee, that is to ſay, all ſuch, as have according to their oath of Allegiance the Law of God the Law of the Land, and the Law of nature, been in Armes and fought for the honour of their Soveraign Lord King Charles to pull dow●● my uſurped power, to put a period to my Rebellions ſhall at or before the five and twentieth of this inſtant May <hi>1648</hi> depart the cities of London and VVeſtminſter, and all other places within twentie miles, and if any of the ſaid perſons aforeſaid, ſhal continue within twentie miles as aforeſaid, after the five and twentieth day of May, they ſhal bee apprehended, Impriſoned and proceeded againſt as Traytors.</p>
+                  </body>
+               </floatingText>
+               <sp>
+                  <speaker>Mrs Com. co●●</speaker>
+                  <p>I like the order well, wee will have none
+<pb n="7" facs="4"/>
+                      to converſe with as <hi>Mrs. London;</hi> but thoſe that are <hi>Righteous</hi> what fellowſhip ought thereto bee betweene us <hi>Iewes,</hi> and thoſe ſaweie Samaritans of the <hi>Royal parti●,</hi> verily none, <hi>Mrs. Lond;</hi> Jnſooth you ſpeake like a moſt <hi>godly Saint,</hi> my deare ſiſter, and for my owne part I would have none to re|ſide neare mee, but the good people of the Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Parl.</speaker>
+                  <p>Mrs London, and Mrs Common Counſel, you both know that the <hi>wicked</hi> ones of the Land are now com|byning together againſt us; therefore a little to protract the time; I have deviſed a way for to amuſe the people, <hi>Mr, Horton</hi> whom I ſent with a partie for the reducing of <hi>Poyer,</hi> hath late|ly ceaz'd on divers Countrey fellowes, who met with an In|tent to liſt themſelves under the command of <hi>Poyer, Powel, Langhorn</hi> and the reſt, this ile have noiſed to bee a victory a great and mighty victory, which news will cramp the <hi>Roy|alliſts</hi> Deſignes, keepe back the <hi>Scots</hi> a while, incourage our owne partie and cannot chuſe but bee an helpe unto us; you therefore <hi>Mrs Thankſgiving,</hi> proclaime throughout the <hi>Cittie,</hi> that every man praiſe <hi>God</hi> in his owne pariſh, thoſe that have money feaſt and make good cheare, for this moſt great and mighty victory.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs <hi>Thanks.</hi>
+                  </speaker>
+                  <p>I ſhall forſooth, but who ſhall Preach before you on that day.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Parl.</speaker>
+                  <p>Who but my bonnie <hi>Bulehin Marſhall</hi> I have not amongſt al my Prieſts not ſo fit, the <hi>B●lli● God Vi●●s,</hi> is a meere <hi>Barrel</hi> and yeilds no noiſe without you <hi>taber</hi> on him, <hi>Ni●</hi> ſqeaks ſo low a new ſhoe trod on by a ſickly woman, makes better mellodie, but <hi>Marſhal</hi> bellowes out my tryumph, in ſuch a tone, not all the bulls that at <hi>Geneva</hi> thunde●, when they exclaime againſt Epiſcopacie, yeild the like muſick, goe you Mrs <hi>Thanksgiving</hi> to him, and carry theſe good <hi>Angels</hi> which will increaſe the vigour of his <hi>●●●gs</hi> Mrs Th●nks▪ good Mrs <hi>Common counſell,</hi> See that a <hi>Saint-lik●</hi>〈◊〉 bee prepared, and ſtore of wine, that we may ●eat our Zeale, you know wee can|not heave our eyes to heaven til wee have often elevated cups, <hi>Mrs. Common coun,</hi> Wee wil abound in al things, the creatures
+<pb n="6" facs="5"/>
+                     <pb n="7" facs="5"/>
+                     <pb n="8" facs="6"/>
+                      none ought to enioy but wee, <hi>b●aſts</hi> of the field, the <hi>fowles,</hi> of the ayre, the fiſhes that flock in the tumid deepe were made for us and for our uſe alone.</p>
+                  <lg>
+                     <l>The moſt ungodly Caval●irs are dam'nd</l>
+                     <l>Not fit to have their gut● with Pull●●●●●●d,</l>
+                     <l>They muſt bee fed, with creatures of low rate.</l>
+                     <l>Leaſt that they doe increaſe and propagate,</l>
+                     <l>To eat large Oiſters Lobſters, and high fare,</l>
+                     <l>Onely is meat for us that Righteous are.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Parl.</hi>
+                  </speaker>
+                  <p>But my good <hi>ſiſters</hi> what ſhall, wee doe to pleaſe the <hi>Surry</hi> men, who are incenſt againſt us, and ſweare to bee our <hi>deaths men</hi> to prevent which and pacifie their furie, you <hi>Mrs. Humilliation</hi> proclaime abroad, that all bee ſorrowfull and mourne in aſhes, for thoſe good mens fall: Ha, ha, ha, I <hi>laugh to thinke how my ſouldiers felld the Rogues, who durſt d●|ſ●re a King.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Humuliation.</speaker>
+                  <p>I will not faile in my hypocriſie, I can lie downe and crie and wring my hands, ſtrow ſlowre upon my face, and looke as mongerly, as when uſ'd to mourn during the warre when as the <hi>Saints</hi> were beaten by the wicked ones <hi>Mrs Parl;</hi> Now let us each unto our ſeverall charge, you <hi>Mrs London,</hi> ſtand faſt to mee as I will doe to you, I am reſolv'd that you ſhall not out live mee, you Mrs <hi>Common counſel,</hi> bee ſure you ſmel out more plots and ſtratagems each day, it makes for our advantage, thus take wee hands, thus ſweare to fall to|gether, when as the houſe where I ſo long have <hi>voted</hi> ſhall bee pull'd downe and levell'd to the earth, t'will doe mee good to ſee thee <hi>Mrs London,</hi> conſume in flames, a ſacrifice to <hi>Treaſon,</hi> to conclude, ſtand unto your ●●●kling ſtoutly, when wee fall, all the land ſhall taſte of ruine.</p>
+                  <lg>
+                     <l>T'Wil bee my joy, when as I needs muſt fall</l>
+                     <l>For to behold a ruine generall;</l>
+                     <l>This is the period of my Reformation.</l>
+                     <l>To kill my King, and under my Nation.</l>
+                  </lg>
+               </sp>
+               <trailer>FINIS</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

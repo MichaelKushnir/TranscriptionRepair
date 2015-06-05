@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+	 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+            <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+         </titleStmt>
+         <extent>356 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 March (TCP phase 1)</date>
+            <idno type="marc">11861873</idno>
+            <idno type="stc">Wing N868.</idno>
+            <idno type="vid">50022</idno>
+            <idno type="DLPS">A53060</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+                  <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+                  <author>Newcastle, William Cavendish, 1592-1676.</author>
+               </titleStmt>
+               <extent>[24], 679 [i.e. 675], [4] p. : ill.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by A. Warren, for John Martyn, James Allestry, and Tho. Dicas ...,</publisher>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>First edition.</p>
+                  </note>
+                  <note>
+                     <p>Errata: p. [4] at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text><body><div n="2" type="play">
+            <pb n="153" facs="88"/>
+            <head>THE SECOND PART OF Touths Glory, and Deaths Banquet.</head>
+            <div n="1" type="act">
+               <head>ACT I.</head>
+               <div n="1" type="scene">
+                  <head>Scene 2.</head>
+                  <stage>
+                     <hi>Enter the Lord de</hi> l'Amour, <hi>and the Lady</hi> Innocence; <hi>the Lord de</hi> l'Amour <hi>seems to appear angry.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Innocence.</speaker>
+                     <p>My Lord, what makes you frown on me, surely I never willingly offended you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>But the report I hear of you offends me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I hope my behaviour is not lyable to any aspertion or evil censure; for, as you have used me civi|ly, so I have behaved my self modestly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I perceive you are a subtil insinuating young Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Think me not subtil, for being so brod as not to slight your Love; not so uncivil, as to scorn your noble favours; but strive to merit your worthy affections; but if I have erred in my endeavours, pray pardon me, and if you please to tell me my errour, I shall rectify it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I hear you will speak more lyes, than tell truths.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Truly I am too strict a Votary to truth to tell a lye.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I should be glad you were vowed one of her Order.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I am so, and have taken the habit of sincerity upon me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Tell me truly, do you never use to lye?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>If you have opinion that I never, or seldome, speak truth, let me say what I will, you will still believe it is a lye; but truly, I did never tell a lye as I do know of, but did alwayes speak truth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I hear to my great grief you have many faults, pray mend them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I am sory there are so many ill reports, or rather aspersions laid on me as to grieve you; but surely, youth cannot commit many faults; but Age, that hath had time to commit faults in; but if you can believe my faults surmounts not all accounts: I shall desire to know them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Examine yourself, and you will find them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I shall call a particular Councel, and make a General search, and what thoughts, words, or actions, I can find guilty, or prove Cri|minal, I shall condemn, and sacrifice them on the Altar of Repentance, and crave mercy and forgiveness.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Pray do so.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <stage>
+                     <pb n="154" facs="89"/>
+                     <hi>Lady Innocence alone.</hi>
+                  </stage>
+                  <stage>'Tis strange his humour should be so suddenly changed, from loving professions, kind expressions, and pleasing smiles, to sharp words, and angry frowns; and that he should seem to love me as much as he did, &amp; now, to believe me so little, as it seems he doth, I hope it is only the superfluities of his affections, that runs into the in|discretion of jealousie.</stage>
+                  <stage>Ex.</stage>
+                  <stage>
+                     <hi>Enter</hi> Sanspareile <hi>and her Audience. As soon as she hath taken her standing place,</hi>
+                  </stage>
+                  <stage>A Messenger Enters.</stage>
+                  <sp>
+                     <speaker>Messenger.</speaker>
+                     <p>The Queen of <hi>Attention</hi> is come to be one of your Audi|ence.</p>
+                  </sp>
+                  <stage>The Company makes a bustle.</stage>
+                  <stage>
+                     <hi>Enter the Queen of</hi> Attention, <hi>and her Train.</hi>
+                  </stage>
+                  <stage>Sir Thomas Father Love kneels down, and kisses her hand.</stage>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>I am come to hear, and see your Daughter, whom same reports to be the wonder of this Age.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father.</speaker>
+                     <p>It had been more proper, and fit, for my Daughter to have waited at your Court-Gates, untill your Majesty had comanded her into your pre|sence, than for your Majesty to come hither, to hear, and see her; but she being a plain bred girle, durst not be so bold.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>If your Daughters wit be answerable to her beauty, she is a won|der indeed.</p>
+                  </sp>
+                  <stage>Sanspareile <hi>comes off from the place where she stands, and makes</hi> 3. <hi>Obeysan|ces, and coming near kneels down, and kisses the Queens hand.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Sanspareile.</speaker>
+                     <p>Madam, this gracious honour, and honourable grace, is beyond the management of my young years; the evil of my weak confidence, and the compass of my little wit, and my obscure breeding, hath made me so Ignorant, that I know not in what manner I should behave, or address my||self towards your Majesty; but if I commit faults in misbehaviour, pray im|pute it to my ignorant youth, and not to disobedience.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>I see nothing yet in your behaviour, but that you may be not only a pattern for young, but also for grave Age, to take example from.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sanspareile.</speaker>
+                     <p>Madam, the generosity of your Maiesties Nature, the Mag|nificence of your Majesties mind, and the Charity of your Majesties disposi|tion, gives an overflowing commendation, like to the goodness of the Gods, that gives more to the Creature, than the Creature can deserve.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>Let me tell you young Lady, your speeches are as pleasing to the eare, as your beauty is delightfull to the eye.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sanspareile.</speaker>
+                     <p>Your Majesty is like a Deity, can turn or translate words, like poor Mortals, into a glorified sence, like as into a glorified body.</p>
+                  </sp>
+                  <sp>
+                     <pb n="155" facs="89"/>
+                     <speaker>Queen.</speaker>
+                     <p>Sir <hi>Thomas Father Love,</hi> if your Daughter speak at all times, and alwayes so eloquently, I should not wonder you let her speak in pub|lick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father,</speaker>
+                     <p>I beseech your Majesty, that you will rather judge me an over fond Father, which is natural, than a vain opiniatour, in that I give her liberty to speak in publick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>If it were a vanity, it might be well forgiven; but pray let me hear her speak.</p>
+                  </sp>
+                  <stage>Sanspareile <hi>makes three obeysances as she steps back from the Queen to her standing-place, and then ascends.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Sanspareile.</speaker>
+                     <p>Great Queen! I, nor no other, should offer, or dare to speak before, or to such Supreme persons as your Majesty, without a sore preme|ditation; for the words and behaviours of speakers should be fitted to the de|grees and qualities, Powers, Offices, and Authorities of the Auditory; But your Majesties commands makes that an obedient duty, that would other|wayes be a presumption; wherefore, on the ground of duty I speak at this time before your Majesty; but the Royalty of your person, the brightnesse of your beauty, the fame of your vertues, and the glorious splendour of your Majestical Grandeur hath so amazed me, that my understanding is as it were blind, which will cause my tongue to stagger, and my words to run stumbling out of my mouth; but I hope your Justice will pardon them; For, as Divine Justice belongs to the Gods, moral Justice to Nature; so humane Justice to Monarchial Princes, which justice is weighed and measured out according to merit, or desert, be they good or bad: For which Justice Gods and Prin|ces are both feared and loved; and Justice is the chief Pillar or upholder of Monarchical States and Common-wealths; for without Justice there can be no Government, and without Government there can be no Rule, and without Rule there can be no peace, and where peace is not, there will be warrs and, warrs causeth ruine and destruction; But for the most part, those Kingdomes that have arrived to the height of Glory, declines or falls to ruine: The reason is, that a low condition is necessitated, and weak; wherefore they seek for help to strengthen themselves, which makes or rather forces every particular person to associate, &amp; unite either by Laws of Covenants, to which they submit and obey: But when a Kingdom is in a Glorious condition, and is full of prosperity, every particular Citizen or man thinks he can stand upon his own foundation, flinging off their suppor|ters, which is Duty, and obedience, which makes them fall to ruine; For when men comes to that height of pride, caused by prosperity, that they all strive to be Superiours, and Commanders; they become Factious and muti|nous against the Magistrates, Rulers, or Governours; which Factions begets warrs, either by calling in Forriegners, or by making, or siding into parties a|mongst themselves; for it is to be observed, that States, or Monarchies do oftner fall by the pride and Factions of the Commons, or Subjects, than by the Tyranny of the Rulers or Governours; But it is the nature of the vulgar sort of man-kind, to be the most basest, fearfulest &amp; dejected Creatures in ad|versity, that Nature hath made, and in prosperity to be the proudest, insulting|est and imperious and cruelest of all Creatures. But Kings and Royal Prin|ces should do as Gods, which is to keep their Subjects in aw, with the Super|stitious fear of Ceremonies; wherefore Princes should do no actions, no, not the meanest, without Ceremony to astonish the vulgar; for Ceremonies be|gets
+<pb n="156" facs="90"/>
+fear, fear begets Superstition, Superstition Reverence, Reverence Obedi|ence, Obedience brings Peace, Peace brings Tranquility; But where Cere|monie is not used, the Gods are neglected, and Princes dispised; for Ceremo|nie is the Throne which Gods and Princes sits on, which being pulled a|way, they fall from their Glory; for Ceremonie is the Royal Crown which makes them Majestical, it is the Scepter by which they rule, it is the Altar at which all the Subjects kneel, do bow, and they offer up there their natural free liberty.</p>
+                     <p>But most glorious Princess, you and your Subjects are like the Sun, and the rest of the Planets, moving perpetually, keeping their proper Sphere, they moving in civiler loyalty about you, to receive the light of your Authority, and you move in them as the just center, spreading your glorious beams round about the Circumference of your Dominions, and in the light of your com|mands they see their duty: And your Laws are like the fixed Starrs, which twinkling move in the night of great offences, and doth assist the innocent with sparkling light. And your Majesty governs like the Gods, your wis|dome by your Works is known, and by your Wisdome is your Power Immense.</p>
+                  </sp>
+                  <stage>So doing her respects, comes off from her standing, and with three Reve|rences comes to the Queen.</stage>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>Young Lady let me tell you, that you are fit to be a Governesse, (although you be very Young) that can speak so well of Govern|ment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sanspareile.</speaker>
+                     <p>'Tis happier for me to be a Subject to so gracious a Sovereign, than if I were govern a people my self.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene 2.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Innocence, <hi>and her Maid.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>PAssive.</speaker>
+                     <p>Madam, you retire your self more to solitary than you were used to do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Because I find the world not only more foolish, but more wicked than I thought it was, but who would endure the world, or the worlds folly, since solitarinesse is sweet and melancholly?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Passive.</speaker>
+                     <p>The truth is, that words pleaseth the world more than reason; and vice is exercised more than vertue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>You say right, for words takes the world of man-kind by the ears, drawing them about even where they please; when reason is not heard, also vice will be imbraced, and vertue kickt away; thus words and vice will get a room, both in the head and heart, when reason and vertue are barr'd out, but if perchance they are crowded in, they are straight thrown out as unfit guests, or troublesome intruders.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Passive.</speaker>
+                     <p>But Madam, let me advise you from so much solitude, for obscu|rity shadows vertue, and buries beauty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>And Solitude doth hide defects, as well as Excellencies.</p>
+                  </sp>
+                  <sp>
+                     <pb n="157" facs="90"/>
+                     <speaker>Passive.</speaker>
+                     <p>But you have no defects to hide.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Nor Excellencies to divulge.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter the Lady</hi> Innocence, <hi>the Lord de</hi> l'Amour</stage>
+                  <stage>
+                     <hi>Ex.</hi> Passive.</stage>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Tis strange you can be so crafty in dissembling, and yet so young; for you appear to me to be innocently modest, and of a bashfull Na|ture, and yet it is told me you are so impudently bold, speaking so wantonly, as it is a shame to Nature, which makes me fear you will prove disho|nest.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Perchance I might learn modest words, but not the significati|on; yet surely I never spake such words I understood not, nor have I many speaking faults to accuse me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I am told you speak so knowingly of marriage, as if you were a mother of many children.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>The mystery of marriage I neither know, nor guesse at, neither do I know how children are bred or born.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour,</speaker>
+                     <p>If you be so ignorant, you may loose your Virginity for want of knowledge and wit to keep it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I have been taught, none can be devirginated that suffers not immodest action, if so, I am a pure Virgin, and my thoughts are so in|nocent, and my life so honest, as I wish the Chambers of my mind or soul, (which is the brain and the heart) were set open to your view; there should you see the pictures in the one, and read the letters in the other, for truth re|cords all in the heart, and memory pencils all that the imaginations or Sen|ses brings into the brain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I cannot but believe what is so confidently reported; but your words are such charms, as they inchant my angry passions, and makes my will a prisoner.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Let reason, as a Knight of Chevalry, and truth as his E|squire, set him free, and open the gates of understanding, then you might see vertue cloathed with white Innocency, and truth free from the bonds of falshood.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>So you were as wife as witty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Wisdome is built upon the Foundation of Experience; wherefore none can be wise but those that are old; but though I am too young to be wise, yet not to be vertously honest.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Pray Heaven you prove so.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <stage>
+                     <hi>Lady</hi> Innocency <hi>alone.</hi>
+                  </stage>
+                  <stage>Heaven blesse my innocency from Thieves of slander, that strives to steal away my honest Fame.</stage>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <pb n="158" facs="91"/>
+                  <head>Scene 3.</head>
+                  <stage>Enter two Men, or Scholars.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEntleman.</hi>
+                     </speaker>
+                     <p>This Lady <hi>Sanspareile</hi> hath a strange spreading wit, for she can plead causes at the Bar, decide causes in the Court of Judi|cature, make Orations on publick Theaters; act parts, and speak speeches on the Stage, argue in the Schooles, preach in the Pulpits, either in Theology, Philosophy, moral and natural, and also phisick and Metaphysick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Gent.</hi>
+                     </speaker>
+                     <p>The truth is, she is ushered by the Muses, led by the Sciences, and attended by the Arts.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>Scene 4.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Innocence, <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I do perceive my shiftlesse youth is round beset with enemies.</p>
+                     <l>Suspitions round about me placed,</l>
+                     <l>With slandring words my same disgraced:</l>
+                     <l>My innocency, as crast is thought,</l>
+                     <l>My harmlesse life to ruine brought;</l>
+                     <l>Who will adore the Gods, if they</l>
+                     <l>Vice, vertue, in one ballance lay?</l>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II.</head>
+               <div n="5" type="scene">
+                  <head>Scene 5.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Sanspareile, <hi>all in white Satin, like as a Bride, and her Father and her audience, which are all Lo|vers; these stand gazing upon her.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SAnspareile.</speaker>
+                     <p>This Noble assembly may chance to think it a vanity in me, never to receive any particular visit or adresse from any particular or sin|gle person, but I do so, by reason life is lost in particular acquaintance, as small Rivers are in running through the earth. But in the publick, life swims as in a full Sea, having a fair gale of observation, and Sailes of opportune time to swim withall, marking the Card of actions, and the Needle of dispositions
+<pb n="159" facs="91"/>
+drawn or turned by the Loadstone of affection, to the North-pole of Experi|ence, to guide me safe from the Rocks of slander, and quick-sands of scandal, till I come to the Port of death, there to unload my Lifes Merchandise; and I hope my Voyage may be so prosperous, as I may be inriched with the praises of After-Ages.</p>
+                     <p>Likewise, the reason why I choose to speak in publick, is, that I would not speak idely, for in publick I shall take care of what I speak, and to whom I speak, when in private visitations to single persons, my speech may be care|lesse with negligence, in which I may throw away my time with my words; For, to speak to no purpose, is to make words useless, and words is the marks to distinguish things, and Figures to number merits with, and Notes to record the noble Acts of men.</p>
+                     <p>But at this time I am to speak by my Fathers command, upon a Subject which my contemplation hath no acquaintance with, which is marriage, and I hear by my Father, that you have all treated with him, or rather intreated him to bestow me in marriage, which is to make me unhappy, not but that I believe what I hear, which is, that you are all persons of Quality, Birth, Breed|ing, and Merit, far beyond my desert, yet with the best, if any best there be, being all worthy; yet were I a wife to any one, I might be unhappy, by rea|son marriage is an incumbered life, although the Husband and the Wife were fitly matcht for years, Births, Fortunes, Dispositions, Humours, Capacities, Wits, Conversations, Constancies, Vertues, and affections; and first, by your leave, I will discourse of mens marriage, by reason Man being accounted the Supremer Creature, and alwayes bearing Rule, he shall be first placed. As for marriage, to men it is a great hinderance to a speculative life, it cuts off Phancies Wings, and quenches out the Poetical Fire, it breaks the Engine of invention, disturbs sweet contemplation, corrupts honest Counsels, ob|structs all Heroick actions, obscures fame, and often times causes infamy by the wifes inconstancies, and many times by her indiscretion; for a man is dis|honoured if his wife is but thought wanton, or but inclining to be amorous, and though she be as sober in her Nature, and as constant as any woman can be, yet the very suspition is a disgrace, and if the suspition is a disgrace, what is a visible truth? His very Neighbours makes Horns as he passeth by their doors, whilst he sadly and shamefully hangs down his head with a dejected countenance, which makes him seem a Coward and a Fool, although it be unjust that the faults of the wife should be a blemish to the Husbands honour; yet so it is, this being the greatest cause why Husbands are jealouse, which jealousie is more for their Honours sake, than for their Wives affections; thus you see how dangerous a thing it is for man to marry, who must trust his honour to the management of a Foolish Woman, and women naturally like children, inconstant, unlesse education doth rectifie their frail natures, pee|vish humours, various appetites, and inconstant affection: Likewise mar|riage is not only apt to corrupt the mind with jealousie, but with Covetous|nesse; for the extreme fondnesse and natural love of Parents to their Chil|dren, maks them strive by all their endeavours to inrich them; this makes them gripe their Tennants, pinch and half starve their servants, quarrel and dispute with their neighbours, corrupt Judges take Bribes, besides it makes men apt to rebell, and turn Traitorus, murmuring at their Taxes and impositions, it also makes them timorous and fearful in warrs, by reason their wife and chil|dren may be ruined by their death. Also it makes them dull in their Con|versations,
+<pb n="160" facs="92"/>
+by reason they are alwayes plodding for their worldly affairs; and for the Muses, had a husband time to entertain them, yet the wife would right them, or drive them from him, with their quarreling disputes, or sencelesse prizes; besides most women are as jealouse of the Muses, as of their Maids; but to treat or discourse of married women, is to discourse of a most unhappy life, for all the time of their lives is insnared with troubles, what in breeding and bearing children, what in taking and turning away Ser|vants, directing and ordering their Family, counting their expences, and dis|bursing their revenues, besides the vexations with their servants, for their quarreling and combining, for their sloth and sluttery, for their spoiles and carlessnesse, for their treachery and couzenage, and if they have Children, what troubles and griefs do unsue? Troubled with their frowardnesse and un|towardnesse, the care for their well being, the fear for their ill doing, their grief for their sicknesse, and their unsufferable sorrow for their death; Yet this is the best part, and not to be avoided: But if these troubles be joyned with an ill Husband, it heightens their torments; for if he be a Drunkard, she had better be marryed to a Beast, her nostrils is stencht with the Lees of wine, her eyes are offended with his rude behaviour, and her ears are struck with a cursed noise of cursing and Oaths; and if he be a Gamester, she lives in an unsetled condition, she knows not how soon she may want; for if she have plenty one day, she may be in a condition to beg the next. And if her Hus|band be inconstant, and loves variety of women: O how jealousie torments her, besides the wrongs she suffers from him! what affronts she receives from his Mistresse! How is she dispised amongst her neighbours? sleighted by her servant, suspected by the world for having some defect? as either to be in|continent, sluttish, foolish, froward, crosse, unkind, ill natured, sickly, or dis|eased, when perchance the woman may be worthy to be marcht with a tem|perate, wise, valiant, honest, rich and honourable man; and if women go fine, and take pleasure in themselves, and Garments, their Husbands are jea|louse; and if they regard not themselves or Garments, their Husbands dislikes rhem; For though men will swear to their wives they like them better in their old cloaths, than other women in their glorious Apparrel; because they would not have them expensive, yet if their wives neglect themselves, regarding not their dressing, but sleights all outward Adornmentss, and change of Garments as prodigal spend-thrifts, they starve their Husbands esteem in their thrifty plainness, Consumes their affections in their peiced Petti|coates, and buries their Husbands love in their dirty raggs; And from the Dunghill of dirty raggs, and grave of soul Linnen, is their Husbands transfor|med to beastly Adulteries, stealing by degrees out of one Form into another, as from a doting Husband, to a fond Husband, form a fond to a discreet Hus|band, from a discreet, to a careful Husband, from a careful, to a carelesse, from a carelesse, to a disliking, from a disliking, to a hating, and then they be|gin to wander; As first, an eye glances, from an eye glance, to an admirer; from an admirer, to a professour, from a professour, to a dissembler; from a dissembler, to an Adulterer; then for the dresses and garments of his Mistress, First, from clean, to new; from new, to fine; from fine, to brave; from brave, to glorious; from glorious to fantastical; from fantastical to profusely vari|ous from profusely, various to any dirty Slut. But his wife (on the other side, if his wife desires) appears handsome, and practises civil behaviour, and endeavours to be sine, takes care to be cleanly, observes to be fashionable, her
+<pb n="161" facs="92"/>
+Husband straight becomes jealouse, although she doth this for his sake, and to keep his affection, yet he thinks it is for the affection and sake of some other man, which causeth private discontents, from private discontents to quarreling disputes; from quarreling disputes, to publick exclamations, from publick exclamations, to open defiance; from open defiance, to devorcement; and though I cannot say this by, or from experience, having it only from re|lation, yet I do as faithfully believe it, as if I were experienced therein: On which faith, I made a vow never to marry, since I hear men are so hard to please, and apt to change; wherefore if I were marryed, instead of discoursing of several arguments, <hi>I</hi> should be groaning and sighing, and weep|ing, with several pains and vexations; and instead of a silent solitary contem|plation, a clamorous quarrelsome conversation; instead of a peaceable life, I should be alwayes in civil warrs; and instead of being happy, I should be mi|serable; for mariage is like a ship, which always lyes on the roughest Bilows of the Sea, rouling from side to side with discontents, sailing uncertainly, with inconstancy, and various winds, But noble, civil, kind and affectionate Gentle|men, as I have told you, <hi>I</hi> have made a vow never to marry, and surely mar|riage is not so happy an estate, or so pleasing a condition of life, as to perswade me to break my vow, neither can flattering Rhetorick, nor inticing beauty, nor adoring, admiring, deploring, praying, weeping <hi>Suters</hi> perswade me, no, not a bleeding Suter, were <hi>I</hi> sure he would dye, did he not enjoy me; for <hi>I</hi> will never be so dishonourable, perjurious, and impious, to break the holy Laws, and pull the Virgin Altars down, built in the conscience, on which are vows offered to Gods on high: Should <hi>I</hi> blow out that with faint inconstan|cy, that pure bright Vestal Fire of innocency, from whence the Essence of chast thoughts ascends to Heaven high; But rather than <hi>I</hi> would break my vow, <hi>I</hi> wish my ears as deaf as death, that hears no flattering sounds, nor sad complaints, nor terrifying threats, my eyes as dark as night, least light should bring some false deluding object in, for to deceive me; my heart like Ada|mant, so hard love cannot enter, nor pity nor compassion wound; but how|soever, <hi>I</hi> connot be wife to you all; wherefore since <hi>I</hi> cannot be every mans wife, <hi>I</hi> will dye every mans Maid. But <hi>I</hi> must tell this Noble Assembly, their meeting hath occasioned a quarrel here; for bashfulnesse, and confi|dence hath fought a Duel in my Cheeks, and left the staines of bloud there.</p>
+                  </sp>
+                  <stage>After her Respects.</stage>
+                  <stage>Ex.</stage>
+                  <stage>All her Audience, her Lovers goeth out silently, some lifting up their eyes, others their hands, some striking their hands on their breast, and the like.</stage>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <pb n="162" facs="93"/>
+                  <head>Scene. 6.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Innocence <hi>alone.</hi>
+                  </stage>
+                  <p>
+                     <hi>WHilst I was in his favour, my mind was like a pleasant Garden, where seve|ral Phancies like several Birds, did make sweet melody; and in this Gar|den a large, high Tree of Noble ambition grew; whereon hung fruits of hopes, but low misfortunes now hath cut it down, and therewithall have built a house, where melancholly dwels, darkened with Clouds of discontents, and winds of sighs, and show|ers of tears, doth blow and powre thereon.</hi>
+                  </p>
+                  <stage>She weeping and sighing.</stage>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="7" type="scene">
+                  <head>Scene. 7.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Incontinent, <hi>and the Lord</hi> de l'Amour.</stage>
+                  <sp>
+                     <speaker>LAdy Incontinent.</speaker>
+                     <p>Faith you will be well wived, for your assianced is known to be a Lyer, and feared she will be a Whore, and proved a Thief.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>How, a Thief?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>Why, she hath stolen my Pearl Chain worth a thousand Pounds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Tis impossible.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>It is not impossible to prove a Thief.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>No, for there is too many to misse; but sure it is impos|sible she should prove one, she is so honourably born, and <hi>I</hi> never heard but she was Vertuously bred.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>By your favour, Covetousnesse or Necessity, may tempt Honourable Births, and corrupt minds, that with plenty would be honest e|nough.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I grant, misery may prove some Noble souls sprung from Honourable stocks, yet not to be so wickedly base as to steal, although so un|worthy as to shark.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>Why, sharking is next Neighbour to stealing, or as near Kindred as an <hi>Equivocation</hi> is to a <hi>Lye.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>But she was never so necessitated, as to make her either a shark, or a Thief, having alwayes plenty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>But she is covetous, and youth that is fond of all things they see, desires to enjoy all things they have not, and will endeavour by any means or wayes to compass their desires.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I never found my Youth prompt to any such Acts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>Without more discourse, she hath stole my Chain, and I can prove it.</p>
+                  </sp>
+                  <stage>She goeth out alone.</stage>
+                  <stage>
+                     <pb n="163" facs="93"/>
+                     <hi>Lord de</hi> l'Amour <hi>alone</hi>
+                  </stage>
+                  <p>
+                     <hi>Tis strange, I know not what to think, or how to iudge, which of the two Ladies is a Divel; for surely one of them is.</hi>
+                  </p>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>ACT III.</head>
+               <div n="8" type="scene">
+                  <head>Scene 8.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEntleman.</hi>
+                     </speaker>
+                     <p>The Lady <hi>Sanspareile</hi> is the miracle of this age, the world doth not parrallel her with the like; for her behaviour is graceful and becoming, her Countenance modest and wife, her speech Majestical and witty, yet grave and learned, and her Oratory is after a New way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>It is reported, that there are many men come from all parts of the world to hear her, aad those that cannot understand this Language, comes only to see her, so famous is she to all the world.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>She is a great Honour to our Nation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>I hear she doth intend to plead in the behalf of poor Suiters, and hath asked leave of the Queen to be a pleader at the Barr, for all such as suf|fered wrong as injustices, and for such Clients as hath just causes, but hath not means to follow the Law, as to see the Lawyers, &amp; she will plead for them <hi>gratis.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>It is a pious and Noble Act.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Also her Father hath challenged all the eloquent Oratours of our Nation, to make Orations extemporately; likewise he hath challenged the most famous Schollars and learned men to dispute with her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Her Father is most doatingly fond of her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>He hath reason, and out of love to her he is building a very fine Library, to lay in all her Works; for they say she writes much, and hath writ many excellent Works.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>She deserves a Statue for her self, as well as a Library for her Works.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="9" type="scene">
+                  <pb n="164" facs="94"/>
+                  <head>Scene 9.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Innocence, <hi>and</hi> Adviser. <hi>the Lord de</hi> l'Amours <hi>Man.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>ADviser.</speaker>
+                     <p>Madam, my Lord and the Lady <hi>Incontinent</hi> hath sent me to tell you, you must come to be examined about the Chain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I am so shrunk up with fear, that methinks I could thrus● my self into a Nut-shell to hide myself.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Adviser.</speaker>
+                     <p>Faith if you could, it would not conceal you; for they would crack the Nut-shell and find you out.</p>
+                  </sp>
+                  <stage>Adviser goes out.</stage>
+                  <stage>
+                     <hi>Lady</hi> Innocence <hi>alone.</hi>
+                  </stage>
+                  <stage>
+                     <hi>O that Innocency should tremble as much as guilt, with fear; but if they did b●● know how little I value the riches of the world, they would not believe I should s●e● so frivolous a thing.</hi>
+                  </stage>
+                  <stage>
+                     <hi>Enter as to the Lady</hi> Innocence, <hi>the Lord de</hi> l'Amour, <hi>the Lady</hi> Incontinent, <hi>and a Iustice; and the Ladies two Maids,</hi> Informer <hi>and</hi> Falshood.</stage>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>The Lady <hi>Incontinent</hi> hath brought a Iustice, who hath power to make you confesse.</p>
+                  </sp>
+                  <stage>She falls a shaking.</stage>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>You may perceive her guilty, she trembles and shakes &amp; looks so pale.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Pray judge me not guilty by my countenance, bring it not as a witnesse against me, for the childish fears in my heart, causeth a trem|bling, which like an Earthquake, shakes my body, and makes my breath as pent up Air, that pants for passage, striving to get forth, and my innocent bash|fulnesse, or my bashful innocency, makes my eyes like perturbed lights, that see nothing cleerly; my words to flow like rough and broken streams; for my mind is so troubled, and my passions in such a storm, as my words can nei|ther flow easie, nor free.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>Here be two that will witnesse that she stole the Chhain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Falshood.</speaker>
+                     <p>I will swear she took the Chain of Pearl, and put it in her poc|ket, and so went out of the room with it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Why did not you follow her, and take it from her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Falshood</speaker>
+                     <p>I thought she would bring it again, for I never suspected she would deny it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>And will you witnesse the same <hi>Informer</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Informer.</speaker>
+                     <p>I will witnesse I saw it in her hand, looking on it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>What say you for your self Lady <hi>Innocence?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="165" facs="94"/>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I say my accusements doth not make me guilty of a crime; but I confess I took the Chain in my hand, out of a curiosity, and trial of my judgment or skill, to see whether I could find any defect, in somuch valued, esteemed, and high-prized a thing as Pearl; but not any wayes out of a cove|ton; Appetite, as to steal it, nor had I any tempting thoughts thereto, nor wisht I that or the like should be lawfully given me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>What did you with it, when you had done viewing it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I laid it on the Table from whence I took it off.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>But here are those that will swear you carried it away with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maids.</speaker>
+                     <p>Yes that we will.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I cannot alwayes avoid a false accusation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Will you swear you did not?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Yes, If my Oath will be taken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>Well, you did take it that is certain, wherefore you were best confess it, or you shall be wrackt to make you confess it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I will never bear false-witness against my self; I will dye first.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>My Lord, pray let her be carried away, and be whipt, until the be forced to confess it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Let me killed first: for to be whipt is base, and is only fit for Gally-slaves, or those that are born from Slaves; but to be kill'd is Noble, and gives an Honourable triumph.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iustice.</speaker>
+                     <p>Young Lady, you are heer accus'd by two Witnesses, and unless you can bring Evidence to clear you, you are liable to punishment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Truly Sir, I have but two invisible Witnesses, Conscience and Innocency, to plead for me, and Truth my Judge, who cannot be brib'd, although it may be over-powr'd, by false and slanderous reports.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iustice.</speaker>
+                     <p>But it is imagin'd by your best friends, you are guilty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Neither my friends, nor enemies, can create me a Crimi|nal, with their Imaginations.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>But speak, are you guilty?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>To what purpose should I speak? for what can I say to those that make it their delight to accuse, condemn, and execute? or what justice can I expect to have, where there is no equity? wherefore, to plead were a folly, when all hopes are cut off; to desire life, a double misery, if I must indure Torments; but silence, and patience, shall be my two Compa|nions, the one to help me in my suffering, the other to cut of impertinen|cies.</p>
+                  </sp>
+                  <stage>She goes out from them.</stage>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>What think you Justice, is she guilty?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Incontinent.</speaker>
+                     <p>Why should you make a question, when it hath been proved by Witnesses? Come Justice, Come, and drink a Cup of Sack, and give your opinion then.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Lady</hi> Innocence <hi>comes, as passing by, alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I am so confidently accus'd of this Theft, as I am half per|swaded I did take the Chain, but that Honour and Honesty sayes I did not.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="10" type="scene">
+                  <pb n="166" facs="95"/>
+                  <head>Scene 10.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Thomas Father Love <hi>at one door, and a servant-Maid at the other door.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SIr Thomas Father Love.</speaker>
+                     <p>Where is your Mistriss? the people do flock about the house to see her, as I think they will pull it upon my head if she shews not her self to them, wherefore call her.</p>
+                  </sp>
+                  <stage>The Maid goes out.</stage>
+                  <stage>
+                     <hi>Enter the Lady</hi> Sanspareile.</stage>
+                  <sp>
+                     <speaker>Sir Thomas Father Love.</speaker>
+                     <p>Come, Come Child, there are such expectations without for thee; but what makes thee to look so heavy?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Sanspareile.</speaker>
+                     <p>Truly Sir, I am not well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Thomas Father Love.</speaker>
+                     <p>Not well? Heaven bless thee; where art thou Sick?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Sanspareile.</speaker>
+                     <p>I cannot say I am very sick, or in any great pain; but I find a general alteration in me, as it were a fainting of spirits.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Thomas Father Love.</speaker>
+                     <p>Prethee say not so, thou dost so affright me; but thou art not very sick, art thou?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Sanspareile.</speaker>
+                     <p>I hope I shall be better Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Thomas Father Love.</speaker>
+                     <p>My dear Child go to bed, whilst I send for some Doctors to thee.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="11" type="scene">
+                  <head>Scene 11.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Innocence, <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <p>TO whom shall I powre out my sad complaint? for all do them a Melan|choly mind. O Gods! how willingly would I be buried in the grave with dust, and feast the worms, rather than live amongst mankind! Oh! Oh! that these Melancholy damps arising from my afflicted Soul could extinguish the Lamp of life, or that my sad and grieved thoughts that feed upon my troubled Spirits, could bite with sorrows teeth, the thread of life asunder.</p>
+                  </sp>
+                  <stage>She sits down on the ground, leaning her Cheek on her hand, and weeps.</stage>
+                  <stage>
+                     <hi>Enter to her, her Maid</hi> Passive.</stage>
+                  <sp>
+                     <speaker>Passive.</speaker>
+                     <p>My sweet Mistriss, why do you weep?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>The spring of grief doth send forth streams of tears to wash off my disgrace, and the foul spots which slandring tongues have stain'd, or rather slain'd my reputation; for which my eyes, did they not weep, would seem unnaturally unkind; but my dead reputation is imbalm'd with salt tears, bitter groans, shrowded in sorrows, and intomb'd in misery.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Passive.</speaker>
+                     <p>My dear Lady, you are imbalm'd with the pretious gums of
+<pb n="167" facs="95"/>
+Virtue, and sweet spices of wit wrapt up in youth and beauty, and are intomb|ed, or rather inthroned in honest hearts; wherefore waste not your self with grief; for certainly the world will condemn your Accusers, and not you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Those feeble hopes cannot my spirits uphold, they give no light of comfort to my mind; for black despair, like Melancholy night, mustles my thoughts, and makes my Soul as blind. O but why do I thus mourn in sad complaints, and do not curse Fortune, Fates, and destiny, their Wheels, there spindel, threads, and Chains?</p>
+                  </sp>
+                  <stage>She heaves up her hands, and lifts up her eyes.</stage>
+                  <l>May Nature great, turn all again to nought,</l>
+                  <l>That nothing may with joy receive a thought.</l>
+                  <stage>She goes out in a very Melancholy posture.</stage>
+                  <stage>Passive <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <p>She is deeply Melancholy, Heavens ease her mind.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="12" type="scene">
+                  <head>Scene 12.</head>
+                  <stage>
+                     <hi>Enter</hi> 2. <hi>or</hi> 3. <hi>Doctors.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>1. <hi>DOctor.</hi>
+                     </speaker>
+                     <p>The Lady <hi>Sanspareile</hi> cannot live, for the hath no pulse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>No, she is descending to the grave.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>But had we best tell her Father so?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>No, by no means as yet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>Why not? he will know when she is dead.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter the Lady</hi> Mother Love, <hi>as to the Doctors.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Mother Love.</speaker>
+                     <p>Mr. <hi>Doctors,</hi> What, do you mean to let my Daugh|ter dye? will you not prescribe something to give her?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>Madam, we shall do our best, you may be confident.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Mother.</speaker>
+                     <p>What if you prescribed a Glister, or a Purge?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>I shall not need Madam.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Mother.</speaker>
+                     <p>Why, if any one be sick, they ought to have some re|medies applyed to them:</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>We shall consider what course is best to be taken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Mother Love.</speaker>
+                     <p>For Gods sake do not neglect her.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <stage>
+                     <hi>Enter Sir</hi> Thomas Father Love, <hi>to the Doctors.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Sir Thomas Father Love.</speaker>
+                     <p>Mr. <hi>Doctors,</hi> what is your opinion of my Daughter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>Truly Sir, she is very dangerous sick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Thomas Father Love.</speaker>
+                     <p>I can find no pulse she hath.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>Nor we Sir, that makes us doubt her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father Love.</speaker>
+                     <p>Pray consult about her what is best to be done.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Doctor.</hi>
+                     </speaker>
+                     <p>We shall Sir.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="13" type="scene">
+                  <pb n="168" facs="96"/>
+                  <head>Scene 13.</head>
+                  <stage>
+                     <hi>Enter the Lord de</hi> l'Amour, <hi>and the Lady</hi> Innocence.</stage>
+                  <sp>
+                     <speaker>LOrd de l'Amour.</speaker>
+                     <p>What makes you look so gastly pale?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I am so ashamed of my accusation, as my bashfullness is beyond all blushing, as greatest griefs are beyond all tears, it causes my limbs to tremble, face look pale, like Death's assault, making my courage fail.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Perchance you are asham'd to confess so base a crime; you may confess to me, for I shall strive to hide your faults, and cover them with some excuse; wherefore confess; for though it be a fault to steal, yet it is a double fault to hide it with a Lye, and by these crimes you do offend the Gods; nor will their anger be remov'd, unless you confess and ask pardon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Your Doctrine is very good, and Application well appli|ed, had I been Guilty; but being Innocent, they are vainly uttered.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I hope you will agree to resign the interest you have to me, if I should desire you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Saints never offred up their Souls to God more willingly, than I all interest to you; not but that I love you, yet I should be loath to be bound to one that hath so ill an opinion of me, as you have.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>The World would condemn me, if I should marry you, to stain my Posterity with your Crimes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>O Heavens, is my scandal of so deep a dye, as to stain Pre|decessors and Posterity! yours may avoid it, but my Predecessors are spot|ted all over.</p>
+                  </sp>
+                  <stage>She goes out weeping.</stage>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I cannot chuse but love her, although I fear she is guilty; but I perceive she is resolv'd not to confess, as being asham'd of it.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="14" type="scene">
+                  <head>Scene 14.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Sanspareile <hi>in a bed, as being sick, the bed drawn on the stage, and her Father kneels by the bed-side whilst she speaks as dying.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SAnspareile.</speaker>
+                     <p>Let spotless Virgins bear me to my grave, and holy An|thems sing before my Herse, and soft-toucht Instruments to play the while, and keep just time with tears, that trickling fall from the sad eyes of my most sorrowful friends; and one my Coffin spread upon a covering of smooth Sattin, white, to signify here how I lived a Virgin, pure I lived and dy|ed; and let my works which I have wrought, and spun out of my brain, be given to times Library, to keep alive my name.</p>
+                     <l>And set a Lilly-Garland on my Herse,</l>
+                     <l>On every leaf therein, stick on a verse;</l>
+                     <l>
+                        <pb n="169" facs="96"/>And when my Coffin to the grave you bring,</l>
+                     <l>Let Poets on my Herse some verses fling.</l>
+                     <l>For whilst I liv'd I worship'd Nature great,</l>
+                     <l>And Poets are by Nature savoured.</l>
+                     <l>I in the Muses Arms desire to Dye,</l>
+                     <l>For I was bred up in their Company:</l>
+                     <l>And my requesl's to them, when I am dead,</l>
+                     <l>I may amongst them be remembered.</l>
+                     <p>But death drawes near, my destiny is come; Father farewell: may time take up my years, which death cuts off, and add them to your life: Peace keep your mind, and Comfort give you rest.</p>
+                  </sp>
+                  <stage>He weeps.</stage>
+                  <sp>
+                     <p>But why do you weep dear Father? my life's not worth your tears; yet Heavens doe weep, and mingle with dull earth their Cristal streams, and earth's refresht thereby; so is not death, for death is ever dry.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father.</speaker>
+                     <p>O Child! O Child! my heart will break.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sanspareile.</speaker>
+                     <p>Sir, why do you sigh and groan, and grieve, that I must dye? life is perpetual, and death is but a change of shape.</p>
+                     <l>Only I wish that Death may order it so,</l>
+                     <l>That from your rootes I may your flower grow.</l>
+                     <l>I fear not Death, nor am I loath to dye:</l>
+                     <l>Yet I am loath to leave your Company.</l>
+                     <p>But O the Muses stay my dying lips to close. Farewel</p>
+                  </sp>
+                  <stage>Dyes.</stage>
+                  <stage>Her Father starts up from her Bed-side, and stares about the Bed; and the dead Lady is drawn off the stage.</stage>
+                  <sp>
+                     <speaker>Father.</speaker>
+                     <p>What art thou sted? dear Soul wheredost thou goe? stay and I will bear thee Company.</p>
+                     <stage>Stares about.</stage>
+                     <p>Where art thou Soul? why mak'st thou such great haste? I pray thee stay, and take thy aged Fathers Soul along with thee, left it should wander in the dark and gloomy shades to find thee out. O! O death! quick dispatch, Let me unprisoned be, my body is old, decayed and worn, times ruins shews it. Oh! Oh! let life fall, for pitty pull it down. <stage>[stops a time]</stage> Am I not dead? you cruel powers above, to lengthen out an old mans life in misery and pain; why did not Time put out the sight of both my eyes, and also deaf my ears, that I might neither hear, nor see, the death of my lifes joy? O Luxurious Death, how greedily thou feedst on youth and beauty, and leist old Age hang withering on lifes tree? O shake me off, let me no longer grow, if not, grief shall by force snip off my tender stalk, and pitty lay me in the silent grave. Heark, Heark, I hear her call me? I come, I come Childe.</p>
+                     <stage>He feches a great sigh.</stage>
+                     <p>O no, she is gone, she is gone, I saw her dead; her head hung down, like as a Lilly, whose stalk was broke by some rude blusterous wind.</p>
+                     <stage>He stares about.</stage>
+                     <p>There, there I see her on her dutious knee; Her humble eyes cast to the ground; Her spotlesse hands held up for blessings crave, asking forgivenesse for faults not done. O no, She is dead! She is dead! I saw her eye-lids cloze
+<pb n="170" facs="97"/>
+like watry Clouds, which joyn to shut out the bright Sun; and felt her hands which Death made cold and numb, like as to Cristal balls; She is gone, she is gone, and restless grows my mind; thoughts strive with thoughts, &amp; struggle in my brain, passions with passions in my heart make War.</p>
+                     <l>My Spirits run like suries all about;</l>
+                     <l>Help help for Heavens sake, and let life out.</l>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="15" type="scene">
+                  <head>Scene 15.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Mother Love <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Mother Love.</speaker>
+                     <p>O my daughter! my daughter is dead, she is dead. Oh that ever I was born to bear a Childe to dye before me. Oh she was the Comfort of my Heart, the pleasure of my Eyes, the delight of my life. Oh she was Good, she was Sweet, she was Fair. O what shall I do, what shall I do?</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="16" type="scene">
+                  <head>Scene 16.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Thomas Father Love, <hi>half distracted.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SIr Thomas Father Love.</speaker>
+                     <p>
+                        <hi>Mercury</hi> lend me thy winged feet, that I may fly to Heaven, there to observe, how all the Gods and Godesses doe gaze upon my Beautiful Childe; for she is fairer than the light that great <hi>Apollo</hi> gives; and her discourse more ravishing than the Musick of the Spheres; but as soon as she sees me, she will leave them all, and run unto me, as she used to do, kneeling will kiss my hands, which she must not do, being a Goddess, and I a Mortal, wherefore, I must kneel to her, and carry her an offering; but what shall the offering be? Let me think. Why I will kneel and offer up my Aged life unto her Memory; but now I think of it better, I cannot dye in Heaven; wherefore, let me Study, let me Study, what she did love best when she lived upon the Earth; O I now remember, when I did ask her what she lov'd best, she would Answer, her Father and her Fame; but I believe, if she were here it would be a hard Question for her to resolve, which she preferr'd; and being not to be separated in Affection, we will not part in our Resurrection; wherefore <hi>Mercury</hi> farewel: for I will fly up with the Wings of her good Fame.</p>
+                     <l>And carry up her Wit, and there will strow</l>
+                     <l>It on Heavens floor, as bright as Stars will show;</l>
+                     <l>Her Innocency shall make new Milky waies,</l>
+                     <l>Her Virtue shall Create new Worlds to praise</l>
+                     <l>Her never-dying Name.</l>
+                     <l>Ha, Ho! It shall be so, it shall be so.</l>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <pb n="171" facs="97"/>
+               <head>ACT IV.</head>
+               <div n="17" type="scene">
+                  <head>Scene 17.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Innocence <hi>alone, studious, with her eyes to the ground, thou casting them up speaks.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Innocence.</speaker>
+                     <p>I am not so much in love with the World, as to desire to live, nor have I offended Heaven so much, as to be afraid to dye; then way should I prolong my life, when Honour bids me dye? for what Noble Soul had not rather part with the Body, than live in Infamy? Then tis not Death that affrights me, and yet I find my Soul is loath to leave its bodily Mansion; but O to be buried in Oblivions grave is all I fear; no Monumental Fame, nor famous Monument, my Soul displeases, that makes it loath to leave the body in forgotten dust, whilst it doth sadly wander in the Aire.</p>
+                  </sp>
+                  <stage>She walks a turn or two as in a musing thought, then speaks.</stage>
+                  <sp>
+                     <p>Soul be at ease, for the Memory of the dead is but like a dying Beauty, vades by degrees, or like a Flower whither'd, hath neither Sent, Colour, nor Tast, but moulders into dust: so hath the mind no form of what is past.</p>
+                     <l>But like as formless heaps those Objects lye,</l>
+                     <l>And are intomb'd in the dark Memory.</l>
+                     <p>O Foolish Vanity, to be so much a slave to Fame, since those that Fame doth love the best, and favoureth most, are not Eternal. Wherefore</p>
+                     <l>Nature perswades me to release my woe,</l>
+                     <l>Though foolish Superstition Natures foe</l>
+                     <l>Forbids it, yet Reason aloud sayes dye;</l>
+                     <l>Since Ease, Peace, Rest, doth in the grave still lye.</l>
+                  </sp>
+                  <stage>Walkes about as in a silent musing, then speaks.</stage>
+                  <sp>
+                     <p>I am resolv'd, then Come sweet Death, thou friend that never fails, give me my liberty. But stay my hasty resolution; for I would not willingly go to the grave as beasts doe, without Ceremony; for I being friendless, those hu|mane Funeral rites will be neglected, none will take the pains, nor be at the charge to see them perform'd; but some base vulgar person will throw me into the Earth without respect or regard; wherefore I will Living perform the Ceremonies, and as a guess or friend be at my own Funeral; it shall be so, and I will prepare it.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="18" type="scene">
+                  <pb n="172" facs="98"/>
+                  <head>Scene 18.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Thomas Father Love <hi>alone, and for a time walkes as in a musing or thinking, with his eyes cast on the ground, then speaks.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>FAther Love.</speaker>
+                     <l>Multitudes of Melancholy thoughts croud in my brain,</l>
+                     <l>And run to pull down Reason from his Throne;</l>
+                     <l>Fury as Captain leads the way,</l>
+                     <l>Patience and Hope is trod upon:</l>
+                     <l>O these distracted thoughts burrie my Soul about,</l>
+                     <l>Seeking a place to get a passage out.</l>
+                     <p>But all the Ports are stopp'd. O Cursed Death, for to prolong a life that is so weary of its Mansion.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Mr. Comfort <hi>Sir</hi> Thomas Father Loves <hi>friend.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Friend.</speaker>
+                     <p>Sir, will you give order for your Daughters Funeral, and direct how you will have her interred?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father Love.</speaker>
+                     <p>How say you? why I will have you rip my body open, and make it as a Coffin to lay her in, then heave us gently on sighs fetcht deep, and lay us on a Herse of sorrowful groans, then cover us with a Dark, Black, Pitchy, Spungy Cloud, made of thick Vapour, drawn from bleeding hearts; from whence may tears of showers run powring down, making a Sea to drown remembrance in.</p>
+                     <l>But O remembrance, is a fury grown,</l>
+                     <l>Torments my Soul, now she is gone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Friend.</speaker>
+                     <p>Sir, where there is no remedy, you must have patience.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father Love.</speaker>
+                     <p>Patience, out upon her, she is an Idle lazy Gossip, and keep; none Company but Cowards and Fools, and slothful conscientious Persons; neither is she usefull but for indifferent imployments: for what is of extraordi|nary worth, Patience doth but disgrace it, not set it forth; for that which is transcendent and Supreme, Patience cannot reach. Wherefore give me Fury, for what it cannot raise to Heaven, it throwes it straight to Hell; were you ne|ver there?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Friend.</speaker>
+                     <p>No, nor I hope shall never come there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father Love.</speaker>
+                     <p>Why Sir, I was there all the last Night, and there I was tor|tured for chiding my Daughter two or three times whilst she lived; once because she went in the Sun without her Mask; another time because her Gloves were in her Pocket, when they should have been on her Hands; and another time, because she slep'd when she should have studied, and then I remember she wept. O! O! those pretious tears! Devil that I was to grieve her sweet Nature, harmless Thoughts, and Innocent Soul. O how I hate my self, for being so unnaturally kind. O kill me, and rid be of my painful life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Friend.</speaker>
+                     <p>He is much distracted, Heaven cure him.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="18" type="scene">
+                  <pb n="173" facs="98"/>
+                  <head>Scene 18.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1. <hi>GEentleman.</hi>
+                     </speaker>
+                     <p>The Miracle is deceas'd, the Lady <hi>Sanspareile</hi> I hear i● dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Gent.</hi>
+                     </speaker>
+                     <p>Yes, and it's reported her Statue shall be set up in every College, and in the most publick places in the City, at the publick charge; and the Queen will build a Sumptuous and Glorious Tomb on her sleeping Ashes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Gent.</hi>
+                     </speaker>
+                     <p>She deserves more than can be given her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Gent.</hi>
+                     </speaker>
+                     <p>I hear her death hath made her Father mad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Gent.</hi>
+                     </speaker>
+                     <p>Though her death hath not made every one mad like her Father, yet it hath made every one melancholy; for I never saw so general a sadness in my life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Gent.</hi>
+                     </speaker>
+                     <p>There is nothing moves the mind to sadnesse, more than when Death devouts Youth, Beauty, Wit, and Virtue all at once.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="19" type="scene">
+                  <head>Scene 19.</head>
+                  <p>There is a Hearse placed upon the Stage, covered with black, a Garland of Ciprus at the head of the Herse, and a Garland of Mirtle at one side, and a Basket of Flowers on the other.</p>
+                  <stage>
+                     <hi>Enter the Lady</hi> Innocence <hi>alone, drest in White, and her hair hound up in several coloured Ribbons; when she first comes in speaks thus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Innocence.</speaker>
+                     <p>O Nature, thou hast created bodies and minds subject to pains &amp; torments, yet thou hast made death to release them! for though Death hath power over Life, yet Life can command Death when it will; for Death dares not stay, when Life would passe away; Death is the Ferry|man, and Life the Wastage.</p>
+                     <stage>She kneels down and prayeth</stage>
+                     <l>But here great Nature, I do pray to thee,</l>
+                     <l>Though I call Death, let him not cruel be:</l>
+                     <l>Great <hi>Jove</hi> I pray, when in cold earth I lye,</l>
+                     <l>Let it be known how innocent I die.</l>
+                     <stage>[Then she rises and directs her self to her Herse.]</stage>
+                     <l>Here in the midst my sadder Hearse I see;</l>
+                     <l>
+                        <note place="marg" anchored="true">These Verses the Lord Marquesse writ.</note>Covered with black, though my chief Mourners be,</l>
+                     <l>Yet I am white, as innocent as day,</l>
+                     <l>As pure as spotlesse Lillies born in <hi>May</hi>;</l>
+                     <l>My loose and flowing hair with Ribbons ty'd,</l>
+                     <l>To make Death Amorous of me, now his Bride;</l>
+                     <l>
+                        <pb n="174" facs="99"/>Watchet for truth, hair-colour for despair,</l>
+                     <l>And white as innocent as purest Ayre;</l>
+                     <l>Scarlet for cruelty to stop my breath,</l>
+                     <l>Darkning of Nature, black, a type of death.</l>
+                     <stage>[Then she takes up the Basket of Flowers, and as she strews them speaks.]</stage>
+                     <l>Roses and Lillies 'bout my Coffin strew,</l>
+                     <l>Primroses, Pinks, Violets fresh and new:</l>
+                     <l>And though in deaths cold arms anon I lye <stage>[weeps]</stage>
+                     </l>
+                     <l>I'le weep a showr of tears these may not dye,</l>
+                     <l>A Ciprus Garland here is for my head,</l>
+                     <l>To crown me Queen of Innocence, when dead;</l>
+                     <l>A Mirtle Garland on the left side plac't,</l>
+                     <l>To shew I was a Lover; pure &amp; chast;</l>
+                     <l>Now all my saddest Rites being thus about me,</l>
+                     <l>And I have not one wish that is without me.</l>
+                     <stage>[She placeth her self on her Herse, with a Dagger or pointed knife in her hand.]</stage>
+                     <l>Here on this Herse I mount the Throne of death,</l>
+                     <l>Peace crown my soul, my body rest on earth:</l>
+                     <l>Yet before I dye,</l>
+                     <l>Like to a Swan I will sing my Elegie.</l>
+                     <stage>[She sings as she is sitting on the Herse, thus.]</stage>
+                     <l>Life is a trouble at the best,</l>
+                     <l>
+                        <note place="marg" anchored="true">This Song the Lord Marquesse writ.</note>And in it we can find no rest;</l>
+                     <l>Ioyes still with sorrows they are Crown'd,</l>
+                     <l>No quietnesse till in the ground.</l>
+                     <l>Man vexes man, still we do find,</l>
+                     <l>He is the torture of his kind:</l>
+                     <l>False man I scorn thee in my grave</l>
+                     <l>Death come, I call thee as my slave.</l>
+                  </sp>
+                  <p>Here ends my Lords Writing.</p>
+                  <stage>And just then stabs her self.</stage>
+                  <stage>
+                     <hi>In the mean time the Lord de</hi> l'Amour <hi>comes and peeps through the Curtain; or Hanging, and speaks as to himself, whilst she is a dying.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>I will observe how she passes away her time, when she is alone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Great <hi>Iove</hi> grant that the light of Truth may not be put out, with the extinguisher of Malice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>How she feeds her melancholy!</p>
+                     <stage>He enters and goeth to her.</stage>
+                     <p>
+                        <hi>What are you acting a melancholy Playby your self alone?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>My part is almost done.</p>
+                  </sp>
+                  <sp>
+                     <pb n="175" facs="99"/>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>By Heaven she hath stabb'd her self.</p>
+                  </sp>
+                  <stage>[Calls Help, Help]</stage>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>Call not for help, life is gone so farr tis past recovery; wherefore stay and hear my last words; I die, as judging it unworthy to out-live my honest Name, and honourable Reputation. As for my accusers, I can easily forgive them, because they are below my Hate or Anger, neither are worthy my revenge; But you, for whom I had not only a devout, but an Idolatrous Affection, which offered with a zealous Piety and pure Flame the sincerity of my heart; But you, instead of rewarding my Love, was cruel to my life and Honour, for which my soul did mourn under a Veil of sad|nesse, and my thoughts covered with discontent sate weeping by: But those mourning Thoughts I have cast off, cloathing my self with Deaths pale Gar|ments; As for my pure Reputation, and white Simplicity, that is spotted with black Infamy by Hellish slander, I have laid them at Heavens Gates, just Gods to scoure them clean, that all the World may know how innocent I have been: But Oh! farewel, my fleeting Spirits pure Angels bear a|way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>O speak at the last! Are you guilty or not?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Innocence.</speaker>
+                     <p>I am no more guilty of those crimes laid to my charge, than Heaven is of sin.</p>
+                     <p>O Gods receive me. Oh! Oh!</p>
+                  </sp>
+                  <stage>Dies.</stage>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <l>Great Patience assist me; Heart hold life in,</l>
+                     <l>Till I can find who is guilty of this sinn.</l>
+                  </sp>
+                  <stage>Ex.</stage>
+                  <stage>The Herse drawn off the Stage.</stage>
+               </div>
+               <div n="20" type="scene">
+                  <head>Scene 20.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Thomas Father Love, <hi>brought in a Chair as sick, his Friend by him.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mr. Comfort Friend.</speaker>
+                     <p>How are you now?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father Love.</speaker>
+                     <p>O Friend! I shall now be well, Heaven hath pitty on me, and will release me soon; and if my Daughter be not buryed, I would have her kept as long out of the Grave as she can be kept, that I might bear her company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Friend.</speaker>
+                     <p>She cannot be kept longer, because she was not unbowelled.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father Love.</speaker>
+                     <p>Who speaks her Funeral Oration?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Friend.</speaker>
+                     <p>Why Sir, your distemper hath so disordered all your Family, as it was not thought of.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Father Love.</speaker>
+                     <p>She shall not go to the Grave without due Praises, if I have life to speak them: Wherefore raise me up, and carry me to the Holy place before her Herse, thus in my Chair, sick as I am; For I will speak her Fu|neral Oration, although with my last words, Thus will I be carryed living to my Grave.</p>
+                  </sp>
+                  <stage>He is carried out in a Chair by Servants.</stage>
+                  <stage>Ex.</stage>
+               </div>
+               <div n="21" type="scene">
+                  <pb n="176" facs="100"/>
+                  <head>Scene 21.</head>
+                  <stage>
+                     <hi>Enter the Lord de</hi> l' Amour <hi>alone, as in a Melan|choly humour.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LOrd de l'Amour.</speaker>
+                     <p>When I do think of her, my mind is like a tempestu|ous Sea, which foams and roars, and roles in Billows high; My brain like to a Ship is wracked, and in it's ravenous Waves my heart is drowned; And as several winds do blow, so several thoughts do move; some like the <hi>North</hi> with cold and chilly Fears, others as from the <hi>South</hi> of hot Re|venge do blow;</p>
+                     <l>As from the <hi>East</hi> despairing storms do rise,</l>
+                     <l>A <hi>Western</hi> grief blows tears into mine eyes.</l>
+                  </sp>
+                  <stage>Walks about, and weeps.</stage>
+                  <stage>
+                     <hi>Enter Master</hi> Charity <hi>his Friend.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mr. Charity.</speaker>
+                     <p>My Lord, why are you so melancholy for that which is past, and cannot be help'd?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Oh! the remembrance of her death, her cruel death, is like the Infernal Furies, torments my soul, gives it no case nor rest; For some|times my soul is flung into a Fire of Rage,</p>
+                     <l>That burns with furious pain,</l>
+                     <l>And then with frozen despair it rips it up again.</l>
+                     <p>But I unjust and credulous, I was the cause of her untimely death.</p>
+                  </sp>
+                  <stage>Enter the Maid that accused her.</stage>
+                  <sp>
+                     <speaker>Falshood.</speaker>
+                     <p>O my Lord, forgive me, for I have murdered the innocent La|dy you grieve for; for my false Accusation was the hand that guided the dag|ger to her heart; but my Ladies command was the Thief that stole the Chain, for she commanded me to take the Chain, and accuse the Lady of the Theft, for which she gave me the Chain for a reward; This I will wit|nesse by oath unto you and all the World; For it is heavier than a world up|on my Conscience.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Why did your Lady so wicked an act?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Falshood.</speaker>
+                     <p>Through Jealousie, which bred Envy, Envy Malice, Malice Slander, and this Slander hath produce Murder.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Informer, <hi>the other Maid.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Informer.</speaker>
+                     <p>Oh my Lady! My Lady hath hanged her self; for when she heard <hi>Falshood</hi> was gone to tell your Lordship the truth of the Chain, she went into a base place and hung her self; and upon her breast I found this written Paper.</p>
+                  </sp>
+                  <stage>
+                     <hi>She gives it de</hi> l'Amour <hi>to read.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>It is the Lady <hi>Incontinents</hi> Hand-writing.</p>
+                     <stage>He reads it.</stage>
+                     <p>
+                        <hi>I have been false to my Marriage-bed, lived impudently in the sin of Adultery,
+<pb n="177" facs="100"/>
+in the publick face of the World; I have betray'd the trust imposed to my charge, standered the Innocent, poysoned the Instrument I imployed,</hi> Falshood. <hi>All which being summ'd up, was worthy of hanging.</hi>
+                     </p>
+                  </sp>
+                  <stage>[<hi>Falshood</hi> falls down dead.]</stage>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>She hath sav'd me a labour, and kept my Heroick Ho|nour free from the stains of having laid violent hands on the Effeminate Sex.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Friend.</speaker>
+                     <p>What shall be done with this dead Body?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Let her Ladies body, with hers, be thrown into the Fields, to be devoured of Beasts.</p>
+                  </sp>
+                  <stage>Ex.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <div n="22" type="scene">
+                  <head>Scene 22.</head>
+                  <stage>
+                     <hi>Enter the Funeral Herse of the Lady</hi> Sanspareile, <hi>covered with white Satine; a silver Crown is placed in the midst; her Herse is born by six Virgins all in white, other Virgins goe before the Herse, and strew Flowers, white Lillies, and white Roses: The whilst this Song is sung.</hi>
+                  </stage>
+                  <l>
+                     <note place="marg" anchored="true">This Song was writ by the Lord Marquesse.</note>SPOtlesse Virgins as you go,</l>
+                  <l>Wash each step as white as Snow,</l>
+                  <l>With pure Chrystal streams, that rise</l>
+                  <l>From the Fountain of your eyes.</l>
+                  <l>Fresher Lillies like the day</l>
+                  <l>Strew, and Roses as white as they;</l>
+                  <l>As an Emblem to disclose</l>
+                  <l>This Flower sweet; short liv'd as those.</l>
+                  <p>The whilst her Father is carryed as sick in a Chair, the Chair covered with black, and born black by Mourners, he himself also in close Mourning; when they have gone about the Stage.</p>
+                  <stage>The Herse is set neer to the Grave, there being one made.</stage>
+                  <p>Then the Father is placed in his Chair, upon a raised place for that purpose, the raised place also covered with Black; he being placed, speaks her Fu|neral Sermon.</p>
+                  <sp>
+                     <speaker>Father Love.</speaker>
+                     <p>Most Charitable and Noble Friends, that accompany the Dead Corps to the Grave, I must tell you, I am come here, although I am as a Dead Man to the World, yet my desire is to make a living Speech, before I go out of the world, not only to divulge the Affections I had for my Daugh|ter, but to divulge her Virtue, Worth, and good Graces; And as it is the cu|stome for the nearest Kindred, or best and constantest Friends, or longest ac|quaintance, to speak their Funeral Oration, wherein I take my self to be all,
+<pb n="179" facs="101"/>
+wherefore most fit to speak her Funeral Oration; For I being her Father, am her longest acquaintance, and constantest Friend, and nearest in Relation, wherefore the, fitest to declare unto the world my natural and Fatherly Love, Death will be a sufficient witnesse; For though I am old, yet I was health|ful when she lived, but now I cannot live many hours, neither would I, for Heaven knows, my affections struggle with Death, to hold Life so long as to pay the last Rites due to her dead Corps, struck by Death's cruel Dart: But most Noble and Charitable Friends, I come not here with eye fil'd with sal● tears; for sorows thirsty Jaws hath drunk them up, sucked out my blood, &amp; left my Veins quite dry, &amp; luxuriously hath eat my Marow out; my sighs are spe●t in blowing out Life's Fire, only some little heat there doth remain, which my affections strive to keep alive to pay the last Rites due to my dead Child, which is, to set her praises forth, for living Virtuously; But had I <hi>Nestors</hi> years, 'twould prove too few, to tell the living Stories of her Youth, for Nature in her had packed up many Piles of Experience, of Aged times, be|sides, Nature had made her Youth sweet, fresh and temperate, as the Spring; and in her brain, Flowers of Fancies grew, Wits Garden set by Natures hand, wherein the Muses took delight, and entertained themselves therein, Singing like Nightingales, late at Night; or like the Larks ere the day begin; Her thoughts were as the Coelestial Orbes, still moving circular without back ends, surrounding the Center of her Noble mind, which as the Sun gave light to all about it; her Virtues twinkled like the fixed Starrs, whose mo|tion stirs them not from their fix'd place; and all her Passions were as other starres, which seemed as only made to beautifie her Form; But Death hath turned a Chaos of her Form, which life with Art and Care had made, and Gods had given to me: O cursed death, to rob and make me poor! Her life to me was like a delightful Mask, presenting several interchanging <hi>Scenes,</hi> de|scribing Nature in her several Dresses, and every Dresse put in a several wa●● Also her life was like a Monarchy, where Reason as sole King, did govern al her actions; which actions, like as Loyal Subjects did obey those Laws which Reason decreed; Also her life was like <hi>Ioves</hi> Mansions high, as being placed above this worldly Globe; from whence her Soul looked down on duller earth, mixt not, but viewed poor mortals here below; thus was her life a|bove the world, because her life prized not the Trifles here; Perchance this Noble Company will think I have said too much, and vainly, thus to speak.</p>
+                     <l>That Fathers should not praise their Children so,</l>
+                     <l>Because that from their Root and Stock did grow;</l>
+                     <l>Why may not Roots boast if their Fruites be good?</l>
+                     <l>As hindering worth in their own Flesh and blood,</l>
+                     <l>Shall they dissemble, to say they are naught,</l>
+                     <l>Because they are their own? sure that's a fault</l>
+                     <l>Unpardonable, as being a lye that's told,</l>
+                     <l>Detracting lyes, the baser lyes I hold.</l>
+                     <l>Neither can strangers tell their life and worth,</l>
+                     <l>Nor such affections have to set them forth,</l>
+                     <l>As Parents have, or those thats neer of Kin,</l>
+                     <l>Virtuous Partiality, sure that's no sin,</l>
+                     <l>And virtue, though she be lovliest when undrest</l>
+                     <l>
+                        <pb n="178" facs="101"/>Yet she is pleas'd, when well she is exprest.</l>
+                     <l>But Oh! my words have spent my stock of breath,</l>
+                     <l>And Life's commanded forth by powerful Death;</l>
+                     <l>When I am dead, this company I pray,</l>
+                     <l>The last rites done, me by my daughter lay;</l>
+                     <l>And as her soul did with the Muses flye,</l>
+                     <l>To imitate her in her a verse, I dye.</l>
+                  </sp>
+                  <stage>He falls back in his Chair and is dead.</stage>
+                  <sp>
+                     <speaker>Mr. Comfort.</speaker>
+                     <p>Noble Friends, you heard his request, which was; to be bu|ryed in his daughters grave; and whilst you show your charity, in laying the Corps of his daughter in the grave, I will carry out his body, and put it into a Coffin, and then lay him in the same grave.</p>
+                     <stage>[<hi>The Company said,</hi> Do so.] <hi>Goes out with the body.</hi>
+                     </stage>
+                     <p>The whilst the Virgins take up the Lady <hi>Sanspareiles</hi> Herse, and whilst they are putting it into the grave, this Song following was sung.</p>
+                     <l>
+                        <note place="marg" anchored="true">This Song was writ by the Lord Marquesse of <hi>New-ca|stle.</hi>
+                        </note>Tender Virgins, as your Birth,</l>
+                     <l>Put her gently in the earth,</l>
+                     <l>What of Moral, or Divine,</l>
+                     <l>Here is lapt up in this shrine;</l>
+                     <l>Rhetorick dumb Philosophy,</l>
+                     <l>Both those arts with her did dye.</l>
+                     <l>And grieved Poets cannot choose,</l>
+                     <l>But lament for her their Muse.</l>
+                     <p>When she was putting into the Grave, this Song following was sung.</p>
+                     <l>Her Tomb, her Monument, her Name,</l>
+                     <l>Beyond an Epitaph her Fame;</l>
+                     <l>Death be not proud, imbracing more</l>
+                     <l>Now, than in all thy reign before;</l>
+                     <l>Boasting thy Triumphs, since thou must</l>
+                     <l>But justly glory in her dust,</l>
+                     <l>Let thy Dart rust, and lay it by,</l>
+                     <l>For after her none's sit to dye.</l>
+                  </sp>
+                  <stage>[After this her Peal is Rung on Lutes, by Musicians.] <hi>And the Company goes out.</hi>
+                  </stage>
+               </div>
+               <div n="23" type="scene">
+                  <head>Scene. 23.</head>
+                  <stage>
+                     <hi>A Tomb is thrust on the Stage, then the Lord</hi> de l'Amour <hi>enters.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LOrd de l'Amour.</speaker>
+                     <p>Now I am free, no hinderance to my own Tragedy.</p>
+                     <stage>[He goeth to the Tomb.]</stage>
+                     <p>This Tomb her sacred Body doth contain.</p>
+                     <stage>[He draws his Sword, then he kneels down by the Tomb, and then prayes.]</stage>
+                     <p>
+                        <pb n="180" facs="102"/>Dear Soul, pardon my crimes to thee; they were crimes of ignorance, n●● malice.</p>
+                     <l>Sweet gentle Spirit●, flye me not, but stay,</l>
+                     <l>And let my Spirits walk thy Spirits way;</l>
+                     <l>You lov'd me once, your Love in death renew,</l>
+                     <l>And may our soules be as two Lovers true;</l>
+                     <l>Our Blood's the Bonds, our wounds the Seals to Print</l>
+                     <l>Our new Contract, and Death a witnesse in't.</l>
+                     <stage>[He takes his Sword.]</stage>
+                     <l>Had I as many lives as Poors in skin,</l>
+                     <l>He sacrifize them for my ignorant sin.</l>
+                  </sp>
+                  <stage>[As he speaks he falls upon his Sword.]</stage>
+                  <stage>
+                     <hi>Enter his Friend, Master</hi> Charity.</stage>
+                  <stage>[He seeing him lye all in blood, almost dead, runs to him, and heaves him up.]</stage>
+                  <sp>
+                     <speaker>Friend.</speaker>
+                     <p>I did fear this, which made me follow him, but I am come too late to save his life. O my Lord speak if you can!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord de l'Amour.</speaker>
+                     <p>Friend, lay me in this Tomb, by my affianced Wife; for though I did not usher her to the grave, I will wait after her.</p>
+                  </sp>
+                  <stage>[Dyes.]</stage>
+               </div>
+            </div>
+            <div type="epilogue">
+               <head>EPILOGUE.</head>
+               <l>Noble Spectators, now you have seen this Play,</l>
+               <l>And heard it speak, let's hear what now you say;</l>
+               <l>But various judgements, various sentences give,</l>
+               <l>Yet we do hope you'l sentence it may live.</l>
+               <l>But not in Prison be condemn'd to lye,</l>
+               <l>Nor whipt with censure, rather let it dye</l>
+               <l>Here on this Stage, and see the Funeral Rites,</l>
+               <l>Which is, to put out all the Candle lights.</l>
+               <l>And in the grave of darknesse let it rest,</l>
+               <l>In peace and quiet, and not molest</l>
+               <l>The harmlesse soul, which hopes <hi>Mercury</hi> may</l>
+               <l>Unto the Elizium fields it safe convey.</l>
+               <l>But if you sentence life, the Muses will</l>
+               <l>Attend it up unto <hi>Parnassus</hi> Hill.</l>
+               <l>If so, pray let your hands, here in this place,</l>
+               <l>Clap it, as an applause, the triumph grace.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         </body></text></TEI>
+

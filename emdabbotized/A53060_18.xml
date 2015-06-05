@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+	 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+            <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+         </titleStmt>
+         <extent>356 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 March (TCP phase 1)</date>
+            <idno type="marc">11861873</idno>
+            <idno type="stc">Wing N868.</idno>
+            <idno type="vid">50022</idno>
+            <idno type="DLPS">A53060</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+                  <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+                  <author>Newcastle, William Cavendish, 1592-1676.</author>
+               </titleStmt>
+               <extent>[24], 679 [i.e. 675], [4] p. : ill.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by A. Warren, for John Martyn, James Allestry, and Tho. Dicas ...,</publisher>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>First edition.</p>
+                  </note>
+                  <note>
+                     <p>Errata: p. [4] at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text><body><div n="1" type="play">
+            <pb n="578" facs="303"/>
+            <div type="dramatis_personae">
+               <list>
+                  <head>THE ACTORS NAMES.</head>
+                  <item>
+                     <hi>The Lord</hi> General.</item>
+                  <item>
+                     <hi>Seigneur</hi> Valeroso.</item>
+                  <item>
+                     <hi>Monsieur la</hi> Hardy.</item>
+                  <item>
+                     <hi>Monsieur</hi> Compagnion.</item>
+                  <item>
+                     <hi>Monsieur</hi> Comerade.</item>
+                  <item>
+                     <hi>Monsieur la</hi> Gravity.</item>
+                  <item>
+                     <hi>Captain</hi> Ruffell.</item>
+                  <item>
+                     <hi>Captain</hi> Whiffell, <hi>and several other Gentlemen.</hi>
+                  </item>
+                  <item>
+                     <hi>Doctor</hi> Educature.</item>
+                  <item>
+                     <hi>Doctor</hi> Comfort.</item>
+                  <item>
+                     <hi>Stewards, Messengers and Servants.</hi>
+                  </item>
+                  <item>
+                     <hi>Lady</hi> Victoria.</item>
+                  <item>
+                     <hi>Madam</hi> Jantil.</item>
+                  <item>
+                     <hi>Madam</hi> Passionate.</item>
+                  <item>
+                     <hi>Madam</hi> Ruffell.</item>
+                  <item>
+                     <hi>Madam</hi> Whiffell.</item>
+                  <item>Doll Pacify, <hi>Madam</hi> Passionates <hi>Maid.</hi>
+                  </item>
+                  <item>Nell Careless, <hi>Madam</hi> Jantils <hi>Maid, other Servants and Heroickesses.</hi>
+                  </item>
+               </list>
+            </div>
+            <pb n="577" facs="303"/>
+            <pb n="578" facs="304"/>
+            <div n="1" type="act">
+               <pb n="579" facs="304"/>
+               <head>THE FIRST PART OF BELL IN CAMPO.</head>
+               <head type="sub">ACT I.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>You hear how this Kingdome of Reformation is prepa|paring for War against the Kingdome of Faction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Yea, for I hear the Kingdome of Faction resolves to War with this Kingdome of Reformation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>'Tis true, for there are great preparations of either side, men are raised of all sorts and ages fit to bear Arms, and of all de|grees to command and obey, and there is one of the gallantest and noblest persons in this Kingdome, which is made General to command in chief, for he is a man that is both valiant and well experienced in Wars, temperate and just in Peace, wise and politick in publick affairs, carefull and prudent in his own Family, and a most generous person.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Indeed I have heard that he is a most excellent Souldier.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>He is so, for he is not one that sets forth to the Wars with great resolutions and hopes, and returns with maskerd fears, and despairs; neither is he like those that take more care, and are more industrious to get gay Clothes, and fine Feathers, to flant in the Field, and vapour in their march, than to get usefull and necessary provision; but before he will march, he will have all things ready, and proper for use, as to fit himself with well-tempered Arms, which are light to be worn, yet musket proof; for he means not to run away, nor to yield his life upon easy terms unto his Enemy; for he desires to Conquer, and not vain-gloriously to shew his courage by a careless neglect or a vain carelessness; also he chooses such Horses as are use|full in War, such as have been made subject to the hand and heel, that have been taught to Trot on the Hanches, to change, to Gallop, to stop, and such Horses as have spirit and strength, yet quiet and sober Natures; he regards more the goodness of the Horses than the Colours or marks, and more the fitness of his Saddles than the Imbrodery; also he takes more care that his Waggons should be easy to follow, and light in their carriage, than to have them painted and gilded; and he takes greater care that his Tents should be made, so as to be suddenly put up, and as quickly pull'd down, than for the setting and Imbrodering his Arms thereupon; also he take more care to have usefull Servants than numerous Servants; and as he is industrious and carefull for his particular affairs, so he is for the ge|neral affairs.</p>
+                  </sp>
+                  <sp>
+                     <pb n="580" facs="305"/>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>A good Souldier makes good preparations, and a good General doth both for himself and Army, and as the General hath showed himself a good Souldier by the preparations he had made to march, so he hath show|en himself a wise man by the settlement he hath made, in what he hath to leave behind him; for I hear he hath setled and ordered his House and Family.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>He hath so, and he hath a fair young and virtuous Lady that he must leave behind him, which cannot choose but trouble him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>The wisest man that is, cannot order or have all things to his own contentment.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene 2.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> General, <hi>and the Lady</hi> Victoria <hi>his Wife.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>GEneral.</speaker>
+                     <p>My dear heart, you know I am commanded to the Wars, and had I not such Wife as you are, I should have thought Fortune had done me a favour to imploy my life in Heroical Actions for the service of my Country, or to give me a honourable Death, but to leave you is such a Cross as my Nature sinks under; but wheresoever you are there will be my life, I shall only carry a Body which may sight, but my Soul and all the powers thereof will remain with thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>Husband, I shall take this expression of love but for feigning words, if you leave me; for 'tis against Nature to part with that we love best, unless it be for the beloveds preservation, which cannot be mine, for my life lives in yours, and the comfort of that life in your Company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord General.</speaker>
+                     <p>I know you love me so well, as you had rather part with my life than I should part from my honour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>'Tis true, my love perswades me so to do, knowing fame is a double life, as infamy is a double death; nay I should perswade you to those actions, were they never so dangerous, were you unwilling thereunto, or could they create a world of honour, fully inhabited with praises; but I would not willingly part with your life for an imaginary or supposed ho|nour, which dyes in the womb before it is Born; thus I love you the best, preferring the best of what is yours; but I am but in the second place in your affections, for you prefer your honour before me; 'tis true, it is the better choice, but it shows I am not the best beloved, which makes you fol|low and glue to that and leave me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord General.</speaker>
+                     <p>Certainly Wife my honour is your honour, and your ho|nour will be buried in my disgrace, which Heaven avert; for I prefer yours before my own, insomuch as I would have your honour to be the Crown of my glory.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>Then I must partake of your actions, and go along with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord General.</speaker>
+                     <p>What to the VVars?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>To any place where you are.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord General.</speaker>
+                     <p>But VVife you consider not, as that long marches, ill lodg|ings, much watching, cold nights, scorching dayes, hunger and danger are
+<pb n="581" facs="305"/>
+ill Companions for Ladyes, their acquaintance displeases; their conversation is rough and rude, being too boisterous for Ladyes; their tender and strengthless constitutions cannot encounter nor grapell therewith.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>'Tis said, that Love overcomes all things: in your Company long marches will be but as a breathing walk, the hard ground feel as a Fea|ther-Bed, and the starry Sky a spangled Canopy, hot dayes a Stove to cure cold Agues, hunger as Fasting dayes or an eve to devotion, and danger is honours triumphant Chariot.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord General.</speaker>
+                     <p>But Nature hath made women like China, or Pursleyn, they must be used gently, and kept warily, or they will break and fall on Deaths head: besides, the inconveniencies in an Army are so many, as put patience her self out of humour; besides, there is such inconveniences as mo|desty cannot allow of.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>There is no immodestly in natural effects, but in unnatural abuses; but contrive it as well as you can, for go I must, or either I shall dye, or dishonour you; for if I stay behind you, the very imaginations of your danger will torture me, sad Dreams will affright me, every little noise will sound as your passing Bell, and my fearfull mind will transform every object like as your pale Ghost, untill I am smothered in my Sighs, shrouded in my Tears, and buried in my Griefs; for whatsoever is joyned with true love, will dye absented, or else their love will dye, for love and life are joyned to|gether; as for the honour of constancy, or constant fidelity, or the dishonour of inconstancy, the lovingest and best wife in all story that is recorded to be, the most perfectest and constantest wife in her Husbands absence was <hi>Penelope, Ulysses</hi> wife, yet she did not Barricado her Ears from Loves soft Alarums; but parled and received Amorous Treaties, and made a Truce untill she and her Lovers could agree and conclude upon conditions, and questionless there were Amorous Glances shot from loving Eyes of either party; and though the Siege of her Chastity held out, yet her Husbands Wealth and Estate was impoverished, and great Riots committed both in his Family and Kingdome, and her Suters had absolute power thereof; thus though she kept the fort of her Chastity, she lost the Kingdome, which was her Husbands Estate and Government, which was a dishonour both to her and her Husband; so if you let me stay behind you, it will be a thousand to one but either you will lose me in Death, or your honour in Life, where if you let me go you will save both; for if you will consider and reckon all the married women you have heard or read of, that were absented from their Husbands, although upon just and necessary occasions, but had some Ink of aspersions flung upon them, although their wives were old, illfavoured, de|crepid and diseased women, or were they as pure as light, or as innocent as Heaven; and wheresoever this Ink of aspersions is thrown, it sticks so fast, that the spots are never rubb'd out, should it fall on Saints, they must wear the marks as a Badge of misfortunes, and what man had not better be thought or called an uxorious Husband, than to be despised and laught at, as being but thought a Cuckhold? the first only expresses a tender and noble Nature, the second sounds as a base, cowardly, poor, dejected, forsaken Creature; and as for the immodesty you mentioned, there is none, for there can be no breach of modesty, but in unlawfull actions, or at least unnecessary ones; but what Law can warrant, and necessity doth inforce, is allow|able amongst men, pure before Angels, Religious before Gods, when un|chosing persons, improper places, unfit times, condemn those actions that
+<pb n="582" facs="306"/>
+are good in themselves, make them appear base to men, hatefull to Angels, and wicked to Gods, and what is more lawfull, fitting, and proper, than for a man and wife to be inseparable together?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord General.</speaker>
+                     <p>Well, you have used so much Rhetorick to perswade, as you have left me none to deny you, wherefore I am resolved you shall try what your tender Sex can endure; but I believe when you hear the Bullets fly about you, you will wish your self at home, and repent your rash adventure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>I must prove false first, for love doth give me courage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord General.</speaker>
+                     <p>Then come along, I shall your courage try.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>He follow you, though in Deaths Arms I ly.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scene 3.</head>
+                  <stage>Enter the two former Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>Well met, for I was going to thy lodging to call thee to make up the Company of good fellows, which hath appointed a meeting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Faith you must go with the odd number, or get another in my room, for I am going about some affairs which the Lord <hi>General</hi> hath im|ployed me in.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>I perceive by thee that publick imployments spoil private meetings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>You say right, for if every one had good imployment, vice would be out of fashion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>What do you call vice?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Drinking, Wenching, and Gaming.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>As for two of them, as Drinking and Wenching, especially Wenching, no imployment can abolish them, no, not the most severest, devotest, nor dangerest: for the States-man Divines, and Souldiers, which are the most and greatest imployed, will leave all other affairs to kiss a Mistriss.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But you would have me go to a Tavern and not to a Mistriss.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>VVhy, you may have a Mistriss in a Tavern if you please.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>VVell, if my other affairs will give me any leisure, I will come to you.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>Scene 4.</head>
+                  <stage>Enter four or five other Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>The Lord <hi>General</hi> was accounted a discreet and wise man, but he shows but little wisdome in this action of carrying his wife along with him to the VVars, to be a Clog at his heels, a Chain to his hands, an Incumberance in his march, obstruction in his way; for she will be al|ways
+<pb n="583" facs="306"/>
+puling and sick, and whining, and crying, and tir'd, and ●roward, and if her Dog should be left in any place, as being forgotten, all the whole Ar|my must make a halt whilst the Dog is fetcht, and Trooper after Trooper must be sent to bring intelligence of the Dogs coming, but if there were such a misfortune that the Dog could not be found, the whole Army must be dispersed for the search of it, and if it should be lost, then there must seem to be more lamentation for it than if the Enemy had given us an intire defeat, or else we shall have frowns instead of preferments.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>The truth is, I wonder the General will trouble himself with his wife, when it is the only time a married man hath to enjoy a Mistriss with|out jealousy, a spritely sound wench, that may go along without trouble, with bag and baggage, to wash his linnen, and make his sield Bed, and at|tend to his call, when a wife requires more attendance than Centries to watch the Enemy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Gent.</hi>
+                     </speaker>
+                     <p>For my part I wonder as much that any man should be so fond of his wife as to carry her with him; for I am only glad of the VVars, because I have a good pretence to leave my wife behind me; besides an Army is a quiet, solitary place, and yields a man a peaceable life compared to that at home: for what with the faction and mutiny amongst his Servants, and the noise the women make, for their tongues like as an Alarum beat up qua|ters in every Corner of the House, that a man can take no rest; besides every day he hath a set Battel with his wife, and from the Army of her angry thoughts, she sends forth such vollies of words with her Gunpowder anger, and the fire of her fury, as breaks all the ranks and files of content, and puts happiness to an utter rout, so as for my part I am forced to run away in dis|content, although some Husbands will stay, and fight for the Victory.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Gentlemen, Gentlemen● pray condemn not a man for taking his lawfull delight, or for ordering his private affairs to his own humour, every man is free to himself, and to what is his, as long as he disturbs not his Neigh|bours, nor breaks the Peace of the Kingdome, nor disorders the Common|wealth, but submits to the Laws, and obeys the Magistrates without dis|pute; besides Gentlemen, 'tis no crime nor wonder, for a man to let his wife go along with him when he goeth to the Wars, for there hath been examples; for <hi>Pompey</hi> had a wife with him, and so had <hi>Germanicus,</hi> and so had many great and worthy Heroicks, and as for <hi>Alexander</hi> the great he had a wife or two with him; besides, in many Nations men are not only desired, but commanded by the Chiefs to let their wives go with them, and it hath been a practice by long Custome, for women to be spectators in their Battels, to encourage their fights, and so give fire to their Spirits; also to attend them in their Sicknesses, to clense their wounds, to dress their meat; and who is fitter than a wife? what other woman will be so lovingly carefull, and in|dustriously helpfull as a wife? and if the <hi>Greekes</hi> had not left their wives be|hind them, but had carried them along to the <hi>Trojan</hi> Wars, they would not have found such disorders as they did at their return, nor had such bad wel|come home, as witness <hi>Agamemnons</hi>; besides, there have been many women that have not only been Spectators, but Actors, leading Armies, and direct|ing Battels with good success, and there have been so many of these He|roicks, as it would be tedious at this time to recount; besides the examples of womens courage in Death, as also their wise conduct, and valiant acti|ons in Wars are many, and pray give me leave to speak without your being offended thereat, it is not Noble, nor the part of a Gentleman, to censure,
+<pb n="584" facs="307"/>
+condemn, or dispraise another mans private actions, which nothing con|cerns him, especially when there is so gallant a subject to discourse of as the discipline and actions of these Wars we are entring into.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Introth Sir, you have instructed us so well, and have chid us so handsomely, as we are sorry for our errour, and ask pardon for our fault, and our repentance shall be known by that we will never censure so again.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II.</head>
+               <div n="5" type="scene">
+                  <head>Scene 5.</head>
+                  <stage>
+                     <hi>Enter Captain</hi> Whiffell, <hi>and Madam</hi> Whiffell <hi>his Wife.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>CAptain Whiffell.</speaker>
+                     <p>I have heard our Generals Lady goeth with the Gene|ral her Husband to the Wars, wherefore I think it fit for the rest of the Commanders, if it were only for policy, to let our General see that we approve of his actions so well, as to imitate him in ours, carrying our Wives along with us, besides the Generals Lady cannot chose but take it kindly to have our Wives wait upon her, wherefore Wife it is fit you should go.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Whiffell.</speaker>
+                     <p>Alas Husband I am so tender, that I am apt to catch cold if the least puff of wind do but blow upon me; wherefore to ly in the open Fields will kill me the first Night, if not, the very journey will shatter my small bones to peeces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain Whiffell.</speaker>
+                     <p>Why, our Generals Lady is a very fine young Lady, and she ventures to go.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Whiffell.</speaker>
+                     <p>There let her venture, for you must excuse me, for I will stay at home, go you where you please.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain Whiffell.</speaker>
+                     <p>Well VVife consider it.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <head>Scene 6.</head>
+                  <stage>
+                     <hi>Enter Captain</hi> Ruffell, <hi>and his Wife Madam</hi> Ruffell.</stage>
+                  <sp>
+                     <speaker>CAptain Ruffell.</speaker>
+                     <p>VVife prepare your self to follow the Army, for 'tis now the fashion for VVives to march, wherefore pack up and away.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Ruffell.</speaker>
+                     <p>VVhat with a Knapsack behind me as your Trull? not I, for I will not disquiet my rest with inconveniences, nor divert my pleasures with troubles, nor be affrighted with the roring Cannons, nor indanger my life with every Potgun, nor be frozen up with Cold, nor stew'd to a gelly with heat, nor be powdered up with dust, untill I come to be as dry
+<pb n="585" facs="307"/>
+as a Neats-tongue; besides, I will not venture my Complexion to the wroth of the Sun, which will tan me like a Sheeps skin.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain Ruffell.</speaker>
+                     <p>Faith VVife, if you will not go, I will have a Landery-Maid to ride in my VVaggon, and ly in my Tent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Ruffell.</speaker>
+                     <p>Prethee Husband take thy Kitching Maid along too, for she may have as much Grease about her as will serve to make Sope to wash your Linnen with, and while you ride with your Landery-Maid in your Waggon, I will ride with my Gentleman-Usher in my Coach.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain Ruffell.</speaker>
+                     <p>Why Wife, it is out of love that I would have thee go.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Ruffell.</speaker>
+                     <p>And 'tis out of love that I will stay at home; besides, do you think I mean to follow your Generals Lady as a common Trooper doth a Commander, to feed upon her reversions, to wait for her favour, to watch for a smile; no, no, I will be <hi>Generalissimo</hi> my self at home, and di|stribute my Colours to be carried in the Hats of those that will fight in my quarrel, to keep or gain the Victory of my favour and love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain Ruffell.</speaker>
+                     <p>So I may chance to be a Cuckhold before I return home.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Ruffell.</speaker>
+                     <p>You must trust to Fortune for that, and so I wish you a good Journey.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="7" type="scene">
+                  <head>Scene 7.</head>
+                  <stage>
+                     <hi>Enter Seigneur</hi> Valeroso <hi>and his friend Monsieur la</hi> Hardy, <hi>to take their leaves of their Wives, Madam</hi> Jantil, <hi>and Madam</hi> Passionate, <hi>Madam</hi> Jantil <hi>young and beautifull, Madam</hi> Pas|sionate <hi>in years.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>I cannot chuse but take it unkindly that you will go with|out me; do you mistrust my affection? as that I have not as much love for you as the Generals Lady hath for her Husband; or do you desire to leave me? because you would take a Mistriss along with you, one that per|chance hath more Beauty than you think me to have; with whom you may securely, and freely sit in your Tent, and gaze upon; or one that hath more wit than I, whose sweet, smooth, and flattering words may charm your thoughts, and draw your Soul out of your ears to sit upon her Lips, or dan|cing with delight upon her Tongue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Seigneur Valeroso.</speaker>
+                     <p>Prethee Wife be not jealous, I vow to Heaven no other Beauty can attract my eyes but thine, nor any sound can please my brain, but what thy charming Tongue sends in; besides, I prise not what thy Body is, but how thy Soul's adorn'd, thy virtue would make me think thee fair, although thou wert deformed, and wittier far than <hi>Mercury,</hi> hadst thou <hi>Midas</hi>'s ears, but thou hast all that man can wish of women kind, and that is the reason I will leave thee safe at home; for I am loth to venture all my wealth and happiness in Fortunes unconstant Bark, suffering thy tender youth and Sex to float on the rough waves of chance, where dangers like to Northern winds blow high, and who can know but that fatal gusts may come, and overwhelm thee, and drown all my joys? wherefore for my sake keep thy self safe at home.</p>
+                  </sp>
+                  <sp>
+                     <pb n="586" facs="308"/>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>I shall obey you, but yet I think it were not well I should be a long time from you, and at a great distance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Seigneur Valeroso.</speaker>
+                     <p>I will promise you, if I perceive the War is like to be prolonged, and that there be Garrison-Towns so safe as you may secure|ly live in, I will send for you, placing you so where sometimes I may visit you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Pray do not forget me so much as to cancell your promise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Seigneur Valeroso.</speaker>
+                     <p>Forget the sweet? I should sooner forget life, and if I do whilst I have memory, Heaven forget me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>I must ask you a question, which is to know why you will take an under command, being so nobly Born, and bearing a high Title of Honour your self, and being Master of a great Estate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Seigneur Valeroso.</speaker>
+                     <p>To let the World see my Courage is above my Birth, Wealth, or Pride, and that I prefer inward worth before outward Title, and I had rather give my life to the Enemy on honourable terms, than base|ly to stay at home in time of general Wars, out of an ambitious discontent: for valour had rather have dangers to sight with, than Offices to com|mand in.</p>
+                  </sp>
+                  <stage>
+                     <hi>Seigneur</hi> Valeroso <hi>and his Lady whispers, while the other two Monsieur la</hi> Hardy <hi>and his Lady speaks.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>Why should you go to the Wars now you are in years, and not so fit for action as those that are young, and have their strengths about them? besides, we have lived a married pair above these thir|ty years, and never parted, and shall we now be seperated when we are old?</p>
+                  </sp>
+                  <stage>She weeps.</stage>
+                  <sp>
+                     <speaker>Monsieur la Hardy.</speaker>
+                     <p>Alas Wife, what would you have me do? when I am commanded out I must obey; besides, I would not have my Country fight a Batrel whilst I live, and I not make one, for all the World, for when I cannot fight, my Body shall serve to stop a breach; wherefore leave your crying Wife, and fall to praying for our safe return, and here my noble friend is desirous you should stay with his Lady to comfort one another, and to divert Melancholy and the longing hours of our return.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>Farewell, I fear I shall never see you again, for your absence will soon kill me.</p>
+                  </sp>
+                  <stage>She cryes.</stage>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="8" type="scene">
+                  <head>Scene 8.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>O you are welcome from the Army, what news?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>VVhy our Army march'd untill they came unto the fron|tiers of the Kingdome, where they found the Army of the Enemy ready to encounter them, the Lord <hi>General</hi> seeing they must of necessity fight a Bat|tel, thought best to call a Council of VVar, that there might be nothing of
+<pb n="587" facs="308"/>
+ill conduct laid to his chardge, but that all might be ordered by a wise and experienced Council, whereupon he made an election of Counsellors, joyning together three sorts, as grave, wife, and prudent men, subtill and politick men, and valiant, skillfull, martiall men, that the cold temper of the prudent, might allay the hot temper of the valiant, and that the politick might be as ingenious to serve them together by subtill devises, and to make traps of Stragems to catch in the Enemy, and at this Council many debates there were, but at last they did conclude a Battel must be fought; but first they did decree that all the women should be sent into one of their Garrison Towns, some two dayes journey from the Army, the reasons were, that if they should be overcome by their Enemyes, the women might be taken by their Enemyes, and made Slaves, using or abusing them as they pleased; but when the women were sent away, they did not shed tears of sorrow, but sent such vollies of angry words, as wounded many mens hearts; but when they were almost at the Town that was to be their aboad, the Ge|nerals Lady, was so extremely incensed against the Counsellers, by reason they decreed her departure with the others, as she strove to raise up the Spi|rits of the rest of her Sex to the height of her own; but what the issue will be I know not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Have you been with the King?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Yes, I was sent to give him an account of the Army.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="9" type="scene">
+                  <head>Scene 9.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Victoria <hi>and a number of women of all sorts with her, she takes her stand upon a heap of green Turfs, as be|ing in the Fields before the Garrison Town, and then speaks to those women.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Victoria.</speaker>
+                     <p>Most Heroical Spirits of most chast and loving Wives, Mi|strisses, Sisters, Children or Friends, I know you came not from your several Houses and homes into this Army meerly to enjoy your Husbands, Lovers, Parents and Friends in their safe and secure Garrisons, or only to share of their troublesome and tedious marches, but to venture also in their dangerous and cruell Battels, to run their Fortunes, and to force Destiny to joyn you to their Periods; but the Masculine Sex hath separated us, and cast us out of their Companyes, either out of their loving care and desire of pre|serving our lives and liberties, lest we might be distroyed in their confusions, or taken Prisoners in their loss, or else it must be out of jealousy we should Eclipse the fame of their valours with the splendor of our constancy; and if it be Love, let us never give the preheminence, for then we should lose that Prerogative that belongs to the Crown of our Sex; and if it be thorough Jealous mistrust of their Fame, it were poor for us to submit and quit that unto men, that men will not unto us, for Fame makes us like the Gods, to live for ever; besides, those women that have staid at home will laugh at us in our return, and their effeminate Lovers and Carpet Knights, that Cow|ardly and Luxuriously Coin excuses to keep and stay them from the Wars,
+<pb n="588" facs="309"/>
+will make Lampons of us for them to sing of our disgrace, saying, our Hus|bands, Lovers, and Friends were so weary of us, as they were forced to take that pretence of affectionate love to be rid of our Companyes; wherefore if you will take my advise, let us return, and force those that sent us away to consent that we shall be partakers with them, and either win them by per|swasions, or lose our selves by breaking their decrees; for it were better we should dy by their angry frowns, than by the Tongue of Infamy.</p>
+                  </sp>
+                  <stage>All the women call to her.</stage>
+                  <sp>
+                     <speaker>All the women.</speaker>
+                     <p>Let us return, let us return.</p>
+                  </sp>
+                  <stage>
+                     <hi>Lady</hi> Victoria <hi>waves her hand to them to keep silence.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>Noble Heroickesses, I am glad to hear you speak all as with one voice and Tongue, which shows your minds are joyned together, as in one piece, without seam or rent; but let us not return unfit to do them service, so we may cause their ruin by obstruction, which will wound us more than can their anger; wherefore let us strive by our industry to render our selves usefull to their service.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All the women.</speaker>
+                     <p>Propound the way, and set the Rules, and we will walk in the one, and keep strictly to the other.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>Then thus, we have a Body of about five or six thousand women, which came along with some thirty thousand men, but since we came, we are not only thought unusefull, but troublesome, which is the rea|son we were sent away, for the Masculine Sex is of an opinion we are only fit to breed and bring forth Children, but otherwise a trouble in a Common-wealth, for though we encrease the Common-wealth by our breed, we en|comber it by our weakness, as they think, as by our incapacities, as having no ingenuity for Inventions, nor subtill wit for Politicians; nor prudence for direction, nor industry for execution; nor patience for opportunity, nor judgment for Counsellers, nor secrecy for trust; nor method to keep peace, nor courage to make War, nor strength to defend our selves or Country, or to assault an Enemy; also that we have not the wisdome to govern a Com|mon-wealth, and that we are too partial to sit in the Seat of Justice, and too pittifull to execute rigorous Authority when it is needfull, and the reason of these erronious opinions of the Masculine Sex to the Effeminate, is, that our Bodyes seem weak, being delicate and beautifull, and our minds seem fearfull, being compassionate and gentle natured, but if we were both weak and fearfull, as they imagine us to be, yet custome which is a second Na|ture will encourage the one and strengthen the other, and had our educati|ons been answerable to theirs, we might have proved as good Souldiers and Privy Counsellers, Rulers and Commanders, Navigators and Architectors, and as learned Sholars both in Arts and Sciences, as men are; for Time and Custome is the Father and Mother of Strength and Knowledge, they make all things easy and facil, clear and prospitious; they bring acquaintance, and make friendship of every thing; they make Courage and Fear, Strength and Weakness, Difficulty and Facility, Dangers and Securities, Labours and Recreations, Life and Death, all to take and shake as it were hands to|gether; wherefore if we would but accustome our selves we may do such actions, as may gain us such a reputation, as men might change their opini|ons, insomuch as to believe we are fit to be Copartners in their Govern|ments,
+<pb n="589" facs="309"/>
+and to help to rule the World, where now we are kept as Slaves for|ced to obey; wherefore let us make our selves free, either by force, merit, or love, and in order, let us practise and endeavour, and take that which Fortune shall profer unto us, let us practise I say, and make these Fields as Schools of Martial Arts and Sciences, so shall we become learned in their disciplines of War, and if you please to make me your Tutoress, and so your Generalless, I shall take the power and command from your election and Authority, otherwise I shall most willingly, humbly, and obediently submit to those whom you shall choose.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All the women.</speaker>
+                     <p>You shall be our Generalless, our Instructeress, Ruler and Commanderess, and we will every one in particular, swear to obey all your Commands, to submit and yield to your punishments, to strive and endea|vour to merit your rewards.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>Then worthy Heroickesses, give me leave to set the Laws and Rules I would have you keep and observe, in a brass Tablet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All the women.</speaker>
+                     <p>We agree and consent to whatsoever you please.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="10" type="scene">
+                  <head>Scene 10.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Jantil <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MAdam Iantil.</speaker>
+                     <p>How painfull is true love absented from what is loved, 'tis strange that that which pleaseth most should be the greatest tor|ment.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Madam</hi> Passionate.</stage>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>What, all times walking by your self alone? when your Lord returns I will complain, and tell him what dull Company you are.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>I hope I shall not be from him so long, for he promised to send for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>Nay faith, when you go, as old as I am, I will travell with you to see my Husband too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>You will be so much the more welcome, by how much you were unexpected.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>You look pale on the sudden, are not you well?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Yes, onely on a sudden I had a chill of cold that seized on my Spirits.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>Beshrew me, their coldness hath nipt the blood out of your Cheeks and Lips.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>If they had been painted, they would have kept their Colour.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <pb n="590" facs="310"/>
+               <head>ACT III.</head>
+               <div n="11" type="scene">
+                  <head>Scene 11.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Victoria <hi>with a great Company of Women, after a Table of Brass carried before her, she stands upon the heap of Turfs, and another Woman that carried the Table, wherein the Laws and Rules are inscribed; she bids her read them.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>REader.</speaker>
+                     <p>Noble Heroicks, these are the Laws our Generalless hath caused to be inscribed and read for every one to observe and keep.</p>
+                     <p>First, Be it known, observed and practised, that no woman that is able to bear Arms, shall go unarmed, having Arms to wear, but shall wear them at all times, but when they put them off to change their linnen; they shall Sleep, Eat and Rest, and march with them on their Bodies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>Give me leave Noble Heroicks to declare the reason of this Law or Command, as to wear an Iron or Steel Habit, and to be so con|stantly worn, is, that your Arms should not feel heavy, or be troublesome or painfull for want of use, as they will be when you shall have an occasion to put them on; and certainly, for want of practice, more Masculine Souldiers are overcome by their Arms, than by their Enemies, for the unaccustomed|ness makes them so unwieldy, as they can neither defend themselves, nor assault their Foes, whereas Custome will make them feel as light, as their Skins on their Flesh, or their Flesh on their Bones, nay Custome hath that force, as they will feel as if their Bodies were Naked, when as their Arms are off, and as Custome makes the Cold and peircing Ayr to have no power over the naked Bodyes of men, for in cold Countreys as well as hot, men have been accustomed to go naked, and have felt no more harm, nor so much, by the cold, than those that are warmly Cloathed, so Custome will make your Arms seem as light as if you had none on, when for want of use their waight will seem heavy, their several pieces troublesome and incombersome, as their Gorg●ts will seem to press down their Shoulders, their Back and Breast-plates and the rest of the several pieces to cut their waste, to pinch their Body, to bind their Thighes, to ty their Arms, and their Headpiece to hinder their breath, to darken their sight, and to stop their hearing, and all for want of ●se and Custome; but enough of this, read on.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Secondly, Be it known, observed and practised, that every Com|pany must watch by turns, whether they have Enemyes neer or no, and at all times, and whosoever Drinks any thing but Water, or Eats any thing but Bread, all the time they are on the watch shall be punished with fasting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>Give me leave to declare the reason of this Law, the reason is, that stronge Drinks, and nourishing meats send many vapours to the Brain, which vapours are like several Keys, which lock up the Senses so fast, as neither loud noises, bright lights, nor strong sents can enter either at the Ears, Eyes, or Nostrils, insomuch as many times their Enemies send Death to break them asunder.</p>
+                  </sp>
+                  <sp>
+                     <pb n="591" facs="310"/>
+                     <speaker>Reader.</speaker>
+                     <p>Thirdly, Be it known, observed and practised, that none of the Troopers march over Corn Fields if it can be avoided, unless the Enemy should be behind, and then the more spoil the better.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that it were a great imprudence to de|stroy through a careless march of Horse and Foot, that which would serve to feed and nourish us in the Winter time, and in our Winter Quarters, when it is laid in the Barns and Granaries, by the labour and the industry of the Farmers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Fourthly, Be it known, observed and practised, that none shall plunder those things which are waighty of carriage, unless it be for safety or necessity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason is of this, that all that is heavy in the carriage is a hindrance in our march.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Fiftly, Be it known, observed and practised, that no Souldiers shall play at any Game for money or drink, but only for meat to eat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that those that play for drink, the winners will be drunk, and those that are drunk are unfit for service; be|sides, many disorders are caused by drunkenness; and to play for money, the losers grow Cholerick, and quarrels proceed therefrom, which quarrels many times cause great mutinies through their side taking, and factious parties, besides, having lost their money and not their Appetites, they be|come weak and faint for want of that nourishing food, their money should get them, having nothing left to buy them victuals withall; besides, it forces them to forrage further about, where by straggling far from the body of the Army, they are subject to be catch'd by the Enemy, but when they play for meat their winnings nourish their Bodies, making them strong and vigo|rous, and when their Appetites are satisfied, and their Stomacks are fill'd, their humours are pleasant, and their minds couragious; besides, it is the Nature of most Creatures, either to distribute or at least to leave the re|maining pieces to the next takers, so that the losers may have a share with the winners, and part of what was their own again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Sixtly, Be it known, observed and practised, that no Captains or Collonels, shall advance beyond their Company, Troop, Regiment or Brigade, but keep in the middle of the first rank, and the Lieutenant, or Lieutenant Collonel to come behind in the last rank.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that Collonels and Captains going a space before their Troops, Companies or Regiments, for to encourage and lead on their Souldiers, do ill to set themselves as marks for the Ene|my to shoot at, and if the Chief Commanders should be kill'd, the Com|mon Souldiers would have but faint hearts to fight, but for the most part they will run away, as being affraid and ashamed to see the Enemy, when their Chief Commander is kill'd, and if they have no Officer or Commander behind them, the Common Souldiers will be apt to run away, having no worthy witnesses or Judges, to view and condemn their base Cowardly acti|ons, which otherwise they are ashamed of, chusing rather to fight their Ene|mies than to make known their fears.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Seventhly, Be it known, observed and practised, that none of the Army ly in Garrison Towns, but be always intrenched abroad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that Towns breed or beget a ten|derness of Bodies, and laziness of limbs, luxurious Appetites, and soften the natural dispositions, which renderness, luxury, effeminacy, and laziness,
+<pb n="592" facs="311"/>
+corrupts and spoils martial discipline, whereas the open Fields, and casting up trenches makes Souldiers more hardy, laborious and carefull, as being more watchfull.</p>
+                     <p>Eightly, Be it known, observed and practised, that none unless visibly sick to be idle, but imployed in some Masculine action, as when not imploy|ed against an Enemy; and that they are not imployed about the works, forts or trenches, but have spare time to imploy themselves, in throwing the Bar, Tripping, Wrastling, Running, Vaulting, Riding, and the like exercise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Ninthly, Be it known, observed and practised, that every Com|mander when free from the Enemies surprizals, shall train their men thrice a week at least, nay every day if they can spare so much time, as putting their Souldiers into several ranks, files and figures, in several Bodies apart, changing into several places, and the like.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that the Souldiers may be expert and ready, and not be ignorant when they encounter their Enemies, for many a Battel is lost more through the ignorance of the Souldiers, not being well and carefully train'd by their Commanders, or having such Commanders that know not how to train or draw them up, there are more Battels I say lost thus, than for want of men or courage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Tenthly, Be it known, observed and practised, that every Morn|ing when Incamp'd, that every Commander shall make and offer in the midst of his Souldiers a Prayer to <hi>Mars,</hi> another to <hi>Pallas,</hi> a third to <hi>For|tune,</hi> and a fourth to <hi>Fame</hi>; these Prayers to be presented to these Gods and Goddesses with great Ceremony, both from the Commander and Common Souldiers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that Ceremony strikes a reverence and respect into every breast, raising up a devotion in every heart, and devo|tion makes obedience, and obedience keeps order, and order is the strength and life to an Army, State, or Common-wealth; and as for the Prayers presented to these particular Gods and Goddess, is, that <hi>Mars</hi> would give us courage and strength, <hi>Pallas</hi> give us prudent conduct, <hi>Fortune</hi> give us Victory, and <hi>Fame</hi> give us Glory and Renown.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Eleventhly, Be it known, observed and practised, that the most experienced, practiz'd, and ingenioust Commanders shall preach twice a week of Martial Discipline, also those errours that have been committed in former Wars, and what advantages have been taken, to be cited in their Sermons, as also what was gain'd or lost by meer Fortune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Twelfthly, Be it known, observed and practised, that when the Army marches, that the Souldiers shall sing in their march the heroical actions done in former times by heroical women.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that the remembrance of the actions of gallant persons inflames the Spirit to the like, and begets a courage to a like action, and the reason of singing of heroical actions only of women, is that we are women our selves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Thirteenthly, Be it known, observed and submitted to, that no Council shall be call'd, but that all affairs be ordered and judged by the Generalless her self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that all great Councils, as of many persons, confounds judgments, for most being of several opinions, and hold|ing strongly and stifly, nay obstinately thereunto, as every one thinking them|selves
+<pb n="593" facs="311"/>
+wisest, cause a division, and wheresoever a division is there can be no finall conclusion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Fourteenthly, Be it known, observed and practised, that none of this Effeminate Army admits of the Company of men, whilst they are in Arms or Warlike actions, not so much as to exchange words, without the Generalless her leave or privilege thereto.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>The reason of this is, that men are apt to corrupt the no|ble minds of women, and to alter their gallant, worthy, and wise resoluti|ons, with their flattering words, and pleasing and subtil insinuations, and if they have any Authority over them, as Husbands, Fathers, Brothers, or the like, they are apt to fright them with threats into a slavish obedience; yet there shall be chosen some of the most inferiour of this Female Army, to go into the Masculine Army, to learn their designs, and give us intelligence of their removals, that we may order our incampings and removings according as we shall think best; but these women shall neither be of the Body of our Army, nor keep amongst the Army, nor come within the Trenches, but ly without the works in Huts, which shall be set up for that purpose.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reader.</speaker>
+                     <p>Lastly, Whosoever shall break any of these Laws or Orders, shall be put to Death, and those that do not keep them strictly, shall be severely punished.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Victoria.</speaker>
+                     <p>But I am to advise you Noble Heroicks, that though I would not have a general Council call'd to trouble our designs in War with tedious disputes, and unnecessary objections, and over cautious doubts, yet in case of life and death, there shall be a Jury chosen to sit and judge their Cau|ses, and the whole Army shall give their votes, and the most voices shall ei|ther condemn, or reprieve, or save them, lest I should hereafter be only call'd in question, and not the rest, as being not accessary thereunto; and now you have heard these Laws or Orders, you may assent or dissent therefrom as you please, if you assent, declare it by setting your hands thereto, if you dissent, declare it by word of mouth, and the Tables shall be broken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All the women.</speaker>
+                     <p>We assent, and will set our hands thereto.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="12" type="scene">
+                  <head>Scene 12.</head>
+                  <stage>
+                     <hi>Enter Doctor</hi> Educature <hi>the Lady</hi> Jantils <hi>Chaplin, and</hi> Nell Careless <hi>her Maid.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>DOctor Educature.</speaker>
+                     <p>
+                        <hi>Nell,</hi> how doth your good Lady?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Faith she seems neither sick nor well, for though her Body seems in health, her Mind seems to be full of trouble, for she will rise in the midst of the Night, and walk about her Chamber only with her Mantle about her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor Educature.</speaker>
+                     <p>Why doth she so?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>I ask'd her why she broke her sleep so as to walk about, and she answered me, that it was frightfull Dreams that broke her sleep, and would not let her rest in quiet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor Educature.</speaker>
+                     <p>Alas she is Melancholick in the absence of my Lord.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="13" type="scene">
+                  <pb n="594" facs="312"/>
+                  <head>Scene 13.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Victoria <hi>and a number of other Women.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Victoria.</speaker>
+                     <p>Now we are resolved to put our selves into a Warlike body, our greatest difficulty will be to get Arms; but if you will take my advise we may be furnished with those necessaries, as thus, the Garrison we are to enter is full of Arms and Amunition, and few men to guard them, for not only most of the Souldiers are drawn out to strengthen the Generals Army, and to fight in the battel, but as many of the Townsmen as are fit to bear Arms; wherefore it must of necessity be very slenderly guarded, and when we are in the Town, we will all agree in one Night, when they shall think themselves most secure, to rise and surprize those few men that are left, and not only disarm them and possess our selves of the Town and all the Arms and Amunition, but we will put those men out of the Town or in safe places, untill such time as we can carry away whatsoever is usefull or need|full for us, and then to go forth and intrench, untill such time as we have made our selves ready to march, and being once Master or Mistriss of the Field we shall easily Master the Pesants, who are for the most part naked and de|fenceless, having not Arms to guard them, by which means we may plunder all their Horses, and victual our selves out of their Granaties; besides, I make no question but our Army will increase numerously by those women that will adhere to our party, either out of private and home discontents, or for honour and fame, or for the love of change, and as it were a new course of life; wherefore let us march to the Town and also to our design, but first I must have you all swear secrecy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All the women.</speaker>
+                     <p>We are all ready to swear to what you will have us.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="14" type="scene">
+                  <head>Scene 14.</head>
+                  <stage>
+                     <hi>Enter Madam</hi> Jantil <hi>alone as rising out of her Bed, her Mantle wrapt about her, and in her night linnen.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MAdam Iantil.</speaker>
+                     <l>I saw his Face pale as a Lilly white,</l>
+                     <l>His wounds fresh bleeding blood like rubies bright;</l>
+                     <l>His Eyes were looking steadfastly on me,</l>
+                     <l>Smiling as joying in my Company;</l>
+                     <l>He mov'd his lips as willing was to speak,</l>
+                     <l>But had no voice, and all his Spirits weak;</l>
+                     <l>He shak'd his hand as if he bid farewell,</l>
+                     <l>That brought the message which his tongue would tell;</l>
+                     <l>He's dead, he's dead, a sunder break my heart,</l>
+                     <l>Let's meet in Death, though Wars our lives did part.</l>
+                  </sp>
+                  <stage>After she had walkt silently a turn or two about her Chamber her eyes be|ing sixt on the ground, she return'd as to her Bed.</stage>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="15" type="scene">
+                  <pb n="595" facs="312"/>
+                  <head>Scene 15.</head>
+                  <stage>Enter a Gentleman, and another meets him as in great haste.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>What news? what news?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Sad news, for there hath been a Battel fought betwixt the two Armies, and our Army is beaten, and many of our gallant men slain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>I am sorry for that.</p>
+                  </sp>
+                  <stage>The second Gentleman goeth out.</stage>
+                  <stage>Enter a third Gentleman.</stage>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Sir I suppose you are come newly from the Army, pray report the Battel?</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Truly I came not now from the Army, but from the Town the Generals heroical Lady and the rest of the heroicks did surprize, seise and plunder.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>What the Garrison Town they were sent to for safety?</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Yes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>And doth their number encrease?</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Gent.</hi>
+                     </speaker>
+                     <p>O very much, for after the suprisal of the Town the women in that Town did so approve of their gallant actions, as every one desired to be inlisted in the roul, and number of the <hi>Amazonian</hi> Army, but in the mean time of the forming of their Army, intelligence was brought of the Battel which was fought, and that there was such loss of both sides as each Army retir'd back, being both so weak as neither was able to keep the Field, but that the loss was greater on the reformed Army, by reason there was so many of their gallant men slain, but this news made many a sad heart and weeping eyes in the Female Army; for some have lost their Husbands, some their Fathers, others their Brothers, Lovers and Friends.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Certainly this will fright them out of the Field of War, and cause them to lay by their Heroick designs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Gent.</hi>
+                     </speaker>
+                     <p>I know not what they will do, for they are very secret to their de|signs, which is strange, being all women.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <pb n="596" facs="313"/>
+               <head>ACT IV.</head>
+               <div n="16" type="scene">
+                  <head>Scene 16.</head>
+                  <stage>
+                     <hi>Enter two women like</hi> Amazons.</stage>
+                  <sp>
+                     <speaker>1 <hi>WOman.</hi>
+                     </speaker>
+                     <p>Our Generalless seems to be troubled, perceiving how hea|vily this Female Army takes their losses.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Woman.</hi>
+                     </speaker>
+                     <p>She hath reason, for it may hinder or at least obstruct her high designs.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="17" type="scene">
+                  <head>Scene 17.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Victoria <hi>and her</hi> Amazons, <hi>she takes her stand and speaks to them.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Victoria.</speaker>
+                     <p>Noble Heroicks, I perceive a mourning veil over the Face of this Female Army, and it becomes it well; for 'tis both natu|ral and human to grieve for the Death of our friends; but consider con|stant Heroicks, tears nor lamentations cannot call them out of the grave, no petitions can perswade Death to restore them, nor threats to let them go, and since you cannot have them alive being Dead, study and be industrious to revenge their quarrels on their Enemies lives, let your justice give them Death for Death, offer upon the Tombs of your Friends the lives of their Foes, and instead of weeping Eyes, let us make them weep through their Veins; wherefore take courage, cast off your black Veil of Sorrow, and take up the Firematch of Rage, that you may shoot Revenge into the hearts of their Enemies, to which I hope Fortune will favour us; for I hear that as soon as the Masculine Army have recovered strength there will be ano|ther Battel fought, which may be a means to prove our loves to our Friends, our hate to our Enemies, and an aspiring to our honour and renown; wherefore let us imploy our care to fit our selves for our march.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All the women.</speaker>
+                     <p>We shall follow and obey you, where, and when, and how you please.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="18" type="scene">
+                  <pb n="597" facs="313"/>
+                  <head>Scene 18.</head>
+                  <stage>
+                     <hi>Enter Doctor</hi> Educature, <hi>and</hi> Nell Careless; <hi>the Doctor weeps.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>DOctor Educature.</speaker>
+                     <p>Doth my Lady hear of my Lords Death?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>The Messenger or Intelligencer of my Lords Death is now with her.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="19" type="scene">
+                  <head>Scene 19.</head>
+                  <stage>
+                     <hi>Enter Madam</hi> Jantil, <hi>and a Gentleman Intelligencer; the Lady seems not disturb'd; but appears as usually.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MAdam Iantil.</speaker>
+                     <p>How died my Lord?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>Madam, he fought with so much courage, as his actions will never dye, and his valour will keep alive the memory of this War: for though he died, his Death was Crown'd with Victory, he digg'd his Grave out of his Enemies sides, and built his Pyramid with heaps of their Bodies, the groans of those he slew did ring his dying Knell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>What became of his body?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>He gave order before the Armies joined to fight, that if he were kill'd, his body should be sought out, and delivered to you: for he said it was yours whilst he lived, and he desired it might be disposed of by you when he was dead; his desires and commands were obeyed, and his body is coming in a Litter lapt in Searcloth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Worthy Sir, I give you many thanks for your noble rela|tion, assuring my self it is true because you report it, and it is my Husband that is the subject and ground of that honourable relation, whom I always did believe would out-act all words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>He hath so Madam.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Sir, if I can at any time honourably serve you, I shall be ready whensoever you will command me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>Your Servant Madam.</p>
+                     <stage>(He was going forth and returns)</stage>
+                     <p>If your Ladyship hath not heard of Monsieur la <hi>Hardy</hi>'s Death, give me leave to tell you he is slain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>I am sorry, and for his Lady, for she loved him most passionably.</p>
+                     <stage>The Gentleman goes out.</stage>
+                  </sp>
+                  <stage>
+                     <pb n="598" facs="314"/>
+                     <hi>Enter as running and calling out</hi> Doll Pacify, <hi>Madam</hi> Passionate's <hi>Maid.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>Help, help, my Lady is dead, my Lady is fallen into a swound at the report of my Masters being kill'd.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Lady goeth out and the Maid, then they enter strait again with two or three Servants more, bringing in the Lady</hi> Passionate <hi>as in a swound.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Alas poor Lady, her Spirits are drown'd in Sorrow, and Grief hath stopt her breath; loosen her Garments, for she is swell'd with troubled Thoughts, her Passions lie on heaps, and so oppress life, it cannot stir, but makes her senceless.</p>
+                  </sp>
+                  <stage>Upon the loosing of her garments she revives, and cryes out.</stage>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>O my Husband, my Husband!</p>
+                  </sp>
+                  <stage>She swounds again.</stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Bow her forward, bow her forward.</p>
+                  </sp>
+                  <stage>
+                     <hi>Madam</hi> Passionate <hi>revives again.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>O let me dye, let me dye, and bury, bury me with him.</p>
+                  </sp>
+                  <stage>Swounds again.</stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Alas poor Lady, put her to Bed, for her life will find most case there.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Servants goes out with Madam</hi> Passionate.</stage>
+                  <stage>
+                     <hi>Madam</hi> Jantil <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>O life what art thou? and Death where doest thou lead us, or what dissolv'st thou us into?</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="20" type="scene">
+                  <head>Scene 20.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>I wonder there is no news or Messenger come from the Army yet, when there usually comes one every day.</p>
+                  </sp>
+                  <stage>Enter a Messenger.</stage>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>O Sir, what news?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Messenger.</speaker>
+                     <p>Faith there hath been nothing acted since the last Battel, but
+<pb n="599" facs="314"/>
+it is said there will be another Battel very suddenly, for the Enemy provokes our men to fight, by reason our Lord General lies sick of his wounds, having had a Feavour, caused by the anguish of his hurts, and by his Sickness the Enemies hope to gain an advantage of his absence, but he hath put a De|puty in his place to command in chief untill he recovers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>What is become of the Female Army?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Messenger.</speaker>
+                     <p>I hear they are marched towards the Masculine Army, but upon what design I cannot understand.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="21" type="scene">
+                  <head>Scene 21.</head>
+                  <stage>
+                     <hi>Enter Madam</hi> Jantil, <hi>and her Maid</hi> Nell Careless.</stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Call my Steward.</p>
+                  </sp>
+                  <stage>The Maid goes out.</stage>
+                  <stage>The Lady walks in a musing posture, her eyes fixt on the ground.</stage>
+                  <stage>Enter the Steward weeping.</stage>
+                  <sp>
+                     <speaker>Steward.</speaker>
+                     <p>O Madam, that I should live to hear this cursed news of my dear Lord and Masters Death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Life is a curse, and there's none happy but those that dye in the womb before their birth, because they have the least share of misery; and since you cannot weep out life, bear it with patience; but thy tears have almost washt out the memory of what I was to say, but this it is, that I would have you sell all my Jewels, Plate, and Houshold Furniture to the best advantage, and to turn off all my Servants, but just those to attend my person, but to reward all of them with something more than their wa|ges, and those Servants that are old, and have spent their youth with my Lords Predecessors and in his service, but especially those he favoured most, give them so much during their lives as may keep them from the miseries of necessity, and vexations of poverty. Thirdly, I would have you hire the best and curioust Carvers or Cutters of Stones to make a Tomb after my directi|on; as First I will have a marble piece raised from the ground about half a mans height or somthing more, and somthing longer than my Husbands dead body, and then my Husbands Image Carved out of Marble to be laid thereupon, his Image to be Carved with his Armor on, and half a Head-piece on the Head, that the face might be seen, which face I would have to the life as much as Art can make it; also let there be two Statues, one for <hi>Mercury,</hi> and another for <hi>Pallas,</hi> these two Statues to stand at his head, and the hands of these Statues to join and to be laid under as carry|ing the head of my Husbands figure, or as the head lay thereupon, and their hands as his Pillow; on the right side of his figure, let there be a Statue for <hi>Mars,</hi> and the hand of <hi>Mars</hi>'s Statue holding the right hand of my Hus|bands figure, and on the left hand a Statue for <hi>Hymen,</hi> the hand on the place of the heart of my Husbands figure, and at the feet of the figure let
+<pb n="600" facs="315"/>
+there be placed a Statue for <hi>Fortune</hi> also, about a yard distance from the Tomb; at the four Corners thereof, let there be four Marble Pillars raised of an indifferent height, and an Arched Marble Cover thereupon, and let all the ground be paved underneath with Marble, and in the midst on the out|side of the marble roof let the Statute of <hi>Fame</hi> be placed in a flying posture, and as blowing a Trumpet; then some two yards distance square from those Pillars, let the ground be paved also with Marble, and at the four Corners four other Marble Pillars raised as high as the former, with Capitals at top, and the body of those Pillars round, and the Statues of the four Cardinal Virtues placed on those Capitals, sitting as in a weeping posture, and at the feet of those Pillars the Statues of the Graces imbracing each Pillar; as the Statue of Charity, the Pillar whereon the Statue of Justice sits, and the Statue of Patience, the Pillar of Temperance, and the Statute of Hope, the Pillar of Prudence, and the Statue of Faith, the Pillar of Fortitude; then set a grove of Trees all about the out-side of them, as Lawrel, Mirtle, Cipress, and Olive, for in Death is Peace, in which Trees the Birds may sit and sing his Elegy; this Tomb placed in the midst of a piece of ground of some ten or twenty Acres, which I would have incompassed about with a Wall of Brick of a reasonable height, on the inside of the Wall at one end, I would have built a little house divided into three Rooms, as a Gallery, a Bed-chamber, and a Closet, on the outside of the Wall a House for some necessary Servants to live in, to dress my meat, and to be ready at my call, which will be but seldome, and that by the ring of a Bell, but the three Rooms I would have furnished after this manner, my Chamber and the Bed therein to be hung with white, to signify the Purity of Chastity, wherein is no Co|lours made by false lights; the Gallery with several Colours intermixt, to signify the varieties, changes, and incombrances of life; my Closet to be hung with black, to signify the darkness of Death, wherein all things are forgotten and buried in Oblivion; thus will I live a signification, not as a real substance but as a shaddow made betwixt life and death; from this House which shall be my living Tomb, to the Tomb of my dead Husband, I would have a Cloyster built, through which I may walk freely to my Husbands Tomb, from the injuries of the weather, and this Cloyster I would have all the sides thereof hung with my Husbands Pictures drawn to the life by the best Painters, and all the several accidents, studies and exercise of his life; thus will I have the story of his life drawn to the life: see this my desire speedily, carefully, and punctually done, and I shall reward your service as a carefull and diligent Steward and Servant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Steward.</speaker>
+                     <p>It shall be done, but why will not your Ladyship have my Lords figure cast in Brass?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Because the Wars ruin Tombs before Time doth, and metals being usefull therein are often taken away by necessity, and we sel|dome find any ancient Monuments but what are made of Stone, for cove|tousness is apt to rob Monuments of metal, committing Sacrileges on the dead, for metals are soonest melted into profit, but Stone is dull and heavy, creeping slowly, bringing but a cold advantage, wherein lies more pains than gains.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Steward.</speaker>
+                     <p>But your Ladyship may do all this without selling your Jewels, Plate, and Houshold Furniture.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>It is true, but I would not let so much wealthly dead in Vanity, when exchanging them for money, I can imploy it to some good use.</p>
+                  </sp>
+                  <sp>
+                     <pb n="601" facs="315"/>
+                     <speaker>Steward.</speaker>
+                     <p>Your Ladyship hath forgotten to give order for blacks.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>No I have not, but I will give no mourning untill my Husbands body be carried to the Tomb; wherefore I have nothing more to imploy you in at this time, but only to send hither my Chaplain Doctor <hi>Educature.</hi>
+                     </p>
+                  </sp>
+                  <stage>The Steward goes out.</stage>
+                  <stage>
+                     <hi>Enter Doctor</hi> Educature.</stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>Doctor, although it is not the profession of a Divine to be an Historian, yet you knowing my Husbands life and natural disposition best, being in his Childhood under you Tutorage, and one of his Family ever since, I know none so proper for that work as you; and though you are natu|rally an eloquent Orator, yet the bare truth of his worthy Virtues and He|roical actions will be sufficient to make the story both profitable, delightfull, and famous; also I must intreat you to choose out a Poet, one that doth not meerly write for gain, or to express his own wit, so much as to endea|vour to Pencil with the pen Virtue to the life, which in my Lord was so beautifull as it was beyond all draughts, but the theam will inspire his Muse, and when both these works are writ, printed and set out, as divulged to the World as a patern for examples, which few will be able to imitate, then I would have these books ly by me as Registers of memory, for next unto the Gods my life shall be spent in Contemplation of him; I know I shall not need to perswade you to do this, for your affection to his memory is ready of it self; but love and duty binds me to express my desires for his Fame leaving nothing which is for my part thereunto.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor Educature.</speaker>
+                     <p>Madam, all the service I can do towards the memory of my dear Pupil; and noble Lord and Patron, shall be most devoutly obser|ved and followed; for Heaven knows, if I had as many lives to dispose of as I have lived years, I would have Sacrificed them all for to haue redeemed his life from Death.</p>
+                  </sp>
+                  <stage>
+                     <hi>Doctor</hi> Educature <hi>goes out.</hi>
+                  </stage>
+                  <stage>
+                     <hi>Madam</hi> Jantil <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>When I have interred my Husbands body, and all my de|sires thereunto be finished, I shall be at some rest, and like an Executrix to my self executing my own will, distributing the Rites and Ceremonies, as Legacies to the dead, thus the living gives the dead; but O my Spirits are tired with the heavy burden of Melancholy, and grow faint for want of rest, yet my senses invite me thereunto, yet I cannot rest in my Bed, for fright|full Dreams disturb me; wherefore I will ly down on this floor, and try if I can get a quiet sleep on the ground, for from Earth I came, and to Earth I would willingly return.</p>
+                  </sp>
+                  <stage>She lays her self down upon the ground, on one side of her Arm bowing, leaning upon her Elbow, her Forehead upon the palm of her hand bowing for|wards, her face towards the ground; but her grief elevating her passion, thus speaks.</stage>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <l>Weep cold Earth, through your pores weep,</l>
+                     <l>Or in your bowels my salt tears fast keep;</l>
+                     <l>
+                        <pb n="602" facs="316"/>Inurn my sighs which from my grief is sent,</l>
+                     <l>With my hard groans build up a Monument;</l>
+                     <l>My Tongue like as a pen shall write his name,</l>
+                     <l>My words as letters to divulge his fame;</l>
+                     <l>My life like to an Arch over his Ashes bend,</l>
+                     <l>And my desires to his grave descend;</l>
+                     <l>I warn thee Life keep me not Company,</l>
+                     <l>I am a friend to Death thy Enemy;</l>
+                     <l>For thou art cruell, and every thing torments,</l>
+                     <l>Wounding with pain all that the World presents;</l>
+                     <l>But Death is generous and sets us free,</l>
+                     <l>Breaks off our Chains, and gives us liberty;</l>
+                     <l>Heals up our wounds of trouble with sweet rest,</l>
+                     <l>Draws our corrupted passions from our breast;</l>
+                     <l>Layes us to sleep on Pillows of soft case,</l>
+                     <l>Rocks us with silence nothing hears nor sees.</l>
+                     <stage>She fetches'a great sigh.</stage>
+                     <l>O that I may here sleep my last.</l>
+                     <stage>After a short slumber she wakes.</stage>
+                     <p>If it were not for Dreams sleep would be a happiness next unto Death; but ● find I cannot sleep a long sleep in Death, I shall not dye so soon as I would.</p>
+                     <l>Love is so strong and pure it cannot dy,</l>
+                     <l>Lives not in sense, but in the Soul doth lye;</l>
+                     <l>Why do I mourn? his love with mins doth dwell,</l>
+                     <l>His love is pleas'd mine entertains it well;</l>
+                     <l>But mine would be like his one imbodied,</l>
+                     <l>Only an Essence or like a Godhead.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="22" type="scene">
+                  <head>Scene 22.</head>
+                  <stage>
+                     <hi>Enter Doctor</hi> Comfort, <hi>and</hi> Doll Pacify.</stage>
+                  <sp>
+                     <speaker>DOctor Comfort.</speaker>
+                     <p>How doth our Lady <hi>Doll</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>To day she began to sit up, but yet she is very weak and faint.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor Comfort.</speaker>
+                     <p>Heaven help her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>You that are Heavens Almner, should distribute Heavens gifts out of the purse of your mouth, and give her single Godly words in|stead of single silver pence, to buy her some Heavenly food to feed her fa|misht mind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor Comfort.</speaker>
+                     <p>Thou are a full-fed wench.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>If I were no better fed than you feed me, which is but once a week, as on Sundayes, I should be starved.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor Comfort.</speaker>
+                     <p>You must fast and pray, fast and pray.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <pb n="603" facs="316"/>
+               <head>ACT V.</head>
+               <div n="23" type="scene">
+                  <head>Scene 23.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>All the young Gallants in the Town are preparing themselves with fine Cloths and Feathers to go a woing to the two rich Wi|dows, the Lady <hi>Iantil,</hi> and the Lady <hi>Passionate.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Riches are the Loadstone of affection, or at least professions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>The truth is, Riches draw more Suters, than Youth, Beauty, or Virtue.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="24" type="scene">
+                  <head>Scene 24.</head>
+                  <stage>
+                     <hi>Enter two or three Gentlemen, Monsieur</hi> Comerade, <hi>Monsieur</hi> Compagnion, <hi>and Monsieur la</hi> Gravity.</stage>
+                  <sp>
+                     <speaker>Monsieur Comerade.</speaker>
+                     <p>For Heavens sake let us go and address our selves to the two Rich Widows.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Compagnion.</speaker>
+                     <p>For my part I will address my self to none but the young Widow, the Lady <hi>Iantil,</hi> and to her let us go without delay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur la Gravity.</speaker>
+                     <p>It will be uncivil to go so soon after their Husbands Death, for their Husbands are not yet laid in their Graves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Compagnion.</speaker>
+                     <p>If they were we should come too late, for I knew a man which was a great friend of mine, who was resolved to settle himself in a married course of life, and so he went a wooing to a Widow, for a Widow he was resolved to marry, and he went a wooing to one whose Husband was but just cold in his grave, but she told him she was promised before, so he wooed another whilst she followed her Husbands Corps, but she told him he came too late, whereat he thought with the third not to be a second in his Sute, and so expressed his desires in her Husbands sickness, she told him she was very sorry that she had past her word before to another, for if she had not, she would have ma le him her choice, whereat he curst his impru|dence, and wooed the fourth on her wedding day, who gave him a promise after her Husband was dead to marry him, and withall she told him, that if she had been married before, it had been ten to one but he had spoke too late, for said she, when we are Maids we are kept from the free conversation of men, by our Parents or Guardians, but on our wedding day we are made free and set at liberty, and like as young Heirs on the day of one and twenty we make promises like bonds for two or three lives: wherefore I fear we shall miss of our hopes, for these two Widows will be promised before we address our Sute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur la Gravity.</speaker>
+                     <p>No no, for I am confident all do not so, for some
+<pb n="604" facs="317"/>
+love to have the freedoms of their wills, for every promise is a bondage to those that make a Conscience to keep their promise, besides, it is not only variety that pleaseth women, but new Changes, for stale Acquaintance is as unpleasant as want of change, and the only hopes I have to the end of my Sute, is, that I am a Stranger and unknown, for women fancy men beyond what they are when unknown, and prize them less than their merits de|serve, when they are acquainted.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Comerade.</speaker>
+                     <p>Well, we will not stay, but we will do our indea|vour to get admittance.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="25" type="scene">
+                  <head>Scene 25.</head>
+                  <stage>
+                     <hi>Enter Madam</hi> Passionate <hi>as very ill, sitting in a Chair groaning, Enter Madam</hi> Jantil <hi>as to see her.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MAdam Iantil.</speaker>
+                     <p>Madam, how do you find your health?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>Very bad, for I am very ill, but I wonder at your Fortitude, that you can bear such a Cross as the loss of your Husband so patiently.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Iantil.</speaker>
+                     <p>O Madam I am like those that are in a Dropsie, their face seems full and fat, but their liver is consumed, and though my sorrow ap|pears not outwardly, yet my heart is dead within me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>But your young years is a Cordiall to restore it, and a new love will make it as healthfull as ever it was.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Doll Pacify <hi>the Lady</hi> Passionat<hi>'s Maid, with a Porrenger of Cawdle.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>Pray Madam eat somthing, or otherwise you will kill your self with fasting, for you have not eaten any thing since the beginning of your sorrow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Passionate.</speaker>
+                     <p>O carry that Cawdle away, carry it away, for the very sight doth overcome my Stomack.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>Pray Madam eat but a little.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Passionate.</speaker>
+                     <p>I care not for it, I cannot eat it, nor will not eat it: where|fore carry it away, or I will go away.</p>
+                  </sp>
+                  <stage>Both the Ladies goe out.</stage>
+                  <stage>
+                     <hi>Enter</hi> Nell Careless <hi>Madam</hi> Jantils <hi>Maid.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Prethee if thy Lady will not eat this Cawdle, give it me, for I have an Appetite to it; but I wonder you will offer your Lady any thing to eat, but rather you should give her somthing to drink, for I have heard sorrow is dry, but never heard it was hungry.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>You are mistaken, for sorrow is sharp, and bites upon the Stomack, which causes an eager Appetite.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>I am sure weeping eyes make a dry Throat.</p>
+                  </sp>
+                  <stage>[She eats and talks between each spoonfull.]</stage>
+                  <sp>
+                     <pb n="605" facs="317"/>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>But Melancholy Thoughts make a hungry Stomack: but faith if thou wert a Widow, by thy eating thou wouldst have another Hus|band quickly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Do you think I would marry again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>Heaven forbid that a young woman should live a Widow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Why, is it a sin for a young woman to live a Widow?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>I know not what it would be to you, but it would be a case of Conscience to me if I were a Widow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>By thy nice Conscience thou seem'st to be a Puritan.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>VVell, I can bring many proofs: but were it not a sin, it is a disgrace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>VVhere lies the disgrace?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>In the opinion of the VVorld, for old Maids and musty VVi|dows are like the plague shun'd of by all men, which affrights young women so much, as by running from it they catch hold on whatsoever man they meet, without consideration of what or whom they are, by which many times they fall into poverty and great misery.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>You teach a Doctrine, that to escape one mischief they fall on another, which is worse than the first; wherefore it were better to live a musty VVidow as you call them, than a miserable VVife; besides, a man cannot intimately love a VVidow, because he will be a Cuckold, as being made one by her dead Husband, and so live in Adultry, and so she live in sin her self by Cuckolding both her Husbands, having had two.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>I believe if you were a VVidow you would be tempted to that sin.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Faith but I should not, for should I commit that sin, I should deserve the Hell of discontent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>Faith you would marry if you were young, and fair, and rich.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Those you mention would keep me from marrying: for if any would marry me for the love of youth and beauty, they would never love me long, because time ruins both soon; and if any one should marry me meerly for my riches, they would love my riches so well and so much as there would be no love left for me that brought it, and if my Husband be ta|ken Prisoner by my wealth, I shall be made a Slave.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify</speaker>
+                     <p>No, not if you be virtuous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Faith there is not one in an Age that takes a wife meerly for virtue, nor valews a wife any thing the more for being so; for poor Vir|tue fits mourning unregarded and despised, not any one will so much as cast an eye towards her, but all shun her as you say they do old Maids or musty Widows.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>Although you plead excellently well for not marrying, yet I make no question but you would willingly marry if there should come a young Gallant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>What's that, a Fool that spends all his wit and money on his Clothes? or is it a gallant young man, which is a man enriched with worth and merit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>I mean a Gallant both for bravery and merit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Nay, they seldome go both together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>Well, I wish to Heaven that <hi>Hymen</hi> would give thee a Hus|band, and then that <hi>Pluto</hi> would quietly take him away to see whether you
+<pb n="606" facs="318"/>
+would marry again, O I long for that time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nell Careless.</speaker>
+                     <p>Do not long too earnestly, lest you should miscarry of your desires.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Madam</hi> Passionate, <hi>whereat</hi> Nell Careless <hi>hearing her come, she runs away.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>VVho was it that run away?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>
+                        <hi>Nell Careless</hi> Madam <hi>Iantils</hi> Maid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>O that I could contract a bargain for such an indiffe|rent mind as her young Lady hath, or that the pleasures of the VVorld could bury my grief.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>There is no way for that Madam, but to please your self still with the present times, gathering those fruits of life that are ripe, and next to your reach, not to indanger a fall by climing too high, nor to stay for that which is green, nor to let it hang whilst it is rotten with time, nor to mur|mur for that which is blowen down by chance, nor to curse the weather of accidents for blasting the blossoms, nor the Birds and VVorms of Death, which is sickness and pain, for picking and eating the berries, for nature al|lows them a part as well as you, for there is nothing in the VVorld we can absolutely possess to our selves; for Time, Chance, Fortune and Death, hath a share in all things, life hath the least.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Passionate.</speaker>
+                     <p>I think so, for I am weary of mine.</p>
+                  </sp>
+                  <stage>The Lady goes out.</stage>
+                  <stage>Enter a Man.</stage>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <p>Mistriss <hi>Dorothy,</hi> there are two or three Gentlemen that desire to speak with one of the VVidows Maids, and you belong to one.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>VVell, what is their business?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <p>I know not, but I suppose they will only declare that to your self.</p>
+                  </sp>
+                  <stage>She goeth out, and enters again as meeting the Gentlemen.</stage>
+                  <sp>
+                     <speaker>Doll Pascify.</speaker>
+                     <p>Gentlemen, would you speak with me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur la Gravity.</speaker>
+                     <p>Yes, for we desire you will help us to the honour of kissing your Ladyes hands, thereon to offer our service.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll Pacify.</speaker>
+                     <p>Sir, you must excuse me, for the Sign of VVidowhood is not as yet hung out, Mourning is not on, nor the Scurcheons are not hung over the Gate, but if you please to come two or three dayes hence I may do you some service, but now it will be to no purpose to tell my Lady, for I am sure she will receive no visits.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         </body></text></TEI>
+

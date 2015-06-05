@@ -1,0 +1,2299 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A10439">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">A new iuterlude [sic] and a mery of the nature of the .iiii. element declarynge many proper poynt of phylosophy naturall, and of dyuers straunge landys and of dyuers straunge effects [and] causis, whiche interlude yf ye hole matter be playd wyl conteyne the space of an hour and a halfe, but yf le lyst ye may leue out muche of the sad mater as the messengers p[ar]te, and some of experyens p[ar]te [and] yet the matter wyl depend conuenyently, and than it wyll not be paste thre quarters of an hour of length.</title>
+            <author>Rastell, John, d. 1536.</author>
+         </titleStmt>
+         <extent>34 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 January (TCP phase 1)</date>
+            <idno type="marc">99840219</idno>
+            <idno type="stc">STC (2nd ed.) 20722.</idno>
+            <idno type="stc">Greg I, 6.</idno>
+            <idno type="vid">4695</idno>
+            <idno type="DLPS">A10439</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">A new iuterlude [sic] and a mery of the nature of the .iiii. element declarynge many proper poynt of phylosophy naturall, and of dyuers straunge landys and of dyuers straunge effects [and] causis, whiche interlude yf ye hole matter be playd wyl conteyne the space of an hour and a halfe, but yf le lyst ye may leue out muche of the sad mater as the messengers p[ar]te, and some of experyens p[ar]te [and] yet the matter wyl depend conuenyently, and than it wyll not be paste thre quarters of an hour of length.</title>
+                  <title type="alt">New interlude and a mery of the nature of the .iiii. element declarynge many proper poynt of phylosophy naturall, and of dyvers straunge landys</title>
+                  <title type="alt">New interlude and a mery of the nature of the .iiii. element declarynge many proper poynt of phylosophy naturall, and of dyvers straunge landys.</title>
+                  <title type="alt">Nature of the .iiii. element.</title>
+                  <author>Rastell, John, d. 1536.</author>
+               </titleStmt>
+               <extent>[64||] p. : music.</extent>
+               <publicationStmt>
+                  <pubPlace>[London :</pubPlace>
+                  <publisher>J. Rastell,</publisher>
+                  <date>1520?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Anonymous. By John Rastell.</p>
+                  </note>
+                  <note>
+                     <p>Caption title.</p>
+                  </note>
+                  <note>
+                     <p>Imprint from STC.</p>
+                  </note>
+                  <note>
+                     <p>Contains music.</p>
+                  </note>
+                  <note>
+                     <p>In verse.</p>
+                  </note>
+                  <note>
+                     <p>Signatures: A-C E.</p>
+                  </note>
+                  <note>
+                     <p>Imperfect; lacks quire D and all after quire E.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the British Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>America -- Discovery and exploration -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="introduction">
+            <pb facs="1"/>
+            <pb facs="1"/>
+            <p>¶A new interlude and a mery of the nature of the .iiij. element{is} declarynge many pro||per poynt{is} of phylosophy naturall / and of dyuers straunge landys / and of dyuers straunge effect{is} &amp; causis / whiche interlude yf y^e hole matter be <abbr>playd</abbr> wyl conteyne the space of an hour and a halfe / but yf ye lyst ye may leue out muche of the sad mater as the messengers {per}te / and some of naturys parte and some of experyens {per}te &amp; yet the matter wyl de||pend conuenyently / and than it wyll not be paste thre quarters of an hour of length.</p>
+            <p>¶Here folow the namys of the pleyers.</p>
+            <p>¶The messengere / Nature naturate / Humanyte Studyous desire / Sensuall appetyte / The tauer||ner / Eyperyence / yngnoraunce / Also yf ye lyst ye may brynge in a dysgysynge.</p>
+            <p>¶Here folow dyuers matters whiche be in this interlude conteynyd.</p>
+            <p>¶Of the sytuacyon of the .iiij. element{is} that is to sey the yerth the water the ayre and fyre / &amp; of theyr qualytese and propertese / and of the generacyon &amp; corrupcyō of thyng{is} made of y^e cōmyxion of them</p>
+            <p>
+               <pb facs="2"/>¶Of c●rt●yn {con}clusions {pro}uynge y^● the yerth must 〈…〉 roūde &amp; y^● it h●ngyth in y^e mydd{is} of the fyr 〈◊〉 y^t it is in circūferēce a boue .xxj.M. myle 〈◊〉 Of 〈◊〉 {con}clusions ●●ynge that the see lyeth 〈◊〉 vppon 〈…〉.</p>
+            <p>〈…〉●●●osmography / as how &amp; 〈…〉 / &amp; of ●yuers straūge 〈◊〉●landys and whiche wey th●y ly●● and of 〈◊〉 n●w founde landys and y^e maner of y^e people.</p>
+            <p>〈…〉 cause of stone &amp; m●tall 〈…〉.</p>
+            <p>¶〈…〉 cause of well spryng{is} &amp; 〈…〉 of the cause o● hote fumys that come 〈…〉 of y^● y●rth / and of y^e cause of the bathys 〈…〉 in the yerth whiche be {per}petually hote.</p>
+            <p>¶Of th● cause of th●●bbe and flode of the see</p>
+            <p>¶O● the cause of rayne snowe and hayle</p>
+            <p>¶O● th● cause of the wynd●s and thonder</p>
+            <p>● Of th● cause of the lyghtnynge of blasyng ster|●ys and flamys fleynge in the ayre</p>
+         </div>
+      </front>
+      <body>
+         <div type="interlude">
+            <sp>
+               <pb facs="2"/>
+               <speaker>¶ The messenger.</speaker>
+               <l>THaboūdant grace of the power deuyne</l>
+               <l>whiche doth illumyne y^e <abbr>world</abbr> inuyron</l>
+               <l>P●eserue this audyēce and cause them to inclyne</l>
+               <l>To charyte this is my petycyon</l>
+               <l>For by your pac●●ns and supportacyon</l>
+               <l>A lytyll in●erlude late made and preparyd</l>
+               <l>Before your presence here shall be declaryd</l>
+               <l>¶whiche of a f●w conclusyons is contriuyd</l>
+               <l>And poynt{is} of phylosophy naturall</l>
+               <l>But though the matt●r be not so well declaryd</l>
+               <l>As a great clerke coude do nor so substancyall</l>
+               <l>yet the auctour hereof requiryth you all</l>
+               <l>Though he be yngnorant and ca● lytyll skyll</l>
+               <l>To regarde his only intent and good wyll</l>
+               <l>¶whiche in his mynde hath oft tymes ponderyd</l>
+               <l>what nombre of bok{is} in our tonge maternall</l>
+               <l>Of ioyes and tryfellys be made and impryntyd</l>
+               <l>And few of th●m of matter substancyall</l>
+               <l>For though m●●y make bok{is} yet vnneth ye shall</l>
+               <l>In our englyshe tonge fynde any wark{is}</l>
+               <l>Of connynge that is regardyd by clerk{is}</l>
+               <l>¶The grek● th● romayns with many other mo</l>
+               <l>In their moder tonge wrot wark{is} excellent</l>
+               <l>Than yf clerk{is} in this r●alm● wolde take payn so</l>
+               <l>
+                  <pb facs="3"/>Consyderyng that our tonge is now suffycyent</l>
+               <l>●o expoun any hard sentence euydent</l>
+               <l>●hey myght yf they wolde in our englyshe tonge</l>
+               <l>●ryt● workys of grauyte somtyme amonge</l>
+               <l>¶For dyuers pr●●gnaunt wytt●〈◊〉 this lande</l>
+               <l>●s well of noble men as of meane estate</l>
+               <l>〈◊〉●othynge but ●nglyshe can vnderstand●</l>
+               <l>〈◊〉 yf connynge laten bokys were translate</l>
+               <l>〈◊〉 englyshe w●l corr●●t and app●obate</l>
+               <l>〈…〉 in englyshe myght be l●rnyd</l>
+               <l>〈…〉 oth●r people in their owne tong{is} dyd</l>
+               <l>●But now so i● is that in our englyshe tonge</l>
+               <l>〈◊〉 one th●r● is that can but rede &amp; wryte</l>
+               <l>〈…〉 wyll oft presume amonge</l>
+               <l>〈…〉 to compyle and balat{is} to indyte</l>
+               <l>Some o● loue or other matter not worth a myte</l>
+               <l>Some to opteyn fauour wyll flatter and glose</l>
+               <l>Some wryte curyous term{is} nothyng to purpose</l>
+               <l>¶Thus euery man after his fantesye</l>
+               <l>wyll wryte his conseyte be it neuer so rude</l>
+               <l>Be it vertuous vycyous wysedome or foly</l>
+               <l>wherfore to my purpose thus I conclude</l>
+               <l>why shold not th●● the auctour of this interlude</l>
+               <l>Utter his own●●antesy and conseyte also</l>
+               <l>As well as dyuers other now a dayes do</l>
+               <l>¶For wys●dom● and foly is as it is takyn</l>
+               <l>
+                  <pb facs="3"/>For y^e one callyth wysedome a nother callyth foly</l>
+               <l>y●t amonge moste folke that man is holdyn</l>
+               <l>moste wyse / whiche to be ryche studyeth only</l>
+               <l>But he that for a cōmyn welth bysyly</l>
+               <l>Studyeth and laboryth and lyuyth by godd{is} law</l>
+               <l>Except he wax ryche men count hym but a daw</l>
+               <l>¶So he that is ryche is euer honouryd</l>
+               <l>All though he haue got it neuer so falsely</l>
+               <l>The pore beynge neuer so wyse is reprouyd</l>
+               <l>This is the oppynyon moste cōmynly</l>
+               <l>Thorowe out the worlde / and yet no reason why</l>
+               <l>Therfore in my <abbr>mynd</abbr> whan that all suche dawis</l>
+               <l>Haue babelyd what they cā no force of .ii. strawis</l>
+               <l>¶For euery man in reason thus ought to do</l>
+               <l>To labour for his owne necessary lyuynge</l>
+               <l>And than for the welth of his neyghbour also</l>
+               <l>But what dyuylish <abbr>mynd</abbr> haue they which musīg</l>
+               <l>And labouryng all their lyff{is} do no nother thyng</l>
+               <l>But brīge ryches to their owne possessyon</l>
+               <l>Nothyng regardīge their neyghbours distrucciō</l>
+               <l>¶yet all the ryches in the worlde that is</l>
+               <l>●ysyth of the grounde by goddys sendynge</l>
+               <l>And by the labour of pore mennys handys</l>
+               <l>And though thou rych● mā haue therof y^e kepynge</l>
+               <l>y●t is not this ●yches of thy gettynge</l>
+               <l>Nor oughtyst not in reason to be preysyd y^e more</l>
+               <l>
+                  <pb facs="4"/>For by other mēnys labour it is got before</l>
+               <l>¶A great wytted man may sone be enrychyd</l>
+               <l>That laboryth and studyeth for ryches only</l>
+               <l>But how shall his cōscyens than be discharged</l>
+               <l>For all clerk{is} afferme that that man presysely</l>
+               <l>whiche studyeth for his owne welth pryncypally</l>
+               <l>Of god shall deserue but lytyll rewarde</l>
+               <l>E●cept he the cōmyn welth somwhat regarde</l>
+               <l>¶So they s●y that that man occupyed is</l>
+               <l>For a cōmyn welth whiche is euer laborynge</l>
+               <l>To rel●ue pore people with temporall goodys</l>
+               <l>And that it is a cōmyn good act to brynge</l>
+               <l>People from vyce and to vse good lyuynge</l>
+               <l>Lyke wyse for a cōmyn welth occupyed is he</l>
+               <l>That bryngyth them to knowlege y^e yngnorāt be</l>
+               <l>¶But man to knowe god is a dyffyculte</l>
+               <l>Except by a meane he hym selfe inure</l>
+               <l>whiche is to knowe godd{is} creaturys that be</l>
+               <l>As furst them that be of the grosyst nature</l>
+               <l>And than to know them that be more pure</l>
+               <l>And so by lytyll and lytyll ascendynge</l>
+               <l>To know godd{is} creaturys &amp; meruelous werkīge</l>
+               <l>¶And this wyse man at the last shall come to</l>
+               <l>The knowlege of god and his hye mageste</l>
+               <l>And so to lerne to do his dewte and also</l>
+               <l>To deser●e of his goodnes partener to be</l>
+               <l>wherfore in this work d●claryd shall ye see</l>
+               <l>
+                  <pb facs="4"/>Furst of the element is the sytuacyon</l>
+               <l>And of their effectis the caule and generacyon</l>
+               <l>¶And though some mē thyn●e this matter to hy●</l>
+               <l>And not mete for an audyence vnlernyd</l>
+               <l>Me thynke for man nothynge more necessary</l>
+               <l>Than this to know though it be not vsyd</l>
+               <l>Nor a matter more lowe can not be arguyd</l>
+               <l>For though the elementis goddys creaturis be</l>
+               <l>yet they be most grose and lowyst in degre</l>
+               <l>¶How dare men presume to be callyd clerk{is}</l>
+               <l>Dysputynge of hye creaturis celestyall</l>
+               <l>As thyngys inuysyble and godd{is} hye warkys</l>
+               <l>And know not these vysyble thyngys inferyall</l>
+               <l>So they wolde know hye thyng{is} &amp; know nothīge at all</l>
+               <l>Of the yerth here wheron they dayly be</l>
+               <l>Nother the nature forme nor quantyte</l>
+               <l>¶wherfore it semyth nothynge conuenyent</l>
+               <l>A man to study and his tyme to be stowe</l>
+               <l>Furst for the knowlege of hye thyng{is} excellent</l>
+               <l>And of lyght matters beneth nothynge to know</l>
+               <l>As of these .iiij. elementis here below</l>
+               <l>whose effectis dayly appere here at eye</l>
+               <l>Such thīg{is} to know furst / were most mete study</l>
+               <l>¶whiche matter before your presence shortly</l>
+               <l>In this interlude here shall be declaryd</l>
+               <l>without great eloquence ī ryme rudely</l>
+               <l>Because the compyler is but small lernyd</l>
+               <l>
+                  <pb facs="5"/>This worke with rethoryk is not adournyd</l>
+               <l>For perhappis in this matter muche eloquence</l>
+               <l>Sholde make it tedyous or hurt the sentence</l>
+               <l>¶But because some folke be lytyll disposyd</l>
+               <l>To sadnes / but more to myrth and sport</l>
+               <l>This phylosophycall work is myxyd</l>
+               <l>with mery conseytis to gyue men cōfort</l>
+               <l>And occasyon to cause them to resort</l>
+               <l>To here this matter / wherto yf they take hede</l>
+               <l>Some lernynge to them therof may {pro}cede</l>
+               <l>¶But they that shall nowe this matter declare</l>
+               <l>Openly here vnto this audyence</l>
+               <l>Be holde I prey you see where they are</l>
+               <l>The pleyers begyn to appere in presence</l>
+               <l>I se well it is tyme for me to go hens</l>
+               <l>And so I wyll do / therfore now shortly</l>
+               <l>To god I cōmyt all this hole company</l>
+            </sp>
+            <stage>¶Hic intrat natura naturata Huma|nyte &amp; Studyous desire portās figurā</stage>
+            <sp>
+               <speaker>¶Natura Naturata</speaker>
+               <l>THe hye myghty most excellent of all</l>
+               <l>The foūtayn of goodnes verteu &amp; cōnyng</l>
+               <l>whiche is eterne of power most potencyall</l>
+               <l>The {per}feccyon and furst cause of euery thynge</l>
+               <l>I meane that only hye na●tu●e naturynge</l>
+               <l>
+                  <pb facs="5"/>Lo he by his goodnes hath ordeynyd and create</l>
+               <l>Me here his mynyster callyd nature naturate</l>
+               <l>¶wherfore I am the verey naturate nature</l>
+               <l>The inmedyate mynyster for the preseruacyon</l>
+               <l>Of euery thynge in his kynde to endure</l>
+               <l>And cause of generacyon and corrupcyon</l>
+               <l>Of that thynge that is brought to distruccyon</l>
+               <l>A nother thynge styll I brynge forth a gayne</l>
+               <l>Thus wonders●y I worke and neuer in vayne</l>
+               <l>¶The great <abbr>wor●d</abbr> be holde ●o deuydyd wōdersly</l>
+               <l>In to two regyons wherof on I call</l>
+               <l>The etheriall region with the heuyns hye</l>
+               <l>Conteynynge the planettys sterris &amp; speris all</l>
+               <l>The lower region callyd the elementall</l>
+               <l>Conteynynge these .iiij. elementis be loo</l>
+               <l>The fyre the ayre the water and yerth also</l>
+               <l>¶But yet the elementis and other bodyes all</l>
+               <l>Beneth / take theyr effectys and operacyons</l>
+               <l>Of the bodyes in the region ethereall</l>
+               <l>By theyr influens and constellacyons</l>
+               <l>They cause here corrupcyons and generacyons</l>
+               <l>For yf the mouyng● a boue sholde onys cease</l>
+               <l>Beneth sholde be nother in●r●se nor decrese</l>
+               <l>¶These elementis of them selfe so syngle be</l>
+               <l>Unto dyuers formys can not be deuydyd</l>
+               <l>yet they cōmyx to gyder dayly ye s●e</l>
+               <l>
+                  <pb facs="6"/>wherof dyuers kyndes of thyng{is} be ingenderyd</l>
+               <l>whiche thyng{is} eftsonys whan they be corruptyd</l>
+               <l>yche element I reduce to his ●urst estate</l>
+               <l>So that nothynge can be vtterly ad●y●helate</l>
+               <l>¶For though the forme and facyon of any thyng</l>
+               <l>That is a corporall body be distroyed</l>
+               <l>yet euery matter remaynyth in his beynge</l>
+               <l>wherof it was furst made and formyd</l>
+               <l>For corrupcyon of a body cōmyxyd</l>
+               <l>ys but the resolucyon by tyme and space</l>
+               <l>Of euery element to his owne place</l>
+               <l>¶For who that wyll take any body corporall</l>
+               <l>And do what he can it to distroy</l>
+               <l>To breke it or grynde it into ●ouder small</l>
+               <l>To washe to drown to bren it or to dry</l>
+               <l>yet the ayre and fyre therof ●aturally</l>
+               <l>To their owne {pro}per places wyll ascende</l>
+               <l>The water to the water the yerth to y^e yerth tende</l>
+               <l>¶For yf hete or moysture of any thynge certayne</l>
+               <l>By fyre or ●e water ●e cons●●●yd</l>
+               <l>yet yerth or asshes on yerth wyll remayne</l>
+               <l>So the elementis can neuer be distroyed</l>
+               <l>For essencyaliy ther is now at this tyde</l>
+               <l>As muche fyre ayre water yerth as was</l>
+               <l>Euer before this tyme nether more nor las</l>
+               <l>¶wherfore thou man now I speke to the</l>
+               <l>
+                  <pb facs="6"/>Remembre that thou art compound and create</l>
+               <l>Of these elementis as other creaturis be</l>
+               <l>yet they haue not all lyke noble estate</l>
+               <l>For plantis and herbys growe and be insensate</l>
+               <l>Brute bestis haue memory and their wytt{is} fyue</l>
+               <l>But thou hast all those and soule intellectyue</l>
+               <l>¶So by reason of thyne vnderstandynge</l>
+               <l>Thou hast domynyon of other bestis all</l>
+               <l>And naturally thou sholdyst desire cōnynge</l>
+               <l>To knowe straunge effect{is} and causys naturall</l>
+               <l>Fo● he that studyeth for the lyfe bestyall</l>
+               <l>As voluptuous pleasure and bodely rest</l>
+               <l>I account hym neuer better than a best</l>
+            </sp>
+            <sp>
+               <speaker>¶Humanyte.</speaker>
+               <l>¶O excellent prynce and great lorde nature</l>
+               <l>I am thyne owne chylde and formyd instrument</l>
+               <l>I beseche thy grace take me to thy cure</l>
+               <l>And teche me suche scyens thou thikyst expedyēt</l>
+            </sp>
+            <sp>
+               <speaker>¶Nature.</speaker>
+               <l>¶Than syth thou art so humble and beneuolent</l>
+               <l>That thynge that is mete for thy capasyte</l>
+               <l>And good for thy knowlege I shall Instructe the</l>
+               <l>¶Furst of all thou must consyder and see</l>
+               <l>These elementis whiche do yche other penetrate</l>
+               <l>And by contynuall alteracyon they be</l>
+               <l>Of them selfe dayly corruptyd and generate</l>
+               <l>
+                  <pb facs="7"/>The yerth as a poynt or center is sytuate</l>
+               <l>In the mydd{is} of the worlde / with y^e water Ioyned</l>
+               <l>with the ayre &amp; fyre rounde &amp; hole inuyronyd</l>
+               <l>¶Th● yerth of it selfe is ponderous and heuy</l>
+               <l>Colde and dry of his owne nature {pro}per</l>
+               <l>Some parte lyeth dry contynually</l>
+               <l>And parte therof coueryd ouer with water</l>
+               <l>Som● with the salt see some with freshe ryuer</l>
+               <l>whiche yerth and the water to gyder with all</l>
+               <l>So Ioynyd make a rounde fygure sperycall</l>
+               <l>¶So the water whiche is colde &amp; moyst is foūde</l>
+               <l>In and vppon the y●rth fyllynge the hol●nes</l>
+               <l>In dyuers partis liynge with y^e yerth rounde</l>
+               <l>yet th● hyllys and mount●yns of y^e yerth excesse</l>
+               <l>Take nothynge of hit a way the roundnes</l>
+               <l>In comparyson bycause they be so small</l>
+               <l>No more than the prikk{is} do that be on a gall</l>
+               <l>¶The ayre whiche is hote and moyst also</l>
+               <l>And the fyre which● is euer hote and dry</l>
+               <l>A bout th● yerth and water Ioyntly they go</l>
+               <l>And compasse them euery where orbycularly</l>
+               <l>As the whyte a boute the yolke of an egg doth lye</l>
+               <l>But the ayre in the lower parte moste remaynyth</l>
+               <l>The fyre naturally to the hyer tendyth</l>
+               <l>¶The eth●ryall region whiche conteynyth</l>
+               <l>The sterrys and planettys and ●uery spere</l>
+               <l>
+                  <pb facs="7"/>A bout the elementis dayly mouyth</l>
+               <l>And coueryth them rounde a bout euery where</l>
+               <l>Euery sterre and spere in straunge maner</l>
+               <l>Uppon his owne poles mouy●h-dyuersly</l>
+               <l>whiche now to declare were to longe to tary</l>
+               <l>¶The fyre and the ayre of their naturys be lyght</l>
+               <l>Therfore they moue by naturall prouydence</l>
+               <l>The water bycause it is ponderous in weyght</l>
+               <l>Mouyth not naturally but by vyolence</l>
+               <l>Of the st●rris and plan●tt{is} by whose influence</l>
+               <l>The see is compellyd to ebbe and flowe dayly</l>
+               <l>And freshe waters to sprynge contynually</l>
+               <l>¶And though y^t the water be grose and heuy</l>
+               <l>●●t nothynge so grose as the yerth I wys</l>
+               <l>Therfore by hete it is vaporyd vp lyghtly</l>
+               <l>And in the ayre makyth cloudys and myst{is}</l>
+               <l>But as sone as euer that it grosely is</l>
+               <l>Geder●d to gyder / it descendyth a gayne</l>
+               <l>And causyth vppon y^e yerth hayle snow &amp; rayne</l>
+               <l>¶The yerth because of his ponderosyte</l>
+               <l>A voydyth equally the mouyng{is} great</l>
+               <l>Of all extremytes and sperys that be</l>
+               <l>And ●endyth to the place that is most quiet</l>
+               <l>So in the myddys of all the sperys is set</l>
+               <l>Fo●mast abie●t from all maner mouynge</l>
+               <l>where naturally he restyth &amp; mouyth nothynge</l>
+               <l>
+                  <pb facs="8"/>¶Marke well now how I haue the shewyd &amp; told●</l>
+               <l>Of euery element the very sytuacyon</l>
+               <l>And qualyte● wherfor● this fygure b●holde</l>
+               <l>For a more manyfest demonstracyon</l>
+               <l>And by cause thou sholdyst not put to oblyu●on</l>
+               <l>My doctryne / this man callyd studyous desire</l>
+               <l>with the shall haue con●ynuall habytacyon</l>
+               <l>The styll to exhort more scyens to adquire</l>
+               <l>¶For y^e more y^t thou desyrest to know any thynge</l>
+               <l>Therin thou semyst th● more a man to be</l>
+               <l>For that man that desir●th no maner cōnynge</l>
+               <l>All that wyle no better than a b●st is he</l>
+               <l>why ben the ey●s made but only to see</l>
+               <l>The leggys to bere the body of a creatur●</l>
+               <l>So ●uery thynge is made to do his nature</l>
+               <l>¶So lyke wyse reason wit and vnderstondyng</l>
+               <l>ys gyu●n to the man for that thou sholdyst ī dede</l>
+               <l>Knowe thy maker &amp; cause of thyne owne beyng●</l>
+               <l>And what y^e worlde is &amp; wherof thou doest {pro}cede</l>
+               <l>wherfore it be houyth the of verey nede</l>
+               <l>The cause of thyng{is} ●urst for to lerne</l>
+               <l>And than to know● &amp; laude the hye god eterne</l>
+            </sp>
+            <sp>
+               <speaker>¶Humanyte.</speaker>
+               <l>¶O gloryous lorde and prynce moste plesant</l>
+               <l>Greatly am I now hold●n vnto the</l>
+               <l>So to illumyne my <abbr>mynd</abbr> that was yngnorant</l>
+               <l>
+                  <pb facs="8"/>with such noble doctryne as thou hast here shewed me</l>
+               <l>wherfore I promyse vppon my fydelyte</l>
+               <l>My dylygence to do to kepe in memory</l>
+               <l>And the for to honour styll {per}petually</l>
+            </sp>
+            <sp>
+               <speaker>¶Studyous desire</speaker>
+               <l>¶And syth it hath pleasyd thy grace to admyt</l>
+               <l>Me vppon this man to gyue attendaunce</l>
+               <l>with thy doctryne here shewyd I shall q^ikkyn his wyt</l>
+               <l>And dayly put hym in remembraunce</l>
+               <l>His courage and desyre I shall also inhaunce</l>
+               <l>So that his f●lycyte shall be most of all</l>
+               <l>To study and to serche for causys naturall</l>
+            </sp>
+            <sp>
+               <speaker>¶Nat●●e.</speaker>
+               <l>¶well than for a seas●n I wyll departe</l>
+               <l>Leuynge you to gyder here both twayne</l>
+               <l>what I haue shewid man prynt well in thyne hert</l>
+               <l>And marke well this fygure y^t here shall r●mayne</l>
+               <l>wherby thou maist perceyue many thynges more playn</l>
+               <l>●●ncernynge y^e matter I spake of befor●</l>
+               <l>●nd whan that I shall resort here a gayne</l>
+               <l>Of hye poynt{is} of cōnynge I shall shew y^e more</l>
+            </sp>
+            <sp>
+               <speaker>¶Studyous desire.</speaker>
+               <l>¶Now humanyte call to your memory</l>
+               <l>The cōnynge poynt{is} that nature hath declaryd</l>
+               <l>And though he haue shewed dyuers poit{is} &amp; many</l>
+               <l>Of the el●mentis so wondersly formed</l>
+               <l>
+                  <pb facs="9"/>yet many other causys there are wolde be lernyd</l>
+               <l>As to knowe the generacyon of thyng{is} all</l>
+               <l>Here in the yerth / how they be ingendryd</l>
+               <l>As herbys plantys well spryng{is} ston and me●all</l>
+            </sp>
+            <sp>
+               <speaker>¶Humany●t.</speaker>
+               <l>¶Those thyng{is} to knowe for me be full expediēt</l>
+               <l>But yet ī those poynt{is} whiche nature late shewyd me</l>
+               <l>My mynde in them as yet is not cōtent</l>
+               <l>For I can no maner wyse parceyue nor see</l>
+               <l>Nor proue by reason why the yerth sholde be</l>
+               <l>In the mydd{is} of y^e fyrmament hengyng so small</l>
+               <l>And the yerth with the water to be roūde with all</l>
+            </sp>
+            <sp>
+               <speaker>¶Studyo●s desire.</speaker>
+               <l>¶Me thynkyth my selfe as to some of those poīt{is}</l>
+               <l>I coude gyue a suffycyent solucyon</l>
+               <l>For furst of all thou must nedys graunt this</l>
+               <l>That the yerth is so depe and botom hath non</l>
+               <l>Or els there is some grose thyng hit stōdyth vpon</l>
+               <l>Or els that it hangyth thou must ned{is} consent</l>
+               <l>Euyn in the mydd{is} of the fyrmament</l>
+            </sp>
+            <sp>
+               <speaker>¶Humanyte.</speaker>
+               <l>¶what than go forth with thyne argument</l>
+            </sp>
+            <sp>
+               <speaker>¶Studyous desire.</speaker>
+               <l>¶Thā marke well in y^● day or in a wynters nyght</l>
+               <l>The sone and mone and sterris celestyall</l>
+               <l>In the est furst they do apere to thy syght</l>
+               <l>
+                  <pb facs="9"/>〈◊〉 after in the west they do downe fall</l>
+               <l>〈◊〉 agayne in the morowe next of all</l>
+               <l>〈◊〉 .xxiiij. houres they be come Iust</l>
+               <l>To●● est poīt{is} again where thou sawist them fur●●</l>
+               <l>¶T●an yf the erthe shulde be of endles de●nes</l>
+               <l>Or shulde stande vpon any other grose th●●g●</l>
+               <l>It shulde be an impedyment dowtles</l>
+               <l>To the sone mone and sterris in theyr mouynge</l>
+               <l>They shulde not so in the est agayne sprynge</l>
+               <l>Therfore in reason it semyth moste conuenyent</l>
+               <l>The yerth to hange in y^e mydd{is} of the fyrmamēt</l>
+            </sp>
+            <sp>
+               <speaker>Humanyte.</speaker>
+               <l>¶Thyne argument in y^e poynt doth me cōfoūde</l>
+               <l>That thou hast made but yet it {pro}uytht not ryght</l>
+               <l>That the yerth by reason shulde be rounde</l>
+               <l>For though y^e fyrmament with his sterris bryght</l>
+               <l>Compas aboute the yerth eche day and nyght</l>
+               <l>yet the yerthe may be playne {per}aduentnre</l>
+               <l>Quadrant triangle or some other fygure</l>
+            </sp>
+            <sp>
+               <speaker>Studyouse desyre.</speaker>
+               <l>¶That it can not be playne I shall well {pro}ue the</l>
+               <l>Be cause the sterris that a ryse in the oryent</l>
+               <l>Appere more soner to them that there be</l>
+               <l>Than to the other dwellynge in the occident</l>
+               <l>
+                  <pb facs="10"/>The eclypse is therof a playne experymente</l>
+               <l>Of the sone or mone which whane it dothe f●</l>
+               <l>Is neuer one tyme of the day in placys all</l>
+               <l>¶yet the eclyps generally is alwaye</l>
+               <l>In the hole worlde as one tyme beynge</l>
+               <l>But whan we that dwell here see it in y^e mydday</l>
+               <l>They in the west partis see it in the mornynge</l>
+               <l>And they in the est beholde it in the euenyng</l>
+               <l>And why that sholde so be no cause can be found</l>
+               <l>But onely by reason that the yerthe is rownde</l>
+            </sp>
+            <sp>
+               <speaker>¶Humanyte.</speaker>
+               <l>That reason proueth the yerth at the lest</l>
+               <l>One wayes to be rownde I cannot gayne say</l>
+               <l>As for to accompt frome the est to the west</l>
+               <l>But yet not withstondynge all that it may</l>
+               <l>Lese hys rowndenesse by some other waye</l>
+            </sp>
+            <sp>
+               <speaker>¶Studyous desyre.</speaker>
+               <l>Na no dowte yt is rownde euery where</l>
+               <l>which I coulde proue thou shoudest not say nay</l>
+               <l>yf I had therto any tyme and leser</l>
+               <l>But I knowe a man callyd experyens</l>
+               <l>Of dyuers instrumentys is neuer without</l>
+               <l>Cowde proue all these poyntys &amp; yet by his scyē●</l>
+               <l>Can tell how many myle the erthe is a bowte</l>
+               <l>
+                  <pb facs="10"/>〈◊〉 many other straūge cōclusiōs no dowte</l>
+               <l>●●●ys instrumentys cowde shew thē so certayn</l>
+               <l>●●at euery rude carter shold them {per}sayue playn</l>
+            </sp>
+            <sp>
+               <speaker>¶Humanyte.</speaker>
+               <l>Now wolde to god I had y^t man now here</l>
+               <l>For the contembtacyon of my mynde</l>
+            </sp>
+            <sp>
+               <speaker>¶Studyous desyre.</speaker>
+               <l>¶yf ye wyll I shall for hym enquere</l>
+               <l>And brynge hym heder yf I can hym fynde</l>
+            </sp>
+            <sp>
+               <speaker>¶Humanyte.</speaker>
+               <l>Then myght I say ye were to me ryght kynde</l>
+            </sp>
+            <sp>
+               <speaker>¶Studyous desyre.</speaker>
+               <l>I shall assay by god that me dere bought</l>
+               <l>For cunnyng is the thynge y^t wolde be sought</l>
+            </sp>
+            <sp>
+               <speaker>¶Sensuall apetyte.</speaker>
+               <l>well hyet quod hykman when y^t he smot</l>
+               <l>Hys wyffe on the buttock{is} with a bere pott</l>
+               <l>Aha now god euyn fole god euyn</l>
+               <l>It is euen the knaue that I mene</l>
+               <l>Hast thou done thy babelyng</l>
+            </sp>
+            <sp>
+               <speaker>¶Studyous desyre.</speaker>
+               <l>¶ye peraduenture what than</l>
+            </sp>
+            <sp>
+               <speaker>¶Sensnall apetyte.</speaker>
+               <l>Thā hold downe thy hede lyke a prety mā &amp; take my blyssyng</l>
+               <l>
+                  <pb facs="11"/>Benedicite / I graūt to the / this {per}do●</l>
+               <l>And gyue the absolucion</l>
+               <l>For thy soth saws / stande vp Iack daw</l>
+               <l>I be shrew thy faders sone</l>
+               <l>¶Make rome syrs and let vs be mery</l>
+               <l>with huffa galand synge tyrll on the bery,</l>
+               <l>And let the wyde worlde wynde</l>
+               <l>Synge fryska Ioly with hey trolyloly</l>
+               <l>For I se well it is but a foly</l>
+               <l>For to haue a sad mynd</l>
+               <l>¶For rather than I wolde vse suche foly</l>
+               <l>To pray to study or be pope holy</l>
+               <l>I had as lyf be ded</l>
+               <l>By goggys body I tell you trew</l>
+               <l>I speke as I thynke now els I be shrew</l>
+               <l>Euyn my next felowes hed</l>
+               <l>¶Master humanyte syr be your leue</l>
+               <l>I were ryght loth you to greue</l>
+               <l>Though I do hym dyspyse</l>
+               <l>For yf ye knewe hym as well as I</l>
+               <l>ye wolde not vse his company</l>
+               <l>Nor loue hym in no wyse</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Syr he loketh lyke an honest man</l>
+               <l>Therfore I merueyll that ye can</l>
+               <l>
+                  <pb facs="11"/>This wyse hym depraue.</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Though he loke neuer so well</l>
+               <l>I promyse you he hath a shrewde sme●●</l>
+            </sp>
+            <sp>
+               <speaker>●u.</speaker>
+               <l>¶why so I prey you tell</l>
+            </sp>
+            <sp>
+               <speaker>●en.</speaker>
+               <l>¶For he saueryth syke a knaue</l>
+            </sp>
+            <sp>
+               <speaker>St.</speaker>
+               <l>¶Holde your pease syr ye mys take me</l>
+               <l>what I trowe that ye wolde make me</l>
+               <l>Lyke to one of your kyn</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Harke syrs here ye not how boldly</l>
+               <l>He callyth me knaue agayne by polycy</l>
+               <l>The deuyll pull of his skyn</l>
+               <l>I wolde he were hangyd by the thro●●</l>
+               <l>For by the messe I loue hym not</l>
+               <l>we two can neuer a gre</l>
+               <l>I am content syr with you to tary</l>
+               <l>And I am for you so necessary</l>
+               <l>ye can not lyue without me</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>why syr I say what man be ye</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>I am callyd sensuall apetyte</l>
+               <l>All craturs in me delyte</l>
+               <l>I comforte the wyttys fyue</l>
+               <l>The ●astyng smellyng &amp; herynge</l>
+               <l>I refresh the syght and felynge</l>
+               <l>To all creaturs a lyue</l>
+               <l>
+                  <pb facs="12"/>For whan the body wexith hongry</l>
+               <l>For lacke of fode or ellys thursty</l>
+               <l>Than with drynkes plesaund</l>
+               <l>I restore hym out of payne</l>
+               <l>And oft refresshe nature agayne</l>
+               <l>with delycate vyand</l>
+               <l>with plesaunde sound of armonye</l>
+               <l>The herynge alwaye I satysfy</l>
+               <l>I dare this well reporte</l>
+               <l>The smellynge with swete odovr</l>
+               <l>And the syght with plesaunte fygovr</l>
+               <l>And colours I comforte</l>
+               <l>The felynge that is so plesaunte</l>
+               <l>Of euery member fote or hande</l>
+               <l>what pleasure therin can be</l>
+               <l>By the towchynge of so●t &amp; harde</l>
+               <l>Of hote or colde nought in regarde</l>
+               <l>Excepte it come by me</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Than I cannot see the contrary</l>
+               <l>But ye are for me full necessary</l>
+               <l>And ryght conuenyent.</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>ye syr beware yet what ye do</l>
+               <l>For yf you forsake my company so</l>
+               <l>Lorde nature wyll not be contente.</l>
+               <l>
+                  <pb facs="12"/>Of hym ye shall neuer lerne good thyng</l>
+               <l>Nother vertu nor no other cōnynge</l>
+               <l>This dare I well say</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Mary auaunt knaue I the defye</l>
+               <l>Dyde nature for byde hym my cōpany</l>
+               <l>what sayst thou therto speke openly</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>As for that I know well nay</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>No by god I am ryght sure</l>
+               <l>For he knoweth well no creature</l>
+               <l>without me can lyue one day</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Syr I pray you be contente</l>
+               <l>It is not vtterly myne intente</l>
+               <l>your company to exyle</l>
+               <l>But onely to haue cōmunycacyon</l>
+               <l>And a pastyme of recreacyon</l>
+               <l>with this man for a whyle</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>well for your pleasure I wyll departe</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Now go knaue go I beshrew thy hart</l>
+               <l>The deuyll sende the forwarde</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Now by my trouth I meruell gretly</l>
+               <l>That euer ye wolde vse the company</l>
+               <l>So myche of suche a knaue</l>
+               <l>For yf ye do no nother thynge</l>
+               <l>But euer study and to be musynge</l>
+               <l>
+                  <pb facs="13"/>As he wolde haue you it wyll you brynge</l>
+               <l>At the last vnto your graue</l>
+               <l>¶ye shulde euer study pryncypall</l>
+               <l>For to comfort your lyfe naturall</l>
+               <l>with metis and drynkes dilycate</l>
+               <l>And other pastymes &amp; pleasures a monge</l>
+               <l>Daūsynge laughynge or plesaunt songe</l>
+               <l>This is mete for your estate</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Be cause ye sey so I you {pro}myse</l>
+               <l>That I haue musyd &amp; studyed such wyse</l>
+               <l>Me thynketh my wyttes wery</l>
+               <l>My nature desyreth some refresshynge</l>
+               <l>And also I haue ben so longe fastynge</l>
+               <l>That I am somwhat hongry</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶well than wyll ye go with me</l>
+               <l>To a tauerne where ye shall se</l>
+               <l>Good pastaunce &amp; at your lyberte</l>
+               <l>Haue what so euer ye wyll</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶I am content so for to do</l>
+               <l>yf that ye wyll not fro me go</l>
+               <l>But kepe me company styll</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Cōpany <abbr>qd</abbr> a / ye y^t I shall poynt deuyse</l>
+               <l>And also do you good and trew seruyce</l>
+               <l>And therto I plyght my trouthe</l>
+               <l>
+                  <pb facs="13"/>And yf that I euer forsake you</l>
+               <l>I pray god the deuyl take you</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Mary I thanke you for that othe</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶A myschyfe on it my tonge loo</l>
+               <l>wyll tryp somtyme what so euer I do</l>
+               <l>But ye wot what I mene well</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶ye no force let this matter passe</l>
+               <l>But seydest euī now thou knewyst where was</l>
+               <l>A good tauerne to make solas</l>
+               <l>where is that I prey the tell</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Mary at the dore euyn here by</l>
+               <l>yf we call any th●nge on hye</l>
+               <l>The tauerner wyll answere</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶I prey the than call for hym nowe</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Mary I wyll / How tauerner how</l>
+               <l>why doste thou not appere</l>
+            </sp>
+            <sp>
+               <speaker>Tauer||ner.</speaker>
+               <l>¶who is that calleth so hastely</l>
+               <l>I shrew thyne hert speke softely</l>
+               <l>I tell the I am not here</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Than I be shrew y^e page of thyne age</l>
+               <l>Come hyther knaue for thyne auauntage</l>
+               <l>why makyst thou hit so tow</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶For myne auaūtage mary thā I come</l>
+               <l>Beware syrs how let me haue rome</l>
+               <l>Lo here I am what seyst thou</l>
+            </sp>
+            <sp>
+               <pb facs="14"/>
+               <speaker>Sen.</speaker>
+               <l>Mary thus here is a gentylman I say</l>
+               <l>That nother ete nor dranke this day</l>
+               <l>Therfor ●ell me I the praye</l>
+               <l>yf thou haue any good wyne</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>ye shall haue spayneshe wyne &amp; gascoyn</l>
+               <l>Rose coloure whyt claretrampyon</l>
+               <l>Tyre capryck and maluesyne</l>
+               <l>Sak raspyce alycaunt rumney</l>
+               <l>Greke ipocrase new made clary</l>
+               <l>Suche as ye neuer had</l>
+               <l>For yf ye drynke a draught or too</l>
+               <l>yt wyll make you or ye thens go</l>
+               <l>By gogg{is} body starke madde</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>I wot thou art not without good wyne</l>
+               <l>But here is a gentylmā hath lyst to dyne</l>
+               <l>Canst thou get hym any good mete</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>what mete mayster wolde ye haue</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>I care not so god me saue</l>
+               <l>So that it be holsome to ete</l>
+               <l>I wolde we had a good stewyd capon</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>As for capons ye can gette none</l>
+               <l>The kyngys taker toke vp eche one</l>
+               <l>I wot well there is none to get</l>
+            </sp>
+            <sp>
+               <pb facs="14"/>
+               <speaker>Ta.</speaker>
+               <l>Though all capons be gone what than</l>
+               <l>yet I can get you a stewed hen</l>
+               <l>That is redy dyght.</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>yf she be fat yt wyll do well</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>Fat or lene I cannot tell</l>
+               <l>But as for this I wot well</l>
+               <l>She lay at the stewes all nyght.</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Thou art a mad gest be this lyght.</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>ye syr it is a felow that neuer faylys</l>
+               <l>But cāst get my mayster a dyshe of qua|les</l>
+               <l>smal byrdes swalowes or wagtayl{is}</l>
+               <l>They be lyght of dygestyon.</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>Lyght of dysgestyon for what reason</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>For physyk puttyth this reason therto</l>
+               <l>Bycause those byrdes fle to &amp; fro</l>
+               <l>And be contynuall mouynge</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>Then know I a lyghter mete than y^●</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>I pray the tell me what</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>yf ye wyll nedys know at short &amp; longe</l>
+               <l>It is euyn a womans tounge</l>
+               <l>For that is euer sterynge</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Syr I pray the let suche fanteses be</l>
+               <l>And come heder nere &amp; harke to me</l>
+               <l>And do after my byddynge.</l>
+               <l>
+                  <pb facs="15"/>Goo p●ruey vs a dyner euyn of the mos●</l>
+               <l>Of all maner dysshes both sod and roste</l>
+               <l>That thou canst get spare for no coste</l>
+               <l>yf thou make thre course</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶Tha● ye get nother gose nor swane</l>
+               <l>But a dyshe of dreggys a dyshe of bra●e</l>
+               <l>A dysshe of draffe and I trowe than</l>
+               <l>ye can not get thre worse</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶what horson woldyst thou puruey</l>
+               <l>Bran draffe &amp; stynkynge dregg{is} I sey</l>
+               <l>I holde the mad I trowe</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶Gogges passyon sayd ye not thus</l>
+               <l>That I shulde puruey you thre course dysshe●</l>
+               <l>And these be course Inowe</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Thre course dysshes <abbr>qd</abbr> a</l>
+               <l>what mad ●ole thou mys takest me clene</l>
+               <l>I se well thou wotest not what I mene</l>
+               <l>And vnderstandyst a mys</l>
+               <l>I mene this wyse I wolde haue the</l>
+               <l>To puruey mete so great plente</l>
+               <l>That thou sholdyst of necessyte</l>
+               <l>Serue them at thre coursys</l>
+               <l>¶That is to vnderstande at one ●●rde</l>
+               <l>Thou shuldest brynge them vnto y^●●or●</l>
+               <l>
+                  <pb facs="15"/>At thre seuerall tymes●</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶what than I se well ye wyll make a fes●e</l>
+            </sp>
+            <sp>
+               <speaker>●u.</speaker>
+               <l>¶ye by the rode euyn with the gretest</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶By my trouth than do ye best</l>
+               <l>Euyn after my mynde</l>
+               <l>But ye must haue more company.</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶That is trewe and so wolde I gladl●</l>
+               <l>If I knewe any to fynde</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶why wyll ye folowe my counsell</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶ye</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Than we wyll haue lytell nell</l>
+               <l>A {pro}per wenche she daunsith well</l>
+               <l>And Iane with the blacke lace</l>
+               <l>we wyll haue bounsynge besse also</l>
+               <l>And two or thre proper wenchis mo</l>
+               <l>Ryght feyr and smotter of face</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Now be it so thou art saunce pere</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶Thā I {per}ceyue ye wyll make gode chere</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶why what shulde I els do</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶If ye thynke so best than wyll I</l>
+               <l>Go before and make all thynge redy</l>
+               <l>Agayne ye come therto</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Mary I prey the do so</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶Than farewell syrs for I am gone</l>
+            </sp>
+            <sp>
+               <pb facs="16"/>
+               <speaker>¶Hu.</speaker>
+               <l>And we shall folow the anon</l>
+               <l>without any taryyng</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Then it is best syr ye make hast</l>
+               <l>For ye shall spende here but tyme ī wast</l>
+               <l>And do no nother thynge</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶yf ye wyll let vs goo by and by</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>I pray you be it for I am redy</l>
+               <l>No man better wyllynge</l>
+               <stage>Ex●a● Sen. &amp; Hu.</stage>
+               <stage>Intrat <abbr>Ex{per}ies.</abbr> &amp; Stu.</stage>
+               <l>¶Now cosyn experyens as I may say ye are ryght welcom to this contrey without any faynyng.</l>
+            </sp>
+            <sp>
+               <speaker>Ex{per}iēs</speaker>
+               <l>Syr I thanke you therof hertely</l>
+               <l>And I am as glad of your company</l>
+               <l>As any man lyuynge.</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>Syr I vnderstonde that ye haue be</l>
+               <l>In many a stra●nge countree</l>
+               <l>And haue had grete fylycyte</l>
+               <l>Straunge causes to seke and fynde</l>
+            </sp>
+            <sp>
+               <speaker>E●.</speaker>
+               <l>Ryght farr syr I haue rydden &amp; gone</l>
+               <l>And seen straunge thynges many one</l>
+               <l>In affryk / europe and ynde</l>
+               <l>Bothe est &amp; west I haue ben farr̄</l>
+               <l>North also and seen the sowth sterr̄</l>
+               <l>
+                  <pb facs="16"/>Bothe by see and lande</l>
+               <l>And ben in sondry nacyons</l>
+               <l>with peple of dyuers condycyons</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>Maruelous to vnderstonde.</l>
+               <l>Syr yf a man haue suche corage</l>
+               <l>Or deuocyon in pylgrymage</l>
+               <l>Iheruzalem vnto</l>
+               <l>For to accompt the nexte way</l>
+               <l>How many myle is it I you pray</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>From hens theder to goo</l>
+               <l>Syr as for all suche questyons</l>
+               <l>Of townes to know the sytuacyon</l>
+               <l>How ferr̄ they be a sunder</l>
+               <l>And other poyntes of cosmogryfy</l>
+               <l>ye shall neuer lerne then more surely</l>
+               <l>Then by that fugure yonder</l>
+               <l>For who that fygure dyd fyrst deuyse</l>
+               <l>It semeth well he was wyse</l>
+               <l>And perfyte in this s●yens</l>
+               <l>For bothe these and lande also</l>
+               <l>Lye trew and iust as they sholde do</l>
+               <l>I know by experyens.</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>who thynke you brought here this fygure</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶I wot not</l>
+            </sp>
+            <sp>
+               <pb facs="17"/>
+               <speaker>Stu</speaker>
+               <l>¶Certes lorde nature</l>
+               <l>Hym selfe not longe a gone</l>
+               <l>¶whiche was here personally</l>
+               <l>Declarynge hye phylosophy</l>
+               <l>And lafte this fygure purposely</l>
+               <l>For humanytes instruccyon</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶Dowtles ryght nobly done</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>Syr this realme ye knou is callid ēglāde</l>
+               <l>Somtyme brettayne I vnderstonde</l>
+               <l>Therfore I prey you poīt with your hāde</l>
+               <l>In what place it shulde lye.</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶Syr this ys ynglande lyenge here</l>
+               <l>And this is skotlāde y^t Ioyneth hym nere</l>
+               <l>Compassyd a boute euery where</l>
+               <l>with the occian see rownde</l>
+               <l>¶And next from them westwardly</l>
+               <l>Here by hym selfe alone doth ly</l>
+               <l>Irelande that holsome grounde</l>
+               <l>¶Here than is the narowe seey</l>
+               <l>To Calyce and Boleyne the next wey</l>
+               <l>And flaunders in this {per}te</l>
+               <l>Here lyeth fraunce next hym ioynynge</l>
+               <l>And spayn̄ southwarde frō thēs stādynge</l>
+               <l>And portyngale in this quart</l>
+               <l>
+                  <pb facs="17"/>This contrey is callyd Italye</l>
+               <l>Beholde where Rome in y^e mydd{is} doth ly</l>
+               <l>And Naples here be yonde</l>
+               <l>And this lytell See that here is</l>
+               <l>Is callyd the Gulfe of Uenys</l>
+               <l>And here venys doth stande</l>
+               <l>¶As for almayne lyeth this way</l>
+               <l>Here lyeth denmarke and norway</l>
+               <l>And northwarde on this syde</l>
+               <l>There lyeth Iselonde where mē do fyshe</l>
+               <l>But be yonde that so colde it is</l>
+               <l>No man may there abyde</l>
+               <l>¶This See is called the great Occyan</l>
+               <l>So great it is that neuer man</l>
+               <l>Coude tell it sith the worlde began</l>
+               <l>Tyll nowe within this .xx. yere</l>
+               <l>westwarde be founde new landes</l>
+               <l>That we neuer harde tell of before this</l>
+               <l>By wrytynge nor other meanys</l>
+               <l>yet many nowe haue ben there</l>
+               <l>¶And that contrey is so large of rome</l>
+               <l>Muche lenger than all cristendome</l>
+               <l>without fable or gyle</l>
+               <l>For dyuers maryners haue it tryed</l>
+               <l>And sayled streyght by the coste syde</l>
+               <l>Aboue .v. thousand myle</l>
+               <l>
+                  <pb facs="18"/>¶But what cōmodytes be within</l>
+               <l>No man can tell nor well Imagin</l>
+               <l>But yet not longe a go</l>
+               <l>Some men of this coutrey went</l>
+               <l>By the kynges noble consent</l>
+               <l>It for to serche to that entent</l>
+               <l>And coude not be brought therto</l>
+               <l>¶But they that were they venteres</l>
+               <l>Haue cause to curse their maryners</l>
+               <l>Fals of promys and dissemblers</l>
+               <l>That falsly them be trayed</l>
+               <l>whiche <abbr>wold</abbr> take no paine to saile farther</l>
+               <l>Than their owne lyst and pleasure</l>
+               <l>wherfore that vyage and dyuers other</l>
+               <l>Suche kaytyffes haue distroyed</l>
+               <l>¶O what a thynge had be than</l>
+               <l>yf that they that be englyshe men</l>
+               <l>Myght haue ben the furst of all</l>
+               <l>That there shulde haue take possessyon</l>
+               <l>And made furst buyldynge &amp; habytacion</l>
+               <l>A memory perpetuall</l>
+               <l>And also what an honorable thynge</l>
+               <l>Bothe to the realme and to the kynge</l>
+               <l>To haue had his domynyon extendyng●</l>
+               <l>There into so farre a grounde</l>
+               <l>whiche the noble kynge of late memory</l>
+               <l>
+                  <pb facs="18"/>The moste wyse prynce the .vij. Herry</l>
+               <l>Causyd furst for to be founde</l>
+               <l>¶And what a great meritoryouse dede</l>
+               <l>It were to haue the people instructed</l>
+               <l>To lyue more vertuously</l>
+               <l>And to lerne to knowe of men the maner</l>
+               <l>And also to knowe god theyr maker</l>
+               <l>whiche as yet lyue all bestly</l>
+               <l>For they nother knowe god nor the deuell</l>
+               <l>Nor neuer harde tell of heuyn nor hell</l>
+               <l>wrytynge nor other scripture</l>
+               <l>But yet in the stede of god almyght</l>
+               <l>The honour the sone for his great lygg●</l>
+               <l>For that doth them great pleasure</l>
+               <l>¶Buyldynge nor house they haue nō at all</l>
+               <l>But wodes / cot{is} / and cauys small</l>
+               <l>No merueyle though it be so</l>
+               <l>For they vse no maner of yron</l>
+               <l>Nother in tole nor other wepon</l>
+               <l>That shulde helpe them therto</l>
+               <l>¶Copper they haue whiche is founde</l>
+               <l>In dyuers places aboue the grounde</l>
+               <l>yet they dyg not therfore</l>
+               <l>For as I sayd they haue non yryn</l>
+               <l>wherby they shuld in the yerth myne</l>
+               <l>To serche for any wore</l>
+               <l>
+                  <pb facs="19"/>¶Great haboundauace of wodd{is} ther be</l>
+               <l>Moste parte vyr and pyne aple tre</l>
+               <l>Great ryches myght come therby</l>
+               <l>Both pyche and tarre and sope asshys</l>
+               <l>As they make in the eest landes</l>
+               <l>By brynnynge therof only</l>
+               <l>¶Fyshe they haue so great plente</l>
+               <l>That in hauyns take and slayne they be</l>
+               <l>with stauys withouten fayle</l>
+               <l>Nowe frenchemen &amp; other haue foūde the trade</l>
+               <l>That yerely of fyshe there they <abbr>lad</abbr>
+               </l>
+               <l>A boue an .C. sayle</l>
+               <l>¶But in the south parte of that contrey</l>
+               <l>The people there go nakyd alway</l>
+               <l>The lande is of so great he●e</l>
+               <l>And in the north parte all the clothes</l>
+               <l>That they were / is but best{is} skynnes</l>
+               <l>They haue no nother fete</l>
+               <l>But howe the people furst began</l>
+               <l>In that contrey or whens they cam</l>
+               <l>For clerkes it is a questyon</l>
+               <l>Other thynges mo I haue in store</l>
+               <l>That I coude tel therof but now no more</l>
+               <l>Tyll a nother season</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>¶Thā at your pleasure shew some other thīge</l>
+               <l>y● lyketh me so wel your cōmynīge</l>
+               <l>
+                  <pb facs="19"/>ye can not talke a mys</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶Thā wyl I torne a gayne to my matter</l>
+               <l>Of Cosmogryfy where I was err̄</l>
+               <l>Beholde take hede to this</l>
+               <l>¶Loo estwarde beyonde y^e great occyan</l>
+               <l>Here entereth the see callyd mediterran</l>
+               <l>Of .ij.M. myle of lengthe</l>
+               <l>The Soudans contrey lyeth here by</l>
+               <l>The great Turke on y^e north syde doth ly</l>
+               <l>A man of merueylous strengthe</l>
+               <l>¶This sayde north {per}te is callyd europa</l>
+               <l>And this south {per}te callyd affrica</l>
+               <l>This eest {per}te is callyd ynde</l>
+               <l>But this newe land{is} founde lately</l>
+               <l>Ben callyd america by cause only</l>
+               <l>Americus dyd furst them fynde</l>
+               <l>¶Loo Ihrfin lyeth in this contrey</l>
+               <l>And this be yonde is the red see</l>
+               <l>That moyses maketh of mencyon</l>
+               <l>This quarter is India minor</l>
+               <l>And this quarter India maior</l>
+               <l>The lande of prester Iohn̄</l>
+               <l>¶But northwarde this way as ye se</l>
+               <l>Many other straunge regions ther be</l>
+               <l>And people that we not knowe</l>
+               <l>But estwarde on the see syde</l>
+               <l>
+                  <pb facs="20"/>A prynce there is that rulyth wyde</l>
+               <l>Callyd the Cane of catowe</l>
+               <l>¶And this is called the great eest see</l>
+               <l>whiche goth all a longe this wey</l>
+               <l>Towardes the newe landis agayne</l>
+               <l>But whether that see go thyther dyrectly</l>
+               <l>Or if any wyldernes bytwene them do ly</l>
+               <l>No man knoweth for certeyne</l>
+               <l>But these ●ewe land{is} by all cosmografye</l>
+               <l>Frome the cane of catous lande cā not lye</l>
+               <l>Lytell paste a thousande myle</l>
+               <l>But from those new land{is} mē ma●●ayle playne</l>
+               <l>Estwarde &amp; cū to englāde agaīe</l>
+               <l>where we began ere whyle</l>
+               <l>¶Lo all this part● of the yerth whiche I</l>
+               <l>Haue here discryuyd openly</l>
+               <l>The north parte we do it call</l>
+               <l>But the south {per}te on the other syde</l>
+               <l>ys as large as this full and as wyde</l>
+               <l>whiche we knowe nothynge at all</l>
+               <l>¶Nor whether y^● moste {per}te be lande or see</l>
+               <l>Nor whether ●he people that there be</l>
+               <l>Be besty●●l or connynge</l>
+               <l>Nor wh●th●r th●y knowe god or no</l>
+               <l>No●●ow● th●y beleue nor what they do</l>
+               <l>Of this we knowe no●hynge</l>
+               <l>
+                  <pb facs="20"/>Lo is not this a thynge wooderfull</l>
+               <l>How that</l>
+            </sp>
+            <stage>¶Et subito studyouse desire dicat.</stage>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>¶Pese syr no more of this matter</l>
+               <l>Beholde where humanyte cōmeth here</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶How sey you maister humanyte</l>
+               <l>I prey you haue ye not be mere</l>
+               <l>And had good recreacyon</l>
+            </sp>
+            <sp>
+               <speaker>Hu</speaker>
+               <l>¶yes I thanke the therof euery dell</l>
+               <l>For we haue faryd meruelously well</l>
+               <l>And had good cōmunycacyon</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶what how maister where be ye now</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶what I shrewe the what haste hast thou</l>
+               <l>That thou spekyst so hye</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶So hye <abbr>qd</abbr> a I trow ye be mad by saynt gyle</l>
+               <l>For dyd ye not ere whyle</l>
+               <l>Make poyntment openly</l>
+               <l>To come agayne all to supper</l>
+               <l>There as ye were to day at dyner</l>
+               <l>And yet ye poynted not playne</l>
+               <l>what mete that ye wyll haue drest</l>
+               <l>Nor what delycat{is} ye loue best</l>
+               <l>M● thynke you farre ouer sayne</l>
+            </sp>
+            <sp>
+               <speaker>Hus</speaker>
+               <l>¶As for myne owne {per}te I care not</l>
+               <l>Dress● what mete thou louest spare not</l>
+               <l>what so euer thou doest best thynke</l>
+            </sp>
+            <sp>
+               <pb facs="21"/>
+               <speaker>Ta.</speaker>
+               <l>¶Now if ye put it to my lyberte</l>
+               <l>Of all met{is} in the worlde that be</l>
+               <l>By this lyght I loue best drynke</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶It semyth by thy face so to do</l>
+               <l>But my maister wyll haue mete also</l>
+               <l>what so euer it cost</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶By god syr than ye must tell what</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>At thy discressyon I force nat</l>
+               <l>whether it be soden or rost</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶well syr than ●are not let me a lone</l>
+               <l>ye shall se that all thynge shall be done</l>
+               <l>And ordeyned well and fyne</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶So I require the hertely</l>
+               <l>And in any wyse specyally</l>
+               <l>Let vs haue a cuppe of newe wyne</l>
+            </sp>
+            <sp>
+               <speaker>T●.</speaker>
+               <l>¶ye shall haue wyne as newe as can be</l>
+               <l>For I may tell you in pryuyte</l>
+               <l>Hit was brued but yester nyght</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶But that is nothynge for my delyte</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶But than I haue for your apetyte</l>
+               <l>A cup of wyne of olde claret</l>
+               <l>There is no better by this lyght</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶well I trust the well Inowe</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶But on thynge if it please you nowe</l>
+               <l>ye se well I take muche payne for you</l>
+               <l>I trust ye wyll se to me</l>
+            </sp>
+            <sp>
+               <pb facs="21"/>
+               <speaker>Hu.</speaker>
+               <l>¶ye I {pro}myse the get the hens</l>
+               <l>And in this matter do thy dylygence</l>
+               <l>And I shall well rewarde the</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>By cause thou lokyst for a rewarde</l>
+               <l>One thynge for the I haue p̄pared</l>
+               <l>That here I shall the gyffe</l>
+               <l>Thou shalte haue a knauys skyn</l>
+               <l>For to put thy body theri●</l>
+               <l>For terme of thy lyfe</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶Now gramercy my gentyll brother</l>
+               <l>And therfore thou shalt haue nother</l>
+               <l>For voydynge of stryfe</l>
+            </sp>
+            <sp>
+               <speaker>Sen</speaker>
+               <l>¶Nowe farewell gentyll Iohn̄</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>Than farewell fole for I am gone</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶A byde torne ones a gayne harke what I sey</l>
+               <l>yet there is a nother thynge</l>
+               <l>wolde do well at our maisters wasshynge</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶what thynge is that I the prey</l>
+            </sp>
+            <sp>
+               <speaker>●●n.</speaker>
+               <l>¶Mary thus canst thou tell vs yet</l>
+               <l>where is any rose water to get</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>ye that I can well purney</l>
+               <l>As good as euer you put to your nose</l>
+               <l>For there is a ●eyre wenche callyd rose</l>
+               <l>Dystylleth a quarte euery day</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>By god I wolde a pynt of that</l>
+               <l>were p●wryd ●uyn vpon thy pate</l>
+               <l>
+                  <pb facs="22"/>Before all this presence</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶yet I had leuer she and I</l>
+               <l>where both to gyther secretly</l>
+               <l>In some corner in the spence</l>
+               <l>For by god it is a prety gyrle</l>
+               <l>It is a worlde to se her whyrle</l>
+               <l>Daunsynge in a rounde</l>
+               <l>O lorde god how she wyll tryp</l>
+               <l>She wyll bounce it she wyll whyp</l>
+               <l>ye clene aboue the grounde</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶well let all suche matters passe I sey</l>
+               <l>And get the hens and goo thy way</l>
+               <l>Aboute this other matter</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶Than I goo streyght lo fare ye well</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶But loke yet thou remembre ●uerydell</l>
+               <l>That I spake of full ere</l>
+            </sp>
+            <sp>
+               <speaker>Ta.</speaker>
+               <l>¶yes I warrant you do not fere</l>
+            </sp>
+            <stage>¶Exeat Tauerner.</stage>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Goddis lorde s●ist not who is here now</l>
+               <l>what study●{us} desire what newis with you</l>
+            </sp>
+            <sp>
+               <speaker>Stu</speaker>
+               <l>¶ye shall knowe syr or I go</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶what art thou here I se well I</l>
+               <l>The mo kn●●ys the worse company</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>¶Thy lewde condycyons thou doest styll occupy</l>
+               <l>As thou art wont to do</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶But I s●y who is this here in presence</l>
+            </sp>
+            <sp>
+               <pb facs="22"/>
+               <speaker>Stu.</speaker>
+               <l>¶Syr this is the man callyd experiens</l>
+               <l>That I spake of before</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Experyens why is this he</l>
+               <l>Syr ye ar ryght welcome vnto me</l>
+               <l>And shall be euer more</l>
+            </sp>
+            <sp>
+               <speaker>Expe.</speaker>
+               <l>¶Syr I thanke you therof hertely</l>
+               <l>But I assure you feythfully</l>
+               <l>I haue small courage here to tary</l>
+               <l>As longe as this man is here</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶why horson what eylyst at me</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶For thou hast euer so leude a {pro}perte</l>
+               <l>Science to dispyse and yet thou art he</l>
+               <l>That nought canst nor nought wylt lere</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Mary auaūt knaue I make god auowe</l>
+               <l>I thynke my selfe as cōnynge as thou</l>
+               <l>And that shall I proue shortly</l>
+               <l>I shall put the a questyon now come nere</l>
+               <l>Let me se how well thou canst answere</l>
+               <l>How spellest this worde tom Couper</l>
+               <l>In trewe a●tografye</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶Tom co●per <abbr>qd</abbr> a a wyse qu●styō herdly</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶ye I tel y^● agayne yet / tom cou{per} how spel||lyst it</l>
+               <l>Lo he hath for gotten ye may se</l>
+               <l>The furste worde of his a b c.</l>
+               <l>Harke fole harke I wyll teche the</l>
+               <l>P. a. pa. t. ●. r. ●er. do to gyther tom couper</l>
+               <l>
+                  <pb facs="23"/>ys not this a sore matter</l>
+               <l>Loo here ye may se hym {pro}uyd a fole</l>
+               <l>He had more nede to go to scole</l>
+               <l>Than to come hyther to clatter</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>¶Certeyne this is a solucyon</l>
+               <l>Mete for suche a boyes questyon</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Sensuall apetyte I prey the</l>
+               <l>Let passe all suche tryfles and vanyte</l>
+               <l>For a wy●e it shall not longe be</l>
+               <l>And departe I the require</l>
+               <l>For I wolde talke a worde or two</l>
+               <l>with this man here or he hens go</l>
+               <l>For to satysfy my desyre</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶why goggis soule wyll ye so shortly</l>
+               <l>Breke poyntment with yonder company</l>
+               <l>where ye shulde come to supper</l>
+               <l>I trust ye wyll not breke {pro}mys so</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶I care not greatly yf I do</l>
+               <l>yt is but a tauerne matter</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Than wyll I go shew them what ye sey</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Spare not if thou wylt go thy wey</l>
+               <l>For I wyll here tary</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶Thā a dew for a whyle I tel you playne</l>
+               <l>But I {pro}myse you whā I come a gayne</l>
+               <l>I shall make yonder knauys twayne</l>
+               <l>To repent and be sory</l>
+            </sp>
+            <sp>
+               <pb facs="23"/>
+               <speaker>Ex.</speaker>
+               <l>¶Nowe I am full glad that he is gone</l>
+            </sp>
+            <sp>
+               <speaker>Stu</speaker>
+               <l>¶So am I for good wyll he do none</l>
+               <l>To no man lyuynge</l>
+               <l>But this is the man with whome ye shall</l>
+               <l>I trust be well content with all</l>
+               <l>And glad of his cōmynge</l>
+               <l>¶For he hath expownyd connyngly</l>
+               <l>Dyuers poyntes of Cosmogryfy</l>
+               <l>In fewe wordes and shorte clause</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶So I <abbr>vnderstand</abbr> he hath gode science</l>
+               <l>And that he hath by playne ex{per}ience</l>
+               <l>Lernyd many a straunge cause</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>¶ye syr and I say for my {per}te</l>
+               <l>He is the cōnyngest man in that arte</l>
+               <l>That euer I coude fynde</l>
+               <l>For aske what questyon ye wyll do</l>
+               <l>Howe the yerth is rounde or other mo</l>
+               <l>He wyll satysfye your mynde</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶why what doute haue ye therin founde</l>
+               <l>Thynke ye the yerth shulde not be rounde</l>
+               <l>Or elles howe suppose ye</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶One wey it is rounde I must consent</l>
+               <l>For this man prouyd it euydent</l>
+               <l>Towarde the eest and occydent</l>
+               <l>It must nedis rounde be</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶And lykewyse from the south to north</l>
+            </sp>
+            <sp>
+               <pb facs="24"/>
+               <speaker>Hu.</speaker>
+               <l>That poynt to proue were sū thāke worth</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶yes that I can well proue</l>
+               <l>For this ye knowe as well as I</l>
+               <l>ye se the north starre in the skye</l>
+               <l>Marke well ye shall vnethe it spye</l>
+               <l>That euer it doth remoue</l>
+               <l>¶But this I assure you if you go</l>
+               <l>Northwarde an hundreth myle or two</l>
+               <l>ye shall thynke it ryseth</l>
+               <l>And how that it is nere aproched</l>
+               <l>The poynt ouer the top of your hed</l>
+               <l>whiche is callyd your zenyth</l>
+               <l>¶yet yf ye go the other wey</l>
+               <l>Southwarde .x. or .xii. dayes Iorney</l>
+               <l>ye shall then thynke anon</l>
+               <l>It discended and come more nye</l>
+               <l>The sercle {per}tynge the yerth and skye</l>
+               <l>As ye loke streyght with your eye</l>
+               <l>whiche is callyd your oryson</l>
+               <l>¶But ye may go southwarde so farre</l>
+               <l>That at the last that same starre</l>
+               <l>wyll seme so farre downe ryght</l>
+               <l>Clere vnder neth your oryson</l>
+               <l>That syght therof can you haue non</l>
+               <l>The yerth wyll stop your syght</l>
+               <l>¶This {pro}uyth of necessyte</l>
+               <l>
+                  <pb facs="24"/>That the yerth must nedis rounde be</l>
+               <l>This conclulsyon doth it trye</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Nowe that is the {pro}perist conclusyon</l>
+               <l>That euer I herde for by reason</l>
+               <l>No man may hit deuye</l>
+               <l>But sir if that aman sayle farre</l>
+               <l>Upon the see wyll than that starre</l>
+               <l>Do there as on the grounde</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶ye doutles sayl●<abbr>northward</abbr> ryse it wyl</l>
+               <l>And sayle southwarde it falleth styl</l>
+               <l>And that prouyth the see rounde</l>
+            </sp>
+            <sp>
+               <speaker>Stu.</speaker>
+               <l>¶So dothe it in myne oppynyon</l>
+               <l>But knowe you any other conclusyon</l>
+               <l>To proue it rounde saue that alone</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶ye that I knowe ryght well</l>
+               <l>As thus marke well whan y^● see is clere</l>
+               <l>That no storme nor wawe therō doth pere</l>
+               <l>This maryners can tell</l>
+               <l>¶Than if a fyre be made on nyght</l>
+               <l>Upon the shore that gyueth great lyght</l>
+               <l>And a shyp in the see farre</l>
+               <l>They in the toppe the fyre se shall</l>
+               <l>And they on hache nothynge at all</l>
+               <l>yet they on haches be nerr̄</l>
+               <l>¶Also on the see where men be saylynge</l>
+               <l>Farre frome lande they se nothynge</l>
+               <l>
+                  <pb facs="25"/>But the water and the skye</l>
+               <l>yet whan they drawe the lande more nere</l>
+               <l>Than the hyll toppes begyn to apere</l>
+               <l>Styll the nere more hye and hye</l>
+               <l>As though they were styll growynge faste</l>
+               <l>Out of the see tyll at laste</l>
+               <l>whan they come the shore to</l>
+               <l>They se the hyll toppe fote and all</l>
+               <l>whiche thynge so coude not be fall</l>
+               <l>But the see lay rounde also</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Me thynketh your argumēt sōwhat hard</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶Than ye shall haue it more playnly declared</l>
+               <l>If ye ●aue great desyre</l>
+               <l>For here loo by myne instrumentis</l>
+               <l>I can shew the playne ex{per}iment{is}</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Therto I you requyre</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶with all my herte it shall be done</l>
+               <l>But for the furst conclusyon</l>
+               <l>That I spake of the fyre</l>
+               <l>Be this the s●ey that is so rounde</l>
+               <l>And this the fyre vpon the grounde</l>
+               <l>And this the shyp that is here</l>
+               <l>ye knowe well that a mannes syght</l>
+               <l>Can neuer be but in a lyne ryght</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Iust you say that is clere</l>
+            </sp>
+            <sp>
+               <speaker>Ex.</speaker>
+               <l>¶Marke well than may not y^t mānis eye</l>
+               <pb facs="25"/>
+               <pb facs="26"/>
+               <pb facs="26"/>
+               <l>¶with argyng here theyr fo●y●●●〈◊〉</l>
+               <l>That is not worth iij. strawes</l>
+               <l>¶I loue not this horeson losophers</l>
+               <l>Nor this great cōnyng extromers</l>
+               <l>That tell how far it is to the sterres</l>
+               <l>I hate all maner connyng</l>
+               <l>I wolde ye knew it I am Ignorance</l>
+               <l>A lorde I am of gretter pusans</l>
+               <l>Than the kynge of yngland or fraunce</l>
+               <l>ye the grettyst lord lyuyng</l>
+               <l>¶I haue seruaūt{is} at my retynew</l>
+               <l>That longe to me I assure you</l>
+               <l>Here with in ynglande</l>
+               <l>That with me yngnorance dwell styll</l>
+               <l>And terme of lyfe cōtynew wyll</l>
+               <l>A boue v C. thowsand</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Gogg{is} naylys I haue payed sō of thē I tro</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>why man what eylyth y^● so to blow</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>For I was at a shrewd fray</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>Hast thou any of them slayn than</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>ye I haue slayn them euery man</l>
+               <l>Saue them that ran away</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>why is any of them skapyd &amp; gone</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>ye by gogg{is} body euerychone</l>
+               <l>All that euer were there</l>
+            </sp>
+            <sp>
+               <pb facs="27"/>
+               <speaker>〈◊〉.</speaker>
+               <l>O syr ye know ryght well this</l>
+               <l>That when any man is</l>
+               <l>In other mens company</l>
+               <l>He must ned{is} folow the appyte</l>
+               <l>Of such thyng{is} as they delyte</l>
+               <l>Som tyme amonge perdy</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>But such knaues wold alway haue y^●</l>
+               <l>To put all thy mynd &amp; felicite</l>
+               <l>In this folysh cōnyng to study</l>
+               <l>which if thou do wyll make y^e mad</l>
+               <l>And alway to be pensyf &amp; sad</l>
+               <l>Thou shalt neuer be mery</l>
+            </sp>
+            <sp>
+               <speaker>〈◊〉.</speaker>
+               <l>Mery quod a / no I make god auow</l>
+               <l>But I pray y^e mayster hark on word now</l>
+               <l>And aunswere this thyng</l>
+               <l>whether thought you it better chere</l>
+               <l>At the tauerne where we were ere</l>
+               <l>Or ell{is} to clatter with these knaues here</l>
+               <l>Of theyr folysh cunnynge</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Nay I can not say the contrary</l>
+               <l>But y^● I had mych myryer company</l>
+               <l>At the tauer●e than in this place</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Than yf ye haue any wyt or brayn</l>
+               <l>Let vs go to the tauerne agayn</l>
+               <l>And make some mery solace</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>yf he wyll do so thā doth he wysely</l>
+            </sp>
+            <sp>
+               <pb facs="27"/>
+               <speaker>Hu.</speaker>
+               <l>By my troth I care not gretely</l>
+               <l>For I am indyfferent to all company</l>
+               <l>whether it be here or there</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Then I shall tell you what we wyll do</l>
+               <l>Mayster yngnorans you &amp; he also</l>
+               <l>Shall tary both styll here</l>
+               <l>And I wyll go fet hyther a cōpany</l>
+               <l>That ye shall here thē syng as swetly</l>
+               <l>As they were angell{is} clere</l>
+               <l>¶And yet I shall bryng hydyr a nother sort</l>
+               <l>Of lustly bludd{is} to make dysport</l>
+               <l>That shall both daunce &amp; spryng</l>
+               <l>And torne clene aboue y^e ground</l>
+               <l>with fryscas &amp; with gambawd{is} round</l>
+               <l>That all the hall shall ryng</l>
+               <l>¶And y^t done with in an howre or twayn</l>
+               <l>I shall at the towne agayne</l>
+               <l>Prepare for you a banket</l>
+               <l>Of metys that be most delycate</l>
+               <l>And most plesaunt drynk{is} &amp; wynes ther ate</l>
+               <l>That is possyble to get</l>
+               <l>●which shall be in a chamber feyre</l>
+               <l>Replete with sote &amp; fragrāt eyre</l>
+               <l>Preparyd poynt deuyse</l>
+               <l>with damaske water made so well</l>
+               <l>That all y^● howse therof shall smell</l>
+               <pb facs="28"/>
+               <pb facs="28"/>
+               <l>
+                  <pb facs="29"/>As it were pardyse</l>
+               <l>¶And after that if ye wyll touche</l>
+               <l>A feyre wenche nakyd in a couche</l>
+               <l>Of a softe bed of downe</l>
+               <l>For to satisfye your wantō lust</l>
+               <l>I shall apoynt you a trull of trust</l>
+               <l>Not a feyrer in this towne</l>
+               <l>¶And whan ye haue taken your delyte</l>
+               <l>And thus satisfyed the appetyte</l>
+               <l>Of your wyttis fyue</l>
+               <l>ye may sey than I am a seruaunt</l>
+               <l>For you so necessary and plesaunt</l>
+               <l>I trowe non suche a lyue</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Nowe by the wey that god dyd walke</l>
+               <l>It cōforthe myne herte to here the talke</l>
+               <l>Thy mache was neuer seyn</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>¶Than go thy wey by and by</l>
+               <l>And brynge in this company</l>
+               <l>And he and I wyll here tary</l>
+               <l>Tyll thou come agayne</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶And I prey the hertely also</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>¶At your request so shall I do</l>
+               <l>Lo I am gone nowe fare well</l>
+               <l>I shall brynge them in to this hall</l>
+               <l>And come my selfe formast of all</l>
+               <l>And of these reuellis be ch●fe mershall</l>
+               <l>
+                  <pb facs="29"/>And order all thynge well</l>
+            </sp>
+            <sp>
+               <speaker>¶yngnoraunce.</speaker>
+               <l>¶Nowe set thy hert on a mery pyn</l>
+               <l>Agayns these lusty bludd{is} come in</l>
+               <l>And dryue fantesys a wey</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>And so I wyll by heuyn kynge</l>
+               <l>If they other daunce or synge</l>
+               <l>Haue a monge them by this day</l>
+            </sp>
+            <sp>
+               <speaker>¶yngnorau●ce.</speaker>
+               <l>¶Than thou takyst good &amp; wyse weys</l>
+               <l>And so shalt thou best please</l>
+               <l>All this hole company</l>
+               <l>For the folyshe arguynge y^t thou hast had</l>
+               <l>with that knaue experiens y^t hath made</l>
+               <l>All these folke therof wery</l>
+               <l>¶For all they that be nowe in this hall</l>
+               <l>They be the most {per}te my seruaunt{is} all</l>
+               <l>And loue pryncypally</l>
+               <l>Disportis as daunsynge syngyuge</l>
+               <l>Toys tryfuls laughynge gestynge</l>
+               <l>For connynge they set not by</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>I se well suche company euer more</l>
+               <l>As sensuell appetyte is gone fore</l>
+               <l>wyll please well this audyens</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>¶ye that I suppose they wyll</l>
+               <l>But pease harke I prey the be styll</l>
+               <l>
+                  <pb facs="30"/>I wene they be not far hens</l>
+               <stage>¶Then the daunsers with out the hall syng this wyse and they with in answer or ellys they may say it for nede.</stage>
+               <l>
+                  <gap reason="music"/>
+               </l>
+            </sp>
+            <sp>
+               <speaker>¶The daunsers &amp; Sensuall●</speaker>
+               <l>P●ase syrs pease now pease syrs all</l>
+            </sp>
+            <sp>
+               <speaker>¶Humanyte &amp; yngnorans.</speaker>
+               <l>why who is that so hye doth call</l>
+            </sp>
+            <sp>
+               <speaker>¶The daunsers.</speaker>
+               <l>Sylence I say be you among</l>
+               <l>For we be dysposyd to syng a song</l>
+            </sp>
+            <sp>
+               <speaker>¶Humanyte &amp; yngnorans.</speaker>
+               <l>Come in then boldely a mong this presens</l>
+               <l>For here ye shall haue good audyens.</l>
+            </sp>
+            <pb facs="30"/>
+            <l>
+               <gap reason="music"/>
+            </l>
+            <l>Tyme to pas with goodly sport our spryt{is} to</l>
+            <l>
+               <gap reason="music"/>
+            </l>
+            <l>Tyme to pas <abbr>&amp;c.</abbr>
+            </l>
+            <l>
+               <gap reason="music"/>
+            </l>
+            <l>Tyme to pas <abbr>&amp;c.</abbr>
+            </l>
+            <l>
+               <pb facs="31"/>
+               <gap reason="music"/>
+            </l>
+            <l>reuyue &amp; cōfort to pipe to sīge to daūce 〈…〉</l>
+            <l>
+               <gap reason="music"/>
+            </l>
+            <l>
+               <gap reason="music"/>
+            </l>
+            <l>
+               <pb facs="31"/>
+               <gap reason="music"/>
+            </l>
+            <l>with plesure &amp; delyte folowīg sēsual appetyte</l>
+            <l>
+               <gap reason="music"/>
+            </l>
+            <l>to pipe <abbr>&amp;c.</abbr>
+            </l>
+            <l>
+               <gap reason="music"/>
+            </l>
+            <l>
+               <gap reason="music"/>
+            </l>
+            <sp>
+               <pb facs="32"/>
+               <speaker>yng.</speaker>
+               <l>I ●an you thank y^● is done well</l>
+               <l>It is pyte ye had not a mynstrell</l>
+               <l>For to angment your solas</l>
+            </sp>
+            <sp>
+               <speaker>Seu.</speaker>
+               <l>As for mynstrell it maketh no force</l>
+               <l>ye shall se me daunce a cours</l>
+               <l>without a mynstrell be it better or wors</l>
+               <l>Folow a●l I wyll lede a trace</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Now haue a monge you by this lyght</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>That is well sayd be god almyght</l>
+               <l>Make rome syrs &amp; gy● them p●ace</l>
+               <stage>¶Than he syngyth this song &amp; daunyth with all And euermore maketh countenaunce accordyng To the mater &amp; all y^e other annswer lyke wyle ¶Daunce we / daunce we. praunce we praunce we</stage>
+               <l>So merely let vs daunce ey / so merely <abbr>&amp;c</abbr>
+               </l>
+               <l>And I can daunce it gyngerly &amp; I <abbr>&amp;c</abbr>
+               </l>
+               <l>And I can fote it by &amp; by &amp; I <abbr>&amp;c</abbr>
+               </l>
+               <l>And I can pranke it {pro}perly</l>
+               <l>And I can countenaunse comely</l>
+               <l>And I can kroke it curtesly</l>
+               <l>And I can lepe it lustly</l>
+               <l>And I can torn it trymly</l>
+               <l>And I can fryske it freshly</l>
+               <l>And I can loke it lordly</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>I can the thanke sensuall apetyte</l>
+               <l>That is y^● best daunce with out a py●e</l>
+               <l>
+                  <pb facs="32"/>That I saw this seuen yere</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>This daunce wold do mych better yet</l>
+               <l>yf we had a kyt or taberet</l>
+               <l>But alas ther is none here</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Then let vs go to y^e tauerne agayne</l>
+               <l>There shall we be sure of one or twayn</l>
+               <l>Of mynstrell{is} y^t can well play</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>Then go I pray ye by &amp; by</l>
+               <l>And puruey some mynstrell redy</l>
+               <l>And he &amp; I wyll folow shortly</l>
+               <l>As fast as euer we may</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Ther with I am ryght well content</l>
+            </sp>
+            <sp>
+               <speaker>Sen.</speaker>
+               <l>Then wyll I go in contynent</l>
+               <l>And prepare euery thyng</l>
+               <l>That is metely to be done</l>
+               <l>And for lacke of mynstrell{is} y^● mean seasō</l>
+               <l>Now wyll we begyn to syng</l>
+               <l>
+                  <gap reason="music"/>
+               </l>
+               <l>¶Now we wyll here begyn to syng</l>
+               <l>For daunce can we nomore</l>
+               <l>For mynstrell{is} here be all lackyng</l>
+               <l>To y^e tauerne we wyll therfore</l>
+            </sp>
+            <stage>
+               <pb facs="33"/>¶Et exeūt cantando <abbr>&amp;c.</abbr>
+            </stage>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Now yf that sensuall appetyte cā fynd</l>
+               <l>Any good mynstrell{is} after hys mynd</l>
+               <l>Dowt not we shall haue good sport</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>And so shall we haue for a suerte</l>
+               <l>But what shall we do now tell me</l>
+               <l>The meane whyle for our cōfort</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Then let vs some lusty balet syng</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>Nay syr by y^e heuyn kyng</l>
+               <l>For me thynkyth it seruyth for no thyn●</l>
+               <l>All suche peuysh prykyeryd song</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Pes man pryksong may not be dispysy●</l>
+               <l>For ther with god is well plesyd</l>
+               <l>Honowryd praysyd &amp; seruyd</l>
+               <l>In the churche oft tymes among</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>Is god well pleasyd trowst thou therby</l>
+               <l>Nay nay for there is no reason why</l>
+               <l>For is it not as good to say playnly</l>
+               <l>Gyf me a spad●</l>
+               <l>As gyf me a spa ve va ve va ve vade</l>
+               <l>But yf thou wylt haue a song y^t is good</l>
+               <l>I haue one of robyn hode</l>
+               <l>The best that euer was made</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>Then a feleshyp let vs here it</l>
+            </sp>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>But there is a bordon thou must bere it</l>
+               <l>Or ellys it wyll not be</l>
+            </sp>
+            <sp>
+               <pb facs="33"/>
+               <speaker>Hu.</speaker>
+               <l>¶Than begyn and care no●●o●</l>
+            </sp>
+            <stage>¶Downe downe downe <abbr>&amp;c.</abbr>
+            </stage>
+            <sp>
+               <speaker>yng.</speaker>
+               <l>¶Robyn hode in barnysdale stode</l>
+               <l>And lent hym tyl a mapyll thystyll</l>
+               <l>Thā cam our lady &amp; swete saynt andrewe</l>
+               <l>Slepyst thou wakyst thou geffrey coke</l>
+               <l>¶A.C. wynter the water was depe</l>
+               <l>I can not tell you how brode</l>
+               <l>He toke a gose nek in his hande</l>
+               <l>And ouer the water he went</l>
+               <l>¶He start vp to a thystell top</l>
+               <l>And cut hym downe a holyn clobe</l>
+               <l>He stroke y^e wren betwene the hornys</l>
+               <l>That fyre sprange out of the pygg{is} tayle</l>
+               <l>¶Iak boy is thy bowe I broke</l>
+               <l>Or hath any mā done y^e wryguldy wrage</l>
+               <l>He plukkyd muskyllys out of a wyllowe</l>
+               <l>And put them in to his sachell</l>
+               <l>¶wylkyn was an archer good</l>
+               <l>And well coude handell a spade</l>
+               <l>He toke his bend bowe in his hand</l>
+               <l>And set hym downe by the fyre</l>
+               <l>¶He toke with hym .lx. bowes and ten</l>
+               <l>A pese of befe a nother of baken</l>
+               <l>Of all the byrdes in mery englond</l>
+               <l>So merely pypys the mery botell</l>
+            </sp>
+            <sp>
+               <pb facs="34"/>
+               <speaker>¶Nature.</speaker>
+               <l>¶well Humanyte now I see playnly</l>
+               <l>That thou hast vsyd muche foly</l>
+               <l>The whyle I haue ben absent</l>
+            </sp>
+            <sp>
+               <speaker>Hu.</speaker>
+               <l>¶Syr I trust I haue done nothynge</l>
+               <l>That shold be contrary to your pleasynge</l>
+               <l>Nor neuer was myne intent</l>
+               <l>¶For I haue folowed the counsell clere</l>
+               <l>As ye me bad of studyouse desire</l>
+               <l>And for necessyte a monge</l>
+               <l>Somtyme sensuall appety●{is} counsell</l>
+               <l>For without hym ye ●nowe ryght well</l>
+               <l>My lyfe can not endure longe</l>
+            </sp>
+            <sp>
+               <speaker>¶Nature.</speaker>
+               <l>¶Though it be for the full necessary</l>
+               <l>For thy cōfort somtyme to satysfy</l>
+               <l>Thy sensuall appetyte</l>
+               <l>yet it is not conuenyent for the</l>
+               <l>To put therin thy felycyte</l>
+               <l>And all thy hole dely●e</l>
+               <l>¶For if thou wylt lerne no sciens</l>
+               <l>Nother by study nor experiens</l>
+               <l>I shall the neuer auaunce</l>
+               <l>But in the worlde thou shalt dure than</l>
+               <l>Dyspysed of euery wyse man</l>
+               <l>Lyke this rude best ygnoraunce</l>
+            </sp>
+            <pb facs="34"/>
+         </div>
+      </body>
+   </text>
+</TEI>

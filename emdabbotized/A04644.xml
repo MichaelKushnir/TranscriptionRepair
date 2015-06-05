@@ -1,0 +1,515 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A04644">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Chloridia. Rites to Chloris and her nymphs. Personated in a masque, at court. By the Queenes Maiesty and her ladies. At Shroue-tide. 1630.</title>
+            <author>Jonson, Ben, 1573?-1637.</author>
+         </titleStmt>
+         <extent>11 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 January (TCP phase 1)</date>
+            <idno type="marc">99844871</idno>
+            <idno type="stc">STC (2nd ed.) 14762.</idno>
+            <idno type="stc">Greg, II, 452(a).</idno>
+            <idno type="vid">9719</idno>
+            <idno type="DLPS">A04644</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Chloridia. Rites to Chloris and her nymphs. Personated in a masque, at court. By the Queenes Maiesty and her ladies. At Shroue-tide. 1630.</title>
+                  <author>Jonson, Ben, 1573?-1637.</author>
+               </titleStmt>
+               <extent>[20] p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Thomas Walkley,</publisher>
+                  <date>[1631]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Anonymous. By Ben Jonson.</p>
+                  </note>
+                  <note>
+                     <p>Partly in verse.</p>
+                  </note>
+                  <note>
+                     <p>The year date on title-page is given according to Lady Day dating.</p>
+                  </note>
+                  <note>
+                     <p>Signatures: A-B4 C2.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the British Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="1"/>
+            <pb facs="1"/>
+            <p>CHLORIDIA.</p>
+            <p>RITES TO <hi>CHLORIS</hi> AND HER NYMPHS.</p>
+            <p>Personated in a Masque, at Court.</p>
+            <p>By the Queenes Maiesty And her Ladies.</p>
+            <p>At Shroue-tide.</p>
+            <p>1630.</p>
+            <p>Vnius tellus ante coloris erat.</p>
+            <p>LONDON, Printed for Thomas Walkley.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="2"/>
+            <pb facs="2"/>
+            <head>CHLORIDIA.</head>
+            <p>THe King, and Queenes Maiesty, hauing giuen their command for the Inuention of a new argument, with the whole change of the <hi>Scene,</hi> wherein her Maiesty, with the like number of her Ladies, purposed a presentation to the King. It was agreed, it should be the celebration of some Rites, done to the Goddesse <hi>Chloris,</hi> who in a generall counsell of of the Gods, was proclaim'd Goddesse of the flowers, according to that of <hi>Ouid,</hi> in the <hi>Fasti.</hi>
+            </p>
+            <quote>
+               <p>Arbitrium tu Dea floris habe.</p>
+            </quote>
+            <p>And was to bee stellified on Earth, by an ab|solut decree from <hi>Iupiter,</hi> who would haue the Earth to be adorn'd with starres, as well as the Heauen.</p>
+            <quote>
+               <p>Vpon this hinge, the whole Inuention moou'd.</p>
+            </quote>
+            <p>The ornament, which went about the <hi>Scene,</hi> was composed of Foliage, or leaues heightned with gold, and enterwouen with all sorts of flowers; and naked children, playing, and climbing among the branches; and in the midst, a great garland of flowers, in which was writ|ten, <hi>CHLORIDIA.</hi>
+            </p>
+            <p>
+               <pb facs="3"/>
+The Curtaine being drawne vp, the <hi>Scene</hi> is discouer'd, consisting of pleasant hills, planted with young trees, and all the lower bankes a|dorned with flowers. And from some hollow parts of those hills, Fountaynes come gliding downe, which, in the farre-of Land-shape, seem'd all to be conuerted to a riuer.</p>
+            <p>Ouer all, a serene skie, with transparent clouds, giuing a great lustre to the whole worke, which did imitate the pleasant <hi>Spring.</hi>
+            </p>
+            <p>VVhen the Spectators had enough fed their eyes, with the delights of the <hi>Scene,</hi> in a part of the ayre, a bright cloud begins to breake forth; and in it, is sitting a plumpe Boy, in a changea|ble garment, richly adorn'd, representing the mild <hi>Zephyrus.</hi> On the other side of the <hi>Scene,</hi> in a purplish cloud, appeareth the <hi>Spring,</hi> a beau|tifull Mayde, her vpper garment greene, vnder it, a white robe wrought with flowers; A gar|land on her head.</p>
+            <p>Here <hi>Zephyrus</hi> begins his dialogue, calling her forth, and making narration of the Gods decree at large, which shee obeyes, pretending, it is come to Earth already: and there begun to bee
+<pb facs="3"/>
+executed, by the Kings fauour, who assists with all bounties, that may bee eyther vrg'd, as causes, or reasons of the <hi>Spring.</hi>
+            </p>
+            <floatingText>
+               <body>
+                  <div type="song">
+                     <head>The first Song.</head>
+                     <sp>
+                        <speaker>ZEPHYRVS.</speaker>
+                        <l>Come forth, come forth, the gentle <hi>Spring,</hi>
+                        </l>
+                        <l>And carry the glad newes, I bring,</l>
+                        <l>To Earth, our common mother:</l>
+                        <l>It is decreed, by all the Gods</l>
+                        <l>The Heau'n, of Earth shall haue no odds,</l>
+                        <l>But one shall loue another:</l>
+                        <l>Their glories they shall mutuall make,</l>
+                        <l>Earth looke on Heauen, for Heauens sake;</l>
+                        <l>Their honour's shall bee euen:</l>
+                        <l>All emulation cease, and iarres;</l>
+                        <l>
+                           <hi>Ioue</hi> will haue Earth to haue her starres</l>
+                        <l>And lights, no lesse then Heauen.</l>
+                     </sp>
+                     <sp>
+                        <speaker>SPRING.</speaker>
+                        <l>It is already done, in flowers</l>
+                        <l>As fresh and new as are the howres,</l>
+                        <l>By warmth of yonder Sunne.</l>
+                        <l>
+                           <pb facs="4"/>
+But will be multipli'd on vs,</l>
+                        <l>If from the breath of ZEPHYRVS</l>
+                        <l>Like fauour we haue wonne.</l>
+                     </sp>
+                     <sp>
+                        <speaker>ZEPHYRVS.</speaker>
+                        <l>Giue all to him: His is the dew,</l>
+                        <l>The heate, the humor,</l>
+                     </sp>
+                     <sp>
+                        <speaker>SPRING.</speaker>
+                        <stage>—All the true—</stage>
+                        <l>Beloued of the <hi>Spring!</hi>
+                        </l>
+                     </sp>
+                     <sp>
+                        <speaker>ZEPHYRVS.</speaker>
+                        <l>The Sunne, the Wind, the Verdure!</l>
+                     </sp>
+                     <sp>
+                        <speaker>SPRING.</speaker>
+                        <stage>—All,</stage>
+                        <l>That wisest Nature cause can call</l>
+                        <l>Of quick'ning any thing.</l>
+                     </sp>
+                  </div>
+               </body>
+            </floatingText>
+            <p>At which, <hi>Zephyrus</hi> passeth away through the ayre, and the <hi>Spring</hi> descendeth to the Earth: and is receiu'd by the <hi>Naiades,</hi> or <hi>Napeae;</hi> who are the Nymph's, <hi>Fountaynes,</hi> and Seruants of the season—</p>
+            <floatingText>
+               <body>
+                  <div type="song">
+                     <head>The second Song.</head>
+                     <sp>
+                        <speaker>FOVNTAYNES.</speaker>
+                        <l>Fayre Mayde, but are you come to dwell,</l>
+                        <l>And tarry with ys here?</l>
+                     </sp>
+                     <sp>
+                        <speaker>SPRING.</speaker>
+                        <l>Fresh Fountaynes, I am come to tell</l>
+                        <l>
+                           <pb facs="4"/>
+A tale in yond'soft eare,</l>
+                        <l>Whereof the murmure will do well:</l>
+                        <l>If you your parts will beare.</l>
+                     </sp>
+                     <sp>
+                        <speaker>FOVNTAYNES.</speaker>
+                        <l>Our purlings wayte vpon the <hi>Spring.</hi>
+                        </l>
+                     </sp>
+                     <sp>
+                        <speaker>SPRING.</speaker>
+                        <l>Goe vp with me, then: helpe to sing</l>
+                        <l>The story to the King.</l>
+                     </sp>
+                     <p>Here the <hi>Spring</hi> goes vp, singing the argument to the King; and the <hi>Fountaynes</hi> follow with the close.</p>
+                     <sp>
+                        <speaker>SPRING.</speaker>
+                        <l>Cupid hath ta'ne offence of late</l>
+                        <l>At all the Gods, that of the State,</l>
+                        <l>And in their Councell, he was so deserted,</l>
+                        <l>Not to be call'd into their Guild</l>
+                        <l>But slightly passd by, as a child.</l>
+                     </sp>
+                     <sp>
+                        <speaker>FOVNTAYNES.</speaker>
+                        <l>Wherein hee thinkes his honour was peruerted.</l>
+                     </sp>
+                     <sp>
+                        <speaker>SPRING.</speaker>
+                        <l>And though his Mother seeke to season,</l>
+                        <l>And rectifie his rage with reason,</l>
+                        <l>By shewing he liues yet vnder her command,</l>
+                        <l>Rebellious he, doth disobey,</l>
+                        <l>And she hath forc'd his armes away.</l>
+                     </sp>
+                     <sp>
+                        <pb facs="5"/>
+                        <speaker>FOVNTAYNES.</speaker>
+                        <l>To make him feele the Justice of her hand.</l>
+                     </sp>
+                     <sp>
+                        <speaker>SPRING.</speaker>
+                        <l>Whereat the Boy, in fury fell,</l>
+                        <l>With all his speed, is gone to hell,</l>
+                        <l>There to excite, and stirre vp lealousy,</l>
+                        <l>To make a party 'gainst the Gods,</l>
+                        <l>And set Heauen, Earth, and Hell at odds.</l>
+                     </sp>
+                     <sp>
+                        <speaker>FOVNTAYNES.</speaker>
+                        <l>And rayse a chaos of calamity.</l>
+                     </sp>
+                  </div>
+               </body>
+            </floatingText>
+            <p>The Song ended, the <hi>Nymphs</hi> fall into a dance, to their voyces, and instruments, and so returne into the <hi>Scene.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>THE ANTIMASQVE.</head>
+            <stage>First Entry.</stage>
+            <p>A part of the vnder ground opening, out of it enters a Dwarfe-Post from Hell, riding on a Cur|tall, with clouen feete, and two Lacqueys: These dance, &amp; make the first entry of the Antimasque. Hee alights, and speakes.</p>
+            <sp>
+               <speaker>POSTILION.</speaker>
+               <p>Hold my stirrop, my one Lacquey; and looke to my Curtall, the other: walke him well, Sirrah, while I ex|patiate
+<pb facs="5"/>
+my selfe here in the report of my office! oh the Furies! how I am ioyed with the title of it! <hi>Postil|lion</hi> of Hell! yet no <hi>Mercury.</hi> But a mere Cacodae|mon, sent hether with a packet of newes! newes! neuer was Hell so furnished of the commodity of newes! <hi>Loue</hi> hath bin lately there, and so entertained by <hi>Pluto,</hi> and <hi>Proserpine,</hi> and all the Grandees of the place as, it is there perpetuall Holy-day: and a cessation of torment granted, and proclaimed for euer! Halfe-famish'd <hi>Tantalus</hi> is fallen to his fruit, with that appetite, as it threaten's to vndoe the whole company of Costard|mungers, and ha's ariuer afore him, running excellent wine <hi>lxion</hi> is loos'd from his wheele, and turn'd Dancer, does nothing but cut capreols, fetch friskals, and leades Laualtos, with the <hi>Lamiae! Sisyphus</hi> ha's left rowling the stone, and is growne a M^r. bowler; challenges all the prime gamesters, Parsons in hell, and giues them odds: vpon <hi>Tityus</hi> his brest, that (for fixe of the nine aeres) is counted the subtlest bowling-ground in all Tartary. All the <hi>Furies</hi> are at a game call'd nine pins, or keilles, made of old vsurers bones, and their soules looking on with delight, and betting on the game. Neuer was there such freedome of sport. <hi>Danaus</hi> daughters haue broke their bottomelesse tubs, and made bonfires of them. All is turn'd triumph there. Had hell gates bin kep't with halfe that strictnesse as the entry here ha's bin to night,
+<pb facs="6"/>
+                  <hi>Pluto</hi> would haue had but a cola Court, &amp; <hi>Proserpine</hi> a thinne presence, though both haue a vast territory We had such a stirre to get in, I and my Curtall, and my two Lacqueys all ventur'd through the eye of a Spanish needle, we had neuer come in else, &amp; that was by the fa|uour of one of the guard who was a womans-tayler, and held ope the passage. <hi>Cupid</hi> by commission hath carried Iealoufie from <hi>Hell,</hi> Disdaine, Feare, and Dissimula|tion, with other Goblins, to trouble the <hi>Gods.</hi> And I am sent after post, to rayse Tempest, Windes, Lightnings, Thunder, Rayne, and Snow, for some new exployt they haue against the Earth, and the Goddesse <hi>Chloris,</hi> Queene of the flowers, and Mistris of the <hi>Spring.</hi> For ioy of which I will returne to my selfe, mount my Bidet, in a dance; and coruet vpon my Curtall.</p>
+            </sp>
+            <p>The speech ended, the <hi>Postillion</hi> mounts his Curtall, and with his Lacqueys, danceth forth as hee came in.</p>
+            <stage>2 Entry.</stage>
+            <p>Cupid, Jealousy, Disdaine, Feare, <hi>and</hi> Dissimula|tion, <hi>dance together.</hi>
+            </p>
+            <stage>3 Entry.</stage>
+            <p>The Queenes Dwarfe, richly apparrel'd, as
+<pb facs="6"/>
+a <hi>Prince</hi> of <hi>Hell,</hi> attended by 6 infernall <hi>Spirits;</hi> He first danceth alone, and then the <hi>Spirits:</hi> all ex|pressing their ioy, for <hi>Cupids</hi> comming among them.</p>
+            <stage>4 Entry.</stage>
+            <p>Here the <hi>Scene</hi> changeth, into a horrid storme. Out of which enters the Nymph <hi>Tempest,</hi> with foure <hi>Windes.</hi> they dance.</p>
+            <stage>5 Entry.</stage>
+            <p>
+               <hi>Lightnings,</hi> 3 in number, their habits gliste ring, expressing that effect, in their motion.</p>
+            <stage>6 Entry.</stage>
+            <p>
+               <hi>Thunder</hi> alone dancing the tunes to a noyse, mixed, and imitating thunder.</p>
+            <stage>7 Entry.</stage>
+            <p>
+               <hi>Rayne,</hi> presented by 5 persons all swolne, and clouded ouer, their hayre flagging, as if they were wet, and in their hands, balls full of sweete water, which, as they dance, sprinkle all the roome.</p>
+            <stage>8 and last Entry.</stage>
+            <p>Seuen with rugged white heads, and beards,
+<pb facs="7"/>
+               <pb facs="7"/>
+               <pb facs="8"/>
+to expresse <hi>Snow,</hi> with flakes on their garments, mix'd wi●h hayle. These hauing danced, returne into the stormy <hi>Scene,</hi> whence they came.</p>
+            <p>Here, by the prouidence of <hi>Iuno,</hi> the tempest on an instant ceaseth: And the <hi>Scene</hi> is changed into a delicious place, figuring the bowre of <hi>Chloris.</hi> Where, in an arbour fayn'd of Gold-smiths worke, the ornament of which was borne vp with <hi>Termes</hi> of <hi>Satyres,</hi> beautify'd with <hi>Festones,</hi> garlands, and all sorts of fragrant flowers. Beyond all this, in the skie a farre of appear'd a <hi>Rainebow,</hi> In the most eminent place of the Bowre, sate the Goddesse <hi>Chloris,</hi> accompanied with fourteene <hi>Nymphs,</hi> their apparrell white, embroydered, with siluer, trim'd at the shoulders with great leaues of greene, embroydered with gold, falling one vnder the o|ther. And of the same worke were their bases, their head-'tires of flowers, mix'd with siluer, and gold, with some sprigs of Aegrets among, and from the top of their dressing, a thinne vayle han|ging downe.</p>
+            <p>All which beheld,</p>
+            <stage>The Nymphs, Riuers, and Fountaynes with the Spring, sung this reioycing Song.</stage>
+            <floatingText>
+               <body>
+                  <div type="song">
+                     <head>Song. 3.</head>
+                     <sp>
+                        <pb facs="8"/>
+                        <speaker>RIVERS, SPRING, FOVNTAYNES.</speaker>
+                        <l>Run out, all the Flouds, in ioy with your siluer feete;</l>
+                        <l>And hast to meete, the enamour'd <hi>Spring;</hi>
+                        </l>
+                        <l>For whom the warbling <hi>Fountaynes</hi> sing:</l>
+                        <l>The story of the flowers; preserued by the <hi>Howers;</hi>
+                        </l>
+                        <l>At <hi>Iuno's</hi> soft command, and <hi>Iris</hi> showers;</l>
+                        <l>Sent to quench iealousie, and all those powers</l>
+                        <l>Of <hi>Loues</hi> rebellious warre:</l>
+                        <l>Whil'st <hi>Chloris</hi> sits a shining starre</l>
+                        <l>To crowne, and grace our iolly song, made long,</l>
+                        <l>To the notes, that we bring, to glad the <hi>Spring.</hi>
+                        </l>
+                     </sp>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Which ended, the Goddesse, and her <hi>Nymphs</hi> de|scend the degrees, into the roome, and dance the entry of the grand-masque.</p>
+            <stage>After this, another Song by the same persons, as before.</stage>
+            <floatingText>
+               <body>
+                  <div type="song">
+                     <head>Song. 4,</head>
+                     <sp>
+                        <speaker>RIVERS, FOVNTAYNES.</speaker>
+                        <l>Tell a truth, gay <hi>Spring,</hi> let vs know</l>
+                        <l>What feete they were, that so</l>
+                        <l>Impres't the Earth, and made such various flowers to grow!</l>
+                     </sp>
+                     <sp>
+                        <pb facs="9"/>
+                        <speaker>SPRING.</speaker>
+                        <l>She that led, a Queene was at least,</l>
+                        <l>Or a Goddesse, 'boue the rest:</l>
+                        <l>And all their graces, in her selfe expres't!</l>
+                     </sp>
+                     <sp>
+                        <speaker>RIVERS, FOVNTAYNES.</speaker>
+                        <l>O'it were a fame, to know her name!</l>
+                        <l>Whether she were the roote;</l>
+                        <l>Or they did take th'impression, from her foote.</l>
+                     </sp>
+                  </div>
+               </body>
+            </floatingText>
+            <stage>The Masquers here dance their second dance.</stage>
+            <p>Which done,</p>
+            <p>The farther <hi>Prospect</hi> of the <hi>Scene</hi> changeth into ayre, with a low <hi>Land-shape,</hi> in part couered with clouds: And in that instant, the Heauen opening, <hi>Iuno,</hi> and <hi>Iris</hi> are seene, and aboue them many <hi>aery spirits,</hi> sitting in the cloudes.</p>
+            <floatingText>
+               <body>
+                  <div type="song">
+                     <head>Song. 5.</head>
+                     <sp>
+                        <speaker>IVNO.</speaker>
+                        <l>Now <hi>Iuno,</hi> and the Ayre shall know</l>
+                        <l>The truth of what is done below,</l>
+                        <l>From our discolourd bow. <hi>Iris,</hi> what newes?</l>
+                     </sp>
+                     <sp>
+                        <speaker>IRIS.</speaker>
+                        <l>The ayre is cleare, your bow can tell,</l>
+                        <l>
+                           <pb facs="9"/>
+                           <hi>Chloris</hi> renown'd, Spight fled to Hell;</l>
+                        <l>The busines all is well. And <hi>Cupid</hi> sues-</l>
+                     </sp>
+                     <sp>
+                        <speaker>IVNO.</speaker>
+                        <l>For pardon. Do's hee?</l>
+                     </sp>
+                     <sp>
+                        <speaker>IRIS.</speaker>
+                        <l>Hee sheds teares</l>
+                        <l>More then your Birds haue eyes.</l>
+                     </sp>
+                     <sp>
+                        <speaker>IVNO</speaker>
+                        <l>The Gods haue eares.</l>
+                        <l>Offences, made agaynst the Deities,</l>
+                        <l>Are soone forgot-</l>
+                     </sp>
+                     <sp>
+                        <speaker>IRIS.</speaker>
+                        <l>If who offends, be wife.</l>
+                     </sp>
+                     <p>Here, out of the Earth, ariseth a Hill, and on the top of it, a globe, on which <hi>Fame</hi> is seene standing with her trumpet, in her hand; and on the Hill, are seated foure Persons, presenting, <hi>Poesie, History, Architecture,</hi> and <hi>Sculpture:</hi> who together with the <hi>Nymphs, Floods,</hi> and <hi>Fountaynes,</hi> make a full <hi>Quire,</hi> at which, <hi>Fame</hi> begins to mount, and moo|uing her wings, flyeth, singing vp to Heauen:</p>
+                     <sp>
+                        <speaker>FAME.</speaker>
+                        <l>Rise golden <hi>Fame,</hi> and giue thy name a birth</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORVS.</speaker>
+                        <l>From great and generous actions, done on Earth.</l>
+                     </sp>
+                     <sp>
+                        <pb facs="10"/>
+                        <speaker>FAME.</speaker>
+                        <l>The life of <hi>Fame</hi> is action.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORVS.</speaker>
+                        <l>Vnderstood</l>
+                        <l>That action must be vertuous, great, and good!</l>
+                     </sp>
+                     <sp>
+                        <speaker>FAME.</speaker>
+                        <l>Vertue it selfe by <hi>Fame</hi> is of't protected,</l>
+                        <l>And dies despised—</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORVS.</speaker>
+                        <l>Where the <hi>Fames</hi> neglected</l>
+                     </sp>
+                     <sp>
+                        <speaker>FAME.</speaker>
+                        <l>Who hath not heard of <hi>Chloris,</hi> and her bowre</l>
+                        <l>Fayre <hi>Iris</hi> act, employ'd by <hi>Iuno's</hi> power</l>
+                        <l>To guard the <hi>Spring,</hi> and prosper euery flower,</l>
+                        <l>Whom Iealousie and Hell thought to deuoure?</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORVS.</speaker>
+                        <l>Great actions of't obscurd by time, may lye,</l>
+                        <l>Or enuy—</l>
+                     </sp>
+                     <sp>
+                        <speaker>FAME</speaker>
+                        <l>But they last to memory.</l>
+                     </sp>
+                     <sp>
+                        <speaker>POESY.</speaker>
+                        <l>Wee that sustaine thee, Learned <hi>Poesy</hi>
+                        </l>
+                     </sp>
+                     <sp>
+                        <speaker>HISTORY.</speaker>
+                        <l>And I, her sister, seuere <hi>History.</hi>
+                        </l>
+                     </sp>
+                     <sp>
+                        <pb facs="10"/>
+                        <speaker>ARCHITECTVRE.</speaker>
+                        <l>With <hi>Architecture,</hi> who will rayse thee high,</l>
+                     </sp>
+                     <sp>
+                        <speaker>SCVLPTVRE.</speaker>
+                        <l>And <hi>Sculpture,</hi> that can keepe thee from to dye.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORVS.</speaker>
+                        <l>All helpe lift thee to eternity.</l>
+                     </sp>
+                     <sp>
+                        <speaker>JVNO.</speaker>
+                        <l>And <hi>Iuno,</hi> through the ayre, doth make thy way,</l>
+                     </sp>
+                     <sp>
+                        <speaker>IRIS.</speaker>
+                        <l>By her serenest Messenger of Day.</l>
+                     </sp>
+                     <sp>
+                        <speaker>FAME.</speaker>
+                        <l>Thus <hi>Fame</hi> ascend's, by all degrees, to Heauen:</l>
+                        <l>And leaues a light, here, brighter, then the seuen.</l>
+                     </sp>
+                     <sp>
+                        <speaker>CHORVS.</speaker>
+                        <l>Let all applaud the sight.</l>
+                        <l>Ayre first, that gaue the bright</l>
+                        <l>Reflections, Day or Night!</l>
+                        <l>With these supports of <hi>Fame,</hi>
+                        </l>
+                        <l>That keepe aliue her name!</l>
+                        <l>The beauties of the <hi>Spring.</hi>
+                        </l>
+                        <l>
+                           <hi>Fount's, Riuers,</hi> euery thing:</l>
+                        <l>From the height of all,</l>
+                        <l>To the Waters fall-</l>
+                        <l>Resound, and sing</l>
+                        <l>The honour's of his <hi>Chloris,</hi> to the King.</l>
+                        <l>
+                           <pb facs="11"/>
+                           <hi>Chloris,</hi> the Queene of Flowers;</l>
+                        <l>The sweetnesse of all Showres;</l>
+                        <l>The ornament of Bowres;</l>
+                        <l>The top of Par-amours!</l>
+                     </sp>
+                  </div>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Fame,</hi> being hidden in the clouds, the hill sinkes: and the Heauen closeth.</p>
+            <stage>The Masquers dance with the Lords.</stage>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_names">
+            <pb facs="11"/>
+            <head>The Names of the Masquers as they sate in the Bowre.</head>
+            <list>
+               <head>The Queene.</head>
+               <item>Countesse of <hi>Carlile.</hi>
+               </item>
+               <item>Countesse of <hi>Oxford.</hi>
+               </item>
+               <item>Lady <hi>Strange.</hi>
+               </item>
+               <item>Countesse of <hi>Borkeshire.</hi>
+               </item>
+               <item>Lady Anne <hi>Cauendish.</hi>
+               </item>
+               <item>Countesse of <hi>Carnaruan.</hi>
+               </item>
+               <item>Countesse of <hi>Newport.</hi>
+               </item>
+               <item>
+                  <hi>Lady</hi> Penelope Egertn.</item>
+               <item>
+                  <hi>M.</hi> Porter.</item>
+               <item>
+                  <hi>M.</hi> Dor. Sauage.</item>
+               <item>
+                  <hi>La.</hi> Howard.</item>
+               <item>
+                  <hi>M.</hi> Eliz. Sauage.</item>
+               <item>M. Anne <hi>Wepon.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Sophia Cory.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+	 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+            <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+         </titleStmt>
+         <extent>356 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 March (TCP phase 1)</date>
+            <idno type="marc">11861873</idno>
+            <idno type="stc">Wing N868.</idno>
+            <idno type="vid">50022</idno>
+            <idno type="DLPS">A53060</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+                  <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+                  <author>Newcastle, William Cavendish, 1592-1676.</author>
+               </titleStmt>
+               <extent>[24], 679 [i.e. 675], [4] p. : ill.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by A. Warren, for John Martyn, James Allestry, and Tho. Dicas ...,</publisher>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>First edition.</p>
+                  </note>
+                  <note>
+                     <p>Errata: p. [4] at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text><body><div type="play">
+            <pb n="40" facs="33"/>
+            <head>THE SECOND PART OF LOVES ADVENTURES.</head>
+            <div type="dramatis_personae">
+               <list>
+                  <item>
+                     <hi>THe Lord Singularity.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir Serious Dumb.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir Timothy Compliment.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir Humphry Bold.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir Roger Exception.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir Peaceable Studious.</hi>
+                  </item>
+                  <item>
+                     <hi>Foster Trusty.</hi>
+                  </item>
+                  <item>
+                     <hi>Collonels, Captains, Lieutenants and Corporals.</hi>
+                  </item>
+                  <item>
+                     <hi>Petitioners.</hi>
+                  </item>
+                  <item>
+                     <hi>Officers, Messengers.</hi>
+                  </item>
+                  <item>
+                     <hi>Iudges. Iuries.</hi>
+                  </item>
+                  <item>
+                     <hi>Servants.</hi>
+                  </item>
+                  <item>
+                     <hi>The Lady Orphant.</hi>
+                  </item>
+                  <item>
+                     <hi>Lady Bashfull.</hi>
+                  </item>
+                  <item>
+                     <hi>Lady Ignorance.</hi>
+                  </item>
+                  <item>
+                     <hi>Lady Wagtail.</hi>
+                  </item>
+                  <item>
+                     <hi>Lady Amorous.</hi>
+                  </item>
+                  <item>
+                     <hi>Nurse Fondly.</hi>
+                  </item>
+                  <item>
+                     <hi>Mistriss Reformer. Lady Bashfulls woman.</hi>
+                  </item>
+                  <item>
+                     <hi>Chamber-maids.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="epilogue">
+               <head>EPILOGUE.</head>
+               <l>NOble Spectators, you have spent this day;</l>
+               <l>Not only for to see, but judge our Play:</l>
+               <l>Our <hi>Authoress</hi> sayes, she thinks her Play is good,</l>
+               <l>If that her Play be rightly understood;</l>
+               <l>If not, 'tis none of her fault, for she writ</l>
+               <l>The <hi>Acts,</hi> the <hi>Scenes,</hi> the <hi>Language</hi> and the <hi>Wit</hi>;</l>
+               <l>Wherefore she sayes, that she is not your Debtor,</l>
+               <l>But you are hers, until you write a better;</l>
+               <l>Of even terms to be she understands</l>
+               <l>Impossible, except you clap your hands.</l>
+            </div>
+            <div n="1" type="act">
+               <pb n="41" facs="33"/>
+               <head>THE SECOND PART</head>
+               <head type="sub">ACT I.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Bashfulls <hi>Chamber-maid, and Mrs.</hi> Reformer <hi>her woman.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>REformer.</speaker>
+                     <p>This dumb Lower is the most diligent'st servant that ever was, and methinks my Lady is somewhat more confi|dent than she was; for she will sit and read whilst he sits by.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>Doth she read to him?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>No, she reads to herself.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>There comes abundance of Gallants to visit my Lady every day, and they have all one answer, that is, she is not willing to receive visits, and they all go civilly away, unless Sir <hi>Humphry Bold</hi> and he rails horri|bly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>I have received from several Gentlemen, above 20. Letters a day, and as fast as they come, she makes me burn them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>But she reads them first.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>No, I read them to her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>And doth she answer all those Letters?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>She never answered one in her life, and I dare swear, she never will.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Lady</hi> Bashfull <hi>calls, as within another Room.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>Madam!—</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene 2.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> Singularity, <hi>and</hi> Affectionata.</stage>
+                  <sp>
+                     <speaker>Lord Singularity,</speaker>
+                     <p>
+                        <hi>Affectionata.</hi> Hast thou forgiven me my fault of doubting of thy vertue, so much as to put it to a Tryal.</p>
+                  </sp>
+                  <sp>
+                     <pb n="42" facs="34"/>
+                     <speaker>Affectionata.</speaker>
+                     <p>My Noble Lord, have you forgiven my facility and wavering, faith that could so easily, and in so short a time believe you could be wicked, although you did accuse your self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Nay <hi>Affectionata,</hi> I did not accuse my self, though I did try thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Then I have committed a treble fault through my mistake, which requires a treble forgiveness.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Thou art so vertuous, thou canst not commit a fault, and therefore needs no forgiveness.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scene 3.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> VVagtail, <hi>and Sir</hi> Humphry Bold.</stage>
+                  <sp>
+                     <speaker>SIr Humpry Bold.</speaker>
+                     <p>Madam, You have been pleased to profess a friendship to me, and I shall desire you will do a friendly part for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Any thing that lyes in my power, good Sir <hi>Humphry Bold.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Humphry Bold.</hi>
+                     </speaker>
+                     <p>Then pray, Madam, speak to the Lady <hi>Bashfull</hi> in my behalf, that I may be her Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>I will Sir <hi>Humphry,</hi> but she is bashfull, yet I was there Ye|sterday, and she entertained me indifferently well, but seemed to be wonderfull coy; but howsoever I will do my poor indeavour, Sir <hi>Humphry.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Humphry Bold.</hi>
+                     </speaker>
+                     <p>Pray do, Madam.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>Scene. 4.</head>
+                  <stage>
+                     <hi>Enter</hi> Affectionata, <hi>walking in a melancholly posture; his Hat pulled over his brows, and his arms inter-folded; To himentens the Lord</hi> Singularity.</stage>
+                  <sp>
+                     <speaker>LOrd <hi>Singularity</hi>
+                     </speaker>
+                     <p>My <hi>Affectionata,</hi> Why walks thou so melancholly?</p>
+                  </sp>
+                  <stage>He pulls of his Hat to his Lord, and Bows.</stage>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>The cause is not that I lye under an aspersion, by reason I lye not under a crime; But truly, my Lord, I am troubled that I am threatened to be tormented, for <hi>I</hi> would not willingly indure pain, though <hi>I</hi> could wil|lingly receive death; but as for the aspersions, <hi>I</hi> am no wayes concerned; for <hi>I</hi> make no question, but my honest life, my just actions, and the truth of my words, will so clear me at the last, as <hi>I</hi> shall appear as innocent to the World, as Angels doth in Heaven.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Comfort your self, for <hi>I</hi> will rather suffer death, than you shall suffer pain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Heaven defend you, my Lord, whatsoever <hi>I</hi> suffer,
+<stage>Ex.</stage>
+                     </p>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <pb n="43" facs="34"/>
+                  <head>Scene 5.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> VVagtail, <hi>and Mistriss</hi> Reformer.</stage>
+                  <sp>
+                     <speaker>LAdy Wagtail.</speaker>
+                     <p>Pray Mistriss <hi>Reformer,</hi> be Sir <hi>Humphry Bold</hi>'s friend to thy Lady, and <hi>I</hi> protest to thee, he shall be thy friend, as long as he and you live, and <hi>I</hi> do not see any reason your Lady should refuse him; for he is both as proper and stout a man, as any is living this day in the Land.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>Indeed Madam, <hi>I</hi> dare not mention it to my Lady, for she is so adverse against marriage, as she takes those for her enemies as doth but men|tion it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Then surely she is not a woman, for there is none of the ef|seminate Sex, but takes it for a disgrace to live an old maid, and rather than dye one, they will marry any man that will have them; and the very fear of not marrying, is so terrible to them, as whilst they are so young, as they are not fit to make wives, they will miserably cast away themselves to the first that makes a proffer, although they be poor, base or mean, rather than venture to try out their fortunes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>But my Lady is not of that humour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Come, come, <hi>I</hi> know thou canst perswade thy Lady if thou wouldst, and if you will, Sir <hi>Humphry Bold</hi> will give thee 500 <hi>l.</hi> to buy thee a Husband, for thou hast lived too long a maid <hi>I</hi> faith.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>
+                        <hi>I</hi> am not a maid, Madam, <hi>I</hi> am a widow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>What, a musty widow!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>
+                        <hi>I</hi> know not whether <hi>I</hi> am musty, but <hi>I</hi> am a widow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Let mee tell thee, that it is as great a disgrace to live a wi|dow, as an old maid; wherefore take thee 500 <hi>l.</hi> to get thee a second Hus|band.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>Truly <hi>I</hi> would not sell my Lady for all the World, much less, for 500 <hi>l.</hi> neither would <hi>I</hi> marry again, if <hi>I</hi> were young, and might have my choyce.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Lord bless me, and send me out of this house, least it should infect me; for let me tell thee, were my Husband dead to morrow, <hi>I</hi> would marry the day after his Funeral, if <hi>I</hi> could get any man to marry me, and so <hi>I</hi> would serve 20. Husbands one after another.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>Your best way were to have 20. Husbands at one time, so that your Ladyship might not be a day without.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>O fie! If women might have twenty Husbands, they would have no room for courtly Servants; but prithy help Sir <hi>Humphry Bold,</hi> and take his offer, and let me speak with the Lady my self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>That your Ladyship cannot at this time, for my Lady is not well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Then pray remember my most humble service, and tell her, <hi>I</hi> will come to morrow, and if she be sick, <hi>I</hi> will talk her well.</p>
+                  </sp>
+                  <stage>Lady Wagtail Ex.</stage>
+                  <stage>Reformer alone.</stage>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>Dead you would talk her, for thou hast an endless tongue; Oh! what man is so miserable that is her Husband.</p>
+                  </sp>
+                  <stage>Reformer Exit.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <pb n="44" facs="35"/>
+                  <head>Scene 6.</head>
+                  <stage>Enter two or three Commanders.</stage>
+                  <sp>
+                     <speaker>1. <hi>COmmander.</hi>
+                     </speaker>
+                     <p>It is reported that our Generals Page hath behaved him|self so handsomly, spoke so wittily, defended his cause so prudently, declared his innocence so clearly, and carried his business so wisely, as the <hi>Ve|netian</hi> States have not only quitted him freely, but doth applaud him wonder|fully, extolls him highly, and offers him any satisfaction for the injurie and disgrace that hath been done him; but he only desires, that the man that had accused him, which man, was one of the Generals men, should be pardoned, and not punished.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>
+                        <hi>I</hi> hope our General is well pleased, that his beloved boy is not only cleared, but applauded.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>O! He doth nothing but imbrace him, and kiss him, as if he were his only son, yet he did gently chide him that he asked pardon for his accusers; for said he, if all false accusers should be pardoned, no honest man would escape free form censure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>But <hi>I</hi> hear the States have given order to our General to meet the <hi>Turkes</hi> again, for it is reported by intelligences that they have re|cruited into a numerous body.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Faith <hi>I</hi> think the <hi>Turkes</hi> are like the tale of the Gyant, that when his head was cut off there rise two in the place.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>
+                        <hi>I</hi> think they are like the vegetable that is named three|fold, the more it is cut the faster it growes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>
+                        <hi>I</hi> would the Devil had them for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>We do what we can to send them to Hell; but whether they will quit thee, <hi>I</hi> cannot tell.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="7" type="scene">
+                  <head>Scene. 7.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> General, <hi>and</hi> Affectionata.</stage>
+                  <sp>
+                     <speaker>LOrd Singularity.</speaker>
+                     <p>My <hi>Affectionata I</hi> wonder you could suffer an accusati|on so patiently knowing you were accused falsly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>The clearnesse of my innocency needed not the fury of a vio|lent passion to defend it, neither could passion have rectified an injury.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Tis true, yet passion is apt to rise in defence of innocen|cy, and honour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>And many times passion (my Lord) destroye; the life in striving to maintaine the truth, and defend the innocent; but <hi>I</hi> find a passio|nate sorrow that your Lordship must go to indanger your life in the warrs again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>The warrs is pastime to me, for <hi>I</hi> hate idlenesse, and no imployment pleases me better than fighting, so it be in a good cause, but you shall stay.</p>
+                  </sp>
+                  <sp>
+                     <pb n="45" facs="35"/>
+                     <speaker>Affectionata.</speaker>
+                     <p>Why my Lord, are you weary of my service?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>Know <hi>I</hi> am carefull of thy safety, thy rest and peace, for shouldst thou not come near danger, yet the very tragical aspect will terrefie thee to death, thou art of so tender a nature, so soft and sweet a dispo|sition.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Truly my Lord, if you leave me behind you, the very fear of your life will kill me, where if your Lordyship will let me go, love will give me courage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>Then let me tell you, you must not go, for <hi>I</hi> have adopted you my Son, and <hi>I</hi> have setled all my Estate upon thee, where, if <hi>I</hi> am killed, you shall be my Heir, for <hi>I</hi> had rather vertue should inherit my Estate than birth, yet <hi>I</hi> charge thee take my Name upon thee, as well as my Estate unto thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>My noble Lord, <hi>I</hi> should be prouder to bear your name, than to be Master of the whole World, but <hi>I</hi> shall never be so base to keep my self in safety, in hope of your Estate, wherefore must intreat your leave to go with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>I will not give you leave, but command you to the contrary, which is to stay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I cannot obey you in this, for love will force me to run after you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>I will have you lash'd, if you offer to go.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Stripes cannot stay me!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>I will have you tyed, and kept by force.</p>
+                  </sp>
+                  <sp>
+                     <speaker>fectionata.</speaker>
+                     <p>By Heaven, my Lord, i'l tear my flesh, and break my bones to get lose, and if <hi>I</hi> have not legs to run, i'l creep thorough the Earth like worms, for though <hi>I</hi> shall move but slowly, yet it will be a satisfaction to my soul, that <hi>I</hi> am travelling after you,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>
+                        <hi>Affectionata,</hi> You anger me very much.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Indeed my Lord, you grieve me more than <hi>I</hi> can anger you.</p>
+                  </sp>
+                  <stage>Affectionata weeps.</stage>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>What, do you crie! and yet desire to be a souldier?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>A valiant heart, my Lord, may have a weeping eye to keep it company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>If no perswasion can stay you, you must go along with me.</p>
+                  </sp>
+                  <stage>Affectionata <hi>bows, as giving his Lord thanks.</hi>
+                  </stage>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="8" type="scene">
+                  <pb n="46" facs="36"/>
+                  <head>Scene 8.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> VVagtail, <hi>the Lady</hi> Amorous, <hi>Sir</hi> Humphry Bold, <hi>Sir</hi> Timothy Compliment, <hi>to the Lady</hi> Bashfull, <hi>who hangs down her head, as out of countenance.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Wagtail.</speaker>
+                     <p>Faith Lady <hi>Bashfull,</hi> we will have you abroad to Balls and publick meetings, to learn you a confident behaviour, and a bold speech; Fie! You must not be bashfull.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Our visiting her sometimes, hath made her so, as she is not altogether so bashfull as she was.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Sir</hi> Serious Dumb, <hi>who bows first to the Lady</hi> Bashfull, <hi>then to the rest of the Company, and then goeth behind the Lady</hi> Bashfull, <hi>and stands close by Mistriss</hi> Reformer.</stage>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Surely Sir <hi>Serious Dumb</hi> is a domestick servant here, he stands and waits as one.</p>
+                  </sp>
+                  <stage>He bows with an acknowledging face.</stage>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>If she wil entertain such servants as he, she is not so modest as she appears. Lady, perchance if <hi>I</hi> had come privately alone, <hi>I</hi> had been entertained with more freedom, and not have had my suit denied, and my person neglected with scorn, and he received with respect.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Serious Dumb <hi>comes and gives him a box on the eare, they both draw their swords, all the women runs away squeeking, only the Lady</hi> Bashfull <hi>stayes, and runs betwixt their swords, and parts them; Sir</hi> Timothy Compliment <hi>looks on as affraid to stir.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>For Heaven sake! fight not here, to affright me with your quarrels.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>
+                        <hi>I</hi> will have his heart-bloud.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Good Sir <hi>Serious Dumb,</hi> and Sir <hi>Humphry Bold,</hi> leave off fighting.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Serious Dumb <hi>draws back.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Pray Sir <hi>Humphry Bold,</hi> give me your sword, that <hi>I</hi> may be sure you will not fight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>What, yield my sword up! <hi>I</hi> will dye first.</p>
+                  </sp>
+                  <stage>Enter the Ladies again.</stage>
+                  <p>
+                     <hi>All speak at one time,</hi> who is kill'd, who is kill'd.</p>
+                  <stage>
+                     <hi>Sir</hi> Humphry Bold <hi>presses towards Sir</hi> Serious Dumb.</stage>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Good Ladies, hold Sir <hi>Humphry Bold,</hi> and <hi>I</hi> will try to per|swade Sir <hi>Serious Dumb.</hi>
+                     </p>
+                  </sp>
+                  <stage>
+                     <pb n="47" facs="36"/>
+                     <hi>They hold Sir</hi> Humphry Bold.</stage>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>What, you shall not stir, I am sure you will not oppose us women.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Noble Sir, to give me an assurance you will not fight, give me your sword.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Serious Dumb <hi>kisses the bilt of his sword, then gives it her.</hi>
+                  </stage>
+                  <stage>
+                     <hi>Sir</hi> Humphry Bold <hi>gets lose from the Ladies, and goeth to assault Sir</hi> Serious Dumb; <hi>He being an armed, the Lady</hi> Bashfull <hi>seeing him, steps betwixt them, and with Sir</hi> Serious Dumb's <hi>sword, strikes at Sir</hi> Humphry Bold, <hi>and strikes his sword out of his hand.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>What, are you not ashamed to assault an unarmed man.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Humphry Bold <hi>runs to take up his sword, she also runs and sets her foot upon it.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Let the sword alone, for it is my prize; and by Heaven, if you touch it, I will run you thorough with this sword in my hand.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Humphry Bold <hi>runs, and catcheth Sir</hi> Timothy Compliments <hi>sword, and offers to make a thrust at Sir</hi> Serious Dumb, <hi>who puts the sword by, and beats it down with one hand, and with the other strikes it aside, then closes with him, and being skillfull at Wrestling, trips up his heels, then gets upon him,<note place="marg" anchored="true">The women in the mean time squeeks.</note> and having both his hands at liberty, wrings out Sir</hi> Humphry Bold's <hi>sword out of his hand, then ariseth and gives the sword to the right owner, who all the time trembled for fear, and never durst strive to part them.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>Hell take me, but I will be revenged: Lady, I hope you will give me my sword again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Never to fight against a woman, but my victorious spoils, I will deliver to this gallant Gentleman, who delivered up his life and honour into my hand, when he gave me his sword, and I indangered the loss of both by taking it, for which my gratitude hath nothing to return him but my self and fortunes, if he please to accept of that and me.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Serious Dumb <hi>bows with a respect, and kisses her hand.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Sir, I wish my person were more beautifull than it is, for your sake, and my fortune greater, with more certainty of continuance, as neither being subject to time or accident, but this certainly I will promise you, which is, my chaste and honest life; Now Sir, pray take these two swords,<note place="marg" anchored="true">
+                           <hi>Gives him the two swords.</hi>
+                        </note> this was yours, fear gave me confidence, this I won, love gave me courage.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Serious Dumb <hi>leads out his Mistriss.</hi>
+                  </stage>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>I will be revenged.</p>
+                  </sp>
+                  <stage>Omnes Exeunt.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <pb n="48" facs="37"/>
+               <head>ACT II.</head>
+               <div n="9" type="scene">
+                  <head>Scene 9.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> General, <hi>and</hi> Affectionata.</stage>
+                  <sp>
+                     <speaker>LOrd Singul.</speaker>
+                     <p>
+                        <hi>Affectionata,</hi> I hear thou hast bought Arms, I am sure thou canst not fight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata,</speaker>
+                     <p>I am sure I will do my indeavour, my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Why, the very weight of thy Arms will sink thee down.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>O no, my Lord; my desire shall beat them up.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>Alas, thou halt no strength to fight?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>What strength my active body wants, my vigorous spirits shall make good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>Prethee, my boy, do not adventure thy self, but stay in my Tent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>That would be a shame for me, and a dishonour to you, since you have adopted me your son, wherefore the World shall never say, you have bestowed your favour and your love upon a coward.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>I well perceive I have adopted a very willfull boy?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Indeed, my Lord, I have no will, but what doth follow you.</p>
+                  </sp>
+                  <stage>
+                     <hi>The General strokes</hi> Affectionata <hi>on the cheek.</hi>
+                  </stage>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="10" type="scene">
+                  <head>Scene. 10.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Serious Dumb, <hi>and his Mistriss the Lady</hi> Bashfull.</stage>
+                  <sp>
+                     <speaker>SIr Serious Dumb.</speaker>
+                     <p>The time I vowed to silence is expir'd, and though my thoughts not gloriously attired with Eloquence, for Rhetorick I have none, yet civil words, sit for to wait upon a modest Lady, and to entertain an honest mind with words of truth, though plain? For 'tis not Rhetorick makes a happy life, but sweet society, that's void of strife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Sir Rhetorick is rather for sound than sense, for words than reason.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Serious Dumb.</speaker>
+                     <p>Yet my sweet Mistriss, I wish my voice were tuned to your eare, and every word set as a pleasing note to make such musick as might delight your mind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Your words slow thorough my ears, as smooth, clear, pure water from the spring of <hi>Hellicon,</hi> which doth not only refresh, but inrich my dull insipid brain.</p>
+                  </sp>
+               </div>
+               <div n="11" type="scene">
+                  <pb n="49" facs="37"/>
+                  <head>Scene 11.</head>
+                  <stage>Enter a Captain and his Corporal.</stage>
+                  <sp>
+                     <speaker>COrporal.</speaker>
+                     <p>The Turks never received such a blow, as they have this time?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>A pox of them, they have made us sweat?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>Why Captain, sweating will cure the Pox, and though you curse the Turks, yet it is we that live in <hi>Italy,</hi> that is diseased with them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>The truth is, we lost more health in the <hi>Venetian</hi> service, than we gain wealth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>Nay faith Captain, we do not only lose our health, but wast our wealth, for what booties we get from the Turks, the Courtezans gets from us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>For that cause now I have gotten a good bootie, I will return into mine own Country, and buy a—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>A what Captain?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>An Office in civil Government.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>But you will never be civil in your Office.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>That needs not to be, for though all Magisterial Offices bears a civil Authority, yet the Officers and Magistrates therein, are more cruel and ravenons than common souldiers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>Verily Captain, I think common Souldiers are more mercifull and just than they.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>Verely Corporal, I think you will become a <hi>Puritan</hi> Preacher.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>Why should you think so, Captain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>First, because you have got the Pox, and that will make you Preach in their tone, which is, to speak thorough the nose; the next is, you have left the ranting Oaths that Souldier's use to swear, and use their phrases; as verily my beloved brethren, which brethrens souls, they care not for, nor thinks thereof, for though they speak to the brethren, they Preach to the si|sters, which edifies wonderfully by their Doctrine, and they gain and receive as wonderfull from their female Hocks, for those <hi>Puritan</hi> Preachers have more Tithes out of the Marriage-bed, than from the Parish-stock.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>If it be so beneficial, Captain, I had rather be a <hi>Puritan</hi> Preacher, than an Atheistical States-man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>Faith Corporal, I think there is not much Religion in either, but if there be, it lies in the States-man, for he keeps Peace, the other makes War.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>If they make wars; they are our friends, for we live by the spoils of our enemies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>'Tis true, when as we get a victory, or else our enemies lives on the spoil of us, for though we have no goods to lose, yet we venture our lives, neither do we live on the spoil of our enemies, but only in forreign wars, for in civil wars we live by the spoil of our Friends, and the ruining of our Country.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>Then we are only obliged to Preachers for civil wars.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>Faith <hi>Corporal,</hi> we are obliged to them for both; for as their fa|etious Doctrine causes a Rebellion by railing on the Governours and Govern|ments, so their flattering Sermons sets a Prince on fire, who burns in hot am|bition to conquer all the World.</p>
+                  </sp>
+                  <sp>
+                     <pb n="50" facs="38"/>
+                     <speaker>Corporal.</speaker>
+                     <p>These latter Preachers you mention, Captain, are not <hi>Puritan</hi> Preachers, but Royal Preachers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>You are right Corporal, for they are divided in two parts, although their Doctrine meets at one end, which is in war.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>Captain, you have discovered so fully of Preachers, that if you will give me leave, I will preach to our Company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>Out you rogue, will you raise a war amongst our selves, causing a mutinie to cut one anothers throats?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>Why Captain, it is the fashion and practice for Souldiers to Preach now adayes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>That is amongst the Rebel party to keep up their faction, and to strengthen the flank thereof, but amongst the Royal party, the Preaching Mi|nisters turn fighting Souldiers, incouraging with their good example, as by their valliant onsets, and not the Souldiers Preaching Ministers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Corporal.</speaker>
+                     <p>Why Captain, the Royal party needs no incouragement, the ju|stice of their cause is sufficient.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>You say right, they want not courage to fight, but they want con|science to plunder; Besides, the Royal party is apt to give quarter, which should not be, for Souldiers should destroy all they take in Civil-wars, by reason there is no gain to be made of their Prisoners, as by the way of Ran|soms, but if we stay from our Company, our General will preach such a Ser|mon, as may put us into despair of his favour, and indanger our lives at the Council of war.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="12" type="scene">
+                  <head>Scene 12.</head>
+                  <stage>Enter three or four Commanders.</stage>
+                  <sp>
+                     <speaker>1. <hi>COmmander.</hi>
+                     </speaker>
+                     <p>I think our Generals new made son is a spirit; for when the General was surrounded with the Turks, this adopted Son of his flew about like lightening, and made such a massacre of the Turks, as they lay as thick upon the ground, as if they had been mushromes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Certainly the General had been taken Prisoner, if his Son had not rescued him, for the General had adventured too far into the enemies body.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>'Tis strange, and doth amaze me with wonder, to think how such a Willow-twig could bore so many mortal holes in such strong timber'd bodies as the Turks.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>By him one would believe miracles were not ceast.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Well, for my part I will ask pardon of my General for condemning him privately in my thoughts, for I did think him the most fond, (I will not say what) for adopting a poor Beggar-boy for his son, and setled all his Estate, which is, a very great one upon him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>The truth is, he is a very gallant youth, and if he lives and continues in the wars, he will prove a most excellent Souldier.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Certainly he sprung from a Noble Stock, either by his Fa|thers side, or by his Mothers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>By his behaviour he seems Nobly born from both.</p>
+                  </sp>
+                  <sp>
+                     <pb n="51" facs="38"/>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>And by his poverty, Nobly born from neither.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Mean persons may have wealth, and Noble births be Beggars.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="13" type="scene">
+                  <head>Scene 13.</head>
+                  <stage>
+                     <hi>Enter</hi> Affectionata <hi>in brave cloths, Hat and Feather, and a Sword by his side, and a great many Commanders following and attending him, with their Hats off, the whilst he holds off his Hat to them.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>AFfectionata.</speaker>
+                     <p>Gentlemen, I beseech you, use not this ceremonie to me, it belongs only to my Lord General.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Commanders.</speaker>
+                     <p>Your merits and gallant actions deserves it from us; Besides, it is your due, as being the Generals adopted Son.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>My Lords favour may place a value on me, though I am poor in worth, and no wayes deserves this respect.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Faith Sir, had it not been for you, we had lost the bat|tel.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Alas, my weak arm could never make a conquest, although my will was good, and my desire strong to do a service.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Sir, the service was great, when you rescued our General, for when a General is taken or kill'd, the Armies are put to rout, for then the common Souldiers runs away, never stayes to fight it out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I beseech you Gentlemen, take not the honour from my Lord to give it me, for he was his own defence, and ruine to his enemies; for his valiant spirits shot thorouh his eyes, and struck them dead, thus his own cou|rage was his own safety, and the <hi>Venetians</hi> victory.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter a Messenger from the</hi> Venetian-<hi>States to</hi> Affectionata, <hi>he bows to him.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Messenger.</speaker>
+                     <p>Noble Sir, the <hi>Venetian</hi>-States hath made you Lieutenant Ge|neral of the whole Armie, and one of the Council of War, where they de|sire your presence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>The honours they have given me, is beyond my manage|ment.</p>
+                  </sp>
+                  <stage>Messenger Exit.</stage>
+                  <stage>
+                     <hi>As</hi> Affectionata <hi>was going forth, enters some poor Souldiers Wives with Petitions, offers to present them to</hi> Affectionata.</stage>
+                  <sp>
+                     <speaker>1, <hi>Wife.</hi>
+                     </speaker>
+                     <p>Good your Honour, speak in the behalf of my Petition.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wife.</hi>
+                     </speaker>
+                     <p>And mine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Wife.</hi>
+                     </speaker>
+                     <p>And mine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Good women, I cannot do you service, for if your Petitions are just, my Lord the General will grant your request, and if they be unjust, he will not be unjust in granting them for my intrearie, nor will I intreat there|fore.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wives.</speaker>
+                     <p>If it please your Honour, we implore Mercy, not Justice.</p>
+                  </sp>
+                  <sp>
+                     <pb n="52" facs="39"/>
+                     <speaker>Affectionata.</speaker>
+                     <p>Where Justice and Wisdom will give leave for Mercy, I am sure my Lord will grant it, otherwise, what you call mercy, will prove cruelty, and cause ruine and destruction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wives.</speaker>
+                     <p>We beseech your Honour then, but to deliver our Petitious.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>For what are they?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wives.</speaker>
+                     <p>For the lives of our Husbands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Are they to be executed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wives.</speaker>
+                     <p>They are condemned, and to be hanged to morrow, unless the Ge|neral gives them pardons.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>What are their crimes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Wife.</hi>
+                     </speaker>
+                     <p>My Husband is to be hanged for plundering a few old rotten Houshold-goods.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Give me your Petition, necessity might inforce him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wife.</hi>
+                     </speaker>
+                     <p>My Husband is to be hanged for disobeying his Captain when he was drunk.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>When which was drunk? your Husband or his Captain?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wife.</speaker>
+                     <p>My Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Disobedience ought to be severely punished, yet because his reason was drowned in his drink, and his understanding smothered with the vapour thereof, whereby he knew not what he did, I will deliver your Pe|tition.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>And what is yours?</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Wife.</hi>
+                     </speaker>
+                     <p>My Husband is to be hanged for ravishing a Virgin.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I will never deliver a Petition for those that are Violaters of Virginity, I will sooner act the Hang-mans part my self to strangle him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>And what is your Husbands crime?</p>
+                  </sp>
+                  <sp>
+                     <speaker>4. <hi>Wife.</hi>
+                     </speaker>
+                     <p>My Husband is to be hanged for murther.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>O horrid! They that murther, ought to have no mercy given to them, since they could give no mercy to others.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wives.</speaker>
+                     <p>Good your Honour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Nay, never press me, for I will never deliver your Petition.</p>
+                  </sp>
+                  <stage>Wives Exeunt.</stage>
+                  <stage>
+                     <hi>Enter Commanders that were to be Cashiered</hi> (<hi>to Petition</hi> Affectionata.)</stage>
+                  <sp>
+                     <speaker>1. <hi>Captain.</hi>
+                     </speaker>
+                     <p>Noble Sir, I come to intreat you to be my friend, to speak to the General in my behalf, that I may remain in my place, for I am to be ca|shierd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>For what?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Captain.</hi>
+                     </speaker>
+                     <p>For a small fault, Sir, for when the battel was begun, I had such a cholick took me in the stomach, as I was forced to go aside, and untruss a point.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>It had been more for your honour, Captain, to had let nature discharge it self in your breeches. And what, are you cashiered Captain?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Captain.</hi>
+                     </speaker>
+                     <p>Marry, for my good service, for when the battel begun, my Souldiers run away, and I run after to call them back, they run, and I rid so long, as we were gotten ten miles from the Armie, but I could not get them, untill such time as the battel was won.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>It had been more honour for you to have fought single alone without your Souldiers, than to have followed your Souldiers, although to make them stay, and you would have done more service with your standing still than your running; and what, are you to be cashiered?</p>
+                  </sp>
+                  <sp>
+                     <pb n="53" facs="39"/>
+                     <speaker>3. <hi>Captain.</hi>
+                     </speaker>
+                     <p>Why Sir, my company wanted Powder, and I went to fetch or give order; for some to be brought, and before I returned to my Compa|ny, the battel was won.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>It had been more for your honour and good service, to have stayed and incouraged your Souldiers by your example with sighting with your sword, for the sword makes a greater execution than the shot; but since they were not wilfull, nor malicious faults, I shall do you what service I can, for fear sometimes may seize the valiantest man. And what were your faults Colonel?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Colonel.</hi>
+                     </speaker>
+                     <p>Mine was for betraying a Fort.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>O base! He that betrays a Fort, ventures to betray a Kingdom, which is millions of degrees worse than to betray a life, or a particular friend; for those that betrays a Kingdom, betrays numbers of lifes, and those that be|trays their native Country, betrays that which gave them nourishing strength, and you have had great mercy in giving you your life, although you lose your place. And what was your fault?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Commander.</speaker>
+                     <p>Mine was for neglecting the Watch.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>That is as bad as to give leave for the enemie to surprize, only the one betrays through carelesness, the other through covetousness. And what was your fault <hi>Colonel</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Colonel.</speaker>
+                     <p>Mine was for disobeying the Generals Orders.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Let me tell you <hi>Colonel,</hi> he that will not obey, is not fit to command; and those that commits careless, stubborn, malicious and wicked crimes; I will never deliver their Petition, nor speak in their behalf.</p>
+                  </sp>
+                  <stage>Commanders Exeunt.</stage>
+                  <stage>Enter a poor Souldier.</stage>
+                  <sp>
+                     <speaker>Souldier.</speaker>
+                     <p>Good your Honour save me from punishment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>What are you to be punished for?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Souldier.</speaker>
+                     <p>I am to be punished, because I said my Captain was a coward.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>What reason had you to say so?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Souldier.</speaker>
+                     <p>The reason was, because he sung and whistled when he went to fight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>That might be to shew his courage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Souldier.</speaker>
+                     <p>O no, it was to hide his fear.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>But you ought not to have called your Captain coward, had he been so; for the faults of Superiours are to be winked at, and obscured; and not to be divulged: Besides, yours was but a supposition, unless he ran away.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Souldier.</speaker>
+                     <p>No Sir, he fought.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Then you were too blame for judging so.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Souldier.</speaker>
+                     <p>I confess it, Sir, wherefore pray speak for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Indeed I cannot, for to call a man coward, is to kill, at least to wound his reputation, which is far worse, that if you had kill'd the life of his body; by how much honour is to be preferred before life; but if you can make your peace with your Captain by asking his pardon; I will then speak to the General, that the sentence for your punishment may be taken off, wherefore let me advise you to go to your Captain, and in the most humblest and sorrowfulst manner ask forgiveness of him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Souldier.</speaker>
+                     <p>I shall, and it please your Honour.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="14" type="scene">
+                  <pb n="54" facs="40"/>
+                  <head>Scene 14.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Peaceable Studious <hi>solus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Sir Peaceable Studious.</speaker>
+                     <l>HOw happy is a private life to me;</l>
+                     <l>Wherein my thoughts ran easily and free;</l>
+                     <l>And not disturb'd with vanities and ioyes,</l>
+                     <l>On which the senses gazes, as young boys</l>
+                     <l>On watery bubbles in the aire blown,</l>
+                     <l>Which when they break, doth vanish and are gone.</l>
+                  </sp>
+                  <stage>Enter the Lady Ignorance.</stage>
+                  <sp>
+                     <speaker>Lady Ignorance.</speaker>
+                     <p>I doubt I disturb your Poetry?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir P. Studious.</speaker>
+                     <p>No wife, you rather give life and fire to my muse, being chaste, fair and vertuous, which are the chief theams for Poets fancies to work on.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Ignorance.</speaker>
+                     <p>But that wife that is despised by her Husband, and not lo|ved, is dejected in her own thoughts, and her mind is so disquietted, as it masks her beauty, and vails, and obscures her vertues.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir P. Studious.</speaker>
+                     <p>The truth is, wife, that if my affections to you, had not been firmly setled; your indiscretion and effeminate follies had ruined it, but my love is so true, as you have no cause to be jealouse; but I confess you made me sad, to think that your humour could not sympathize with mine, as to walk in the same course of life as I did, but you were ignorant and would not believe me, untill you had found experience by practice, by which pra|ctice you have found my words to be true, do you not?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Ignorance.</speaker>
+                     <p>Yes, so true, as I shall never doubt them more; But pray Husband, tell me what discourse you had with the Ladies, when you went abroad with them?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir P. Studious.</speaker>
+                     <p>Why, they railed against good Husbands, called them Uxorious Fools, Clowns, Blocks, Stocks, and that they were only fit to be made Cuckolds through their confident fondness, and that kind Husbands ap|peared like simple Asses; I answered, that those Husbands that were Cuc|kolds, appeared not only like silly <hi>Asses,</hi> but base Cowards, that would suffer their wives to be courted, and themselves dishonoured when they ought to destroy their wives Gallants, if visibly known, and to part from their wives, at least to mancor them, and not only for being falfe, but for the suspition caused by their indiscretions; otherwise said I, a kind Husband shews himself a Gal|lant, Noble, Generous, Just, Wise man, and contrary, he is a base man, that will strive to disgrace himself, by disgracing his wife with neglects and disre|spects; and a coward, to tyranize only over the weak, tender, and helpless Sex; for women being tender, shiftless, and timorous creatures by nature, is the cause they joyn themselves by chaste Wedlock to us men for their safety, protection, honour and livelyhood, and when a man takes a woman to his wife, he is an unworthy and treacherous person, if he betrays her to scorns, or yields her to scoffs, or leaves her to poverty; and he is a base man that makes
+<pb n="55" facs="40"/>
+his wife sigh and weep with unkindness either by words or actions, where|fore said I, it is wisdom for men to respect their wives with a civil behaviour, and sober regard, and it is heroick to defend, protect and guard their lives and vertues, to be constant to their vows, promises and protestations, and it is ge|nerous to cherish their health, to attend them in their sickness, to comply with their harmless humours, to entertain their discourses, to accompany their persons, to yield to their lawfull desires, and to commend their good graces, and that man which is a Husband, and doth not do thus, is worthy to be shamed, and not to be kept company with, which is not called an Uxorious Husband; for said I, an Uxorious Husband I understand to be, a honest, care|full and wise Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Ignorance.</speaker>
+                     <p>And what said they, after you said this?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir P. Studious.</speaker>
+                     <p>They laugh'd and said, my flowery Rhetorick was strewed upon a dirty ground; I answered, it was not dirty where I lived, for my wife was beautifull, chaste and cleanly, and I wished every man the like, and after they perceived that neither the railing, nor laughing at good Husbands could not temper me for their palats, they began to play and sport with one another, and sung wanton songs, and when all their baits failed, they quarreled with me, and said I was uncivil, and that I did not entertain them well, and that I was not good Company, having not aconversable wit, nor a gentle beha|viour, and that I was not a gallant Cavalier, and a world of those reproches and idle discourses, as it would tire me to repeat it, and you to hear it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Ignorance.</speaker>
+                     <p>Pray resolve me one question more, what was it you said to the Lady <hi>Amorous,</hi> when she threatned to tell me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir P. Studious.</speaker>
+                     <p>I only said nature was unkind to our Sex, in making the beautifull females cruel.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Ignorance.</speaker>
+                     <p>Was that all, I thought you had pleaded as a courtly Su|tor for loves favours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir P. Studious.</speaker>
+                     <p>No indeed, but let me tell you, and so inform you, wife, that those humour'd women, take as great a pleasure to make wives jealouse of their Husbands, and Husbands jealouse of their wives, and to seperate their affections, and to make a disorder in their Families, as to plot and de|sign to intice men to court them, &amp; Cuckold their Husband, also let me tell you, that much company, and continual resort, brings great inconveniences for its apt to corrupt the mind, and make the thoughts wild, the behaviour bold, the words vain, the discourse either flattering, rude or tedious, their actions extra|vagant, their persons cheap, being commonly occompanyed, or their compa|ny common. Besides, much variety of Company, creates amorous luxu|rie, vanity, prodigality, jealousie, envie, malice, slander, envie, treachery, quar|tels, revenge and many other evils, as laying plots to insnare the Honourable, to accuse the Innocent, to deceive the Honest, to corrupt the Chaste, to deboyst the Temperate, to pick the purse of the Rich, to inslave the poor, to pull down lawfull Authority, and to break just Laws; but when a man lives to himself within his own Familie, and without recourse, after a solitary manner, he lives free, without controul, not troubled with company, but entertains himself with himself, which makes the soul wise, the mind sober, the thoughts indu|strious, the understanding learned, the heart honest, the senses quiet, the appe|tites temperate, the body healthfull, the actions just and prudent, the behavi|our civil and sober; He governs orderly, eats peaceably, sleeps quietly, lives contentedly, and most commonly, plentifully and pleasantly, ruling and go|verning
+<pb n="56" facs="41"/>
+his little Family to his own humour, wherein he commands with love, and is obeyed with duty, and who that is wise, and is not mad; would quit this heavenly life to live in hellish Societies, and what can an honest Husband and wife desire more, than love, peace and plenty, and when they have this, and is not content, 'tis a sign they stand upon a Quagmire, or rotten Founda|tion, that will never hold or indure, that is, they are neither grounded on ho|nesty, nor supported with honour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Ignorance.</speaker>
+                     <p>Well Husband, I will not interupt your studies any lon|ger, but as you study Phylosophie, Wisdom and Invention, so I will study obe|dience, discretion and Houswifery.</p>
+                  </sp>
+                  <stage>Omnes Exeunt.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>ACT III.</head>
+               <div n="15" type="scene">
+                  <head>Scene 15.</head>
+                  <stage>
+                     <hi>Enter the</hi> General, <hi>and</hi> Affectionata.</stage>
+                  <sp>
+                     <speaker>LOrd Singularity.</speaker>
+                     <p>
+                        <hi>Affectionata,</hi> Were you never bred to the Discipline of War?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Never, my Lord, but what I have been since I came to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Why, thou didst speak at the Council of War, as if thou hadst been an old experienced souldier, having had the practice of fourty years, which did so astonish the grave Senators and old Souldiers, that they grew dumb, and for a while did only gaze on thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Indeed, my Lord, my young years, and your grave Counsel did not suit together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>But let me tell thee, my boy, thy rational and wise spee|ches, and that grave counsels was not mis-match'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Pray Heaven I may prove so, as your favours, and your love may not be thought misplaced.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>My Love thinks thee worthy of more than I can give thee, had I more power than <hi>Caesar</hi> had.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="16" type="scene">
+                  <pb n="57" facs="41"/>
+                  <head>Scene 16.</head>
+                  <stage>Enter some Commanders.</stage>
+                  <sp>
+                     <speaker>1. <hi>COmmander.</hi>
+                     </speaker>
+                     <p>I hear that the Duke of <hi>Venice</hi> is so taken with our Ge|nerals adopted Son, as he will adopt him his Son.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Hay-day! I have heard that a Father hath had many Sons, but never that one Son hath had so many Fathers; but contrary, many Sons wants fathering.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>'Tis true, some Sons hath the misfortune not to be owned, but let me tell you Lieutenant, there be few children that hath not many such Fathers; as one begets a childe, a second owns the childe, a third keeps the childe, which inherits as the right Heir; and if a fourth will adopt the childe; a fift, or more may do the like, if they please.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>So amongst all his Fathers, the right Father is lost.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Faith, the right Father of any childe is seldome known, by reason that women takes as much delight in deceiving the World, and dissem|bling with particular men, as in the cuckolding their Husbands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>The truth is, every several Lover cuckolds one another.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Perchance that is the reason that women strives to have so many Lovers; for women takes pleasure to make Cuckolds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>And Cuckolds to own children.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="17" type="scene">
+                  <head>Scene 17.</head>
+                  <stage>
+                     <hi>Enter</hi> Affectionata, <hi>then enters to him, two or three</hi> Venetian <hi>Gen|tlemen, as Embassadors from the Duke of</hi> Venice.</stage>
+                  <sp>
+                     <speaker>1. <hi>GEntleman.</hi>
+                     </speaker>
+                     <p>Noble Sir, the great Duke of <hi>Venice</hi> hath sent us to let you know he hath adopted you his Son, and desires your com|pany.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Pray return the great Duke thanks, and tell him those favours are too great for such a one as I; but if he could, and would adopt me, as <hi>Augustus Caesar</hi> did <hi>Tiberius,</hi> and make me master of the whole World; by Heaven I would refuse it, and rather chose to live in a poor Cottage, with my most Noble Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>But you must not deny him; Besides, he will have you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I will dye first, and rather chose to bury my self in my own tears, than build a Throne with ingratitude.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>But it is ungratefull to deny the Duke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>O no, but I should be the ingrate of ingratitude, should I leave my Noble Lord, who from a low despised poor mean degree, advanced me to Respect and Dignity:</p>
+                     <l>Whose favours I will keep close in my heart,</l>
+                     <l>And from his person I will never part.</l>
+                     <l>For though I dye, my soul will still attend,</l>
+                     <l>And wait upon him, as his faithfull friend.</l>
+                  </sp>
+                  <stage>
+                     <pb n="58" facs="42"/>
+                     <hi>He offers to go away in a melancholly posture and humour, so as not considering the Gentlemen. Whereupon one of them follows him, and catches hold of his Cloak.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>2. <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>Noble Sir, will not you send the Duke an answer?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Have not I answered? Then pray present my thanks in the most humblest manner to the great Duke, and tell him he may force the pre|sence of my person, but if he doth, it will be but as a dead carcase without a living soul; for tell him, when I am from my Lord,</p>
+                     <l>I withering vade, as flowers from Sun sight;</l>
+                     <l>His presence is to me, as Heavens light.</l>
+                  </sp>
+                  <stage>Affectionata Exit.</stage>
+                  <sp>
+                     <speaker>1, <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>'Tis strange that such an honour cannot perswade a boy!</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>That proves him a boy, for if he had been at mans estate, he would not have refused it, but have been ambitious of it, and proud to re|ceive it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Gentl.</hi>
+                     </speaker>
+                     <p>Indeed youth is foolish, and knows not how to chose.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Gentl.</hi>
+                     </speaker>
+                     <p>When he comes to be a man, he will repent the folly of his youth.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="18" type="scene">
+                  <head>Scene 18.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Bashfull, <hi>and Lady</hi> VVagtail <hi>not knowing Sir</hi> Seri|ous <hi>could speak.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Wagtail.</speaker>
+                     <p>Pray Madam, let me perswade you, not to cast your self away, to marry a dumb man; for by my troth, all those that are dumb, are meer fools; for who can be witty or wise that cannot speak, or will not speak, which is as bad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Why Madam? wisdom nor wit, doth noth not live not lye in words, for prudence, fortitude and temperance, expresses wisdom and ca|pacity; ingenuity and fancie expresseth wit, and not words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>But let me advise you to chose Sir <hi>Humphry Bold,</hi> he is worth a thousand of Sir <hi>Serious Dumb</hi>; besides, he is a more learned man by half, and speaks several Languages.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Perchance so, and yet not so wise; for Parrots will learn Languages, and yet not know how to be wise, nor what wisdom is, which is to have a found judgement, a clear understanding, and a prudent forecast.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Faith all the World will condemn you to have no forecast, if you marry Sir <hi>Serious Dumb.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Let them speak their worst, I care not, as not fearing their censures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>You were fearfull and bashfull.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>'Tis true, but now am grown so confident with honest love, I care not if all the World did know of it; nay, I wish it were published to all ears.</p>
+                  </sp>
+                  <pb n="57" facs="42"/>
+                  <pb n="58" facs="43"/>
+                  <stage>
+                     <pb n="59" facs="43"/>
+                     <hi>The Lady</hi> Bashfull <hi>offers to go away.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Nay, you must not go, until you have granted my suit in the behalf of Sir <hi>Humphry Bold.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Pray let me go, for I hate him more, than Heaven hates Hell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Nay, then I will leave you.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="19" type="scene">
+                  <head>Scene 19.</head>
+                  <stage>
+                     <hi>Enter</hi> Affectionata, <hi>who weeps. Enter the Lord</hi> Singularity.</stage>
+                  <sp>
+                     <speaker>LOrd Singularity.</speaker>
+                     <p>Why weepest thou <hi>Affectionata</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Alas, my Lord, I am in such a passion, as I shall dye, un|less it flows forth thorough mine eyes, and runs from off my tongue.</p>
+                     <l>For like as vapours from the Earth doth rise,</l>
+                     <l>And gather into clouds beneath the skies;</l>
+                     <l>Contracts to water, swelling like moist veins,</l>
+                     <l>When over-fill'd, falls down in showering rains:</l>
+                     <l>So thoughts, which from a grieved mind are sent,</l>
+                     <l>Ariseth in a vaporous discontent.</l>
+                     <l>Contracts to melancholly, which heavy lies</l>
+                     <l>Untill it melts, and runs forth through the eyes;</l>
+                     <l>Unless the Sun of comfort, dry doth drink</l>
+                     <l>Those watery tears that lyes at the eyes brink;</l>
+                     <l>Or that the rayes of joy, which streams bright out</l>
+                     <l>With active heat disperseth them about.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Faith <hi>Affectionata,</hi> I am no good Poet, but thy passion moves so sweetly in numbers and stops, so just with rhimes, as I cannot but an|swer thee,</p>
+                     <l>Like as the Sun beauty streams rayes about,</l>
+                     <l>A smiling countenance like day breaks out:</l>
+                     <l>And though a frown obscures sweet beauties sight,</l>
+                     <l>Yet beauties beams makes cloudy frowns more bright:</l>
+                     <l>But melancholly beauty doth appear</l>
+                     <l>As pleasing shades, or Summers evenings clear.</l>
+                     <p>So doth thine <hi>Affectionata,</hi> but prethee do not wast thy breath into sighs, nor distill thy life into tears.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I wish I might here breath my last, and close my eyes for ever.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>I perceive <hi>Affectionata,</hi> you take it unkindly I did per|swade you to take the Dukes offer; But if you think I did it out of any other design than a true affection to you; By Heaven, you do me wrong by false in|terpretation.</p>
+                  </sp>
+                  <sp>
+                     <pb n="60" facs="44"/>
+                     <speaker>Affectionata.</speaker>
+                     <p>If you, my Lord, did love but half so well as I, you would ra|ther chose to dye, than part with me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>I love thee beyond my own interest or delight, for what is best for thee, I account as the greatest blessing, should it bring me any other wayes a curse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Then let me still live with you, for that is best for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Here I do vow to Heaven, to do my indeavour with my life to keep thee with me, or to be alwayes where thou art.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>O! what a weight you have taken from my soul, wherein my thoughts like wer-winged-birds sate heavy; my senses like as blinking Lamps which vaporous damps of grief had neer put out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Let me tell thee <hi>Affectionata,</hi> I have travelled far, obser|ved much, and have had divers incounters, but I never met such vertue, found such truth, nor incountered such an affection as thine.</p>
+                     <stage>imbraces him.</stage>
+                     <l>And thus I do imbrace thee, and do wish our souls may twine,</l>
+                     <l>As our each bodyes thus together joyn.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="20" type="scene">
+                  <head>Scene 20.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Serious Dumb, <hi>and his Mistriss the Lady</hi> Bashfull.</stage>
+                  <sp>
+                     <speaker>SIr Serious Dumb.</speaker>
+                     <p>Dear Mistriss, do not you repent your favours, and wish your promise were never made; doth not your affection vade?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>No, it cannot, for never was any love placed upon a Nobler soul than my love is, which is on yours, insomuch, as I do glory in my af|fection, and grow self-conceited of its judgement.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Serious Dumb.</speaker>
+                     <p>And will you be constant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Let not your humble thoughts raise a doubt of jealousie; for I am fixt, as time is to eternity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Serious Dumb.</speaker>
+                     <p>Then I thank nature for your Creation, honour for your Breeding, and heaven for your Vertue, and fortune that hath given you to me, for I can own nothing of that worth that could deserve you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>I cannot condemn jealousie, because it proceeds from pure love, and love melts into kinds on a constant heart, but flames like Oyle on a false one, which sets the whole life on fire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Serious Dumb.</speaker>
+                     <p>But now I cannot doubt your love nor constancies, since you have promised your heart to me; for true Lovers are like the light and the Sun, inseparable.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="21" type="scene">
+                  <pb n="61" facs="44"/>
+                  <head>Scene 21.</head>
+                  <stage>Enter some Commanders.</stage>
+                  <sp>
+                     <speaker>1. <hi>COmmander.</hi>
+                     </speaker>
+                     <p>Come fellow-souldiers, are you ready to march?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Whether?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Into our own native Country, for our General is sent sol home.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Except there be wars in our own Country, we cannot go with him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>I know not whether there be wars or peace, but he obeys, for he is preparing for his journey.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Who shall be General when he is gone?</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>I know not, but I hear the States offers to make our young Lieutenant-General, General, but he refuseth it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Would they would make me General?</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Commander.</hi>
+                     </speaker>
+                     <p>If thou wert General, thou wouldst put all method out of order.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Faith Gentlemen, I would lead you most prudently, and give you leave to plunder most unanimously.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Commander.</hi>
+                     </speaker>
+                     <p>And we would fight couragiously, to keep what we plun|der.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Commander.</hi>
+                     </speaker>
+                     <p>Come, let us go, and inquire how our affairs goeth.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="22" type="scene">
+                  <head>Scene 22.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> Singularity, <hi>and</hi> Affectionata.</stage>
+                  <sp>
+                     <speaker>LOrd Singularity.</speaker>
+                     <p>Now <hi>Affectionata,</hi> we have taken our leave of the States: I hope thy mind is at peace, and freed from fears of being staid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Yes my my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>They did perswade thee much to stay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>They seemed much troubled for your Lordships depar|ture.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Truly I will say thus much for my self, that I have done them good service, and I must say thus much for them, that they have rewar|ded me well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I have heard, my Lord, that States seldom rewards a service done; wherefore I believe, they hope you will return again, and sees you for that end.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>I shall not be unwilling when my Country hath no im|ployment for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Methinks, my Lord, since you have gotten afame abroad, you should desire to live a setled life at home.</p>
+                  </sp>
+                  <sp>
+                     <pb n="62" facs="45"/>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>A setled life would seem but dull to me that hath no wife nor children.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>You may have both, If you please, my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>For children I desire none, since I have thee, and wives I care not for, but what are other mens.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter a Messenger with a Letter to the Lord</hi> Singularity.</stage>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>From whence comest thou friend?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Messenger.</speaker>
+                     <p>From <hi>Rome,</hi> my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>If you please to stay in the next room, I shall speak to you presently.</p>
+                  </sp>
+                  <stage>Messenger Exit.</stage>
+                  <stage>
+                     <hi>The Lord</hi> Singularity <hi>breaks up the Letter and reads.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>
+                        <hi>Affectionata,</hi> From whence do you think this Letter comes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I cannot guess, my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>From the Pope, who hath heard so much of thy youth, vertue, wit and courage, as he desires me to pass thorough <hi>Rome</hi> im my jour|ney home, that he might see thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Pray Heaven his Holynesse doth not put me into a Monaste|ry, and force me to stay behind you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>If he should, I will take the habit, and be incloistered with thee; but he will not inforce a youth that hath no will thereto.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Truly my Lord, I have no will to be a Fryer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Indeed it is somewhat too lazie a life, which all heroick Spirits shames, for those loves liberty and action: But I will go and dispatch this Messenger, and to morrow we will begin our journey.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="23" type="scene">
+                  <head>Scene 23.</head>
+                  <stage>
+                     <hi>Enter the Lady Wagtail, and the Lady</hi> Amorous</stage>
+                  <sp>
+                     <speaker>LAdy Wagtail.</speaker>
+                     <p>Faith <hi>Amorous,</hi> it had been a victory indeed worth the brag|ging off, if we could have taken Sir <hi>Peaceable Studious</hi> Loves prisoner, and could have infettered him in <hi>Cupid</hi>'s bonds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>It had been a victory indeed, for I will undertake to inslave five Courtiers, and ten Souldiers, sooner, and in less time than one studious Scholar.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>But some Scholars are more easily taken than the luxurious Courtiers, or deboist Souldiers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>O no! for Luxurie and Rapine begets lively Spirits, but a study quenches them out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>One would think so by Sir <hi>Peaceable Studious,</hi> but not by some other Scholars that I am acquainted with.</p>
+                  </sp>
+                  <sp>
+                     <pb n="63" facs="45"/>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>But confess, Lady <hi>Wagtail,</hi> do not you find a studious Scho|lar dull company, in respect of a vain Courtier, and a rough Souldier.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>I must confess, they that study Philosophy, are little too much inclined to morality, but those that study Theologie, are not so restrin|gent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Well, for my part, since I have been acquainted with Sir <hi>Peaceable Studious,</hi> I hate all Scholars.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="24" type="scene">
+                  <head>Scene 24.</head>
+                  <stage>
+                     <hi>Enter three Men, as the Inhabitants of</hi> Rome.</stage>
+                  <sp>
+                     <speaker>1.</speaker>
+                     <p>
+                        <hi>TIs</hi> a wonder such a youth as the Lord <hi>Singularity</hi>'s Son is, should have so great a wit, as to be able to dispute with so many Cardinals.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Man.</hi>
+                     </speaker>
+                     <p>The greater wonder is, that he should have the better of them!</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Man.</hi>
+                     </speaker>
+                     <p>'Tis said the <hi>Pope</hi> doth admire him! and is extreamly taken with him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Man.</hi>
+                     </speaker>
+                     <p>If <hi>Iove</hi> had so much admired him, he would have made him his <hi>Ganimed.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Man.</hi>
+                     </speaker>
+                     <p>He offered to make him a living Saint, but he thanked his Holy|ness, and said, he might Saint him, but not make him holy enough to be a Saint, for said he, <hi>I</hi> am unfit to have Prayers offered to me, that cannot offer Prayers as <hi>I</hi> ought, or live as <hi>I</hi> should; then he offered him a Cardinals hat, but he refused it; saying he was neither wise enough, nor old enough for to accept of it; for said he. <hi>I</hi> want <hi>Ulisses</hi> head, and <hi>Nestors</hi> years to be a Car|dinal, for though less devotion will serve a Cardinal than a Saint, yet politick wisdom is required.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Man.</hi>
+                     </speaker>
+                     <p>Pray Neighbours tell me which way, and by what means <hi>I</hi> may see this wonderfull youth; for <hi>I</hi> have been out of the Town, and not heard of him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Man.</hi>
+                     </speaker>
+                     <p>You cannot see him now, unless you will follow him where he is gone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Man.</hi>
+                     </speaker>
+                     <p>Why, whether is he gone?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Man.</hi>
+                     </speaker>
+                     <p>Into his own Country, and hath been gone above this week.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Man.</hi>
+                     </speaker>
+                     <p>Nay, <hi>I</hi> cannot follow him thither.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="25" type="scene">
+                  <head>Scene 25.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> Singularity, <hi>and</hi> Affectionata, <hi>as being in the Country.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>
+                        <hi>Affectionata,</hi> you have promised me to be ruled by me in every thing, so that you may not part from me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>
+                        <hi>I</hi> have, my Lord, and will obey all your commands, so far as <hi>I</hi> am able.</p>
+                  </sp>
+                  <sp>
+                     <pb n="64" facs="46"/>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Then <hi>I</hi> am resolved now <hi>I</hi> am returned into my own Country, to get thee a wife, that thy fame and worthy acts may live in thy Po|sterity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>
+                        <hi>Iove</hi> bless me, a wife! by Heaven, my Lord, I am not man enough to marry!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>There is many as young as you, that have been Fathers, and have had children.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>If they were such as I am, they might father Children, but never get them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Thou art modest, <hi>Affectionata,</hi> but I will have you marry, and I will chose thee such a wife, as modest as thy self.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Then we never shall have children, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singul.</speaker>
+                     <p>Love and acquaintance will give you confidence; but tell me truly, <hi>Affectionata,</hi> didst thou never court a Mistriss?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>No truly, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Well, I will have you practice Courtship, and though I will not directly be your Band or Pimp, yet I will send you amongst the effe|minate Sex, where you may learn to sport with Ladies, as well as fight with <hi>Turks.</hi>
+                     </p>
+                  </sp>
+                  <stage>Affectionata <hi>speaks softly to her self; pray</hi> Jove <hi>they do not search me.</hi>
+                  </stage>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="26" type="scene">
+                  <head>Scene 26.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Wagtail, <hi>and the Lady</hi> Amorous.</stage>
+                  <sp>
+                     <speaker>LAdy Wagtail.</speaker>
+                     <p>I can tell you news?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>What news?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Sir <hi>Serious Dumb</hi> can speak again!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>I am sorrow for that, for now he may tell tales out of School.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>If he do, we will whip him with the rods of tongues, which is more sharp than the rods of wyer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>We may whip him with words, but we our selves shall feel the smart of reproch.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>How simply you talk, as if reproch could hurt a woman; when reproch is born with us, and dyes with us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>If reproch have no power of our Sex, why are all women so carefull to cover their faults, and so fearfull to have their crimes di|vulged.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Out of two reasons; first, because those of the masculine Sex, which have power, as Fathers, Uncles, Brothers and Husbands; would cut their throats, if they received any disgrace by them; for disgrace belongs more to men than women; The other reason is, that naturally women loves secrets; yet there is nothing they can keep secret, but their own particular faults, neither do they think pleasure sweet, but what is stollen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>By your favour, women cannot keep their own faults se|cret.</p>
+                  </sp>
+                  <sp>
+                     <pb n="65" facs="46"/>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>O yes, those faults that may ruine them if divulged, but they cannot keep a secret that is delivered to their trust; for naturally women are unfit for trust, or council.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>But we are fit for faction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>The World would be but a dull World, if it were not for industrious factions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>The truth is, that if it were not for faction, the World would lye in the cradle of Peace, and be rock'd into a quiet sleep of secu|rity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Pr●thee talk not of quiet, and peace, and rest, for I hate them as bad as death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Indeed they resemble death, for in death there is no wars nor noise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Wherefore it is natural for life, neither to have rest nor peace, being cantrary to death.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <head>ACT IV.</head>
+               <stage>
+                  <hi>Enter the Lord</hi> Singularity, <hi>and</hi> Affectionata.</stage>
+               <sp>
+                  <speaker>AFfectionata.</speaker>
+                  <p>My Lord, I hear the King hath invited you to attend him in his progress this Summer.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord Singularity.</speaker>
+                  <p>Yes, but I have made my excuse, and have got leave to stay at home; for I will tell thee truly, that I had rather march ten miles with an Artillery, than travel one with a Court; and I had rather fight a bat|tel, than be bound to ceremony, or flattery, which must be practised if one live at Court: Besides, I have been bred to lead an Armie, and not to follow a Court; And the custom of the one have made me unacquainted, and so unfit for the other; for though I may truly say I am a good Souldier, yet <hi>I</hi> will confess ingenuously to thee, <hi>I</hi> am a very ill Courtier.</p>
+               </sp>
+               <sp>
+                  <speaker>Affectionata.</speaker>
+                  <p>
+                     <hi>I</hi> think they are the most happiest, that are least acquainted with a great Monarchs Court.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord Singularity.</speaker>
+                  <p>
+                     <hi>I</hi> will tell thee a discourse upon this theam in the time of <hi>Henry</hi> the eighth of <hi>England,</hi> there were many Courtiers of all degrees about him, and the theam of their discourse was, who was the happiest man in <hi>England</hi>; So all the Nobles and inferiour Courtiers agreed unanimously it was his Majesty, and it could be no man else; and they all said, that their judgements was so clear in that point, that it could not admit of a contra|diction, or dispute: Said <hi>Henry</hi> the eighth, by the body of our Lord, you are all mistaken; then said one of the Courtiers, <hi>I</hi> beseech your Majesty to tell us who is the happiest man; By the Lord, said the King, that Gentle|man that lives to his profit, and dare moderately spend for his pleasure, and that neither knows me, nor <hi>I</hi> know him, he is the happiest man in the King|dom; and <hi>I</hi> am of <hi>Henry</hi> the eights opinion; but howsoever, it were better to be such a one that goeth with the bagge and baggage of an Armie, than one of the tail of a Court.</p>
+               </sp>
+               <sp>
+                  <pb n="66" facs="47"/>
+                  <speaker>Affectionata.</speaker>
+                  <p>But your Lordship would not refuse to be as the chief, as to be a Favourite; for a Favourite is more sought, feared and flattered, than the King himself.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord Singularity.</speaker>
+                  <p>I think I should not refuse to be a Favourite, by reason a Favourite is a General to command, Martial and Conduct in all affairs, both at home and abroad, in peace and in war, and all by the power and authority of the commission of Favourites.</p>
+               </sp>
+               <sp>
+                  <speaker>Affectionata.</speaker>
+                  <p>Which Commission hath a greater and larger extent than any other Commission.</p>
+               </sp>
+               <sp>
+                  <speaker>Lord Singularity.</speaker>
+                  <p>You say right, for it extends as far as the Kings power.</p>
+               </sp>
+               <stage>Exeunt</stage>
+               <div n="27" type="scene">
+                  <head>Scene 27.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Bashfull, <hi>and</hi> Reformer <hi>her woman.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>REformer.</speaker>
+                     <p>Madam, shall your wedding be private, or publick?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Private.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>I wonder you will have it private.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Why do you wonder?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>Because the wedding-day is the only triumphant day of a young maids life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>Do you call that a triumphant day, that inslaves a woman all her life after; no, I will make no triumph on that day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>Why, you had better have one day than none.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>If my whole life were triumphant, it would be but as one day when it was past, or rather as no day nor time; for what is past, is as if it never were; and for one day I will never put my self to that ceremonious trouble, which belongs to feasting; revelling, dressing and the like.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reformer.</speaker>
+                     <p>I perceive your Ladyship desires to be undrest upon the Wed|ding-day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Bashfull.</speaker>
+                     <p>No, that I do not, but as I will not be carelesly undrest, so I will not be drest for a Pageant show.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="28" type="scene">
+                  <head>Scene 28.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> Singularity, <hi>and</hi> AFfectionata</stage>
+                  <sp>
+                     <speaker>AFfectionata.</speaker>
+                     <p>I think there is no Family more methodically ordered, pru|dently governed than your Lordships.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>It were a disgrace to my profession, if I should not well know how to command; for a good Commander in the field, can tell how to be a good Manager in his private Family, although a prudent Master of a Family knows not how to be a skilfull Commander in the field; but a pru|dent Master must have a trusty Steward, so a knowing General must have a
+<pb n="67" facs="47"/>
+carefull and skilfull Lieutenant-General, or else he will be very much trou|bled; also both Master and General must have other Officers, or else they will not find their Accounts or Conquests as he hopes or expects; For neither General nor Master can order every particular command, nor rectifie every particular errour himself; for a Generals Office, is only to direct, order and command the chief Officers, and not the common Souldiers: So the Master of a Family, is only to direct, order and command his Steward, he the rest of the Officers, and the common servants, every one must order those that be|longs to their several Offices.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Then the common Servants are like the common Soul|diers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>They are so, and are as apt to mutiny, if they be not used with strickt discipline: Thus, if a Master of a Family have the right way in the management of his particular affairs, he may thrive easily, have plenty, live peaceably, be happy, and carry an honourable port with an indif|ferent Estate, when those of much greater Estates, which knows not, nor practices the right method, or rules and governs not with strictness, his ser|vants shall grow factious, mutinous, and be alwaies in bruleries, by which disorders his Estate shall waste invisible, his servants cozen egregiously; he lives in penurie, his servants in riot, alwaies spending, yet alwaies wanting, forced to borrow, and yet hath so much, that if it were ordered with pru|dence, might be able to lend, when by his imprudence, he is troubled with stores, yet vex'd with necessity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I should think that no man ought to be a Master of a Family, but those that can govern orderly and peaceably.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>You say right, for every Master of a Family are petty-Kings, and when they have rebellions in their own small Monarchies, they are apt to disturb the general Peace of the whole Kingdom or State they live in; for those that cannot tell how to command their own Domesticks, and pru|dently order rheir own affairs, are not only uselesse to the Common-wealth, but they are pernicious and dangerous, as not knowing the benefit and neces|sity of obedience and method.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="29" type="scene">
+                  <head>Scene 29.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> VVagtail, <hi>and the Lady</hi> Amorous.</stage>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>The Lord <hi>Singularity</hi> hath brought home the sweetest, and most beautifullest young Cavalier, as ever I saw.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Faith he appears like <hi>Adonas.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Did you ever see <hi>Adonas</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>No, but I have heard the Poets describe him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>
+                        <hi>Venus</hi> and <hi>Adonas</hi> are only two poetical <hi>Ideas,</hi> or two <hi>Ideas</hi> in poetical brains.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Why, <hi>Ideas</hi> hath no names.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>O yes, for Poets christens their <hi>Ideas</hi> with names, as orderly as Christians Fathers doth their children.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Well, <hi>I</hi> wish <hi>I</hi> were a <hi>Venus</hi> for his sake.</p>
+                  </sp>
+                  <sp>
+                     <pb n="68" facs="48"/>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>But if you were only a poetical <hi>Venus,</hi> you would have little pleasure with your <hi>Adonas.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Hay ho! He is a sweet youth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>And you have sweet thoughts of the sweet youth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>My thoughts are like Mirtle-groves to entertain the <hi>Idea</hi> of the Lord <hi>Singularity</hi>'s Son.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Take heed there be not a wild-boar in your Mirtle Image|narie Grove, that may destroy your <hi>Adonas Idea.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>There is no beast there, only sweet singing-birds called <hi>Nightingals.</hi>
+                     </p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="30" type="scene">
+                  <head>Scene 30.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> Singularity, <hi>and</hi> Affectionata.</stage>
+                  <sp>
+                     <speaker>AFfectionata.</speaker>
+                     <p>Pray, my Lord, what Lady is that you make such inquiry for?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>She is a Lady I would have thee marry; One that my Father did much desire I should marry, although she was very young, and may be now about thy years, I hear her Father is dead, but where the Lady is, I cannot find out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Perchance she is married, my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Then we should find her out, by hearing who she hath marryed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>But if she be not marryed, she being as old as I, I am too young for her, for Husbands should be older than their wives.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>But she is one that is well born, well bred, and very rich; and though thou art young in years, yet thou art an aged man in judgment, prudence, understanding, and for wit, as in thy flourishing strength.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Perchance, my Lord, she will not like me, as neither my years, my person, nor my birth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>As for thy years, youth is alwayes accepted by the effe|minate Sex; and thy person she cannot dislike, for thou art very handsom, and for thy birth, although thou art meanly born, thou hast a noble nature, a sweet disposition, a vertuous soul, and a heroick spirit; Besides, I have adop|ted thee my Son, and the King hath promised to place my Titles on thee, and hath made thee Heir of my whole Estate, for to maintain thee according to those Dignities.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>But I had rather live unmarried, my Lord, if you will give consent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>But I will never consent to that, and if you be duti|full to me, you will marry such a one as I shall chose for you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I shall obey whatsoever you command, for I have nothing but my obedience to return for all your favours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Well, I will go and make a strickt inquiry for this Lady.</p>
+                  </sp>
+                  <stage>Lord Singularity Exit.</stage>
+                  <stage>
+                     <pb n="69" facs="48"/>
+                     <hi>Affectionata alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Hay ho! what will this come to, I would I were in my Grave; for love and fear doth torture my poor life; Heaven strike me dead! or make me this Lords wife.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="31" type="scene">
+                  <head>Scene 31.</head>
+                  <stage>
+                     <hi>Enter the Lady Wagtail, and the Lady</hi> Amorous</stage>
+                  <sp>
+                     <speaker>LAdy Amorous.</speaker>
+                     <p>How shall we compass the acquaintance of the Lord <hi>Singularity</hi>'s Son?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Faith <hi>Amorous,</hi> thou lovest boys, but I love men; wherefore I would be acquainted with the Lord Singularity himself; Beside, his adopted Son was a poor Beggar-boy 'tis said, and I cannot love one that is basely born.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>His birth may be honourably, though poor, and of low and mean descent; for if he was born in honest wedlock, and of honest Parents, his birth cannot be base.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>O yes, for those that are not born from Gentry, are like course brown bread, when Gentry of ancient descent, are like flower often boulted to make white mancher.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>By that rule, surely he came from a Noble and Ancient Race; for I never saw any person more white and finely shap'd in my life than he is; and if fame speaks true, his actions have proved he hath a Gen|tlemans soul; But say he were meanly born, as being born from a Cottager, yet he is not to be despised nor disliked, nor to be lesse esteemed, or beloved, or to be thought the worse of, for was <hi>Lucan</hi> lesse esteemed for being a <hi>Stone-Cutter,</hi> or his wit lesse esteemed; or was King <hi>David</hi> lesse esteemed or obeyed, for being a <hi>Shepheard</hi>; or the <hi>Apostles</hi> lesse esteemed or believed, for being <hi>Fisher men, Tent-makers</hi> or the like; or the man that was chosen from the Plough, to be made Emperour; I say, was he lesse esteemed for being a Plough-man? No, he was rather admired the more; or was <hi>Horace</hi> esteemed, or his Poems thought the worse, for being Son to a freed man, which had been a slave; or was <hi>Homer</hi> lesse admired, or thought the worse Poet, for being a poor blind man; and many hundred that I cannot name, that hath gained fame, and their memories lives with Honour and Admiration in every Age, and in eve|ry Nation, Kingdom, Country and Family, and it is more worthy, and those persons ought to have more love and respect, that have merit, than those that have only Dignity, either from favour of Princes, or descended from their Ancestors; for all derived Honours, are poor and mean, in respect of self-creating honour, and they only are to be accounted mean and base, that are so in themselves; but those that are born from low and humble Parents, when they have merits, and have done worthy actions, they are placed higher in fames Court, and hath more honour by fames report, which sounds their praises louder than those of greater descent, although of equal worth and merit, and justly, for it is more praise-worthy, when those that were the
+<pb n="70" facs="49"/>
+lowest, and are as it were trod into the earth, or was born, as the phrase is, from the Dunghill, should raise themselves equal to the highest, who keeps but where they were placed by birth; but many times they keep not their place, but fall from the Dignity of their birth, into the myer of baseness, treachery and treason, when the other rises as the Sun out of a cloud of dark|nesse, darring forth glorious beams thorough all that Hemisphere.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>I perceive by your discourse, Lovers are the best Disputers; Orators, and as I have heard, the best Poets; But I never heard you discourse so well, nor speak so honourably in all my life, wherefore I am confident, 'twas love spake, not you.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <div n="32" type="scene">
+                  <head>Scene 32.</head>
+                  <stage>
+                     <hi>Enter</hi> Affectionata, <hi>Nurse</hi> Fondly, <hi>and</hi> Foster Trusty <hi>her Husband.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>NUrse Fondly.</speaker>
+                     <p>My child, we can no longer conceal you, for we are accu|sed of murthering you, and are summoned to appear before a Judge and Jury.</p>
+                  </sp>
+                  <sp>
+                     <speaker>AFfectionata.</speaker>
+                     <p>For Heaven sake, conceal me as long as you can; for if I be known, I shall be utterly ruined with disgrace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse Fondly.</speaker>
+                     <p>Whose fault was it? I did advise you otherwise, but you would not be ruled, nor counselled by me; and my Husband like an unwise man, did assist your childish desires.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foster Trusty.</speaker>
+                     <p>Well wife, setting aside your wisdom, let us advise what is best to be done in this case.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse Fondly.</speaker>
+                     <p>In this case we are either to be hanged, or she is to be dis|graced; and for my part, I had rather be hanged, for I am old, and cannot live long.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foster Trusty.</speaker>
+                     <p>If you were a young wench, thou mightest chance to escape hanging, the Judges would have taken pity on thee, but being old, will con|demn thee without mercy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse Fondly.</speaker>
+                     <p>If I were not a pretty wench, and the Jurie amorous men, at least the Judges so, I should be hanged neverthelesse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Come, come, <hi>Foster Father,</hi> and <hi>Nurse,</hi> let us go and ad|vise.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="33" type="scene">
+                  <pb n="71" facs="49"/>
+                  <head>Scene 33.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> VVagtail, <hi>and a Captain.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Wagtail.</speaker>
+                     <p>Pray tell me, what manner of Country is <hi>Italy</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>In short, Madam, there is more Summer than Winter, more Fruit than Meat, and more meat than Hospitality.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Why Captain, fruit is meat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>I mean flesh-meat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Out upon that Country, that hath neither Flesh nor Hospi|tality! But Captain, what are the natures, dispositions, and manners of the <hi>Italians</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>In general, Madam, thus, their natures, dispositions, and manners are, as generally all other people of every other Nation are, for the generali|ty of every Nation are alike, in natures, dispositions and persons; that is, some are of good, and some are of bad, some handsom, and some ill-favou|red; but for the most part, there are more ill-favoured than handsom, more soul than fair, and the general manner of the whole World is, to offer more than present, to promise more than perform, to be more faigning than real, more courtly than friendly, more treacherous than trusty, more covetous than generous, and yet more prodigal than covetous; but as for the <hi>Italians,</hi> they are more luxurious than gluttonous, and they love pleasures more than Heaven.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>They have reason, by my troth; for who can tell whether in <hi>Ioves</hi> Mansion, there are so many sweet and delightfull pleasures, as in this World: But Captain, you do not tell me what pleasure the women have in <hi>Italy</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>Those women that are married, are restrain'd and barr'd from all courtly pleasure, or as I may say, the pleasure of Courtships; but the Cour|tezans have liberty to please themselves, and to be their own carvers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>And there is nothing I love so well, as to carve both for my self and others.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>And there is no Nation in the World, so curious, and ingenuous in the art of carving, as the <hi>Italians.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>I am resolved to go into <hi>Italy,</hi> if it be but to learn the art of carving, but I will leave my Husband behind me; for you say, wives have not that free liberty of carving, and if I leave my Husband, <hi>I</hi> may pass for a Widow, though not for a maid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>But Madam, you are past your travelling years, for the best time for women to travel, is about twenty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>By your favour, Sir, a woman never grows old, if she can but conceal her age, and say she is young.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>But she must often repeat it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>She must so, which she may easily do, talking much, for women wants not words, neither are we sparing of them; But Captain, <hi>I</hi> must intreat your company, for you are acquainted with the Country, and hath the experience of the humours and natures of that people, and having been a Souldier and a Traveller, will not be to seek in the wayes of our jour|ney.</p>
+                  </sp>
+                  <sp>
+                     <pb n="72" facs="50"/>
+                     <speaker>Captain.</speaker>
+                     <p>
+                        <hi>I</hi> shall wait upon you, Madam.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>No Captain, you shall be as Master, to command, and <hi>I</hi> will be your Servant to obey.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Captain.</speaker>
+                     <p>You shall command me, Madam.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="34" type="scene">
+                  <head>Scene 34.</head>
+                  <stage>
+                     <hi>Enter</hi> Affectionata <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <p>O! How my soul is tormented with love, shame, grief and fear (<hi>she stops a little</hi>) <hi>I</hi> am in love, but am ashamed to make it known, Besides, <hi>I</hi> have given the World cause to censure me, not only in concealing of my Sex, and changing of my habit, but being alwaies in the company of Men, acting a masculine part upon the Worlds great Stage, and to the publick view; but could <hi>I</hi> live thus concealed, <hi>I</hi> should be happy, and free from censure: But O curst fortune! that pleasure takes in crossing Lovers, and basic time that makes all things as restless as it self, doth strive for to divulge my acts, when <hi>I</hi> have no defence, or honest means for to conceal them; for if <hi>I</hi> do oppose, <hi>I</hi> shall become a Murtherer, and bear a guilty conscience to my grave, which may torment my soul, when as my body is turn'd to dust.</p>
+                  </sp>
+                  <stage>Stops.</stage>
+                  <p>But since there is no remedy, i'l weep my sorrows forth, and with the water of my tears, i'l strive to quench the blushing heat, that like quick lightening, flashes in my face.</p>
+                  <stage>
+                     <hi>Enter the Lord</hi> Singularity, <hi>finding</hi> Affectionata <hi>Weeping.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>My dear <hi>Affectionata,</hi> What makes thee so melancholly, as to be alwaies weeping?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>
+                        <hi>I</hi> must confess, my Lord, here of late my eyes have been like <hi>Egypt,</hi> when it is over-flown with <hi>Nilus,</hi> and all my thoughts like <hi>Crocko|diles.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>What is the cause?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Alas, my Lord, causes lyes so obscure, they are seldom found.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>But the effects may give us light to judge what causes are.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Effects deceives, and often cozens us, by reason one effect may be produced from many several causes, and several effects proceeds from one cause.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>But thy tears seems as if they were produced from some passion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Indeed they are produced from passions and appetites, for pas|sions are the rayes of the mind, and appetites the vapour of the senses, and the rayes of my mind hath drawn up the vapour of my senses into thick moist clouds, which falls in showering tears.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Tell me thy griefs, and thy desires, that <hi>I</hi> may help the one, and ease the other.</p>
+                  </sp>
+                  <sp>
+                     <pb n="73" facs="50"/>
+                     <speaker>Affectionata.</speaker>
+                     <p>Alas, my Lord, <hi>I</hi> cannot, for they lye in the conceptions; and conceptions ariseth like mysts, and my thoughts like clouds, lyes one above another.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Come, come, let reason the Sun of the soul verifie those misty conceptions, and disperse this dull humour, that the mind may be clear, and the thoughts serene.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>
+                        <hi>I</hi> will strive to bring in the light of mirth.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="35" type="scene">
+                  <head>Scene 35.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> VVagtail, <hi>the Lady</hi> Amorous, <hi>and Sir</hi> Humphry Bold.</stage>
+                  <sp>
+                     <speaker>LAdy Wagtail.</speaker>
+                     <p>Good Sir <hi>Humphry Bold,</hi> carry us to the Court of <hi>Iudicatures,</hi> to hear the great Tryal, which is said to be to day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>You would go to hear the condemnation of an old man, and his old wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>No, we would go to hear the confessions, as whether they have murthered the young Lady that is missing, or not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Humphry bold.</speaker>
+                     <p>Why, that you may hear from other relations, as well as from their own mouths, and so save you so much pains and trouble, as you will have to get a place, and to stand so long a time, as the examining, accu|sing, confessing, freeing, or condemning, which will require so long a time, as Ladies will find great inconveniencies, and be put mightily to it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>But I long to hear and see the manner of it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>I will wait upon you, but you will be very much crouded.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>
+                        <hi>I</hi> had rather see them hanged, if they be guilty, than hear them judged and condemned.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>Why, a condemning Judge is the chief Hang-man, for he hangs with his word, as the other with a cord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady VVagtail.</speaker>
+                     <p>Will the Lord <hi>Singularity</hi> be there?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>Yes certainly, for he is the man that doth accuse them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>And will his Son be there?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Humphry Bold.</speaker>
+                     <p>
+                        <hi>I</hi> know not that.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="36" type="scene">
+                  <pb n="74" facs="51"/>
+                  <head>Scene 36.</head>
+                  <stage>
+                     <hi>Enter the Iudges and Iury-men, as in a Court of</hi> Judicature; <hi>the Lord</hi> Singularity, Foster Trusty, <hi>and Nurse</hi> Fondly, <hi>and many others to hear them.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>JUdges.</speaker>
+                     <p>Who accuses these persons of murther?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>I, my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foster Trusty.</speaker>
+                     <p>We beseech your Honours, not to condemn us before you have found us guilty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>It is a proof sufficient, my Lord, they cannot clear them|selves, or produce the party that was delivered to their trust and care.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iudges.</speaker>
+                     <p>Jurie, do you find them guilty or not?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iuries.</speaker>
+                     <p>Guilty, my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iudges.</speaker>
+                     <p>Then from the Jurie, we can—.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Affectionata, <hi>drest very sine in her own Sexes habit, and stops the Iudges sentence.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Hold, condemn not these innocent persons for their fidelity, constancy and love; I am that maid they are accused to murther, and by good circumstances can prove it.</p>
+                  </sp>
+                  <stage>
+                     <hi>All the Assembly, Iudges and Iurie, seems as in a maze at her beauty, and slares on her. The Lord</hi> Singularity, <hi>as soon as he seeth her, starts back, then goeth towards her, his eyes all the time sixt on her; speaking as to himself.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Sure it is that face.</p>
+                  </sp>
+                  <stage>
+                     <hi>He takes her by the Hand, and turns her to the light; are not you my</hi> Affectionata, <hi>whom I adopted my Son.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Shame stops my breath, and chokes the words I should utter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>For Heaven sake speak quickly, release my fears, or crown my joyes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>My Lord, pray pardon loves follies, and condemn not my modesty for dissembling my Sex; for my designs were harmless, as only to follow you as a servant: For by Heaven, my Lord? my only desire was, that my eyes, and my eares might be fed with the sight of your person, and sound of your voice, which made me travel to hear, and to see you: But since I am discovered, I will otherwise conceal my self, and live as an <hi>Anchoret</hi> from the view of the World.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Pray let me live with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>That may not be, for an <hi>Anchoret</hi> is to live alone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>If you will accept of me for your husband, we shall be as one.</p>
+                  </sp>
+                  <sp>
+                     <pb n="75" facs="51"/>
+                     <speaker>Affectionata.</speaker>
+                     <p>You have declared against marriage, my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>I am converted, and shall become so pious a devote, as I shall offer at no Alter but <hi>Hymens,</hi> and since I am your Convert, refuse me not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>I love too well to refuse you.</p>
+                  </sp>
+                  <stage>He kneels down on one knee, and kisses her hand.</stage>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Here on my knee I do receive you as a blessing, and a gift from the Gods.</p>
+                  </sp>
+                  <stage>He riseth.</stage>
+                  <sp>
+                     <speaker>Affectionata.</speaker>
+                     <p>Most Reverend Judges, and Grave Jury, sentence me not with censure, nor condemn me to scandals, for waiting as a Man, and serving as a Page; For though I dissembled in my outward habit and behaviour, yet I was alwaies chaste and modest in my nature.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="37" type="scene">
+                  <head>Scene 37.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> VVagtail, <hi>and Lady</hi> Amorous.</stage>
+                  <sp>
+                     <speaker>LAdy Wagtail.</speaker>
+                     <p>Now Lady <hi>Amorous,</hi> is your mind a Mirtel-grove, and your thoughts <hi>Nightingals</hi> to entertain the <hi>Idea</hi> of your <hi>Adonas.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>Her discovery hath proved the boar that kill'd him; but I desire much to be army <hi>Adonas</hi> Funeral, which is the Lady <hi>Orphants</hi> wed|ding.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>I am acquainted with some of the Lord <hi>Singularity</hi>'s Cap|tains and Officers, and I will speak to some of them to speak to the Lord <hi>Singularity</hi> to invite us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>I pray do, for since my <hi>Adonas</hi> is dead, I will strive to in|amour <hi>Mars,</hi> which is the Lord <hi>Singularity</hi> himself.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Wagtail.</speaker>
+                     <p>Faith, that is unfriendly done, for I have laid my designs for himself.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Amorous.</speaker>
+                     <p>I fear both of our designs may come to nothing, he is so inamoured with his own She-Page, or female Son.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="38" type="scene">
+                  <head>Scene 38.</head>
+                  <stage>
+                     <hi>Enter Nurse</hi> Fondly, <hi>and</hi> Foster Trusty.</stage>
+                  <sp>
+                     <speaker>NUrse Fondly.</speaker>
+                     <p>O Husband! This is the joyfullest day that ever I had in my whole life, except at mine own wedding.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foster Trusty.</speaker>
+                     <p>Indeed, this day is a day of <hi>Iubile.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="76" facs="52"/>
+                     <speaker>Nurse Fondly.</speaker>
+                     <p>Of <hi>Iuno,</hi> say you; but Husband, have you provided good chear, and enough; for here are a world of Guests come, more than was invited, and you being Master Steward, will be thought too blame, if there be any thing wanting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foster Trusty.</speaker>
+                     <p>If you be as carefull to dress the Brides Chamber, as I to provide for the bridal Guest, you nor I shall be in a fault.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse Fondly.</speaker>
+                     <p>I saith, if you have done your part, as I have done my part, we shall deserve praise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foster Trusty.</speaker>
+                     <p>I saith, we are almost so old, that we are almost past praise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurse Fondly.</speaker>
+                     <p>None can merit praise, but those in years; for all Worthy, Noble and Heroick Acts requires time to do them, and who was ever wise, that was young?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foster Trusty.</speaker>
+                     <p>And few are praised that are old, for as fame divulgeth merits, so time wears out praise, for time hath more power than fame, striving to destroy what fame desires to keep. The truth is, time is a Glutton, for he doth not only strive to destroy what fame divulgeth, but what himself begets and produceth.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="39" type="scene">
+                  <head>Scene 39.</head>
+                  <stage>
+                     <hi>Enter the Lord</hi> Singularity, <hi>and the Lady</hi> Orphant, <hi>as Bride and Bride-groom, and a company of Bridal-guests.</hi>
+                  </stage>
+                  <stage>Enter Musitians, and meets them.</stage>
+                  <sp>
+                     <speaker>MUsitioners.</speaker>
+                     <p>We desire your Excellence will give us leave to present you with a Song written by my Lord <hi>Marquiss</hi> of <hi>New-Castle.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Your present could have never been less acceptable, by reason it will retard my marriage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Orphant.</speaker>
+                     <p>Pray, my Lord, hear them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Come, come, dispatch, dispatch.</p>
+                     <stage>He seems not to listen to them. All the time his eyes fixt on the Bride.</stage>
+                     <lg>
+                        <head>SONG.</head>
+                        <l>Love in thy younger age,</l>
+                        <l>Thou then turn'd Page;</l>
+                        <l>When love then stronger grew,</l>
+                        <l>The bright sword drew.</l>
+                        <l>Then Love it was thy fate</l>
+                        <l>To advise in State.</l>
+                        <l>My Love adopted me</l>
+                        <l>His childe to be.</l>
+                        <l>Then offered was my hap</l>
+                        <l>A <hi>Cardinals</hi> Cap.</l>
+                        <l>Loves juglings thus doth make</l>
+                        <l>The Worlds mistake.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <pb n="77" facs="52"/>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>By Heaven, Musitioners, you are all so dillotarie with your damnable and harsh prologue of tuning before you play, as the next Parliament will make it felony in Fidlers, if not treason, when your Great Royal Eares; begin with a F●● to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Musitians.</speaker>
+                     <p>Why, my Noble Lord, we have done.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>By Heaven, there spake <hi>Apollo</hi>! Give them ten Pieces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Musitians.</speaker>
+                     <p>Madam, an <hi>Eppilanian</hi>! we have more to express our further joy, and then we will pray for blessings on you both.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>O! It will be my funeral song, you rogues, know all de|lays doth kill me; and at this time your best Musick sounds harsh, and out of tune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Orphant.</speaker>
+                     <p>Pray let them sing that one song more; so ends your trouble of them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lord Singularity.</speaker>
+                     <p>Begin, quick, quick.</p>
+                     <lg type="song">
+                        <head>SONG.</head>
+                        <l>O Love, some says thou art a Boy!</l>
+                        <l>But now turn'd Girl, thy Masters joy.</l>
+                        <l>Now cease all thy fierce alarms,</l>
+                        <l>In circles of your loving arms.</l>
+                        <l>Who can express the joys to night,</l>
+                        <l>'Twil charm your senses with delight,</l>
+                        <l>Nay, all those pleasures you'l controul,</l>
+                        <l>With joyning your each soul to soul.</l>
+                        <l>Thus in Loves raptures live, till you</l>
+                        <l>Melting, dissolv into a dew;</l>
+                        <l>And then your aery journey take,</l>
+                        <l>So both one constellation make.</l>
+                     </lg>
+                  </sp>
+                  <stage>The Song done, the Musick playes, as the Bride and Bridegroom goeth.</stage>
+               </div>
+            </div>
+            <trailer>FINISH</trailer>
+         </div>
+         </body></text></TEI>
+

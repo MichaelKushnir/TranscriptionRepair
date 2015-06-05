@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+            <author>Cox, Robert, d. 1655.</author>
+         </titleStmt>
+         <extent>31 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 November (TCP phase 1)</date>
+            <idno type="marc">12241232</idno>
+            <idno type="stc">Wing C6711.</idno>
+            <idno type="vid">56778</idno>
+            <idno type="DLPS">A34847</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+                  <author>Cox, Robert, d. 1655.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, with the addition of Simpleton the smith, not before extant.</edition>
+               </editionStmt>
+               <extent>[2], 40 p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Edward Archer ...,</publisher>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>One-act plays.</term>
+               <term>English drama -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+  <text>
+     <body>
+        <div type="title_page">
+           <pb facs="1"/>
+           <pb facs="1"/>
+           <p>Acteon &amp; Diana;
+              WITH
+              A Pastoral Storie of the Nimph
+              OENONE:
+              FOLLOWED
+              By the several Conceited Humours
+              <list>
+                 <item>Of
+                    <list>
+                       <item>
+                          <hi>Bumpkin</hi> the Huntsman.</item>
+                       <item>
+                          <hi>Hobbinal</hi> the Shepherd.</item>
+                       <item>Singing Simpkin, <hi>and</hi>
+                       </item>
+                       <item>
+                          <hi>Iohn Swabber</hi> the Seaman.</item>
+                    </list>
+                 </item>
+              </list>
+           </p>
+           <p>By ROB. COX.</p>
+           <p>Acted at the <hi>Red Bull</hi> with great applause.</p>
+           <p>The second Edition, with the Addition of <hi>Simpleton</hi>
+              the Smith, not before extant.
+              <figure/>
+           </p>
+           <p>LONDON,
+              Printed for <hi>Edward Archer,</hi> at the Adam and Eve,
+              in Little Britain, 1656.</p>
+        </div>
+        <div type="dedication">
+           <pb facs="2"/>
+           <head>To all the Worthy-minded
+              GENTRY.</head>
+           <opener>
+              <salute>Gentlemen, and Ladies!</salute>
+           </opener>
+           <p>IF your serious occasions will permit me so
+              much honour, that this sleight Book may
+              bee accepted and perused, I shall justly ac|knowledge
+              the favour to be far above either
+              my hopes or merit. And if you ever vouch|safed
+              your Presence when it was presented on
+              the Stage, <hi>I</hi> am confident, your (no-way er|ring-)
+              Iudgments will now allow it, as it then
+              was intended, which was, rather to provoke
+              a laughter, then occasion a contemplation. It
+              will likewise engage my grateful service, if I
+              be not (in your worthie opinions) taxt of Ar|rogance,
+              to present my unpolished lines, when
+              daily those of excellence are offered to your Eies
+              and Ears: But in the confidence of your cle|mencie,
+              <hi>I</hi> submit to the verdict of my grand
+              Iury. And how soever you are pleased to cen|sure,
+              will remain (as I ought) the humblest of
+              your servants,</p>
+           <closer>
+              <signed>ROBERT COX.</signed>
+           </closer>
+        </div>
+     </body>
+      
+  </text>
+</TEI>

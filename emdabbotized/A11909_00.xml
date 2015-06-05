@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Seneca his tenne tragedies, translated into Englysh.</title>
+            <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+         </titleStmt>
+         <extent>225 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2007 October (TCP phase 1)</date>
+            <idno type="marc">99852323</idno>
+            <idno type="stc">STC (2nd ed.) 22221.</idno>
+            <idno type="stc">Greg, III, p. 1105-6.</idno>
+            <idno type="vid">17639</idno>
+            <idno type="DLPS">A11909</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Seneca his tenne tragedies, translated into Englysh.</title>
+                  <title type="alt">Tragedies. English</title>
+                  <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+                  <author>Heywood, Jasper, 1535-1598,</author>
+                  <author>Neville, Alexander, 1544-1614,</author>
+                  <author>Studley, John, 1545?-1590?,</author>
+                  <author>T. N. d. 1617,</author>
+                  <author>Newton, Thomas, 1542?-1607.</author>
+               </titleStmt>
+               <extent>[4], 65, 64-217, [1] leaves.</extent>
+               <publicationStmt>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <publisher>In Fleetstreete neere vnto Saincte Dunstans church by Thomas Marsh,</publisher>
+                  <date>1581.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Editor's dedication signed: Thomas Newton.</p>
+                  </note>
+                  <note>
+                     <p>In verse.</p>
+                  </note>
+                  <note>
+                     <p>A reprinting of the following translations previously published separately: "Hercules furens", "Thyestes", and "Troas" by Jasper Heywood; "¦edipus" by Alexander Neville (a revised version); "Medea" and "Agamemnon" by John Studley; and "Octavia" (not by Seneca) by Thomas Nuce. Prints for the first time "Hippolytus" and "Hercules Oetæus" translated by Studley, and "Thebais" translated by Thomas Newton.</p>
+                  </note>
+                  <note>
+                     <p>The first leaf is blank except for signature-mark "A"; the last leaf is blank.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+  <text>
+     <body>
+        <div type="title_page">
+           <pb facs="1"/>
+           <pb facs="1"/>
+           <p>SENECA
+              HIS TENNE TRA|GEDIES,
+              TRANSLA|TED
+              INTO
+              Englyſh.</p>
+           <p>Mercurij nutrices, horae.</p>
+           <p>IMPRINTED
+              AT LONDON IN
+              Fleetſtreete neere vnto
+              <hi>Saincte Dunſtans</hi>
+              church by Tho|mas
+              Marſh.
+              1581</p>
+        </div>
+        <div type="dedication">
+           <pb facs="2"/>
+           <pb facs="2"/>
+           <head>TO THE RIGHT VVOR|SHIPEVL,
+              SIR THOMAS HEN|NEAGE
+              KNIGHT, TREASVRER OF
+              HER MAIESTIES CHAMBER:
+              Thomas Newton wisheth all abundaunce
+              of Felicitie, and Spirituall bene|dictions
+              in Chriſte.
+              {invertedl ⁂}</head>
+           <p>_YOV may think Sir, ſome want of
+              diſcretion in mee, for thus bold|ly
+              preſuminge to thrust into your
+              handes theſe Tragedies of SE|NECA.
+              From whych boldneſſe,
+              the very Conſcience of myne own
+              vnworthynes, might eaſely haue
+              diſſuaded mee, had not certayne
+              learned Gentlemen of good credite and worship thereun|to
+              perſuaded &amp; animated mee. Aſſuring mee (where of
+              I thought my ſelfe afore aſſured) that your VVorship (ſuch
+              is your loue to learning, &amp; the generoſity of your Heroi|call
+              mynde) would daygne not onely to diſpence with my
+              temerity, but alſo take in worth my affectionate ſimpli|city.
+              And yet (all this notwithstandinge) well durst I
+              not haue geuen the aduēture to approch your preſence, vp|on
+              trust of any ſingularity, that in this Booke hath vn|ſki●fully
+              dropped out of myne owne penne, but that I hoped
+              the perfection of others artificiall workmāſhip, that haue
+              trauayled herein aſwell as my ſelfe ſhould ſomewhat couer
+              my nakednèſſe 〈◊〉 pùrchaſe my pardon. And hard were
+              <pb facs="3"/>
+              the dealing, if in payment of a good round gubbe of Gold
+              of full wayght and poyſe, one poore peece ſomewhat clypped
+              and lighter then his fellowes may not be foysted in amōg
+              the reſt, and paſſe in pay for currant coigne. Theirs I know
+              to be deliuered with ſinguler dexterity: myne, I confeſſe
+              to be an vnflidge neſtling, vnhable to flye: an vnnatural
+              abortion, and an vnperfect Embryon: neyther throughlye
+              laboured at Aristophanes and Cleanthes candle, neither
+              yet exactly waighed in Critolaus his preciſe ballaūce. Yet
+              this dare I ſaye, I haue deliuered myne Authors meaning
+              with as much perſpicuity, as ſo meane a Scholler, out of ſo
+              meane a ſtoare, in ſo ſmal a time, and vpon ſo ſhort a war|ning
+              was well able to performe. And whereas it is by ſome
+              ſqueymiſh Areopagites ſurmyzed, that the readinge of
+              theſe Tragedies, being enterlarded with many Phraſes
+              and ſentēces, literally tending (at the firſt ſight) ſome time
+              to the prayſe of Ambition, ſometyme to the mayntenaūce
+              of cruelty, now and then to the approbation of inconti|nencie,
+              and here and there to the ratification of tyranny,
+              can not be digeſted without great daūger of infection: to
+              omit all other reaſons, if it might pleaſe thē with no fore|ſtalled
+              iudgmēt, to mark and conſider the circumſtaunces,
+              why, where, &amp; by what maner of perſons ſuch ſentences are
+              pronoūced, they cānot in any equity otherwiſe chooſe, but
+              find good cauſe ynough to leade thē to a more fauourable
+              and milde reſolutiō. For it may not at any hād be thought
+              and deemed the direct meaning of SÈNECA himſelfe,
+              whoſe whole wrytinges (penned with a peereleſſe ſublimi|ty
+              and loftineſſe of Style, are ſo farre from còuntenaun|cing
+              Vice, that I doubt whether there bee any amonge all
+              the Catalogue of Heathen wryters, that with more gra|uity
+              <pb facs="3"/>
+              of Philoſophicall ſentences, more waightynes of ſappy
+              words, or greater authority of ſoūd matter beateth down
+              ſinne, looſe lyfe, diſſolute dealinge, and vnbrydled ſenſu|ality:
+              or that more ſenſibly, pithily, and bytingly layeth
+              downe the guerdon of filthy luſt, cloaked diſsimulation &amp;
+              odious treachery: which is the dryft, wherunto he leueleth
+              the whole yſſue of ech one of his Tragedies. Howſoeuer &amp;
+              whatſoeuer it be, your VVorships curteous acceptaūce shal
+              eaſily counterpoyſe any of our imperfections. Vnto whoſe
+              learned Cenſure, wee humbly ſubmit theſe the exerciſes of
+              our bluſshing Muſes. The Lord God in mercy long pre|ſerue
+              you in health and dignity with daily encreaſe of ma|ny
+              his gracious gyfts, already rychly abounding in you: to
+              the propagation, and aduauncement of his truth (where|of
+              yee are a zealous Profeſſor, to the honoure of her Ma|ieſtye,
+              to whom you are a moſt loyall ſeruitour, and to the
+              generall benefite of your Countrey, whereof you are a rare
+              and moſt worthy Ornament.</p>
+           <closer>
+              <dateline>From Butley in Cheſſhyre <date>the 24. of Aprill.
+                 1581.</date>
+              </dateline>
+              <signed>Your Worſhippes moſt humble,
+                 Thomas Newton.</signed>
+           </closer>
+        </div>
+        <div type="table_of_contents">
+           <pb facs="4"/>
+           <head>THE NAMES OF
+              THE TRAGEDIES OF
+              SENECA, AND
+              by whom each of
+              them was tran|ſlated.</head>
+           <list>
+              <item>1 Hercules Furens,</item>
+              <item>2 Thyeſtes,</item>
+              <item>6 Troas,
+                 <list>
+                    <item>By Iaſper Heywood.</item>
+                    <item>1560.</item>
+                 </list>
+              </item>
+              <item>5 Oedipus,
+                 <list>
+                    <item>By Alex. Neuile.</item>
+                 </list>
+              </item>
+              <item>4 Hippolytus,</item>
+              <item>7 Medea,</item>
+              <item>8 Agamemnon,</item>
+              <item>10 Hercules Octaeus
+                 <list>
+                    <item>By Iohn Studley.</item>
+                 </list>
+              </item>
+              <item>9 Octauia,
+                 <list>
+                    <item>By T. Nuce.</item>
+                 </list>
+              </item>
+              <item>3 Thebais.
+                 <list>
+                    <item>By Thomas Newton.</item>
+                 </list>
+              </item>
+           </list>
+        </div>
+     </body>
+  </text>
+</TEI>

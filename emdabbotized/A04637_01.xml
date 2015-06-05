@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+					 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">B. Ion: his part of King Iames his royall and magnificent entertainement through his honorable cittie of London, Thurseday the 15. of March. 1603. so much as was presented in the first and last of their triumphall arch's. With his speach made to the last presentation, in the Strand, erected by the inhabitants of the Dutchy, and Westminster. Also, a briefe panegyre of his Maiesties first and well auspicated entrance to his high Court of Parliament, on Monday, the 19. of the same moneth. With other additions.</title>
+            <author>Jonson, Ben, 1573?-1637.</author>
+         </titleStmt>
+         <extent>29 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 January (TCP phase 1)</date>
+            <idno type="marc">99844829</idno>
+            <idno type="stc">STC (2nd ed.) 14756.</idno>
+            <idno type="stc">Greg, I, 200-1(a).</idno>
+            <idno type="vid">9675</idno>
+            <idno type="DLPS">A04637</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">B. Ion: his part of King Iames his royall and magnificent entertainement through his honorable cittie of London, Thurseday the 15. of March. 1603. so much as was presented in the first and last of their triumphall arch's. With his speach made to the last presentation, in the Strand, erected by the inhabitants of the Dutchy, and Westminster. Also, a briefe panegyre of his Maiesties first and well auspicated entrance to his high Court of Parliament, on Monday, the 19. of the same moneth. With other additions.</title>
+                  <title type="alt">B. Jon: his part of King James his royall and magnificent entertainement through his honorable cittie of London, Thurseday the 15. of March. 1603</title>
+                  <title type="alt">Particular entertainment of the Queene and Prince their Highnesse to Althrope.</title>
+                  <title type="alt">B. Jon: his part of King James his royall and magnificent entertainement through his honorable cittie of London, Thurseday the 15. of March. 1603.</title>
+                  <title type="alt">B.I his panegyre.</title>
+                  <title type="alt">B.J his panegyre.</title>
+                  <author>Jonson, Ben, 1573?-1637.</author>
+               </titleStmt>
+               <extent>[48]; [2], 13, [1] p.</extent>
+               <publicationStmt>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <publisher>By V[alentine] S[immes and George Eld] for Edward Blount,</publisher>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>B. Jon. = Ben Jonson.</p>
+                  </note>
+                  <note>
+                     <p>Mostly in verse.</p>
+                  </note>
+                  <note>
+                     <p>Printers' names from STC; "Simmes pr[inted]. only 1st A-B; Eld the rest".</p>
+                  </note>
+                  <note>
+                     <p>Signatures: pi2 A-E4 F2; A-B4.</p>
+                  </note>
+                  <note>
+                     <p>The first leaf is blank.</p>
+                  </note>
+                  <note>
+                     <p>"B.I his panegyre" has divisional title; register is continuous. "A particular entertainment of the Queene and Prince their Highnesse to Althrope" has separate divisional title and register, and is paginated.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the British Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>James, -- I, -- King of England, -- 1566-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+            <body>
+               <div type="part">
+                  <pb facs="2"/>
+                  <pb facs="2"/>
+                  <head>❧ The Pegme at Fen-church</head>
+                  <p>_PResented it selfe in a square and flat
+vpright, like to the side of a Citty: the
+top therof, aboue the Vent, and Crest,
+adorn'd with houses, towres, and stee|ples,
+set off in prospectiue. Vpon the Battlements
+in a great capitall Letters was inscribed,
+<quote>LONDINIVM:</quote>
+According to <hi>Tacitus: At Suetonius mir● constan|tia,
+medios inter hosteis Londinium perrexit,</hi>
+                     <note place="marg" anchored="true">Annal. lib. 14.</note> cognomen|to
+quiàem Coloniae non insigne, sed copia Negotiatorum,
+&amp; commeatu maxime celebre. Beneath that, in a
+lesse and different Character, was written
+<quote>CAMERA REGIA</quote>
+Which Title immediately after the <hi>Norman</hi> Con|quest
+it beganne to haue;<note place="marg" anchored="true">Camd. Bri●. 374.</note> and by the indulgence
+of succeeding Princes, hath beene hitherto conti|nued.
+In the Freeze ouer the gate, it seemeth to
+speake this verse:
+<quote>
+                        <l>PAR DOMVS HAEC COELO,</l>
+                        <l>SED MINOR EST DOMINO.</l>
+                     </quote>
+Taken out of <hi>Martiall,</hi>
+                     <note place="marg" anchored="true">Lib. 8. Epig. 36</note> and implying, that though
+this Cittie (for the state, and magnificence) might
+(by <hi>Hyporbole</hi>) be saide to touch the starres, and
+reach vp to heauen, yet was it farre Inferior to the
+Maister thereof, who was his Maiestie; and in that
+respect vnworthy to receiue him. The highest per|son
+aduaunc'd therein, was
+<quote>MONARCHIA BRITANNICA</quote>
+                     <pb facs="3"/>
+and fittely: applying to the aboue mentioned
+Title of the Citty, <hi>the Kings Chamber,</hi> and there|fore
+heere placed as in the proper seate of the Em|pire:
+for,<note place="marg" anchored="true">Brit. 367.</note> so the glorie and light of our King|dome
+M. <hi>Camden,</hi> speaking of <hi>London,</hi> saieth,
+shee is, <hi>totius Britanniae Epitome, Britannicíque im|perii
+sedes, Regúmque Angliae Camera, tantum inter
+●mneis eminet, quantum (vt ait ille) inter viburna Cu|pressus.</hi>
+Shee was a woman richly attir'd in cloth of
+golde and tissue; a rich mantle; ouer her state twoo
+Crownes hanging, with pensile shieldes thorow
+them; the one lim'd with the particular Coate of
+<hi>England,</hi> the other of <hi>Scotland:</hi> on either side also a
+Crowne, with the like Scutchions, and peculiar
+Coats of <hi>France,</hi> &amp; <hi>Ireland.</hi> In her hand she holdes
+a Scepter; on her head a fillet of gold, inter-wouen
+with Palme &amp; Lawrel; her haire bound into foure
+seuerall points, descending from her Crownes; &amp;
+and in her lappe a little Globe, inscrib'd vpon
+<quote>
+                        <l>ORBIS BRITANNICVS.</l>
+                        <l>And beneath, the word</l>
+                        <l>DIVISVS AB ORBE.</l>
+                     </quote>
+To shew, that this Empire is a world diuided from
+the world, and alluding to that of* <hi>Clau.</hi>
+                     <note place="marg" anchored="true">De mallij Theodor. cons. Pane|gyri.</note>
+                     <quote>
+                        <l>—Et nostro diducta Britannia mundo.</l>
+                        <l>
+                           <hi>And</hi> Virg.</l>
+                        <l>—Et penitus toto diuisos orbe Britannos.<note place="marg" anchored="true">Eclog. 1.</note>
+                        </l>
+                     </quote>
+The wreathe denotes Victory and Happines. The
+Scepter &amp; Crowns soueraignty. The Shieldes the
+precedency of the Countries and their distincti|ons.
+At her feete was set
+<quote>THEOSOPHIA,</quote>
+                     <pb facs="3"/>
+or <hi>Diuine wisdome,</hi> al in white, a blew mantle seeded
+with Stars, a crowne of Stars on hir head. Hir gar|ments
+figur'd Truth, Innocence and Cleerenesse.
+She was alwayes looking vp; in her one hand shee
+sustained a Doue, in the other a Serpent:<note place="marg" anchored="true">Matth. 10. 16.</note> the last to
+shew her Subtilty, the first her Simplicity; alluding
+to that text of Scripture,<note place="marg" anchored="true">Prou. 8. 15.</note>
+                     <hi>Estote ergo prudentes sicut
+serpentes, &amp; simplices sicut columbae.</hi> Her word,
+<quote>PER ME REGES REGNANT.</quote>
+                  </p>
+                  <p>Intimating, how by her, all Kings do gouerne,
+and that she is the foundation and strength of king|domes,
+to which end, she was here placed, vpon a
+Cube, at the foote of the Monarchie, as her Base
+and stay.<note place="marg" anchored="true">Antiqui Ge|nium omniū gignendarum rerum existi|marūt Deum: et vrbib. quam hominib. vel caeteris rebus natū. Lil. Gre. Gy. in Synt. deor. 15. &amp; Ro||sin. Antiq. Ro. lib. 2. cap. 14.</note> Directly beneath her stoode
+<quote>GENIVS VRBIS.</quote>
+                  </p>
+                  <p>A person attir'd rich, reuerend, and antique: his
+haire long and white, crowned with a wreathe of
+Plane tree, which is saide to be <hi>Arbor genialis;</hi> his
+mantle of purple, and buskins of that colour: Hee
+held in one hand a Goblet, in the other a braunch
+full of little twigges, to signifie Increase and In|dulgence:
+His word
+<quote>HIS ARMIS.</quote>
+pointing to the two that supported him, whereof
+the one on the right hand, was
+<quote>BOVLEVTES.</quote>
+Figuring the Councell of the Citty,<note place="marg" anchored="true">Civica corona fit è fronde querna, quo|niam cibus, victus{que} anti|quissimus querceus capisolitus sit. Ros. libr. 10. cap. ●7.</note> and was suted
+in blacke and purple; a wreathe of* Oake vppon
+his head; sustaining for his ensignes, on his left
+arme a scarlet roabe, and in his right hand the
+<pb facs="4"/>
+                     <note n="*" place="marg" anchored="true">●ascicul● v●●|garum, intra quas obligata securis erat, sic, vt ferrum in summo fasce extaret, Ros. lib. 7. cap. 3. vbi notandum est, non de|bere precipitem, &amp; solutam iram esse magistratus. Mora enim allata, &amp; cunctatio, dum sensim virgae solvuntur, identidem consilium mutauit deplect●ndo. Quando autem vitia quaedam sunt corrigibilia, deplorata alia; castigant virgae, quod revo|cari valet, immendabile secures praecidunt. Plut. Prob. Rom. 82.</note> Fasces, as tokens of Magistracie, with this inscrip|tion;
+<quote>SERVARE CIVES.</quote>
+                  </p>
+                  <quote>The other on the left hand.
+POLEMIVS</quote>
+                  <p>The warrelike force of the City, in an antique
+Coate, or Armour, with a Target and Sword; his
+helme on, and crowned with Lawrell, implying
+Strength and Conquest: in his hand he bore the
+Standard of the Citty, with this word,
+<quote>EXTINGVERE ET HOSTEIS.</quote>
+                  </p>
+                  <p>Expressing by those seuerall Motts, connexed,
+that with those Armes of Councell and Strength,
+the <hi>Genius</hi> was able to extinguish the Kings ene|mies,
+and preserue his Citizens, alluding to those
+verses in <hi>Seneca,</hi>
+                     <note place="marg" anchored="true">Octa: Act: 2</note>
+                     <quote>
+                        <l>Extinguere hostem, maxima est virtus Ducis.</l>
+                        <l>Servare Cives, maior est patriae, patri.</l>
+                     </quote>
+                  </p>
+                  <p>Vnderneath these, in an Aback thrust out be|fore
+the rest lay
+<quote>TAMESIS.</quote>
+                  </p>
+                  <p>The Riuer, as running along the side of the Ci|ty;
+in a skinne made like flesh, naked, and blew.
+His mantle of sea-greene or water colour, thinne,
+and bolne out like a sayle; Bracelets about his
+wreasts, of willow and sedge, a crowne of sedge
+and reede vpon his head, mixt with water-lillies;
+alluding to <hi>Virgills</hi> description of <hi>Tiber;</hi>
+                     <pb facs="4"/>
+                     <quote>
+                        <l>—Deus ipse loci,<note place="marg" anchored="true">Aen. lib. 8.</note> fluvie Tyberinus amoeno,</l>
+                        <l>Populeas inter senior se att●llere frondes</l>
+                        <l>Visus. cum tenuis glauco velabat amictu</l>
+                        <l>Carbasus. &amp; crineis vmbrosa tegebat Arundo.</l>
+                     </quote>
+                  </p>
+                  <p>His beard, and haire long, and ouergrowne. He
+leanes his arme vpon an earthen pot, out of which,
+water, with liue Fishes, are seene to runne forth,
+and play about him. His word,
+<quote>FLVMINA SENSERVNT IPSA.</quote>
+A Hemistich of <hi>Ouids:</hi>
+                     <note place="marg" anchored="true">Amor. lib. 3. el. 5.</note> The rest of the verse being,
+<quote>quid esset amor.</quote>
+                  </p>
+                  <p>Affirming, that Riuers themselues, and such
+inanimate Creatures, haue heeretofore beene
+made sensible of Passions, and Affections; and
+that hee, nowe, no lesse pertooke the ioy of
+his Maiesties gratefull approach to this Citty, than
+any of those persons, to whome he pointed, which
+were the daughters of the <hi>Genius,</hi> and sixe in num|ber:
+who, in a spreading ascent, vpon seuerall gri|ces,
+help to beautifie both the sides. The first,
+<quote>EVPHROSYNE,</quote>
+or <hi>Gladnes:</hi> was suted in greene, a mantle of diuers
+colors, embroydred with all varietie of floures: on
+her head a Gyrland of Myrtle, in her right hand a
+cristall Cruze filld with wine, in the left a Cup of
+golde: at her feete a Tymbrell, Harpe, and other
+Instruments, all ensignes of gladnesse,<note place="marg" anchored="true">Hor. car. ●. ode 27.</note>
+                     <quote>
+                        <l>Natis in vsum laetitiae scyphis, &amp;c.</l>
+                        <l>And in another place,</l>
+                        <l>Nunc est bibendum,<note place="marg" anchored="true">&amp; Ode. 37</note> nunc pede libero</l>
+                        <l>Pulsanda Tellus, &amp;c.</l>
+                     </quote> Her word.<note place="marg" anchored="true">Stat. Syl. 4. Epu. Domit.</note>
+                  </p>
+                  <quote>HAEC AEVI MIHI PRIMA DIES.</quote>
+                  <p>
+                     <pb facs="5"/>
+As if this were the first houre of her life, and the
+minute wherein she beganne to be; beholding so
+long coueted, and look'd for a presence. The se|cond.
+<quote>SEBASIS.</quote>
+or <hi>Veneratio,</hi> was varied in an ashe colour'd sute,
+and darke mantle, a vayle ouer her head of ash|colour:
+her hands crost before her, and her eyes
+halfe closde: Her word:
+<quote>MIHI SEMPER DEVS.<note place="marg" anchored="true">Virg. Ecl. ●.</note>
+                     </quote>
+                  </p>
+                  <p>Implying both her office of reuerence, and the
+dignity of her obiect, who being as God on earth,
+should neuer be lesse in her thought: The third:
+<quote>PROTHYMIA.</quote>
+or <hi>Promptitude,</hi> was attir'd in a short tuckt garment
+of flame-colour, wings at her backe; her hayre
+bright, &amp; bound vp with ribands; her breast open,
+<hi>virago</hi>-like; hir buskins so ribanded: She was crow|ned
+with a Chaplet of <hi>Trifoly,</hi> to expresse readines,
+and opennesse euery way; in her right hand shee
+held a squirrell, as being the creature most full of
+life and quicknesse: in the left a close round Cen|sor,
+with the perfume sodainely to be vented forth
+at the sides. Her word:
+<quote>QVA DATA PORTA.<note place="marg" anchored="true">Aene. 1.</note>
+                     </quote>
+                  </p>
+                  <p>Taken from an other place in <hi>Virgill</hi> where <hi>Eo|lus</hi>
+at the command of <hi>Iuno</hi> letts forth the winde;<note place="marg" anchored="true">Aene. 1.</note>
+                     <quote>
+                        <l>—ac venti velut agmine facto</l>
+                        <l>Qua data p●rta ruunt, &amp; terras turbine perflant.</l>
+                     </quote>
+                  </p>
+                  <p>And shew'd that shee was no lesse prepar'd with
+promptitude, and alacrity, then the windes were,
+<pb facs="5"/>
+vpon the least Gate that shall be opened to his
+high commaund. The fourth
+<quote>AGRYPNIA.</quote>
+or <hi>Vigilance,</hi> in yellow, a sable mantle, seeded with
+waking eies, and siluer fringe: her Chaplet of <hi>He|liotropium,</hi>
+or Turnsole; in her one hand a Lampe,
+or Cresset, in her other a Bell. The Lampe signifi|ed
+search and sight, the Bell warning. The <hi>Heliotro|pium</hi>
+care; and respecting her obiect. Her word
+<quote>SPECVLAMVR IN OMNEIS.</quote>
+                  </p>
+                  <p>Alluding to that of <hi>Ouid,</hi> where he describes the
+office of <hi>Argus,</hi>
+                     <quote>
+                        <l>—Ipse pr●cul mon●is sublime cacumen</l>
+                        <l>Occupat,<note place="marg" anchored="true">Met. 1.</note> vnde sedens partes speculatur in omneis.</l>
+                     </quote>
+and implying the like duety of care and vigilance in
+her selfe. The fifth
+<quote>AGAPE.</quote>
+Or louing Affection, in Crimson fringed with
+golde, a mantle of flame-colour, her Chaplet of
+red and white roses; in her hand a flaming heart:
+The flame expressed zeale, the red and white ro|ses,
+a mixture of Simplicity with Loue: her robes
+freshnes and feruency.<note place="marg" anchored="true">De 4. Cons. Honor. Pane|gyri</note> Her word,
+<quote>NON SIC EXCVBIAE.</quote>
+Out of <hi>Claudian,</hi> in following
+<quote>
+                        <l>—Nec circumstantia peila</l>
+                        <l>—Quàm tutatur amor.</l>
+                     </quote>
+Inferring, that though her Sister before had prote|sted
+watchfulnes, &amp; circumspection, yet no watch
+<pb facs="6"/>
+or guard could be so safe to the estate, or person of
+a Prince, as the loue and naturall affection of his
+Subiects: which she in the Citties behalfe promi|sed.
+The sixt,
+<quote>OMOTHYMIA.</quote>
+Or Vnanimity in blew, her roabe blew, and bus|kins.
+A Chaplet of blew lillies, shewing one trueth
+and intirenesse of minde. In her lappe lies a sheafe
+of arrowes bound together, and she her selfe sittes
+weauing certaine small siluer twists. Her word,
+<quote>
+                        <l>FIRMA CONSENSVS FACIT.</l>
+                        <l>Auxilia humilia firma,<note place="marg" anchored="true">Pub. Syr. Mi.</note> &amp;c.</l>
+                     </quote>
+                  </p>
+                  <p>Intimating, that euen the smallest and weakest
+aydes, by consent, are made strong: herselfe per|sonating
+the vnanimity, or consent of Soule, in all
+inhabitants of the Citty to his seruice.</p>
+                  <p>¶These are all the personages, or liue figures,
+whereof onely two were Speakers (<hi>Genius</hi> and <hi>Ta|mesis</hi>)
+the rest were Mutes. Other dumbe com|plements
+there were, as the Armes of the King|dome
+on the one side, with this Inscription.
+<quote>
+                        <l>HIS VIREAS.</l>
+                        <l>With these maist thou flourish.</l>
+                     </quote>
+                  </p>
+                  <p>On the other side the Armes of the City, with
+<quote>
+                        <l>HIS VINCAS.</l>
+                        <l>With these maist thou conquer.</l>
+                     </quote>
+                  </p>
+                  <p>In the centre, or midst of the Pegme, there was
+an Aback, or Square, wherein this Elogie was writ|ten.
+<quote>
+                        <l>Maximus hic Rex est, &amp; lucc serenior ipsa</l>
+                        <l>Principe quae talem cernit in vrbe Ducem;</l>
+                        <l>
+                           <pb facs="6"/>
+Cuiu● Fortunam superat sic vnica Virtus,</l>
+                        <l>Vnus vt is reliquos vincit vtrâque viros.</l>
+                        <l>Praeceptis alii populos, multâque fatigant</l>
+                        <l>Lege; sed exemplo nos rapit ille suo.</l>
+                        <l>Cuique frui totâ fas est vxore marito,</l>
+                        <l>Et sua fas simili pignora nosse pa●ri.</l>
+                        <l>Ecce vbi pignoribus circumstipata coruscis</l>
+                        <l>It comes, &amp; tanto vix minor <hi>ANNA</hi> viro.</l>
+                        <l>Haud metus est, Regem posthac ne proximus Hares,</l>
+                        <l>Neu Successorem non amet ille suum.</l>
+                     </quote>
+                  </p>
+                  <p>This, and the whole frame, was couered with a
+curtaine of silke, painted like a thicke cloude, and
+at the approach of the K. was instantly to bee
+drawne. The Allegory being, that those cloudes
+were gathered vpon the face of the Citty, through
+their long want of his most wished fight: but now,
+as at the rising of the Sunne, all mistes were disper|sed
+and fled. When sodainely vpon silence made to
+the Musikes, a voyce was heard to vtter this verse;
+<quote>Totus adest oculis,<note place="marg" anchored="true">Clau. de laud. Stil. lib. 3.</note> aderat qui mentibus olim,</quote>
+                  </p>
+                  <p>Signifying that hee now was really obiected to
+their eyes, who before had beene only, but still,
+present in their mindes.</p>
+                  <p>¶Thus farre the complementall parte of the
+first; wherein was not only labored the expression
+of State and Magnificence (as proper to a trium|phall
+Arch) but the very Site, Fabricke, Strength,
+Policie, Dignitie and Affections of the Cittie
+were all laide downe to life: The nature, and pro|pertie
+of these Deuises being, to present alwaies
+<pb facs="7"/>
+some one entire body, or figure, consisting of
+distinct members and eache of those expressing it
+selfe, in the owne actiue spheare, yet all, with that
+generall harmony so connexed, and disposed, as
+no one little parte can be missing to the illustration
+of the whole: where also is to be noted, that the
+<hi>Symboles</hi> vsed, are not, neither ought to be simply
+<hi>Hierogliphickes, Emblemes,</hi> or <hi>Imprese,</hi> but a mixed
+Character, pertaking somwhat of all, and peculier|ly
+apted to these more magnificent Inuentions:
+wherein the Garments, and Ensignes deliuer the
+nature of the person, and the Word the present
+office. Neither was it becomming, or could it
+stand with the dignity of these shewes (after the
+most miserable &amp; desperate shift of the Puppits) to
+require a Truch-man, or (with the ignorant Pain|ter)
+one to write. <hi>This is a Dog;</hi> or, <hi>This is a Hare:</hi>
+but so to be presented, as vpon the view they might
+without cloude, or obscurity declare themselves to
+the sharpe and learned: And for the multitude, no
+doubt but their grounded iudgements gazed, said
+it was fine, and were satisfied.</p>
+                  <floatingText>
+                     <body>
+                        <div type="speeches">
+                           <head>The speeches of Gratulation.</head>
+                           <sp>
+                              <speaker>GENIVS.</speaker>
+                              <l>TIme, Fate, and Fortune have at length conspir'd,</l>
+                              <l>To giue our Age the day so much desir'd.</l>
+                              <l>What all the minutes, houres, weekes, months, and yeares,</l>
+                              <l>That hang in file vpon these siluer haires,</l>
+                              <l>Could not produce, beneath the<note n="a" place="marg" anchored="true">As being the first, free, and naturall go|uernement of this Iland, af|ter it came to ciuilitie.</note> Brittane stroke,</l>
+                              <l>
+                                 <pb facs="7"/>
+The Roman, Saxon, Dane, and Norman<note n="a" place="marg" anchored="true">In respect they vver all Cōquests &amp; the obedience of the subiect more inforced.</note> yoke,</l>
+                              <l>This point of Time hath done. Now <hi>London</hi> reare</l>
+                              <l>Thy forehead high, and on it striue to weare</l>
+                              <l>Thy choisest Gems; Teach thy steepe Towres to rise</l>
+                              <l>Higher with people: Set with sparkling eies</l>
+                              <l>Thy spacious windowes; and in euery streete,</l>
+                              <l>Let thronging Ioy, Loue, and Amazement meete.</l>
+                              <l>Cleaue all the ayre with show●es, and let the cry</l>
+                              <l>Strike through as long, and vniuersally</l>
+                              <l>As Thunder; For, thou now art blist to see</l>
+                              <l>That sight, for which thou didst beginne to bee.</l>
+                              <l>When<note n="b" place="marg" anchored="true">
+                                    <p>Rather then the Citie shuld vvant a Founder, vve choose to folovve the receiu'd story of <hi>Brute,</hi> vvhether fabulous, or true, and not altoge|ther vnvvarrāted in Poetrie: since it is a fauor of Antiquity to fevv cities, to let them knovv their first Authors. Besides, a learned Poet of our time, in a most elegāt vvork of his <hi>Con. Tam. &amp;</hi> ISIS, celebrating <hi>London</hi> hath this verse of her:</p>
+                                    <p>
+                                       <hi>Aemula maternae tollens sua lumina Troiae.</hi> Here is also an antient rite alluded to in the building of Citties, vvhich vvas to giue them their boundes vvith a plough, according to <hi>Vir. Aen. li. 10. Interea Aeneas vrbem designat Aratro.</hi> And <hi>Isidore li. 15. cap. 2. Vrbs vocata ab orbe, quod antiquae ciuitates in orbem fiebant; vel ab vrbe parte ●●ratri, quo muri designabantur, vnde est illud. Optauit{que} locum regno &amp; concludere sulco.</hi>
+                                    </p>
+                                 </note>
+                                 <hi>Brutus</hi> plough first gaue thee infant boūds,</l>
+                              <l>And I, thy <hi>GENIVS</hi> walk't auspicious rounds</l>
+                              <l>In euery<note n="c" place="foot" anchored="true">Primigenius sulcus dicitur, qui in condenda noua vrbe, taur● &amp; vacca designationis causa imprimitur; <hi>Hitherto respects that of</hi> Camd. Brit. 368. <hi>speaking of this Cittie,</hi> Quicun{que} autem condiderit, vitali genio, constructam fuisse ipsius fortuna docuit.</note> furrow; Then did I forelooke,</l>
+                              <l>And saw this day<note n="d" place="foot" anchored="true">
+                                    <hi>For so all happy dayes vvere.</hi> Plin. cap. 40. lib. 7. Nat. Hist. <hi>To vvhich</hi> Horace <hi>alludes,</hi> lib. 1. ode. 36. Cressa ne careat pulchra dies nota. <hi>And the other</hi> Plin. epist. 11. lib. 6. O diem laetum, not and umque mihi candidissimo calculo. <hi>With many other in many places.</hi> Mart. lib. 8. epi. 45. lib. 9. epi. 53. lib. 10. 38. lib. 11. 37. Stat. lib. 4. Syl. 6. Pers, sat. 2. Catull. epig. 69. <hi>&amp;c.</hi>
+                                 </note> mark't white in<note n="e" place="foot" anchored="true">The <hi>Parcae,</hi> or <hi>Fates, Martianus</hi> calls them <hi>scribas ac libra|rias superûm;</hi> vvhereof <hi>Clotho</hi> is saide to be the eldest, signifying in Latine <hi>Euocatio.</hi>
+                                 </note>
+                                 <hi>Clotho's</hi> booke.</l>
+                              <l>The seuerall<note n="f" place="foot" anchored="true">
+                                    <hi>Those before mentioned of the Brittane, Romane, Saxon, &amp;c. and to this Re|gister of the Fates allude those verses of</hi> Ouid Met. 15—Cernes illic molimine vasto. Exaere, &amp; solido rerum tabularia ferro: Quae neque concussum coeli, ne{que} fulminis Iram, Nec metuunt vllas tuta at{que} aeternaruinas. Inuenies illic incisa adamante peren●● Fata &amp;c.—</note> Circles, both of change and sway,</l>
+                              <l>
+                                 <pb facs="8"/>
+Within this <hi>Isle,</hi> there also figur'd lay:</l>
+                              <l>Of which the greatest, perfectest, and last</l>
+                              <l>Was this, whose present happinesse we taste.</l>
+                              <l>Why keep you silence Daughters? What dull peace</l>
+                              <l>Is this inhabites you? Shall Office cease</l>
+                              <l>Vpon th'aspect of him, to whom you owe</l>
+                              <l>More then you are, or can be? Shall <hi>TIME</hi> knowe</l>
+                              <l>That Article, wherein your flame stoode still,</l>
+                              <l>And not aspir'd? Now heauen auert an ill</l>
+                              <l>Of that blacke looke. Ere pause possesse your breasts</l>
+                              <l>I wish you more of plagues: "Zeale when it rests,</l>
+                              <l>Leaues to be Zeale. Vp thou tame <hi>RIVER,</hi> wake;</l>
+                              <l>And from thy liquid limbes this slumber s●ake:</l>
+                              <l>Thou drown'st thy selfe in inofficious sleepe;</l>
+                              <l>And these thy sluggish waters seeme to creepe,</l>
+                              <l>Rather than flow. Vp, rise, and swell with pride</l>
+                              <l>Aboue thy bankes. "Now is not euery Tyde.</l>
+                           </sp>
+                           <sp>
+                              <speaker>TAMESIS.</speaker>
+                              <l>TO what vaine end should I contend to show</l>
+                              <l>My weaker powres, when Seas of pompe o'reflow</l>
+                              <l>The Citties face: and couer all the shore</l>
+                              <l>With sands more rich than<note n="a" place="marg" anchored="true">A riuer di|uiding <hi>Spaine</hi> and <hi>Portugall,</hi> and by the consent of Po||ets stil'd <hi>au|rifer.</hi>
+                                 </note>
+                                 <hi>Tagus</hi> wealthy ore?</l>
+                              <l>When in the flood of Ioy, that comes with him,</l>
+                              <l>He drownes the world; yet makes it liue and swimme,</l>
+                              <l>And spring with gladnesse: Not my fishes heere,</l>
+                              <l>Though they be dumbe, but doe expresse the cheere</l>
+                              <l>Of these bright streames. No lesse may<note n="b" place="marg" anchored="true">
+                                    <hi>Vnderstan|ding</hi> Euphro|syne, Sebasis, 〈◊〉, &amp;c</note> These, and I</l>
+                              <l>Boast our delights, albe't we silent lie.</l>
+                           </sp>
+                           <sp>
+                              <pb facs="8"/>
+                              <speaker>GENIVS.</speaker>
+                              <l>INdeede, true Gladnesse doth not alwayes speake:</l>
+                              <l>Ioy bred, and borne but in the tongue, is weake.</l>
+                              <l>Yet (lest the feruor of so pure a flame</l>
+                              <l>As this my Citty beares, might loose the name,</l>
+                              <l>Without the apt euenting of her heate)</l>
+                              <l>Know greatest <hi>IAMES</hi> (and no lesse good, than great.)</l>
+                              <l>In the behalfe of all my vertuous Sonnes,</l>
+                              <l>Whereof my<note n="a" place="marg" anchored="true">The Lord Maior vvho for his yeere, hath Senior place of the rest, and for the day vvas chief Serieant to the King.</note> eldest there, thy pompe forerunnes,</l>
+                              <l>(A Man without my flattring, or his Pride,</l>
+                              <l>As worthy, as hee's<note n="b" place="marg" anchored="true">Aboue the blessing of his present office, the vvord had some particu|lar allusion to his name, vvhich is <hi>Be|net,</hi> and hath (no doubt) in time bin the contraction of <hi>Benedict.</hi>
+                                 </note> blest to be thy guide)</l>
+                              <l>In his graue name, and all his Brethrens right,</l>
+                              <l>(Who thirst to drinke the Nectar of thy sight)</l>
+                              <l>The Councell, Commoners, and Multitude;</l>
+                              <l>(Glad, that this day so long deny'd, is viewd)</l>
+                              <l>I tender thee the heartiest welcome, yet</l>
+                              <l>That euer King had to his<note n="c" place="marg" anchored="true">The Cittie, vvhich title is toucht before.</note> Empires seate:</l>
+                              <l>Neuer came man, more long'd for, more desir'd:</l>
+                              <l>And being come, more reuerenc'd, lou'd, admir'd:</l>
+                              <l>Heare, and record it: In a Prince it is</l>
+                              <l>No little vertue, to know who are his.</l>
+                              <l>
+                                 <note n="*" place="marg" anchored="true">To the Prince.</note> With like deuotions, doe I stoope t'embrace</l>
+                              <l>This springing glory of thy<note n="d" place="marg" anchored="true">An attribute giuen to great persons, fitly aboue other, Humanity, &amp; in frequent vse vvith al the Greek Poets, especially <hi>Ho|mer. Iliad.</hi>
+                                    <seg xml:lang="unk">〈◊〉 〈◊〉〈◊〉</seg>—<seg xml:lang="unk">〈◊〉 〈◊〉〈◊〉</seg>. And in the same Booke.—<seg xml:lang="unk">〈◊〉 〈◊〉〈◊〉</seg>.</note> Godlike race;</l>
+                              <l>His Countries Wonder, Hope, Loue, Ioy and Pride:</l>
+                              <l>How well dooth he become the royall side</l>
+                              <l>Of this erected, and broade spreading Tree,</l>
+                              <l>Vnder whose shade, may <hi>Brittane</hi> euer be.</l>
+                              <l>And from this branch, may thousand branches more</l>
+                              <l>Shoote or'e the Maine, and knit with euery shore</l>
+                              <l>In ●onds of Marriage, Kinred, and Increase;</l>
+                              <l>
+                                 <pb facs="9"/>
+And stile this Land, the<note n="a" place="marg" anchored="true">As <hi>Lactant.</hi> calls <hi>Parnas|s●, Vmbilicum</hi> terra.</note> Nauill of their peace.</l>
+                              <l>This is your Seruants wish, your Citties vow,</l>
+                              <l>Which still shall propagate it selfe, with you;</l>
+                              <l>And free from spurres of Hope, that slow mindes moue:</l>
+                              <l>He seekes no hire, that owes his life to Loue.</l>
+                              <l>
+                                 <note place="marg" anchored="true">To the Queene.</note> And heere she comes that is no lesse a part</l>
+                              <l>In this dayes greatnesse, then in my glad heart.</l>
+                              <l>Glory of Queenes, and<note n="b" place="marg" anchored="true">An empha|ticall speach, &amp; vvell re-en|forcing her greatnes; be|ing by this match, more than either hir Brother, Fa|ther, &amp;c.</note> Glory of your Name,</l>
+                              <l>Whose Graces doe as farre out-speake your Fame,</l>
+                              <l>As Fame doth silence, when her Trumpet rings</l>
+                              <l>You<note n="c" place="marg" anchored="true">Daughter to <hi>Frederik</hi> secōd kind of <hi>Den|marke,</hi> &amp; <hi>Nor|way,</hi> sister to <hi>Christierne</hi> the fourth novve there raign|ing, &amp; vvife to <hi>Iames</hi> our Soueraigne.</note> Daughter, Sister, Wife of seuerall Kings:</l>
+                              <l>Besides Alliance, and the stile of Mother,</l>
+                              <l>In which one Title you drowne all your other.</l>
+                              <l>Instance, be<note n="d" place="marg" anchored="true">
+                                    <hi>The Prince</hi> Henry Frede|rike.</note> that faire shoote, is gone before</l>
+                              <l>Your eldest Ioy, and top of all your store,</l>
+                              <l>With those, whose sight to vs is yet deni'd,</l>
+                              <l>But not our zeale to them, or ought beside</l>
+                              <l>This Citty can to you: For whose estate</l>
+                              <l>Shee hopes you will be still good Aduocate</l>
+                              <l>To her best Lord. So, whilst you mortall are,</l>
+                              <l>No taste of sower mortalitie once dare</l>
+                              <l>Approach your house; nor Fortune greete your Grace</l>
+                              <l>But comming on, and with a forward face.</l>
+                           </sp>
+                        </div>
+                     </body>
+                  </floatingText>
+               </div>
+               <div type="part">
+                  <pb facs="9"/>
+                  <head>THE OTHER AT TEMPLE
+BARRE.</head>
+                  <p>_CArried the frontispice of a Tem|ple,
+the Wals of which and Gates
+were Brasse; the Pillers Siluer,
+their Capitals and Bases Golde:
+in the highest point of all was e|rected
+a <hi>Ianus</hi> head, and ouer it
+written.</p>
+                  <quote>IANO QVADRIFRONTI
+SACRVM.</quote>
+                  <p>Which title of <hi>Quadrifrons</hi> is said to be giuen
+him,<note place="marg" anchored="true">Bassus a|pud Ma|cro▪ lib. 1. Satur. ca. 9.</note> as he respecteth all Climates, and filles all parts
+of the world with his Maiestie; which <hi>Martiall</hi>
+would seeme to allude vnto in that <hi>Hendicasillable,</hi>
+                     <note place="marg" anchored="true">li. 8. Epi. 2.</note>
+                     <quote>Et linguâ pariter locutus omni.</quote>
+Others haue thought it by reason of the foure Ele|ments,
+which brake out of him, being <hi>Chaos:</hi> for
+<hi>Ouid</hi> is not afraide to make <hi>Chaos</hi> and <hi>Ianus</hi> the
+same, in those verses
+<quote>
+                        <l>Me Chaos antiqui (nam sum res prisca) vocabant:<note place="marg" anchored="true">Fast. lib. 1.</note>
+                        </l>
+                        <l>Adspice, &amp;c.</l>
+                     </quote>●●<quote>
+                        <pb facs="10"/>
+PLVTVS.</quote>
+or <hi>Wealth,</hi>
+                     <note place="marg" anchored="true">So <hi>Cephisi|odotus</hi> hath fained him See <hi>Paus. in Boeoti. &amp; Phil. in Imag.</hi> con|trarie to <hi>Aristop. Theogn. Lucian</hi> and others, that make him blinde and deformed.</note> a little boy, bare headed, his locks curled,
+and spangled with golde, of a fresh aspect, his body
+almost naked, sauing some rich robe cast ouer him;
+in his armes a heape of gold Ingots to expresse ri|ches,
+whereof he is the God: Beneath her feete lay
+<quote>ENYALIVS.</quote>
+or <hi>Mars,</hi> Groueling, his armour scattered vpon him
+in seuerall peeces, and sundrie sortes of weapons
+broken about him, her word to all was
+<quote>VNA TRIVMPHIS IN NVMERIS POTIOR.</quote>
+                     <quote>
+                        <l>pax optima rerum</l>
+                        <l>Quas homini nouisse datum est,<note place="marg" anchored="true">Si●▪ Ital▪</note> pax vna Triumphis
+Innumeris potior.</l>
+                     </quote>
+signifieng that peace alone was better, and more to
+be coueted then innumerable Tryumphes, besides,
+vpon the right hand of her, but with some little
+descent, in a <hi>Hemicycle</hi> was seated
+<quote>ESYCHIA.</quote>
+or <hi>Quie●,</hi> the first handmaid of peace; A woman
+of a graue and venerable aspect, attired in black, vp|on
+her head an artificiall nest, out of which ap|peared
+Storkes heads to manifest a sweete repose.
+Her feete were placed vpon a Cube, to shewe sta|bility,
+<pb facs="10"/>
+and in her lappe shee held a Perpendicular
+or leuell, as the ensigne of <hi>Euennesse</hi> and <hi>Rest;</hi> on
+the top of it sate a <hi>Halcion</hi> or Kings-fisher. She had
+lying at her feete
+<quote>TARACHE.</quote>
+or <hi>Tumult,</hi> in a garment of diuers, but darke coulers,
+her haire wilde, and disordered, a fowle and trou|bled
+face, about her laye staues, swordes, ropes,
+chaines, hammers, stones, and such like to expresse
+Turmoile. The word was
+<quote>PERAGIT TRANQVILLA POTESTAS.<note place="marg" anchored="true">De Malii Theo. cōs. Panegy.</note>
+                     </quote>
+                     <quote>
+                        <hi>Claud.</hi> Quod violent a nequit: mandat a{que} fortius vrget
+Imperiosa quies.</quote>
+To shewe the benefits of a calme and facile power,
+being able to effect in a state that, which no vio|lence
+can. On the other, side the second hand|maide,
+was
+<quote>ELEVTHERIA.</quote>
+or <hi>Libertie,</hi> her dressing white, &amp; som-what antique
+but loose and free; her haire flowing downe her
+backe, and shoulders: In her right hand shee bare
+a Club, on her left a Hat, the <hi>Characters</hi> of freedom,
+and power: At her feete a Catt was placed, the
+creatrue most affecting, and expressing libertie. She
+trode on
+<pb facs="11"/>
+Rauen, as the Augury of ill fortune: &amp; the Soule was
+<quote>REDEVNT SATVRNIA REGNA.</quote>
+Out of <hi>Virgil,</hi>
+                     <note place="marg" anchored="true">Eclog. 4.</note> to shewe that nowe those golden
+times were returned againe, wherein <hi>Peace</hi> was with
+vs so aduannced, <hi>Rest</hi> receaued, <hi>Libertie</hi> restored,
+<hi>Safetie</hi> assured, and all <hi>Blessednesse</hi> appearing in euery
+of these vertues her perticular Triumphe ouer her
+opposite euill. This is the dumbe argument of the
+frame, and illustrated with this verse of <hi>Virgil,</hi> writ|ten
+in the vnder freeze.<note place="marg" anchored="true">Aeneid. lib. 11.</note>
+                     <quote>
+                        <l>NVLLA SALVS BELLO</l>
+                        <l>PACEM TE POSSIMVS OMNES.</l>
+                     </quote>
+The speaking parte was performed, as within the
+Temple where there was erected an Altar, to which
+at the approach of the K. appeares the <hi>Flamen</hi>
+                     <quote>
+                        <note n="*" place="marg" anchored="true">One of the three <hi>Flamines</hi> that as some think <hi>Numa Pō|pilius</hi> first instituted, ●ut vve ra|●her vvith <hi>Varr●</hi> take him of <hi>Ro|mulus</hi> in|stitution, vvhereof there vvere onely tvvo, <hi>Hee,</hi> and <hi>Dialis:</hi> to vvhom he vvas next in dignity. He vvas al|vvaies crea|ted out of the Nobi|litie, &amp; did performe the rites to <hi>Mars,</hi> vvho vvas thought the Father of <hi>Romu|lus.</hi>
+                        </note> MARTIALIS.</quote>
+And to him.
+<quote>GENIVS VRBIS.</quote>
+The <hi>Genius</hi> we attired before: To the <hi>Flamen</hi> wee
+appoint this habit. A long Crimson robe to witnesse
+his nobility, his typpet and sl●eues white as reflec|ting
+on purity in his religion, a rich mantle of gold
+with a traine to expresse the dignity of his function.
+<pb facs="11"/>
+Vpon his head a<note n="c" place="foot" anchored="true">Scaliger in coniect. in Varr: <hi>saith</hi> Totus Pileus, vel potiùs velamenta, Flam|m●um dicebatur. vnde Flamines dicti.</note> Hat of delicate wooll, whose top
+ended in a Cone, and was thence called <hi>Apex,</hi>
+according to that of <hi>Lucan. lib.</hi> 1.
+<quote>Attollens{que} Apicem gen●roso vertice Flamen.</quote>
+This <hi>Apex</hi> was couered with a<note n="d" place="foot" anchored="true">
+                        <hi>To this lookes that other coniec|ture of</hi> Varro. <hi>lib.</hi> 4. de lingua Latina Flamines, quòd licio in Capite vel●ti erant sem|per, ac caput cinctum hab●bant filo, Flamines dicti</note> fine net of yearne
+which they named <hi>Apiculum,</hi> &amp; was sustained with
+a<note n="e" place="foot" anchored="true">Whichin their attire vvas called <hi>Stroppus,</hi> in their vviues <hi>Inarculum.</hi>
+                     </note> bowd twigge of <hi>Pomgranat</hi> tree, it was also in
+the hot time of <hi>Summer</hi> to be bound with Ribands,
+and throwne behinde them as<note n="f" place="foot" anchored="true">Scal. Ibid: in con. Pone enim regerebant apicem, ne grauis esset summis aestatis caloribus. Amentis enim, quae offendices diceban|tur sub mentum adductis, religabant; vt cum vellent, regererent, &amp; pone pen●ere per|mitterent.</note>
+                     <hi>Scaliger</hi> teacheth.
+In his hand hee bore a golden Censor with per|fume,
+and censing about the Altar (hauing first
+kindled his fier on the toppe) is interrupted by the
+<hi>Genius.</hi>
+                  </p>
+                  <floatingText>
+                     <body>
+                        <div type="speeches">
+                           <sp>
+                              <speaker>GENIVS.</speaker>
+                              <l>STay, what art thou, that in this strange attire,</l>
+                              <l>Darst kindle stranger, and vnhallowed fire</l>
+                              <l>Vpon this Altar?</l>
+                           </sp>
+                           <sp>
+                              <speaker>FL.</speaker>
+                              <l>Rather what art thou</l>
+                              <l>That darst so rudely interrupt my vowe?</l>
+                              <l>My habit speakes my name.</l>
+                           </sp>
+                           <sp>
+                              <speaker>GE.</speaker>
+                              <l>A Flamin?</l>
+                           </sp>
+                           <sp>
+                              <speaker>FL.</speaker>
+                              <l>Yes,</l>
+                              <l>And<note n="a" place="marg" anchored="true">Of <hi>Mars,</hi> vvhose rites (as vvee haue touch● be|fore) this <hi>Flamē</hi> did specially celebrate.</note>
+                                 <hi>Martialis</hi> calld.</l>
+                           </sp>
+                           <sp>
+                              <speaker>GE.</speaker>
+                              <l>I so did gesse</l>
+                              <l>By my short view, but whence didst thou ascend</l>
+                              <l>Hither? or how? or to what mistick end?</l>
+                           </sp>
+                           <sp>
+                              <speaker>FL.</speaker>
+                              <l>The noise, and present tumult of this Day,</l>
+                              <l>Rowsd me from sleepe, and silence, where I lay</l>
+                              <l>Obscur'd from light; which when I wakt to see,</l>
+                              <l>I wondring thought what this great pompe might be.</l>
+                              <l>
+                                 <pb facs="12"/>
+When (looking in my Kalender) I found</l>
+                              <l>The<note n="b" place="marg" anchored="true">With 〈◊〉 the 15. of <hi>March,</hi> vvhich vvas the present day of this Triumph; and on vvhich the great feast of <hi>Anna Perenna</hi> (among the <hi>Romās</hi>) vvas yearly and vvith such so|lemnitie remēbred. <hi>Oui. Fast. 3. Idibus est Annae festū geniale Perennae, Haud pro|cul a ripis, &amp;c.</hi>
+                                 </note> Ides of Marche were entred, and I bound</l>
+                              <l>With these, to celebrate the <hi>Geniall</hi> feast</l>
+                              <l>Of<note n="c" place="foot" anchored="true">Who this <hi>Anna</hi> should be (vvith the <hi>Romanes</hi> themselues) hath beene no trifling controuersie. Some haue thought her fabulously the sister of <hi>Dido,</hi> some a Nimphe of <hi>Numicius;</hi> some <hi>Io;</hi> some <hi>Themis.</hi> Others an olde vvoman of <hi>Bouillae,</hi> that fed the seditious multitude, <hi>in Mon|t● sacr●,</hi> vvith Wafers, and fine Cakes, in time of their penurie: so vvhom, aftervvard (in memory of the benefit) their peace being made vvith the Nobles, they ordaind this feast. Yet, they that haue thought nearest, haue mist all these, and directly ima|gined her the Moone. And that she vvas calld <hi>Anna, Quia mensibus impleat annū. O●●d. ibid.</hi> To vvhich, the vovv that they vsd in her Rites, somvvhat confirmingly al|ludes; vvhich vvas. <hi>vt Annare, &amp; Perenn●re commodè liceret. Maor. Sat. lib. 1. cap. 1●.</hi>
+                                 </note>
+                                 <hi>ANNA</hi> stil'd <hi>PERENNA,</hi>
+                                 <note n="d" place="foot" anchored="true">So Ouid. ibid. Fast. <hi>makes</hi> Mars <hi>speaking to her,</hi> Mense meo coleris, iunxi mea tempora tecum.</note>
+                                 <hi>MARS</hi> his guest;</l>
+                              <l>Who, in this Moneth of his, is yearly call'd</l>
+                              <l>To banquet at his Altars; and in stald;</l>
+                              <l>
+                                 <note n="e" place="foot" anchored="true">Nuper e●at dea facta, &amp;c. ibid. Ouid.</note> A Goddesse with him, since shee filles the Yeare,</l>
+                              <l>And<note n="f" place="foot" anchored="true">Where is vnderstood the meeting of the Zodiack in <hi>March,</hi> the month vvherein she is celebrated.</note> knits the oblique scarfe that girts the spheare.</l>
+                              <l>Whilest foure fac't <hi>IANVS</hi> turnes his<note n="g" place="foot" anchored="true">That face vvherevvith he beholds the Spring.</note> vernall looke</l>
+                              <l>Vpon their meeting howers, as if he tooke.</l>
+                              <l>High pride and pleasure.</l>
+                           </sp>
+                           <sp>
+                              <speaker>GE.</speaker>
+                              <l>Sure thou stil dost dreame,</l>
+                              <l>And both thy tongue, and thought rides on the streame</l>
+                              <l>Of Phantasy: Behold here <hi>Hee</hi> nor <hi>Shee,</hi>
+                              </l>
+                              <l>Haue any Altar, Fane, or Deity.</l>
+                              <l>Stoope; read but this<note n="h" place="foot" anchored="true">Written vpon the Altar, for vvhich vvee refer you to the Page. D. 3.</note> inscription: and then veiwe</l>
+                              <l>To whome the Place is consecrate. Tis trew</l>
+                              <l>That this is <hi>IANVS</hi> Temple, and that nowe</l>
+                              <l>He turnes vpon the Yeare his freshest browe;</l>
+                              <l>That this is <hi>MARS</hi> his moneth; and these the Ides,</l>
+                              <l>Wherein his <hi>ANNE</hi> was honourd; Both the Tides,</l>
+                              <l>Titles, and Place, wee knowe: But these dead rites</l>
+                              <l>Are long since buried, and newe power excites</l>
+                              <l>More highe and hartie flames. Loe, there is hee,</l>
+                              <l>
+                                 <pb facs="12"/>
+Who brings with him a<note n="i" place="marg" anchored="true">The Queene. to ansvvere vvhich in our inscrip|tion vvee spake to the King <hi>MARTE MAIO|RI.</hi>
+                                 </note> greater <hi>ANNE</hi> then shee:</l>
+                              <l>Whose strong and potent vertues haue<note n="k" place="marg" anchored="true">The Temple of <hi>Ianus</hi> vve apprehend to be both the house of War, &amp; Peace; of War, vvhen it is open; of Peace vvhen it is shut: And that there, each ouer the othe● is inter|changea|bly placd, to the vi|cissitude of Times.</note> defac'd</l>
+                              <l>Sterne <hi>MARS</hi> his Statues, and vpon them plac'd</l>
+                              <l>His,<note n="l" place="marg" anchored="true">Which are Peace, Rest, Li|berty, Safe|tie, &amp;c▪ and vvere his actiuely, but the vvorlds passiuely.</note> and the worlds blest blessings: This hath brought</l>
+                              <l>Sweete Peace to sit in that bright state she ought</l>
+                              <l>Vnbloodie, or vntroubled; hath forc'd hence</l>
+                              <l>All tumults, feares, or other darke portents</l>
+                              <l>That might inuade weake mindes; hath made men see</l>
+                              <l>Once more the face of welcome Liberty:</l>
+                              <l>And doth (in all his present actes) restore</l>
+                              <l>That first pure world, made of the better Ore.</l>
+                              <l>Now Innocence shall cease to be the spoile</l>
+                              <l>Of rauenous Greatnesse, or to steepe the soile</l>
+                              <l>Of raised Pesantrie with teares, and bloud;</l>
+                              <l>No more shall rich men (for their little good)</l>
+                              <l>Suspect to be made guiltie; or vile Spies</l>
+                              <l>Enioye the lust of their so murdring eyes:</l>
+                              <l>Men shall put off their Yron mindes, and hearts;</l>
+                              <l>The Time forget his olde malicious artes</l>
+                              <l>With this new minute; and no print remaine</l>
+                              <l>Of what was thought the former ages staine.</l>
+                              <l>Back <hi>FLAMIN,</hi> with thy superstitious fumes,</l>
+                              <l>And cense not heere; Thy ignorance presumes</l>
+                              <l>Too much, in acting any Ethnick rite</l>
+                              <l>In this translated Temple: Heere no wight,</l>
+                              <l>To sacrifice, saue my deuotion comes,</l>
+                              <l>That brings insteed of those thy<note n="m" place="foot" anchored="true">
+                                    <hi>Somevvhat a strange Epithite, in our tongue, but proper to the thing; for they vvere only</hi> Mascul●ne <hi>Odours, vvhich vvere offerd to the Altars.</hi> Vir. Ecl. 8. Verbenas{que} adole pingueis, et mascula Tura. <hi>And</hi> Plin. Nat. Hist. lib. 12. cap. 14. <hi>speaking of these, hath</hi> Quod ex eo rotunditate gutt●● pependit, Masculum vocamus, cum alias non fere mas vocetur, vbi non sit femina: re|ligioni tributum ne sexus alter vsurparetur. Masculum aliqui putant a specie testium dictum. <hi>See him also,</hi> lib. 34. cap. 11. <hi>And</hi> A●nob. lib. 7. aduers. Gent. Non si mille ●upō|dera masculi Turis ince●das, &amp;c.</note> Masculine gummes.</l>
+                              <l>
+                                 <pb facs="13"/>
+My Citties heart; which shall for euer burne</l>
+                              <l>Vpon this Altar, and no Time shall turne</l>
+                              <l>The same to ashes: Heere I fixe it fast,</l>
+                              <l>Flame bright, flame high, and may it euer last.</l>
+                              <l>Whilest I, before the figure of thy Peace,</l>
+                              <l>Still tend the fire; and giue it quick increase</l>
+                              <l>With praiers, wishes, vowes; whereof be these</l>
+                              <l>The least, and weakest: that no Age may leese</l>
+                              <l>The Memory of this so rich a daye;</l>
+                              <l>But rather, that it henceforth yearely may</l>
+                              <l>Begin our Spring and with our spring the prime,</l>
+                              <l>And<note n="n" place="marg" anchored="true">
+                                    <hi>Accord|ing to Ro|mulu● his institution, vvho made March the first Month and conse|crated it to his Father, of vvhome it vvas cal|led</hi> Marti|us: Varr. Fest. in Frag. Mar|tius mensis in●tium an|ni fuit, et in La●io, &amp; post Romam conditam &amp;c. <hi>And</hi> Ouid. Fast. 3. A te prin|cipium Ro|mano dici|mus anno: Primus de patri● no|mine mensis erit. Vox ratafit; <hi>&amp;c. See</hi> Macro lib. 1. Sat. cap. 12. <hi>and</hi> Solin. in Po|ly. hist. cap. 3 Quòd hoc mēse mercedes e●oluerint magistris, quas completus annus deberi fecisset, &amp;c.</note> first accompt of Yeares, of Months,<note n="o" place="marg" anchored="true">Some, to vvhom vve haue read this, haue takē it for a <hi>Tautologie,</hi> thinking <hi>Time</hi> inough ex|press'd before, in <hi>Yeares,</hi> and <hi>Months.</hi> For vvhose ignor●nt sakes vve must confesse to haue taken the better part of this trauale in noting, a thing not vsuall, neither affec|ted of vs, but vvhere there is necessitie, as here, to auoide their dull censures: vvhere in <hi>Yeares</hi> and <hi>Months</hi> vve alluded to that is obserued in our former note; but by <hi>Time</hi> vve vnderstand the present, &amp; that from this instant, we should begin to reckon, and make this the first, of our Time. Which is also to be helpt by <hi>Emphasis.</hi>
+                                 </note> of Time:</l>
+                              <l>And may these <hi>Ides</hi> as fortunate appeare</l>
+                              <l>To thee, as they to<note n="p" place="marg" anchored="true">In vvhich he vva● slaine in the Senate.</note>
+                                 <hi>Caesar</hi> fatall were.</l>
+                              <l>Be all thy Thoughts borne perfect, and thy Hopes</l>
+                              <l>In their euents still crownd beyond their scopes.</l>
+                              <l>Let not wide Heauen that secret blessing know</l>
+                              <l>To giue, which shee on thee will not bestow.</l>
+                              <l>Blind <hi>Fortune</hi> be thy slaue; and may her store</l>
+                              <l>(The lesse thou seek'st it) follow thee the more.</l>
+                              <l>Much more I would: but see, these brazen Gates</l>
+                              <l>Make hast to close, as vrged by thy Fates;</l>
+                              <l>Here ends my <hi>Cities</hi> office, here it breakes:</l>
+                              <l>Yet with my tongue, and this pure heart, she speakes</l>
+                              <l>A short farewell; and lower then thy feete,</l>
+                              <l>With feruent thankes, thy royall paines doth greete.</l>
+                              <l>Pardon, if my abruptnesse breed disease;</l>
+                              <l>He merits not t'offend, that hastes to please.</l>
+                           </sp>
+                        </div>
+                     </body>
+                  </floatingText>
+                  <p>
+                     <pb facs="13"/>
+Ouer the Alter was written this
+Inscription:</p>
+                  <quote>
+                     <p>D. I. O. M.
+BRITANNI ARVM. IMP.
+PACIS. VINDICI. MARTE. MAIORI. P. P.
+F. S. AVGVSTO. NOVO. GENTIVM. CON|IVNCTARVM.
+NVMINI. TVTELARI.
+D. A.
+CONSERVATRICI. ANNAE. IPSAE. PERENNAE.
+DEABVSQVE. VNIVERSIS. OPTATIORI. SVI
+FORTVNATISSIMI. THALAMI. SOCIAE. ET
+CONSORTI. PVLCHERIMAE. AVGVSTISSIMAE.
+ET
+H. F. P.
+FILIO. SVO. NOBILISSIMO. OB. AD|VENTVM.
+AD VRBEM. HANC. SVAM. EX|PECTATISSIMVM.
+GRATISSIMVM. CE|LEBRATISSIMVM.
+CVIVS. NON. RADII. SED
+SOLES. POTIVS. FVNESSIMAM. NVPER.
+AERIS. INTEMPERIEM. SERENARVNT
+S. P. Q. L.
+VOTIS. X. VOTIS. XX. ARDENTISSIMIS.
+L. M.
+HANC. ARAM.
+P.</p>
+                  </quote>
+                  <p>
+                     <pb facs="14"/>
+And vpon the Gate being shut,</p>
+                  <quote>
+                     <p>IMP. IACOBVS MAX.
+CAESAR AVG. P. P.
+PACE POPVLO BRITANNICO
+TERRA MARIQVE PARTA
+IANVM CLVSIT. S. C.</p>
+                  </quote>
+               </div>
+               <div type="part">
+                  <p>_THus hath both Court-Towne-and
+Countrey-Reader, our por|tion
+of deuise for the Cittie; nei|ther
+are we ashamed to professe
+it, being assured well of the diffe|rence
+betweene it and Pagean|try.
+If the <hi>Mechanick</hi> part yet
+standing, giue it any distaste in the wrye mouthes
+of the Time, we pardon them; for their owne am|bitious
+ignorance doth punish them inough. From
+hence we will turne ouer a new leafe with you, and
+lead you to the <hi>Pegme</hi> in the Strand, a worke
+thought on, begun, and perfected in twelue dayes.</p>
+                  <p>
+                     <pb facs="14"/>
+_THe Inuention was a Raine-bow,
+the Moone, Sunne, and those sea|uen
+Starres, which antiquitie hath
+stil'd the <hi>Pleiades,</hi> or <hi>Vergiliae,</hi> ad|uanced
+betweene two Magnifi|cent
+Pyramid's of 70. foote in
+height, on which were drawne his Maiesties seue|rall
+pedigrees <hi>Eng.</hi> and <hi>Scot.</hi> To which body (be|ing
+framd before) we were to apt our soule. And
+finding that one of these seauen lights, <hi>Electra,</hi> is
+rarely or not at all to be seene, (as <hi>Ouid. lib. 4. Fast.</hi>
+affirmeth.
+<quote>
+                        <l>Pleiades incipient humeros releuare paternos:</l>
+                        <l>Quae septem dici, sex tamen esse solent.</l>
+                     </quote>
+And by and by after,
+<quote>
+                        <l>Siue quòd Electra Troiae spectare ruinas</l>
+                        <l>Non tulit: aute oculos opposuit{que} manum.</l>
+                     </quote>
+And Festus Auien.<note place="marg" anchored="true">Paraph. in Arat Phae|n●m.</note>
+                     <quote>
+                        <l>Fama vetus septem memor at genitore creatas</l>
+                        <l>Longaeuo: sex se rutila inter sider a tantùm</l>
+                        <l>Sustollunt, &amp;c.</l>
+                     </quote>
+And beneath
+<quote>
+                        <l>—cerni sex solas carmine Mynthes</l>
+                        <l>Asserit: Electram coelo abscessisse profundo, &amp;c.)</l>
+                     </quote>
+We ventred to follow this authoritie; and made her
+the speaker: presenting her hanging in the ayre, in
+figure of a Comet; according to <hi>Anonymus. Electra
+non sustinens videre casum pronepotum sugerit; vnde
+&amp; illam disso lutis crinibus prop●er luctum ire asserunt,
+et propter comas quidam Cometen appellant.</hi>
+                  </p>
+                  <floatingText>
+                     <body>
+                        <div type="speech">
+                           <pb facs="15"/>
+                           <head>The speach.</head>
+                           <sp>
+                              <speaker>Electra.</speaker>
+                              <l>THe long<note n="a" place="marg" anchored="true">
+                                    <hi>Fest. Aui. paraph. Pars ait Idae● def●ē|tem incen|dia Troiae, ●t numero|sa suae lugē|tem funerae gentis, E|lectram te|tris moestum dare nubi|bus orbem.</hi> Besides the reference to antiqui|ty, this speach might be vnderstood by Allego|rie of the Tovvne here, that had beene so ruined vvith sick|nesse, &amp;c.</note> Laments, I spent for ruin'd <hi>Troy,</hi>
+                              </l>
+                              <l>Are dried; and now mine eyes run teares of Ioy.</l>
+                              <l>No more shall men suppose <hi>Electra</hi> dead,</l>
+                              <l>Though from the consort of her sisters fled</l>
+                              <l>Vnto the<note n="b" place="marg" anchored="true">Hygi●us. Sed postquā Troia f●it capta, &amp; Progenies cius quae à Dardano fuit euersa, dolore permotam ab his se remo|uisse, &amp; in circ●●o qui A●cticus dicitur constitisse, &amp;c.</note>
+                                 <hi>Arctick</hi> circle, here to grace,</l>
+                              <l>And guild this day with her<note n="c" place="foot" anchored="true">
+                                    <hi>Electra</hi> signifies Serenity it selfe, and is compounded of <seg xml:lang="unk">〈◊〉 〈◊〉〈◊〉</seg> vvhich is the Sunne, and <seg xml:lang="unk">〈◊〉 〈◊〉〈◊〉</seg> that signifies se|rene. She is mentioned to be <hi>Anim● sphaerae solis,</hi> by <hi>Proclus. Com. in Hesiod.</hi>
+                                 </note> serenest Face▪</l>
+                              <l>And see, my<note n="d" place="foot" anchored="true">
+                                    <hi>She is also faind to be the Mother of the R●inbovv.</hi> Nascitur enim I●is ex aqua et sereni|tate, è refractione radiorū scilicet: Arist. in Meteorol.</note> daughter <hi>Iris</hi> hasts to throw</l>
+                              <l>Her Rose at wings, in compasse of a bow,</l>
+                              <l>About our state, as<note n="e" place="foot" anchored="true">Val. Flac. Argonaut. 1. <hi>makes the Rainbovv</hi> indic●m serenitatis. Emicuit res●rata di●s, coelum{que} resoluit. Arcus, &amp; in sum|mos redier unt nubila montes.</note> signe of my approch●</l>
+                              <l>Attracting to her seate from<note n="f" place="foot" anchored="true">
+                                    <hi>A name of the Sunne.</hi> Stat. The. lib. 1. torquentem corn●a Mithra●. <hi>And</hi> Martian. Capel. lib. 3. de nup. Mer. &amp; Phil. Te Serapim Nilus, Memphis vener●tur Osirin; Dissona sacra Mithran, &amp;c.</note>
+                                 <hi>Mithras</hi> coach,</l>
+                              <l>A thousand different, and particular hewes,</l>
+                              <l>Which shee throughout her body doth diffuse.</l>
+                              <l>The <hi>Sunne,</hi> as loath to part from this <hi>halfe spheare,</hi>
+                              </l>
+                              <l>Stands still; and <hi>Phoebe</hi> labors to appeare</l>
+                              <l>In all as bright (if not as rich) as hee:</l>
+                              <l>And, for a note of more serenity,</l>
+                              <l>My sixe<note n="g" place="foot" anchored="true">Alcyone,. Celaeno, Taygete, Asterope, Merope, Maia. <hi>vvhich are also said to bee the soules of the other sphaeres, as</hi> Electra <hi>of the S●nne.</hi> Proclus. ibi. in com. Al|cyone Vene|ris. Celaeno Saturni. Taygete Lunae. A|sterop. Iouis. Merope Martis. Maia Mer|curij.</note> faire Sisters hether shift their lights;</l>
+                              <l>To do this hower the vtmost of her Rites.</l>
+                              <l>Where least the captious, or prophane might doubt,</l>
+                              <l>How these cleare heauenly bodyes come about</l>
+                              <l>All to be seene at once; yet neithers light</l>
+                              <l>Eclips'd, or shadow'd by the others sight:</l>
+                              <l>
+                                 <pb facs="15"/>
+Let Ignorance know, great King, this Day is thine,</l>
+                              <l>And doth admit no Night; but all do shine</l>
+                              <l>As well nocturnall, as diurnall fiers,</l>
+                              <l>To adde vnto the flame of our desiers.</l>
+                              <l>Which are (now thou hast closd vp<note n="h" place="marg" anchored="true">Alluding backe to that of our Tēple.</note>
+                                 <hi>IANVS</hi> gates,</l>
+                              <l>And giu'n so generall peace to all estates)</l>
+                              <l>That no offensiue mist, or cloudie staine</l>
+                              <l>May mixe with splendor of thy golden raigne;</l>
+                              <l>But, as th' ast free'd thy<note n="i" place="marg" anchored="true">London.</note>
+                                 <hi>Chamber,</hi> from the noyse</l>
+                              <l>Of Warre and Tumult; thou wilt powre those ioyes</l>
+                              <l>Vpon<note n="k" place="marg" anchored="true">His Cit|ty of West|minster, in vvhose name, and at vvhose charge, to|gether vvith the Duchie of Lancaster this Arch vvas erected.</note> this Place, which claimes to be<note n="l" place="foot" anchored="true">Since here, they not only sate being Crovvnd, but also first receiued their Crovvnes.</note> the Seate</l>
+                              <l>Of all thy Kingly race: the Cabinet</l>
+                              <l>To all thy Counsels; and the iudging Chayre</l>
+                              <l>To this thy speciall Kingdome. Whose so faire</l>
+                              <l>And wholsome Lawes, in euery Court, shall striue</l>
+                              <l>By Aequity, and their first Innocence to thriue;</l>
+                              <l>The base and guiltie bribes of guiltier men</l>
+                              <l>Shall be throwne back, and Iustice looke, as when</l>
+                              <l>She lou'd the earth, and feard not to be sold</l>
+                              <l>For that,<note n="m" place="foot" anchored="true">Hor. Car. lib. 4. Ode. 9. Ducentis ad se cun●ta pecuniae.</note> which worketh all things to it, Gold.</l>
+                              <l>The Dam of other euils, Auarice</l>
+                              <l>Shall here lock downe her Iawes, and that rude vice</l>
+                              <l>Of ignorant, and pittied Greatnesse, Pride,</l>
+                              <l>Decline with shame; Ambition now shall hide</l>
+                              <l>Her face in dust, as dedicate to sleepe,</l>
+                              <l>That in great Portalls wont her watch to keepe.</l>
+                              <l>All ills shall flie the light: Thy Court be free</l>
+                              <l>
+                                 <pb facs="16"/>
+No lesse from Enuie, then from Flatterie;</l>
+                              <l>All Tumult, Faction, and harsh Discord cease,</l>
+                              <l>That might perturbe the musique of thy Peace:</l>
+                              <l>The querulous Nature shall no longer finde</l>
+                              <l>Roome for his Thoughts: One pure concent of minde</l>
+                              <l>Shall flowe in euery brest, and not the Ayre,</l>
+                              <l>Sunne, Moone, or Starres shine more serenely faire.</l>
+                              <l>This from that lowd, blest <hi>Oracle,</hi> I sing</l>
+                              <l>Who here, and first pronounc'd, thee <hi>Brittaines</hi> King</l>
+                              <l>Long maist thou liue, and see me thus appeare,</l>
+                              <l>As omenous<note n="n" place="marg" anchored="true">
+                                    <hi>For our more au|thoritie to induce her thus, See</hi> Fest. Auien. paraph. in Arat. <hi>spea|king of</hi> Electra, Nonnumquam Oceani tamen istam surgere ab vndis, In conuexa poli, sed sede carere sororum; Atque os discretum procul edere, detestatam Germanos{que}, choros sobolis lachrym●re ruin●s, Diffusam{que} comas c●rni, crinisque soluti Monstrari effigie, &amp;c.</note> a Comet, from my Spheare,</l>
+                              <l>Vnto thy raigne; as that<note n="o" place="foot" anchored="true">All Comets vvere not fatall, some vvere fortunatly ominous, as this to vvhich vve allude; and vvherefore vve haue <hi>Plinies</hi> testimonie. <hi>Nat. Histo. lib. 2. cap. 25. Cometes in vno totius orbis loco colitur in templo Romae, admodum faustus</hi> Diuo Augusto <hi>iudi|catus ab ipso: qui incipiente eo, apparuit ludis quos faciebat</hi> Veneri <hi>Genetrici, non multo ●ost obitum patris Caesaris, in Collegio ab eo instituto. Nam{que} his verbis id gaudi|um prodidit.</hi> Iisipsis ludorum meorum diebus, sydus crinitum per septem dies in regione Coeli, quae sub septentrionibus est, conspectum. Id oriebatur circa vnde|cimam horam di●i, clarumque &amp; omnibus terris conspicuum fuit. Eo sydere signi|ficari vulgus credidit, <hi>Caesaris</hi> animam inter Deorum immortalium numina recep|tam: quo nomine id insigne simulacro capitis eius, quod mox in foro consecraui|mus adiectum est. <hi>Hec Ill● in publicum, interiore gaudio sibi illum natum, se{que} in co||nasci inter pretatus est. Et si verum fatemur, salutare id terris fuit.</hi>
+                                 </note> did auspicate</l>
+                              <l>So lasting glory to <hi>Augustus</hi> state.</l>
+                           </sp>
+                        </div>
+                     </body>
+                  </floatingText>
+                  <trailer>The end.</trailer>
+               </div>
+            </body>
+         </text>
+         </TEI>
+

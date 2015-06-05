@@ -1,0 +1,2312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+					 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Comedies and tragedies written by Thomas Killigrew ...</title>
+            <author>Killigrew, Thomas, 1612-1683.</author>
+         </titleStmt>
+         <extent>325 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2004 November (TCP phase 1)</date>
+            <idno type="marc">12417588</idno>
+            <idno type="stc">Wing K450.</idno>
+            <idno type="vid">61734</idno>
+            <idno type="DLPS">A47372</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Comedies and tragedies written by Thomas Killigrew ...</title>
+                  <title type="alt">Works. 1664</title>
+                  <author>Killigrew, Thomas, 1612-1683.</author>
+               </titleStmt>
+               <extent>[9], 8 [i.e. 5]-576, 80 p. : port.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Henry Herringman ...,</publisher>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Each play has special t.p. and is dated 1663.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+            <front>
+               <div type="dramatis_personae">
+                  <list>
+                     <pb facs="309"/>
+                     <head>The Names of the Actors:</head>
+                     <item>The Kings of <hi>Sicily.</hi>
+                     </item>
+                     <item>
+                        <hi>Eumenes,</hi> the Sicilian General.</item>
+                     <item>
+                        <hi>Sortanes</hi> and <hi>Cleon</hi> Two Sicilian Lords.</item>
+                     <item>
+                        <hi>Philon,</hi> a Sicilian Lord, Kinsman to the King.</item>
+                     <item>
+                        <hi>Theagines,</hi> Judge of <hi>Sardinia.</hi>
+                     </item>
+                     <item>
+                        <hi>Memnon,</hi> Chief Priest of <hi>Sardinia.</hi>
+                     </item>
+                     <item>
+                        <hi>Hipparchus</hi> and <hi>Pausanes</hi> Now Prisoners, the lost Sons of <hi>Memnon</hi> and <hi>Theagines.</hi>
+                     </item>
+                     <item>
+                        <hi>Gallippus,</hi> a banished Sicilian Lord, now a Pirat.</item>
+                     <item>
+                        <hi>Zenon,</hi> alias <hi>Pelius,</hi> a disguised Lord of <hi>Sardinia,</hi> in love with <hi>Zenonia,</hi> a Lady of <hi>Eucratia</hi>'s, who was abus'd by <hi>Eumenes,</hi> the Sicilian General.</item>
+                     <item>
+                        <hi>Dyon</hi> and <hi>Cremnofeild</hi> Two Sardinian Commanders.</item>
+                     <item>
+                        <hi>Procles,</hi> an old common Souldier.</item>
+                     <item>Boat-swain.</item>
+                     <item>Sailers.</item>
+                     <item>Slaves.</item>
+                     <item>
+                        <hi>Lysimella,</hi> Sister to the King of <hi>Sicily.</hi>
+                     </item>
+                     <item>
+                        <hi>Leucanthe,</hi> Daughter to <hi>Theagines.</hi>
+                     </item>
+                     <item>
+                        <hi>Eucratia,</hi> Daughter to <hi>Memnon,</hi> beloved of the King of <hi>Sicily.</hi>
+                     </item>
+                     <item>
+                        <hi>Eugene, Lysimella</hi>'s woman.</item>
+                  </list>
+                  <p>The Scene <hi>SARDINIA.</hi>
+                  </p>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="act">
+                  <pb n="49" facs="309"/>
+                  <head>THE PRISONERS, A TRAGI-COMEDY.</head>
+                  <div n="1" type="scene">
+                     <head>ACT. I. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter the</hi> King <hi>of</hi> Sicily, Sortanes, Eumenes, <hi>and</hi> Cleon.</stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>ARe the Gallies come from <hi>Rhodes?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Eumenes.</speaker>
+                        <p>Yes, Sir; they arriv'd this evening.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Then w'are all in readiness; and if the gods smile upon us, those proud Sisters shall find they have pull'd down fire by playing with my anger; thus to pretend a vow to peace, and feign a Law by which they're bound not to arm but in their own defence: come, 'twas treacherously design'd; and since in our greatest danger they could leave us to that sudden ruine that then threatned all our Nation with a forreign yoke, they shall find (now our vertues have wrought through that storm) what enemies we can be, whose friendship they have despis'd; till in their bosoms I have thrown all those miseries of war, whose single name was such a terror to them; but where's our Sister? did you call her, <hi>Cleon?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Cleon.</speaker>
+                        <p>She went this evening, in her Galley, to take the air.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>When she returns tell her, I must speak with her.—And (d'you hear?) <hi>Eumenes!</hi> let all things be in readiness to put to sea, with the morning tide. The wind stands fair still?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eumen.</speaker>
+                        <p>Yes, Sir; the wind's south.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>What said the Captain of the Galley that you took, had they notice of our intent?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eumen.</speaker>
+                        <p>Yes, Sir; he says they had intelligence, but they are so unprepar'd for war that the knowledge was no advantage; they received it as men stabb'd in their sleep, that wake only to find their dangers certain.</p>
+                     </sp>
+                     <sp>
+                        <pb n="50" facs="310"/>
+                        <speaker>King.</speaker>
+                        <p>Their falshoods have begot their fears, and now like co|wards they fall upon their own swords. <hi>Eumenes,</hi> let the slaves be well fed to night.</p>
+                     </sp>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. I. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter</hi> Lysimella, Philon, Eugene, <hi>and three Souldiers, being chased ashore by Pyrats.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Philon.</speaker>
+                        <p>FLy Madam, save your self while we with our faiths op|pose the pursuers; for know, <hi>Philon</hi> will lay his body a willing sacrifice to intercept your danger.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysimel.</speaker>
+                        <p>Oh Cozen, which way shall we take? I know not where we are; why did you land here? he durst not have pursu'd us to the harbour; my Brothers fleet, now in readiness to depart, would have protected us.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eugene.</speaker>
+                        <p>This way the slave ran that went to call for aid. <stage>Pyrats with|in cry follow, follow.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Philon.</speaker>
+                        <p>Hark, Madam, w'are pursu'd; 'tis now no time to talk, upon my life, it is <hi>Gillippus,</hi> and the bold Pyrat I fear knows the value of the prize he hunts.</p>
+                     </sp>
+                     <stage>[Within follow, follow.</stage>
+                     <sp>
+                        <speaker>Lysimel.</speaker>
+                        <p>They come, take some other way, and try if you can divert their chase whilst we take Covert in these woods.</p>
+                     </sp>
+                     <stage>[Exeunt omnes.</stage>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>ACT. I. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter</hi> Gillippus, Hipparchus, <hi>and Souldiers of their party.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>FOllow Mates, for we have in chase the wealth of King|doms; one whose maiden mine the gods would dig in, nor has her virgin earth been wounded yet for that precious me|tal, but keeps her Indies still unconquer'd; if we gain her, we need sail no more to find uncertain fates; she's prize enough.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>Slip not this opportunity then; you know not how long fortune will Court us; which path took she?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>I know not; let us divide our selves; I'll take this.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Gillippus.</stage>
+                     <stage>
+                        <hi>Enter</hi> Pausanes, <hi>and meets</hi> Hipparchus.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>
+                           <hi>Hipparchus, Hipparchus;</hi> what glorious things were those that fled us, as if we durst hurt 'em?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>They were handsome women, man.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Were they but women?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>But women! no, but women.—What ail'st thou?</p>
+                     </sp>
+                     <stage>[Pausanes <hi>stands with his eyes fix'd on the ground.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>I'me sure they are more then man; for I never saw any of that sex that made me tremble, yet these did; and with a cold fear the memory dwells in my breast still.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>What? thunder-struck by a woman! courage, man.
+<pb n="51" facs="310"/>
+Black eyes though they lighten yet they do not use to shrink our <stage>He shakes him.</stage> hearts in the scabbard.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>These do not use to fight, do they?—If they do, by all <stage>Hipparchus <hi>laughs.</hi>
+                           </stage> the gods, they'le conquer me; oh <hi>Hipparchus,</hi> do not mock my misery; but tell me, hast thou seen many such? are such formes usual amongst'em? this has <hi>Medusas</hi> power, in a beauteous form, and I am chang'd to weeping Marble.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>By this good day, he's in love; could I be so, how hap|py should I be; for I have been pretty lucky in the sex; and could I have lov'd all that I have lain with, what a share of heaven should I have had?—Look how he stands now! <hi>Pausanes!</hi> what dost mean, let fall thy weapon when thou pursu'st a Wench?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>A Wench! what's that? I thought of none.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>What is a Wench? why, the greater part, and the hand|somest; and that they are not the better part of woman, is yet to be disputed.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>How canst thou distinguish 'em? how dost thou know a Wench?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>How do I know'em? several ways, but the best and certain'st, is by feeling 'em.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>But that I know from our rocking in the Cradle it still has been so, I should wonder how we two came to be friends; ther's such contrarieties even in our natures, that both looking on one and the same heavenly form, we should thus from the same subject draw such different thoughts; for whilst I was Philosophy|sing upon her diviner part, and preparing how to worship her, thou wert casting to pollute her; but, prithee tell me, were it not better to find those beauties that adorn her, the cloathing of a perfect goddess, then such a falling image?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>Faith, in serious thoughts (which handsome women ought not to be mingled with) worship is a good thing; but to have them worship me I should think were better.—But, prithee put off this serious discourse now; this is no time to talk when we have such prey in chase.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Fare thee well; but that I know thee stout, faithful to thy friend, and one that speaks worse of himself then any other dares, I'de tear thee from my bosome; but when I know this, and how strictly thou wilt pay thy vows to honour, thou shalt dwell for ever here.</p>
+                     </sp>
+                  </div>
+                  <div n="4" type="scene">
+                     <head>ACT. I. SCEN. IV.</head>
+                     <stage>
+                        <hi>Enter</hi> Gillippus, <hi>following</hi> Lysimella.</stage>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>YOu are very fair; let that remove your wonder, how I dare again gaze upon that excellence.—Why do you frown? is it your innocence, or your beauty, that you mi|strust? <stage>She fr●wns.</stage> that thus you arm your self with anger to defend you: Pray leave to be an enemy, you see that could not protect you.</p>
+                     </sp>
+                     <sp>
+                        <pb n="52" facs="311"/>
+                        <speaker>Lysimel.</speaker>
+                        <p>No, Monster; 'tis not to see thee play thy part that troubles me; but to think that heaven fails in hers, thus to leave vertue without a guard, while lust and rapine grow strong in mis|chief; as if the innocent were created white, only to be fit to take the murtherers purple.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>As you have mercy remove that threatning danger; <stage>He kneels.</stage> that ruine in your curl'd brow, and in justice (which your anger cannot know) weigh my action and cross fate together; then call to mind how severely I was punish'd for a single fault, a fault that my love pleaded for, but did not excuse; and when you have found that blot in my story, if you are equal you must confess all my life, to that hour, paid you an humble and a faithful service, and to the King my Master a ready hand, and a loyal heart; nor could he urge any thing against my pretence, but that I was born his subject; yet that I could willingly have undergone, and all things else but your scorn, which still left me to my despairs, I had else waited my fortune, and not by force attempted to have gain'd my wishes.—Oh Madam, had you not bow'd me that way, but try'd what I could have suffer'd for you, not from you, 'twould have started your soft soul to have seen me suffer that would through a thousand hazards have courted your favour till I had faln your Beauties Martyr.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysimel,</speaker>
+                        <p>Away; thy oyly tongue, nor bloody hand can prevail, thy slattery and thy force; I am by my resolutions above both, for Love and his soft fire thou never felt'st it, nor know'st that god but by the name: These thy false stoopings conclude thou canst not worship, that thus durst again by force attempt me; that heart that truly loves nobly suffers; and knows that god of passion is to the longing soul both the hunger and the food; and if his hea|ven be not reach'd by knees, their hands dare not, nay cannot; yet may'st thou live to love, and me, I wish it not to glory in, but to punish thee.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>Are you so resolv'd? then I'll kneel no more; but frow|ning gather all thy sweets; begging Lovers teach women a way to deny, <stage>Her● is up.</stage> which else they durst not know—(A slave there) <hi>Hippar|chus,</hi> take to your charge this fair folly, and as your eyes look to <stage>
+                              <hi>Ent●●● Sl●●e and</hi> Hippar|chus.</stage> her; let not her face betray your faith; away, I say, convey her to the Galley, there my Empire will begin.</p>
+                     </sp>
+                     <stage>[The slave binds her.</stage>
+                     <sp>
+                        <speaker>Lysimel.</speaker>
+                        <p>Think'st thou thy threats can fright me? no, I cannot so much doubt the care of heaven, as to think that power, whose providence considers the fall of every little Bird, will sleep now, and o'resee the ruine of a Kingdom; no, Monster, I defie thee.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>Away to the Galley; there, when we have got the booty, I'll meet you.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>'Tis a lovely form; with what a scorn she bears her fortune!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysimel.</speaker>
+                        <p>Sir, I am but a stranger to you; yet if you durst disobey this bad man, and give me freedom, I will not say I can reward such a benefit; but I am certain I can be grateful; can you do it?</p>
+                     </sp>
+                     <sp>
+                        <pb n="53" facs="311"/>
+                        <speaker>Hippar.</speaker>
+                        <p>If I durst be dishonest, Madam, I think I could.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysimel.</speaker>
+                        <p>Dishonest, Sir! if it were not mine own cause I would dispute the act; but since'tis for my self, I'll urge no more; for know I can with less pain be a prisoner then twice beg my free|dom; obey him, Sir.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>With pain and blushes, Madam, I shall.</p>
+                     </sp>
+                     <stage>
+                        <hi>[They meet</hi> Paus.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Ha! 'tis she, and bound, <hi>Hipparchus!</hi> whither dost thou lead that innocence?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>Our Captain deliver'd her to me, with command to car|ry her to the Galley.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Hold, <hi>Hipparchus,</hi> at what price hast thou accepted this unbecoming office? 'tis not like thy self; the brave hunter dotes not upon the quarry; nor had <hi>Hipparchus</hi> wont to fight for spoil.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>Nor do's he now; nor ever shall so faulty a conquest hang upon my name as to make me blush the victory: She was de|liver'd me a pris'ner by our Captain, as the Jewel of his soul; and she can witness that to my faith he left the securing her to the Galley; and <hi>Pausanes</hi> knows <hi>Hipparchus</hi> dares not break a trust.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Alas! thou mistak'st this service; for to do this act is breaking trust with heaven; thou break'st with the gods, thou break'st with them that gave thee credit for thy courage, and thine honour, and sent thee forth their Souldier to fight for them; and this is their day of Battle; here's the vertue on whose side thou ought'st to bleed, the innocence in whose cause they bid thee dye to live a conqueror with them; now thou flyest, now thou runn'st away; <hi>Hipparchus</hi> flies, meanly vanquished, as if by a pannick fear terror-struck, for he is beaten by a mistake, and conquers for his enemy, while he loses his same at home.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>Hold, what means <hi>Pausanes</hi> thus with injurious words to wound his friend?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>I injure thee! I wound <hi>Hipparchus!</hi> I throw a scandal upon my friend! ye gods strangely punish <hi>Pausanes</hi> when he do's so.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>What do you less, when you upbraid me for my faith, and with art of words labour to make me appear faulty? as if you did not know the law by which we are bound is not alike with freemen; we are his slaves, and for our loyalty have been re|warded with these priviledges above our fellows; would'st have me kill the cause of his bounty, and in justice, for my treachery, become a slave, and make that which was my fate my punish|ment? I tell thee, <hi>Pausanes,</hi> I could not be free here, should I do this act.</p>
+                     </sp>
+                     <stage>[Lays his hand upon his breast.</stage>
+                     <sp>
+                        <speaker>Lysimel.</speaker>
+                        <p>Defend me, ye powers, from this youth; his honour brings greater dangers then the traytors bands. Sir, pray plead <stage>
+                              <hi>She looks on</hi> Pausanes.</stage> no more for me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Thou see'st how tamely I have pleaded, and in calmness urg'd my reasons; once again, by our wounds and blood so oft to|gether shed that their mixtures have in their fall upon the earth <stage>Hipparchus <hi>offers to go.</hi>
+                           </stage> begot a kind of kindred, by all our miseries which still have been ally'd, by our friendship I conjure thee, give me her freedom.</p>
+                     </sp>
+                     <sp>
+                        <pb n="54" facs="312"/>
+                        <speaker>Hip.</speaker>
+                        <p>I see thou hatest me, else my Reasons would prevail, and thou wouldst leave to prefer a Pris'ner or a Face before thy Friend, and his faith given; and therefore know, though your friendship do plead, when 'tis thus wilfully against mine Honour, I can be deaf.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Thou canst be any thing, and I can weep to finde it: Ye Gods! would I have us'd <hi>Hipparchus</hi> thus?—O Heavens! that ever I should call thee Friend!<hi>—Hipparchus,</hi> stay; I have one <stage>Hip. <hi>offers to go away:</hi> Paus. <hi>draws.</hi>
+                           </stage> Argument still left, unbinde her or guard yourself.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>
+                           <hi>Pausanes!</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Your Sword.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Hear me speak.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>No words, her freedom or your Sword.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Why then I draw; and <hi>Pausanes</hi> knows I will not be beaten into an opinion; and since thou hast drawn thy Sword I will not yield her, my honour forbids me. Thou art injurious to think thy force can prevail beyond thy Reason and thy friendship; for I tell thee, <hi>Pausanes,</hi> thy anger should not start me if I could make thee an Enemy.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Defend your self.</p>
+                     </sp>
+                     <stage>[They fight, and are both wounded.</stage>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Will you yet give me leave to be faithfull?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>No, <hi>Hipparchus</hi> hunts his will, not his faith.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lis.</speaker>
+                        <p>As you have honour hold, and let a Virgins tears that shall fall to Seas divide your anger but till my Prayers can confirm your friendship.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Here</hi> Hipparchus <hi>gets</hi> Pausanes <hi>down.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Look upon her tears and these wounds, whose anguish thy friendship not thy sword brings, and then weigh the act: I would thou hadst been ten Enemies rather than one Friend, to have disputed this cause.</p>
+                     </sp>
+                     <stage>[Hipparchus <hi>disarms him.</hi>
+                     </stage>
+                  </div>
+                  <div n="5" type="scene">
+                     <head>ACT. I. SCEN. V.</head>
+                     <stage>
+                        <hi>Enter</hi> Gillippus, Zenon, <hi>and Souldiers.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>MAke all possible speed aboard with the Booty, they pursue us close—Command <hi>Hipparchus</hi> and <hi>Pau|sanes</hi> ashoar to guard us; Tell 'em our Scouts are beaten in, and the Kings party presseth upon us—Ha! what means this? What makes she ashoar?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>That which thou canst not make aboard; she has made an honest man; and if thou dar'st make another she may have two Friends.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>
+                           <hi>Hipparchus,</hi> resolve this Riddle.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>This woman whom you gave to my trust <hi>Pausanes</hi> would have releas'd; and when his Arguments, as Friend, could not pre|vail, meanly, he threw off his faith, and by force attempted to take her from me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Slave, did I for this prefer thee when at the Sack of <hi>Tunis</hi> thou becam'st my Pris'ner, and by thine own confession wert a thing without a name, and couldst neither from men nor countrey
+<pb n="55" facs="312"/>
+claim a being? now thy Treachery shall make thee as dark an <hi>Exit</hi> as thy base soul had entrance.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>I scorn thy threats, from this death I shall begin to live; till now I lay wrapp'd in rust, and the Canker fed upon my fame; from this act I shall adopt a name which till this minute I despair'd of since that fatal day in which old <hi>Perseus</hi> fell, in whom onely liv'd that knowledge we so hunt for; and <hi>Hipparchus,</hi> if thou con|tinuest thou'lt be asham'd to finde. For the bounties thou urgest, <hi>Gillippus,</hi> what were they but making us a better kinde of Slaves, commanded Commanders, empaling our free souls so that we could employ but one virtue, our courage, since we serv'd thee; and that has thrown us into dangers honour would be asham'd to own, and brought wounds that leave these blushing scars. This, when <hi>Hipparchus</hi> has let fall his passion, will make him tremble to finde he could not fear but bleed for a Traitor, and struck against a virgins honour, and in his rage sold his Friend to buy his will: Then, then, <hi>Hipparchus,</hi> the wounds thou now art proud of will <stage>
+                              <hi>He turns to</hi> Lisimelia.</stage> hang upon thee with more dishonour than thy Chains; for me, I smile at the chance; for though I have mist my first freedom yet I have found my last wounds.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Ha!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Villain, hast thou not yet enough laid open thy treacherous soul? Art not satisfy'd to be false thy self, that thus thou labour'st to shake his try'd faith? <hi>Hipparchus,</hi> kill him, kill ev'n his memo|ry, that the ingrateful Slave may fall like a Dog, and leave no name behinde him—yet hold, he shall not dy so nobly, nor finde such <stage>The slaves of|fer to kill him</stage> mercy in his fall: <hi>Hipparchus,</hi> Strip the Slave, and upon a Tree stretch the Traitor's body; there let him hang alive like the con|demn'd fruit to the fruitless Tree, doom'd thither to live a death; and would count that Murder that threw him there Mercy, if it would come and break the snare.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lis.</speaker>
+                        <p>Bloudy Villain, dar'st thou command this with a belief thou shouldst be obey'd? What is he that has so much Hell about him, that dares execute what thy bloudy rage imposes?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Gentle Soul, plead not for <hi>Pausanes,</hi> nor grudge him this glorious end; for now I fall, what I could not have liv'd with him, Honour's servant.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Away with him, and see it done; or by the Gods he pulls his own fate down that disputes it.</p>
+                     </sp>
+                     <stage>
+                        <hi>[The Slaves seize</hi> Pausanes, Hipparchus <hi>stays 'em.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>He that trembles at death let him dy; 'tis just. Hold—Sir, witness my wounds, I dare be loyal; and when my faith was given I swom through the Streights of Friendship to serve you; yet though I did this, because my faith was given, and Honour told me I was in the right; Do not think I will be so faulty to my Friend as to start at your frown more than his sword, or be fright|ed to the Murder of my Brother.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Ha! what's this?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>No, <hi>Gillippus,</hi> I have no such aguey courage, nor comes my honour so by fits. Know, though I durst not break my trust, yet. I
+<pb n="56" facs="313"/>
+dare disobey your impious commands: nor can you call it Trea|chery when to your face I disavow it: Frown not, for whilest I have mine old guide, Honour, there's no act brings so dark a hazard but <hi>Hipparchus</hi> will strike a fire from it shall light him through.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>My Rage, whither wilt thou hurl me? Draw, Mates.—Villains, though my anger has lost her tongue, yet her hands are <stage>Gill. Zenon <hi>and the slaves draw.</hi>
+                           </stage> left still; and those in wounds shall print on your wretched bodies my Revenge.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>There, defend thy self; Fear not, Madam, these are our Enemies.</p>
+                     </sp>
+                     <stage>[Hip. <hi>returns</hi> Paus. <hi>his sword, they defend themselves.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Now I have my wish.</p>
+                     </sp>
+                     <stage>[Paus. <hi>steps to</hi> Lys. <hi>and unbindes her,</hi> Gil. <hi>wounds him.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>At this rate take it.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Think'st thou I would not buy her freedom when my bloud could purchase it? Have I liv'd as if I fear'd wounds? thou canst scarce be mine Enemy after this favour. O that I could kiss it, thou shouldst kill me ere I would take my lips from it.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>For what fate I am reserv'd I know not, but I am re|solv'd to shun this if it be possible—Help, Rape, Murder, Mur|der.</p>
+                     </sp>
+                     <stage>[She runs out, and meets the King her Brother.</stage>
+                     <stage>
+                        <hi>Enter the King, and Souldiers, they beat off</hi> Gillippus <hi>and</hi> Zenon, <hi>and take</hi> Hipparchus <hi>and</hi> Pausanes.</stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Binde these, and pursue the rest. Sister, well met, Come you along with me.</p>
+                     </sp>
+                     <stage>[Exeunt omnes</stage>
+                  </div>
+               </div>
+               <div n="2" type="act">
+                  <div n="1" type="scene">
+                     <head>ACT. II. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter the King,</hi> Lysimella, Philon, Sortanes, Cleon, Hipparchus, <hi>and</hi> Pausanes <hi>bound, with a Guard.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>YOu are my Sister, but I beg you will urge me no more; thy softness was betray'd, and because they were pe|nitent thou thought'st them innocent; I tell thee, <hi>Lysimella,</hi> if they could have hop'd to have born thee hence thou shouldst have seen Lust and Pride flow naturally in them; 'twas their fear made them fawn; Away with them to the Galley.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Our fears?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Had we scap'd misfortunes till we met fears, thy Army, King, might have found a Grave ere they had seen us bound; and to let thee see we have no shaking souls, this threatn'd misery shall not make us or fear or fawn on thee.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Peace, <hi>Hipparchus,</hi> let him see us dy ere touch an Oar; 'twill resolve him what we dare do.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Has my Brother lost all his nature? Then I shall not wonder that I have lost the interest of a Sister. Can you be a King and have <stage>
+                              <hi>They offer to lead</hi> Hip. <hi>and</hi> Paus. <hi>away.</hi>
+                           </stage> neither mercy nor justice? Farewell; henceforth I may obey but ne're approve your acts—Hold, <hi>Sortanes;</hi> Sir, look upon their
+<pb n="57" facs="313"/>
+wounds; ye gods! ought any thing that chance owns make men fall so low that we esteem'em less than beasts? See, they bleed still; Can you leave'em like Dogs to lick these wounds, whose ev'ry drop of bloud, I can witness, fell a sacrifice to honour: O 'tis a fault, a fault (I fear) the Gods will punish; as if men in misery had no souls, or slaves did not upwards look.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Hold, <hi>Sortanes,</hi> unbinde 'em. Sister, they are your Pri|soners, and as you please dispose of 'em, and think not my nature cruel, or that I frown'd upon them, for Kings do often so upon the fault when they pity the man; yet if I get the head of this Serpent, <hi>Gillippus,</hi> he shall finde our justice with its full weight but we'll crush him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Now I kneel to you, Sir.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>What means my Sister? Rise, my occasions give me leave onely to say Farewell; this accident has retarded me some hours beyond my resolution. Till my return my power I leave with thee, my Sister—And <hi>Philon,</hi> obey her as my self.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>The Gods guide and bless the King.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>
+                           <hi>Sortanes,</hi> command the Officers aboard, and give order the Galleys be all loose with the next Tide.</p>
+                     </sp>
+                     <stage>[Exit King.</stage>
+                     <sp>
+                        <speaker>Lysimel.</speaker>
+                        <p>Cosin <hi>Philon,</hi> pray let your care provide for those men.</p>
+                     </sp>
+                     <stage>[She looks back as she goes out. Exit.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>O <hi>Hipparchus,</hi> I am lost ere I have found my self, and have fought for bonds; Come my Friend.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>That title confirms my life; for now I finde my rage did not destroy my self, and through thy wounds let out thy friend|ship, with joy I live to redeem my fault.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>O <hi>Hipparchus!</hi> This be my witness, thy friendship grows here, nor wert thou faulty at all to me, nor do I want an Argu|ment <stage>They imbrace</stage> for what I did; thou hadst Reason, and I had Love to plead; Love whose power yet thou never felt'st; but when thou shalt finde he is undiscern'd got in, and in thy bosom displays his fiery wings, then like me with all that light thou'lt finde thou arti'th' dark, and thus stoop to a willing yoak, sighing for what thou wouldst not part with. These, these, <hi>Hipparchus,</hi> are the wounds I fear; those the Sword makes are remedies, and if deep enough bring a certain Cure.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>This way, Gentlemen.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>We shall follow, Sir.</p>
+                     </sp>
+                     <stage>[Exeunt omnes.</stage>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. II. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter</hi> Eucracia, Leucanthe, Dion, Gillippus, Cremnofeild, <hi>and</hi> Zenon.</stage>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>NOble <hi>Gillippus,</hi> thus to venture your self and fortunes in our hazard is an obligation we know not how to pay; for the preparation you speak of brings our certain ruine, if by treaty we cannot appease his fury.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Pray, Madam, from whence springs his anger?</p>
+                     </sp>
+                     <sp>
+                        <pb n="58" facs="314"/>
+                        <speaker>Euc.</speaker>
+                        <p>'Tis just you know the cause of this War that thus venture your self into the dangers of it: this Island blest beyond our Neighbours with a fruitful peace drew us into a consideration how we came to be so happy; and in the search we found Ambi|tion had no dwelling here: for our custome admits no one man chief, which kept all from that sin: our Government is here in the hand of a Priest and Judge, which are chosen by lot, not facti|on; and their power remains to them during life, if they obey our Laws; the breach of one of which Laws has begot this danger; for when our Predecessors made their vow to peace, a Law was then enacted to prohibit our taking Arms but in our own de|fence.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leu●.</speaker>
+                        <p>This Law the King credits not; for when we return'd it as the Reason that forbad us to yield that aid to him he then im|plor'd, he says we urg'd it but to hide our Treachery, and con|cludes we assisted his Enemy because we would not fight for him; so that now having labour'd through that storm that threatn'd <hi>Si|cily</hi> his rage bends this way.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dion.</speaker>
+                        <p>And at a time when we have neither Arms nor Counfel to defend us: now, Madam, the punishments your Fathers have call'd down pursue us banish'd for abusing the Oracle and trust repos'd in them. <hi>Theagines</hi> being chief Judge and <hi>Memnon</hi> chief Priest of this Island, their Counsel and your Brothers swords were aids, which we shall best finde when to our despairs we feel the want.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cremn.</speaker>
+                        <p>Yet let us not quit our selves when we must fall; the dearer we sell our lives the greater fame will wait us; nor have our men forgot to fight, though we have left to invade.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Spoke like a Souldier: How is the Town fortifi'd towards the Harbour? for there your danger will begin.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cremn.</speaker>
+                        <p>'Tis no regular Fortification, yet 'tis in defence.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Madam, I beseech you remove your fears, they are ill <hi>omens</hi> here: Speak, Courage, you know not what Miracles we may act; the night comes on apace, pray retire to your rest, while <hi>Cremno|feld, Dion</hi> and my self, go set the Watch, and provide for the enter|tainment of these strangers that come so rudely without in|viting.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>We'll go and joyn our strength of prayer with our Arms, which I hope will protect us, though they fail to conquer them.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>I'll but order my Galleys to joyn with yours, and be ready in the Harbour to board 'em as they come stragling in, then I'll meet you upon the Guard.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dion.</speaker>
+                        <p>
+                           <hi>Eucratia</hi> is the Word to night, Farewell.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Ex. all but</hi> Gil.</stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Farewell, shallow Fools. Think ye <hi>Gillippus</hi> will sell his bloud for airy honour? No, 'tis Revenge or the satisfying some other Lust engages; me therefore, I'll to my Galley, and while this dark protects us command <hi>Zenon</hi> to lanch from the Harbour, and in a little Creek ly loose and undiscover'd with his Galley, 'tis wis|dom to secure a Retreat; nor will I again put my happiness in the power of Slaves whose Treachery wrack'd my soul, and depriv'd
+<pb n="59" facs="314"/>
+me of the pleasures I had promis'd to my self, in the embraces of the fair <hi>Lysimella:</hi> but these faces have remov'd that pain; for he that like me loves beauty, where e're he meets it sows his Love, and when he enjoys it reaps his Mistress.</p>
+                     </sp>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>ACT. II. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter</hi> Lysimella, <hi>and</hi> Philon.</stage>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>WAs the Fleet within sight of Land this morning?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>Yes, Madam, they hung about the Isle of <hi>Asmarae</hi> these four days, kept back by contrary Windes.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>When returns the Galley that came from my Brother?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>This Tide she puts off.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>This opportunity then will advance my Design. Have you fitted those Prisoners with a Disguise?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>Yes, Madam.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Hark, what's that, a Lute? Are they musical?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>One of 'em plays and sings.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Prithee, let's hear.</p>
+                     </sp>
+                     <lg>
+                        <head>A Song.</head>
+                        <lg>
+                           <l>
+                              <hi>FOnd</hi> Pausanes, <hi>let not thy Love aspire</hi>
+                           </l>
+                           <l>
+                              <hi>To a hope of coming higher:</hi>
+                           </l>
+                           <l>
+                              <hi>But let thy faith grow under a Cloud</hi>
+                           </l>
+                           <l>
+                              <hi>Of being not allow'd.</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>And still pursue thy Love till she like well</l>
+                           <l>To know it, but thou not tell:</l>
+                           <l>Next thy care must be, she not perceive</l>
+                           <l>Thou believ'st sh'has given leave:</l>
+                        </lg>
+                        <lg>
+                           <l>Thy love and suffrings thus being humbly told,</l>
+                           <l>And not a sigh too bold,</l>
+                           <l>Nor with a look speak, or let a fear be proud</l>
+                           <l>To be discern'd, lest thou love too loud.</l>
+                        </lg>
+                        <lg>
+                           <l>Whilest fairly thus thou do'st thy love pursue,</l>
+                           <l>Pretending nothing due:</l>
+                           <l>Who knows but that in time her heart may grow</l>
+                           <l>To wish thee well whether she will or no?</l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>By such soft steps as these and slow degrees,</hi>
+                           </l>
+                           <l>
+                              <hi>And ever on his knees,</hi>
+                           </l>
+                           <l>Pausanes <hi>still shall approach his bliss,</hi>
+                           </l>
+                           <l>
+                              <hi>But not come neer enough to miss:</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>But at a distance look and love;</hi>
+                           </l>
+                           <l>
+                              <hi>And see</hi> Lysimella <hi>far above:</hi>
+                           </l>
+                           <l>
+                              <hi>Yet not wish her descending to my sense,</hi>
+                           </l>
+                           <l>
+                              <hi>Or hope of meeting but by influence.</hi>
+                           </l>
+                        </lg>
+                     </lg>
+                     <sp>
+                        <pb n="60" facs="315"/>
+                        <speaker>Lysimel.</speaker>
+                        <p>Call him hither.—Now, <hi>Lysimella,</hi> arm thyself with <stage>
+                              <hi>Exit</hi> Philon.</stage> resolution, that thy sex may not still be call'd weak, nor thou yield to thy passion, lest this god in a cloud deceive thee, and force thee with his yieldings; he sings his actions, and acts his opinions, which makes him a dangerous friend here; he's one that bold|ly dares, yet humbly loves; he struck his Master, and bow'd to me; and when his rage had fill'd his eyes with fire, he sighing turn'd, and looking this way, in languishing streams quench'd their rising flames.—Oh power of honour! that makes this gal|lant in him, and honour in me not to return his love; it starts me to find honour pleas'd still to confound our Reason; and impose upon us an obedience to her Laws, when Nature and Reason plead against it; but see, they come.</p>
+                     </sp>
+                  </div>
+                  <div n="4" type="scene">
+                     <head>ACT. II. SCEN. IV.</head>
+                     <stage>
+                        <hi>Enter</hi> Philon, <hi>with</hi> Hipparchus <hi>and</hi> Pausanes, <hi>like common Souldiers.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>DO thou speak, while I collect my self; yet do not, why should I refuse by my disorder to speak her power? if <stage>
+                              <hi>He sees</hi> Lysi|mella <hi>and her woman.</hi>
+                           </stage> she deserve my love, I'me certain she may command my fears; nor is it a dishonour to shake here, 'tis not, I tell thee, <hi>Hipparchus,</hi> it is not; these are valiant fears, and I'll speak to her even what my heart sends out; for by my life, all that I resolved of I have quite forgot.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>But do not rashly tempt her to a scorn.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Scorn! Oh no, <hi>Hipparchus!</hi> if ever her softness hath felt Loves power she knows his proper language is free prose, and their distractions wrap the powerfull'st truth; confin'd Verse tells us they are too much themselves, nor is he afflicted who can com|pose his sufferings.—See where she stands.</p>
+                     </sp>
+                     <stage>[They kneel.</stage>
+                     <sp>
+                        <speaker>Lysimel.</speaker>
+                        <p>Rise, your freedom is the bounty of another, and the thanks not due to me; I sent for you to tell you my Brother is now upon a design for <hi>Sardinia,</hi> but has been staid by cross winds, so that you may o'retake him ere he lands, in a Galley which this morning is bound for him, and in this disguise striking on his party unknown, pay his bounty.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>Arm us, Madam, and you shall hear how deep we'll plow, how thick we'll sow their wounds too, but we'll reap the honour, my mistake has lost me in striking against your virtue; and now we are friends so that <hi>Pausanes</hi> and <hi>Hipparchus</hi> undivided draw, I think we shall not easily be o'recome; for give me leave to say we are not often conquered but by our selves: and then though <hi>Pausanes</hi> be victor, <hi>Hipparchus</hi> triumphs.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>We can be grateful, Madam, though not fortunate.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>That's my Q. pray, let me be thankful too, lest you think I can only counsel it: within this Cabinet I believe is in value as much <stage>
+                              <hi>She fetches a Cabinet and offers it to</hi> Hipparchus.</stage> as my person would have yielded at a Mart, if it be less, 'tis the mo|dest opinion I ought to have of mine own worth makes me faulty
+<pb n="61" facs="315"/>
+in the sum; for any other consideration take this too. <stage>She gives him a chain,</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>'Tis just, Madam, that you throw this scorn on me; for I confess the fault look'd as if I had fought for money: which opi|nion my refusal now I hope will remove.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Pray take it; why should you receive wounds for me?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>I do not let my self out to dangers, nor is it my trade to fight: wounds and blood are neither my daily labour nor the sweat of my brow; they are honours and pay themselves: if I have courage, 'tis a gift the gods sent me freely, and as their blessing freely I'll dispense it.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Your pardon, Sir, I meant no injurious upbraiding, for by my life I do not think you faulty: if you will not be rewarded, yet give me leave to supply your wants.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>I kiss your charity.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>What to give him I know not; Oh unequal Law, that binds us women, and forces me to let him perish, because I know how to save him! I must not stay, I know y'are friends, and what the one has is but the others store, I wish ye may be fortunate. My last words, e're I knew what you were.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>O stay! unbind me ere you go; and hear my soul labour'd with admiration of your beauties; but since I was blest with know|ledge of your diviner part, all your acts from honour sprung have collected those sparkes your eyes kindled; and th'are blown to a flame here, here it burns, and though this Altar (divinest) be built upon the meanest earth, scorn it not; for my offering shall be of the purest love; and my sighs shall constant incense breathe.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>What thou might'st have done I know not; but I'me sure thou canst not now, thou hast said too much: Go fight, fight, for thou know'st not how to love. Oh woman, woman, woman still!</p>
+                     </sp>
+                     <stage>[Speaks aside.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Not love! what stranger then is this that's got in here, and wanders so to seek; not love! 'tis he or cowardize crept in, no third cause can beget the fears, the tremblings I labour with; Oh! teach me how to know him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>That stranger when thou meet'st him at the eye thou wilt find he is conceiv'd in fire, and in an instant grows to perfect form; thence in fullness of time he takes his birth into the heart which is his world; there if he prove a healthy love he lives in silence, the tongue has no part 'ith birth of gallant loves; nor are they long liv'd that make their <hi>Exits</hi> that way; the true births of love know no delivery. But where they took their life through the eye, this is love: thine a short-liv'd passion, I fear.</p>
+                     </sp>
+                     <stage>(I fear spoke aside.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>My passions are no faults, Madam, when I master 'em; when we do not serve them we command admiration; or should I yield to 'em, could any passion be unbecoming that has so beauti|ful a cause as the fair <hi>Lysimella,</hi> who (I fear) has been us'd to such He|catombs of hearts, that my single one being but a slaves might well be scorn'd at your shrine; yet if you be that power that my thoughts have worship'd, you must confess he that offers all, though a beggar, sacrifices equal to a King. O turn not from me, but be <stage>She turns away.</stage>
+                           <pb n="62" facs="316"/>
+like those gods you bow to, which though they give and guard <stage>She turns away.</stage> our flocks, yet accept a Lamb.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Plead no more, if thou lov'st thou wilt prefer me; I must not, dare not understand, I am too much a party to hear him <stage>Aside.</stage> plead.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>O do not shew the several ways you have to wound: may the fire for ever inhabite in those eyes, but do not in frowns dart it this way.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Be gone then. And consider what thou suest for, a slave by his passion crowned, and a Princess by her inthron'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Do but believe I love, 'tis all I beg; strike me heaven, if I have so faulty a wish as to attempt the unshrining such a power, or would live to see your beauty fall from this vast national ador'd condition, to make them my petty houshold god. O say! do you believe I love?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Yes, yes; I believe and fear.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>O continue that friendly faith; I'll at a distance kneel, for 'tis a wealth I'll pray for, fight to keep, and weep to part with: and if that way of obtaining, that way of keeping, and this sense of <stage>Here he reve|rences and kneels.</stage> loss ask'd with a whole heart, and with a whole heart defended, but parted from with a broken one, can confirm it, all joys.</p>
+                     </sp>
+                     <stage>[She in passion interrupts him, and in disdain speaks, and leaves him.</stage>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Peace, be gone. <hi>Lysimella</hi> collect thy self, for thou art lost. O ye gods, would ye had given more, or that I had known less of honour.</p>
+                     </sp>
+                     <stage>[Pausanes <hi>starts again.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>
+                           <hi>Hipparchus,</hi> my friend, I find my misery, and conjure thee that if thou out-live us, steal some of my ashes into her Urne, that in our earth being become equal we may become one.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>This is strange, yet 'tis the best kind of anger; and the storm is to friend, if I can judge a woman.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                  </div>
+               </div>
+               <div n="3" type="act">
+                  <div n="1" type="scene">
+                     <head>ACT. III. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter the</hi> King, <hi>and</hi> Eumenes, Sortanes, Pausanes <hi>and</hi> Hippar|chus, <hi>with their swords drawn.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>
+                           <hi>EVmenes,</hi> now the Souldiers are landed let 'em be drawn <stage>Alarm.</stage> into <hi>Battalia;</hi> we'll charge this instant, and not give 'em leave at land to collect their loss at sea.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eum.</speaker>
+                        <p>They were <hi>Gillippus</hi>'s Gallies that boarded us; yet I saw not the <hi>Pluto</hi> there; her brazen Prow had wont with the earliest to bathe in blood her <hi>Proserpine.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>That injury hath brought some fuel to my rage, to see they have given harbour to that traytor, that twice has attempted the rape of my Sister; and in advowance of his fault, in his Prow he wears the hellish president for that black deed.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eum.</speaker>
+                        <p>Lose no time then, but while th'are scatter'd with their
+<pb n="63" facs="316"/>
+dangers, and their fears strike for us, let us bring that justice their treacheries have call'd down.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Away, every man to his charge.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exeunt all but</hi> Hipparchus <hi>and</hi> Pausanes.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Oh <hi>Hipparchus,</hi> the joy to find <hi>Gillippus</hi> here has dispers'd all my sad thoughts. Ye powers that rule our fates! if <hi>Pausanes</hi> have any of you to friend, give me <hi>Gillippus,</hi> this day, within my swords reach.</p>
+                     </sp>
+                     <stage>[Alarm.</stage>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>So, now my friend speaks like himself; and when thou strik'st not at thy self, thou stand'st safe; but hark we must away. <stage>Alarm still.</stage>
+                        </p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. III. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter</hi> Gillippus, Eucratia, Leucanthe, Dion, <hi>and</hi> Cremnofield.</stage>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>THis is no time to talk now; they have begirt the Town, and will instantly attempt to storm it, the immediate danger calls for resistance, not counsel; <hi>Dion,</hi> go you to the gate that's next the harbour; and, <hi>Cremnofield,</hi> take you the charge of the Princess's persons; I'll to that Port against which the Kings Standard is advanc'd; if we must fall, let us not go out faintly.</p>
+                     </sp>
+                     <sp>
+                        <speaker>
+                           <hi>Eucratia</hi> and <hi>Leucanthe.</hi>
+                        </speaker>
+                        <p>The gods protect us.</p>
+                     </sp>
+                     <stage>[Exeunt omnes.</stage>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>ACT. III. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter</hi> Pausanes <hi>and</hi> Hipparchus, Pausanes <hi>wounded.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>'TWas <hi>Gillippus;</hi> he fled, and left me to the multitude; Oh <hi>Hipparchus,</hi> pursue the chase, and if thou overtak'st him, thou'lt find the coward imboss'd with running from me; if thou canst set him up, Bay him till I come; and as thou lov'st me, let me not lose the honour of his fall.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hippar.</speaker>
+                        <p>Are you sure he's this way?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Yes, yes; I'me certain 'twas he.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="4" type="scene">
+                     <head>ACT. III. SCEN. IV.</head>
+                     <stage>
+                        <hi>Enter</hi> Gillippus <hi>alone.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>THey have forc'd the Town, and there's no hope of safety, unless I can recover my Galley, S'death; I am accurs'd of late; I hunt nothing but unprofitable wounds.— <stage>
+                              <hi>Enter</hi> Leu|canthe <hi>and</hi> Zenon.</stage> Ha! <hi>Leucanthe,</hi> the Princess! as I could wish; yet if fortune would smile, here were a prize would heal all my unlucky wounds.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leucan.</speaker>
+                        <p>Oh <hi>Gillippus,</hi> w'are lost, our lives, our honours and our gods, subject to the rage of the common Souldier.</p>
+                     </sp>
+                     <sp>
+                        <pb n="64" facs="317"/>
+                        <speaker>Gillip.</speaker>
+                        <p>Will you venture then to follow me? if we can gain the Port I have a Galley may secure you.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leucan.</speaker>
+                        <p>Oh guide me; which way, noble <hi>Gillippus?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>Come <hi>Zenon,</hi> follow, for there's no abiding here; hell I think fights on their side, for 'twas nothing less then a devil that forc'd, and then pursu'd me through our Guards; By day it self, he struck as sure as if he had been the fate he brought; my flight could scarce out-strip his conquest.</p>
+                     </sp>
+                     <stage>[A noise within, follow, follow.</stage>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>They pursue us still; away, lose no time.</p>
+                     </sp>
+                     <stage>[Ex. omnes.</stage>
+                  </div>
+                  <div n="5" type="scene">
+                     <head>ACT. III. SCEN. V.</head>
+                     <stage>
+                        <hi>Enter</hi> King, <hi>and</hi> Eumenes.</stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>THis way, this way, <hi>Eumenes,</hi> the gallant Reapers went; sure by this their sickles are dull'd, and their hands weary with griping such full victory; when the word was given they charg'd through their fellows, and like lightning scal'd and leap'd the wall, where once entred, cowards lose not faster then they gain'd ground; I was amaz'd to see their charge, 'twas as if they had flown, not fought for conquest.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eum.</speaker>
+                        <p>They are not cloath'd proper for the Parts they Act; ei|ther their honour or condition is misplac'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>If they survive, this day, inquire'em out, and then, when we can reward we'll admire, now we'll assist the work.</p>
+                     </sp>
+                     <stage>
+                        <hi>[As the</hi> King <hi>and</hi> Eumenes <hi>go off, they meet</hi> Leucanthe, Gillippus, <hi>and</hi> Zenon.</stage>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>Ha! the King! fly Madam, haste to my Galley and save your self.</p>
+                     </sp>
+                     <stage>
+                        <hi>[The</hi> King <hi>and</hi> Gillippus <hi>fight, and</hi> Eumenes <hi>and</hi> Zenon, Gillippus <hi>wounded,</hi> Zenon <hi>quits the Stage,</hi> Gillippus <hi>throws his sword at the</hi> King, <hi>and counterfeiting falls, the</hi> King <hi>leaves him, and pursues</hi> Leucanthe.</stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Thou shalt not long impeach my stay; do you stare?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>Hell take thee.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit the</hi> King.</stage>
+                     <stage>
+                        <hi>Enter</hi> Eumenes <hi>and</hi> Zenon.</stage>
+                     <sp>
+                        <speaker>Eum.</speaker>
+                        <p>What have you, at length, found daring to look upon the dangers? is the dead-doing <hi>Zenon,</hi> so fam'd for his bold deeds?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Yes <hi>Euemenes, Pelius</hi> dares, though <hi>Zenon</hi> durst not; do's the name of <hi>Pelius</hi> start thee? know, false man, all thy dar|ings cannot protect thee from the justice this brings, for the inju|ries <stage>Zenon <hi>dis|covers him|self.</hi>
+                           </stage> thou didst me during the Treaty here, when thou sought'st aid for thy ambitious Master.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eum.</speaker>
+                        <p>What act of mine during that time were you con|cern'd in.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Hast thou forgot the fair <hi>Zenonia?</hi> methinks the half I borrow, for my disguise, from that name, should prompt thy soul to a remembrance of the vows, the false vows thou mad'st her.</p>
+                     </sp>
+                     <sp>
+                        <pb n="65" facs="317"/>
+                        <speaker>Eum.</speaker>
+                        <p>False vows?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Yes, boasting her the conquest of thy vanity; when with thy perjur'd breath thou begg'st for that thou valu'dst not, meerly to affront my passion which pursu'd her with all those truths of love, thou feignedst; yet never reap'd a harvest for all my pains. But this is not the injury that wakes my anger; 'tis thy scorn, not thy love of her engages me to think it should be in any mortals power to scorn that deity which I sacrifice to.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eum.</speaker>
+                        <p>How do you know I scorn her?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Say thou dost not; say thou wilt return and pay those vows of love, and by all our gods I'll kneel to thee; for if thou'lt love again (although my Rival) her love shall guard thee, and from henceforth thou shalt be my friend; but if thou proceed thus to triumph in her miseries (whose pains I feel, though she be insen|ble of mine) thou shalt find, though I cannot intreat her love, yet I can force Revenge from her darkest Caves.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Eum.</speaker>
+                        <p>What do's <hi>Pelius</hi> see about <hi>Eumenes,</hi> that he should take him for a fool or coward; thus to think I would trust a Rival, or fear an enemy? and now I know the reason of thy hate, if thou shouldst swear thou art my friend, I'de tell thee thou liest; if mine enemy, why, I do not care.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Do you sleight my profer'd friendship? do you believe this language?</p>
+                     </sp>
+                     <stage>[They fight.</stage>
+                     <sp>
+                        <speaker>Eum.</speaker>
+                        <p>Yes, I understand it, and you shall find it by the answer I'll make.</p>
+                     </sp>
+                     <stage>[Eumenes <hi>wounded falls.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>This ring was hers, and shall witness I have punish'd his falshood.<hi>—Gillippus</hi> wounded!</p>
+                     </sp>
+                     <stage>
+                        <hi>[Enter</hi> Gillippus.</stage>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>Yes, <hi>Zenon,</hi> but not slain, and yet the King struck home; I found 'twas folly to resist his force, unless I could have conquer'd his whole Army; and therefore wisely I preserv'd my self for better days.—Saw'st thou the Princess <hi>Leucanthe</hi> since?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Yes, she's fled toward the West-port.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gillip.</speaker>
+                        <p>Who's this? <hi>Eumenes</hi> faln! well, pursue <hi>Leucanthe,</hi> gen|tle <hi>Zenon;</hi> and if thou findst her tell her of my escape, say thou left'st me aboard the Galley; and if she know not where her Sister <hi>Eucratia</hi> is, tell her she's with me, who negligent of her own dan|ger impatiently expects her coming to the Galley, where I'll go and wait your coming.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Yes, I'll go, but not to assist thy treachery, yet I'll bring her if I can; she has an interest in <hi>Zenonia;</hi> and if I can thus bring her into dangers, my protection of her honour will endear me to her; and so engage her to be my friend to <hi>Zenonia,</hi> the thoughts of whom my soul will ever labour with.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                  </div>
+                  <div n="6" type="scene">
+                     <head>ACT. III. SCEN. VI.</head>
+                     <stage>
+                        <hi>Enter</hi> Pausanes <hi>and</hi> Procles, <hi>having both hold on</hi> Eucratia.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>UNhand her.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Procles.</speaker>
+                        <p>She's my prisoner, and I will not lose her.</p>
+                     </sp>
+                     <sp>
+                        <pb n="66" facs="318"/>
+                        <speaker>Paus.</speaker>
+                        <p>Dar'st thou be a Souldier and speak that falshood?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Proc.</speaker>
+                        <p>I first seiz'd her, and I'll keep her.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Had thine age been able to have kept flight with me, thou shouldst have seen me hunt her through the streights of a thou|sand wounds, and mow down all the weeds that grew about her; yet then, then this Laurel protected by her own virtue stood safe in the midst of all that Lightning; and let me tell thee, the same cause that kept me from laying violent hands upon her makes me spare thee; 'tis a reverence that in some measure thy silver hairs command.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Proc.</speaker>
+                        <p>I defie thee and thy naked Chin, Talker; this plead for me, nor shalt thou finde a gray Coward here; Binde her, and then we'll dispute whose she is.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Binde her! Look upon her, and then tell me on which part of that divine form thou dar'st hang a Chain.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Proc.</speaker>
+                        <p>I'll dispute no more, unhand her, she's my Prisoner or but Earth.</p>
+                     </sp>
+                     <stage>[He offers to stab her.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Remove from her breast that threatn'd danger, or by our Gods thou art Earth.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Proc.</speaker>
+                        <p>Think'st thou <hi>Procles</hi> will quit his aged Honours for fear of a Boy proud in his first wounds?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Boy, nay then defend thee.</p>
+                     </sp>
+                     <stage>[They fight.</stage>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>I know not too which is guiltiest, but I can ill preserve mine own.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Euc.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>She's gone, there's something whispers to me, Protect her; I'll follow her—There, take thy Sword, I will not rob thy age in <stage>Paus <hi>dis|arms</hi> Hroc.</stage> thy fall.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Paus.</stage>
+                     <sp>
+                        <speaker>Proc.</speaker>
+                        <p>I thank thee, and may thine be no less fortunate than this has been, and thou buy thy Honours at a cheaper rate.</p>
+                     </sp>
+                     <stage>[Dies.</stage>
+                     <stage>
+                        <hi>Enter</hi> Pausanes <hi>hanging about</hi> Hipparchus <hi>neck, wounded and fainting.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Had I liv'd to have finish'd my Revenge on that Traitor <hi>Gillippus,</hi> and from his bosom torn the knowledge of our selves, which in a golden Relick the Tyrant wears about his neck, and still with threatn'd loss would a we us to our faith, then, <hi>Hipparchus,</hi> I could have dy'd in peace.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Whither did you go to finde these wounds?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>In pursuit of the fair <hi>Eucratia,</hi> I follow'd her through all her miseries, but not with intent to add to them, but to guard her from the raging lust of the common Souldier, till at length some of her party met us, and to them I owe these wounds.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>This disorderly possessing the Town will ruine us; the wounds we receivd since the Conquest are more than we got in the Attempt; the Cowards fears have in their despair struck deeper wounds than their courage knew how to deal. <stage>
+                              <hi>Enter</hi> Zen. <hi>and</hi> Leuc.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>This way, Madam.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>O <hi>Zenon,</hi> Haste, I know not which I fly to with greater zeal, my Sister or my safety; Is it far?</p>
+                     </sp>
+                     <sp>
+                        <pb n="67" facs="318"/>
+                        <speaker>Zenon.</speaker>
+                        <p>If you can pass the Port y'are safe. Ha!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Stand, the Word?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>The Word! Death, if thou refuse us passage.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Or a Virgin's thine for ever, if thou dar'st let my inno|cence escape this ruine. O speak, Death and Dishonour pursue us close. O speak, Sir; Shall I pass?</p>
+                     </sp>
+                     <stage>[Hip. <hi>is surpriz'd with</hi> Leucanthes <hi>beauty, and stands amaz'd.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Pass! Yes, fair one, I dare let you pass, and through all ha|zards serve you; O <hi>Pausanes,</hi> live to counsel me; something like thy description I feel here.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Speaks aside to</hi> Pausanes.</stage>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Shall we pass, or no?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Smooth your brow, your frowns will make no way here.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>My Sword shall then.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>No, <hi>Zenon,</hi> thou know'st it never could when <hi>Hipparchus</hi> deny'd thee passage.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Ha! <hi>Hipparchus!</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Yes, <hi>Zenon, Hipparchus;</hi> who to let this Lady see how much he dares do in her cause, he will not onely give her a passage, but with it all his peace of minde, and do thou thank her for this San|ctuary; for were it not that thou hadst taken hold on that Altar the Murder of <hi>Eumenes</hi> here I would have punish'd; but such is the power of that Deity that I can defer my hate, nay, forgive thee, if she'll confess thy Sword or Faith hath sacrific'd ought to her deliverance.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>He has, he has, and he onely can guide me to a hope of safety. Gentle youth, the Gods reward thee—Hark, I am pursu'd, if thou hast power divert their rage.</p>
+                     </sp>
+                     <stage>[Within Follow, follow.</stage>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Your name, leave but that to call upon in my danger, and then I'll plant my self here an Enemy to all that dare pursue your softness. O do not hide your name from me, nor leave me to bow to a Power I know not.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>My name's <hi>Leucanthe,</hi> the unfortunate <hi>Leucanthe;</hi> gen|tle youth, May all thy wishes fall upon thy head. Away <hi>Ze|non.</hi>
+                        </p>
+                     </sp>
+                     <stage>
+                        <hi>[Exeunt</hi> Leuc. <hi>and</hi> Zen.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Now, <hi>Hipparchus,</hi> had I Reason once?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>
+                           <hi>Leucanthe,</hi> the Princess <hi>Leucanthe,</hi> is it not?</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Yes, Souldier, <hi>Leucanthe,</hi> the Princess <hi>Leucanthe,</hi> Which way went she?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>This way she went, Sir; but I must beg you'll not pur|sue her.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>These are the Souldiers I so much admir'd. Is it your ignorance, or do you wilfully strike out the reward your daring youth has this day merited?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>If we are faulty 'tis wilful; but this act (we hope) owns no guilt.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Is it not a fault thus to blot the Conquest, whose greatest beauties are gifts of your own hands?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>My soul has vow'd, and I see it written yonder, not to suf|fer any one to pass this way whilest my Sword and I can impeach their stay.</p>
+                     </sp>
+                     <stage>[Paus. <hi>offers to rise, but cannot.</hi>
+                     </stage>
+                     <sp>
+                        <pb n="68" facs="319"/>
+                        <speaker>Paus.</speaker>
+                        <p>And I, though weak in body, am strong in friendship; my Friends vows shall ever be my cause.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>You see our resolution, Sir, and we dare dy.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>And I dare fight, and thus force my passage. <stage>
+                              <hi>The King charges,</hi> Hip. <hi>onely defends himself.</hi>
+                           </stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>O! hold, Sir, and hear me speak.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Shall I pass?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Your self can witness what faith I brought to your cause; my charge usher'd pale death about the field; and when I found him lazy and waiting upon Fate I leap'd from his lean side, and with my Sword dealt more deaths than he.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Pursue that act still, and let me hunt this scornful Lady till with miseries I have made her wild heart tame, the Conquest will be perfect then.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>All's done already; I fought to Conquest, and Cowards onely strike afterwards. A Foe that flies is your Slave, and no long|er deserves the name of Enemy.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Shall I pass?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>'Tis ssaughter you pursue, and will stain all those honour'd wounds your Conquest gave; but for this Princess, whose virtue I bow to, O, Sir, can you be so blinded with your rage as to avow a War with her?</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Leave counsel and obey; Mercy and Justice are speci|ous shews, but to obey is your best Sacrifice, which if thou offer'st not, by mine anger I'll offer thee.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Obey! Yes; the Gods I'll obey, and strike against all that strike at them; Know, you command a Free-man, one that chose your party, and none of that number that was born under you; And yet I beseech you, Sir, attempt not your passage here; for I must not betray her safety as to defend her cause we eakly.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Are you so resolute?</p>
+                     </sp>
+                     <stage>[They fight.</stage>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>O <hi>Hipparchus!</hi> hold; Remember 'tis the King, lift not thy hand against him; this Victory will be full of Curses. O for strength enough to part them!</p>
+                     </sp>
+                     <stage>[Euc. <hi>pursu'd by the Kings party lays hold on the Kings Sword, and yields her self Prisoner, who amaz'd in passion speaks.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>This by his habit should be a Commander to him, (since I must feel the misery of bonds) I'll yield my self. Defend me, Sir, I am your Prisoner, my name's <hi>Eucratia.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Hold your Swords; he that adds another stroke to War shall feel the weight of this.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Blest chance.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>
+                           <hi>Eucratia!</hi> Are you <hi>Eucratia?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>Yes, and a Princess, till thy ambitions (King) hunted me to my ruine.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>O <hi>Eucratia!</hi> Soul of sweetness, that wretched King see prostrate at thy feet; and if thou canst not pardon, tread upon my neck, and let thy virtues sink me to my Grave: there's something divine about thee which in an instant has from my temples torn the Laurel reward of all my bleeding wounds, and from a conquering King made me all thy Slave—Command me something.</p>
+                     </sp>
+                     <pb n="69" facs="319"/>
+                     <stage>Enter a Souldier.</stage>
+                     <sp>
+                        <speaker>Sould.</speaker>
+                        <p>Help, Sir, to save the Princess <hi>Leucanthe</hi> that's lost, sold to lust and rape, if you redeem her not suddenly,</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>Unfortunate <hi>Leucanthe,</hi> I foresaw this danger, sad Fate! O my Sister!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>
+                           <hi>Leucanthe!</hi> Which way went the Ravlsher? O Sir, your pardon.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Sould.</speaker>
+                        <p>I saw <hi>Gillippus,</hi> i'th' <hi>Pluto,</hi> bear her from the shoar.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>
+                           <hi>Gillippus!</hi> 'tis false, pray (Madam) remove your fears, my self slew him in the battel.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>O Sir, he has abus'd you by some wile; for on my life I saw him since your encounter.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Sould.</speaker>
+                        <p>Let me dy, if this be false.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>O Sir! now I claim your offer, and beg, not Command, you will not complete your Conquest, and pusue this Ravisher.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Souldier, thy faith in her cause has been already try'd, Do thou provide one of the swiftest Galleys for this Expedition. Come, Madam, we'll all go to save this Innocent: Some one help this wounded Youth aboard, and see he want for no care; such virtue shines not every where.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>Sir, his courage has oblig'd me, and he shall be my care; he found me when I was fall'n into the rage of the common people.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>I kiss your hands, Madam; and 'tis happiness enough that I have liv'd to serve such a virue as is seated in the fair <hi>Eu|cratia.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Command a Cessation of Arms, and let all Acts of War cease here; for the fair <hi>Eucratia</hi> is now the Conquerour.</p>
+                     </sp>
+                  </div>
+               </div>
+               <div n="4" type="act">
+                  <div n="1" type="scene">
+                     <head>ACT. IV. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter</hi> Lysimella, <hi>and</hi> Philon; Lysimella <hi>in Boys habit.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Lysimella.</speaker>
+                        <p>URrge not his condition, I must not so mistrust the Justice of those Powers I bow to as to fear they would leave me to such a scorn; a common Slave? No, <hi>Philon,</hi> if there were not chance in his condition, their tongues would have doubl'd under such a Load, as Love. A Slave's heart would have had too many hungry wants upon it to have found lei|sure to have begg'd for Love.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>This, under favour, is no Argument; and though I fear a want in their bloud, yet I believe they have wit enough, and their craft perhaps took hold of some pity which your Highness shew'd'm; for under favour, Madam, your mercies were even to weakness, and but that I fear to displease you, I could say, he but returns love.—This will move her; and as my faith and duty thus low bows <stage>Aside. He kneels.</stage>
+                           <pb n="70" facs="320"/>
+so my honour bids me defend you, especially when you have so dangerous an enemy as your passion to engage my faith against: look but upon your habit, examine the nature of this act, and you shall find you walk blinded to your honours ruine; have you not thrown off your sex, the honour of a Queen, and now appear cloath'd in blushes, and disguis'd with faults? but this were no|thing if my fears were false, which tell me, this habit is lin'd with as faulty resolutions; nor can you condemn those that know you not, if they conclude you have, with your sex, thrown off your modesty too.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Oh! Iam lost for ever.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>No Madam, if you stay, y'are safer for this attempt, by having found your errour; I confess, to this journey I carry no|thing but obedience; had you fled to meet a plighted faith, through darkest hazards I would have waited on you; but when you flie to follow one you know not, a slave too, that perhaps flies from you. Nay grant him a Prince, can your honour be safe when you pursue? Oh, Madam, when you were your self, and from your Reason collected truth, and from that rock would in Arguments give law to Love; I have heard your powerful Rea|sons conclude, that a Queen is safer that is pursu'd by a slave, if he keep the path of love, then the greatest Monarch of the earth could be, should she pursue a god; and now upon my knees I beg you would not at this rate reward the ambition of a wretch.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Oh <hi>Philon, Philon,</hi> thou art cruelly faithful, and unsensible of my sufferings; canst prescribe an abstinence! but hadst thou my Fever upon thee thou would'st drink (ambition) why? say he has that Gyant fault; yet 'tis a glorious sin, and without it not one among all the Synod of the gods had fill'd his seat, and 'twas their fears that made it sin in us; yet, in Loves Religion 'tis meritorious still to aspire to a Mistriss; and that love that gives, but will take no Laws, has call'd it gentleness, not savage Nature, for a servant to leap even at the heart of his Mistriss: yet thus much I'll satisfie thy faith; by the honour of my mothers ashes, he woo'd first, and in such words as my resolution only could deny; and for his na|ture, how stout, how gentle, how full of honour, judge you that were witness of his actions.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>Madam, I see you are resolv'd, and then I know you will not want an argument; and now I know not whether 'twere a bles|sing, or no, their protection brought, since you believe they love.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>If thou'lt turn away I'll blush, and tell thee why I believe he loves; thou saw'st his friendship could not divide him from me; it made his vertues faulty passions, searching with blushing wounds an enemy in his friends breast. Oh my Cozen! when I think on this, and call to mind how for my freedom he stood as if h'ad been immortal, and intending only that, let the false <hi>Gillippus</hi> wound his stout breast, which when he will defend, none, save the thunderer, or a friend can hit; oh <hi>Philon, Philon,</hi> when I consi|der these miracles, why should I be so wicked as to conclude him less then a god that acts 'em? and now take a secret from me (for
+<pb n="71" facs="320"/>
+I will satisfie thee even with a faulty act) which may look like va|nity; but turn thy face, and hear me; I know my Cozen is full of honour; and I know, with all that honour; he loves me, this confession I would have dy'd with e're it should have been forc'd from me, but to confute th●e, for it makes thee a party here, and thy love as unfit to give counsel, as mine uncapable to take it; and now I conjure thee follow and obey me, that will obey my fate; nor shall the winds that now begin in storms to plead against me, prevail; I am resolv'd; and this night I'll to sea, and in her greatest <stage>The storm be|gins in the Scene.</stage> depths dive to find this rich Pearl, which the wise value not the less for having a rugged shell.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Phil.</speaker>
+                        <p>Oh Madam, to be born your Kinsman was one blessing, but to find I have a friends place in your thoughts, two; and that you know I love, and not I tell it, is a joy beyond all but what your love brings; forgive me, and henceforth I'll obey not coun|sel. Your Galley shall instantly be ready; thus I have gain'd all my ends in love, by having no unworthy ends upon her I love.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>O Love, do thou prosper my intent, and a Virgin shall thy Priest become; and these great truths in all thy Temples shall be sung how in thy infant hand thou grip'st a bow larger then <hi>Joves;</hi> so that, when thou thy darts let'st fly immortality is no guard, for oft they have through his lightning shot and struck the thun|derer: thy Religion's easie, thy Law light; for thy Tables hold but one act one Commandment; obey, and we cannot miss the way; let none then say this youthful god or cruel is, or blind, since from disobedience grows all the strange crosses and dangers that we find.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. IV. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter a</hi> Hermit <hi>and his Son, with the body of an old Man.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>GEntly Son; lay him down, and bow him forward; more <stage>Storm.</stage> of those waters, he stirs; so, so, chafe him still while I dry his snowy hair which the sea could not melt, 'tis he, strange accident! but I'll not be discover'd yet.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Son.</speaker>
+                        <p>He sighs, there's some comfort in that.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>Sad condition for his age, when 'tis a joy to hear him sigh.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Son.</speaker>
+                        <p>Good heaven! what do's age abroad at this time of his life?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>Sure he has wandred far that has miss'd a resting place in his evening; and to be piti'd when he's forc'd to seek his Inn thus late at night.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Son.</speaker>
+                        <p>Sure he was of some Religious Order, by his habit.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>No matter for his habit, pull it off, and fetch him my gray Coat; dry now is better then rich.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Son.</speaker>
+                        <p>Which opinion if he had held, perhaps his had been dry now. <stage>Storm blows high.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>Good heaven, what a night's here! this evening pro|mis'd dangers, but not like this; sure this Barque was one of that
+<pb n="72" facs="321"/>
+Fleet that we saw off the Point last night, if we can recall life, he may inform us who they were.</p>
+                     </sp>
+                     <stage>[He stirs.</stage>
+                     <sp>
+                        <speaker>Son.</speaker>
+                        <p>He stirs, and sighs still.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>Wretched, wretched <hi>Theagines;</hi> what mercy is this at length has found thee? was my self only sav'd of all this wrack?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>All else perish'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>Oh! that I had miss'd this charity too! my friend, aged <hi>Perseus,</hi> my Brother, brave <hi>Memnon,</hi> and my Son, the hopeful <hi>Pausanes,</hi> all these my former losses have robb'd me of my griefs, which else these poor men would have requir'd of me; O equal heaven! thy abus'd Oracle, and breach of vows, thou now but be|ginn'st to punish. Father, by thy habit thou art vow'd unto the gods; if then like me thou'lt not be punish'd for perjury, again de|liver me to the doom they appointed, and in the watry womb of the Sea intomb me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>Oh, Sir; despair not; they appoint us better then we can chuse, and in our greatest fears surprize us with their mercies.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>Hear but what I am, and thou'lt be afraid to harbour me; for where ere I go, there vengeance pursues me; my name's <hi>Theagines,</hi> once Judge of <hi>Sardinia,</hi> and blest with all that men call happiness; Children, Wealth, and power to save or destroy where I liv'd, and though our State forbad Kings, all but that name I possest; my Brother too, whom they have punish'd, reign'd chief Priest when I rul'd as Judge, equal in our births, equal in our blessings, in our power equal, and in our faults too alike guilty, but not alike punish'd; for he I fear is lost for ever; but the fault which now they are busie in punishing, is this; 'twas enjoyn'd by our Predecessors, as a grateful offering to peace, under whose protecti|on we found such benefits as all our neighbouring Countries want|ed; that it should not be lawful for any to take up arms but in their own defence, nor upon pain of perpetual banishment send their Sons abroad, lest they might bring home the dangerous customs of other Countries; this law was made, and with it vows of the strictest ties; this vow we vowed, and to this Law with oaths were bound.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>What danger could that bring you?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>O Father, this Law we broke; and the curse of this vow pursues us; for know, we had each of us a Son and Daugh|ter; which blessings made us covetous to have our Sons succeed us in our honours; and therefore thought to breed them abroad, where they might learn'to rule: thus by ambition blinded we abus'd the Oracle, and told the people 'twas the will of the gods our Sons should be sent abroad; and I affirm'd if they command|ed, the Law assented. Then to the charge of a faithful friend we gave our children, who were so young they knew not them|selves what they were, with a command to breed 'em fit to be Princes; but neither to the world nor themselves discover that they were so. Long this fault lay not hid, for the abus'd Oracle unask'd complains, and to the incensed people tells our falshood; by them we were banish'd, never to return till we had found our
+<pb n="73" facs="321"/>
+Sons, which was some mercy; but alas! Fate was juster then the people; for our Sons are lost, my friend dead, and my Brother in our Pilgrimage by a strange accident divided from me. Now ought I to hope for mercy, or wish to out-live these losses?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>As yet you are not secur'd that these are losses; nor has any assur'd you they are dead; therefore defer this sadness, and let me lead you into my Cabin.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>Oh let me lean upon thy aged shoulder; for I have a load will sink me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>Do, do; sad time when I can be a stay to a Prince! Son <stage>The Son makes a fire on the Stage.</stage> make a fire upon the shoar, that if any wretch unfortunate be cast upon this loan place, they may see it and repair hither; 'twill be some comfort to find we have charity.</p>
+                     </sp>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>ACT. IV. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter three</hi> Slaves.</stage>
+                     <sp>
+                        <speaker>Slav.</speaker>
+                        <p>THe gods protect us, and recall this judgment, <stage>Storm.</stage>
+                        </p>
+                     </sp>
+                     <stage>
+                        <hi>[Ent.</hi> Gil.</stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Hence, ye dogs, leave your howling; S'death, have we liv'd as if we hop'd for mercy, or expected protection from our prayers? be gone, and endeavour; every wise man rules his stars, and may defer that fate which prayer cannot alter, see if I have not lost my power? why stay ye? who plies the Pump now, she'll founder through the slaves negligence.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Slave.</speaker>
+                        <p>Why should we labour against heaven that has decreed our ruine? there's no hope, we are all lost, the sea already is our grave.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Villain, thou shalt not dye by water, I'll be thy fate.—And yours if you stay.</p>
+                     </sp>
+                     <stage>
+                        <hi>[He stabs one, and the other slaves go off. Enter</hi> Zenon <hi>and</hi> Leucanthe.</stage>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>See if the storm has not wrought in her Element of wa|ter too, and blown it in tears from her eyes.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Would it had blown the fire thence too, the earthy part would not wound me; my danger and their beauty in those active Elements lye; for in her living Jeat the fire bears sway.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>I know his resolution, but I'll watch him.</p>
+                     </sp>
+                     <stage>[Steps aside.</stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>We are alone; I must not lose this opportunity; will you yet grant my suit, and yield me love? or must I follow the exam|ples of the gods, and in a storm compass my will? say, will you give, or shall I force?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Is this a time for love, when the raging storm drowns thy words? Oh thou abus'd power! who thus enrag'd pursues us even to the last of all our name; and for abus'd sacrifice will the Priest in judgement offer? if thou hast decreed my fall, take it while I am fit for sacrifice, while I am pure, and my virgin snow unsoil'd. Pro|tect me from this ravisher, whose impious heat burns his hated <stage>Gillippus <hi>lays hold on her and pulls her.</hi>
+                           </stage> breast, even in the bosom of the sea.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Cease to call, and yield me love; thou see'st all the ship is busie with apprehension of our danger, which my love will not give leave to fear; thoughts of thee so take up all the room here, that care of my self cannot get in.</p>
+                     </sp>
+                     <sp>
+                        <pb n="74" facs="322"/>
+                        <speaker>Leuc.</speaker>
+                        <p>Away, unhand me; consider the dangers and misery thou <stage>He offers to take hold of her.</stage> art in.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Dangers! 'tis but noise only; and to me no new thing to see the Elements thus at war, and strive to run again to their first Chaos. Thousands of times have I naked stood their rage, when the element of fire has shot his angry flame into the yielding main, as if he had meant to wound her god with his forked lightning; this I have seen, and felt the mischiefs the unruly winds beget when they break prison, and force from the entrails of the earth a dangerous birth; and still their dangers were but noise.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>O impious man! hast thou seen their power, and felt a mercy above it, and dost thou sleight it?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Sleight it? no, nor fear it; nor would you apprehend it were you acquainted with the uncertainty of this element, and with me had seen these dangers grow from nothing. A thousand times I have look'd upon her smoothest brow, and heard the false winds whisper to her, till their flatteries have wrought into her bo|some, and there fill'd with ambition the covetous element that would aspire at heaven, being thus seduc'd, discovering even to the eyes of men the secrets of her womb; this I have seen too, and wrought through these dangers; nor will I believe any thing can save me when I cannot save my self: will you yield? or you'll find other dangers.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Oh strange daring! O heaven! quench his saucy flames, or <stage>He pulls her.</stage> add your fires to 'em, and hide your lightning in his lustful breast: fool and villain I never met before, though wise and wicked sel|dom joyn; dost tempt me now with all my fears about me? if I were a common prostitute acquainted with sin I durst not, when thunder speaks, listen to thy wickedness; it shakes even my Reason; rather fall upon thy knees, and no longer tempt the gods thus to our de|struction.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Away, I'me deaf.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Villain, wilt thou sin while their Plagues hang over thee; and add to thy faults while they are punishing? Oh ye winds, take <stage>Still he pulls her, and she r●s●ts.</stage> my tears upon your wings, and through this storm convey 'em to that youth whose honour took me even in the midd'st of my dan|gers; and tell him his faith unfortunately has betray'd me to this misery. <hi>Hipparchus,</hi> unknown name of honour, guilty by chance, by fate only faulty; oh! that thy sword were here to defend us both.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Ha! is there another that you love? nay then the earth <stage>
+                              <hi>He takes her in his arms and sets her down again. Enter</hi> Ze|●on.</stage> shall not save you.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Enter</hi> Zenon.</stage>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>But it shall, veer more sheat, hale, tack aboard; who's at helm? Master, set a yare man to the helm, steer thus, thus.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Helm-man.</speaker>
+                        <p>Done 'tis.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Peace.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Hell take thee for thy interruption.</p>
+                     </sp>
+                     <stage>[Exit Leucanthe.</stage>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Low're your main-sail, 'twas your fault we laod our bon|net to; full, full.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Helm-man.</speaker>
+                        <p>Done 'tis.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter</hi> Master.</stage>
+                     <sp>
+                        <speaker>Mast.</speaker>
+                        <p>Strike her fore-sail, here's a gust will bear our Mast by the board else.</p>
+                     </sp>
+                     <sp>
+                        <pb n="75" facs="322"/>
+                        <speaker>Gil.</speaker>
+                        <p>How now, Master, is she tight?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Mast.</speaker>
+                        <p>No, a pox on her for a Whore, she leaks, but we have girt her: port, port hard.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Helm-man.</speaker>
+                        <p>Done 'tis.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Mast.</speaker>
+                        <p>What Gallies are those that chase us? the Admiral's one.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zen.</speaker>
+                        <p>I believe the King's aboard, she has stood with us all this day.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>No matter what they are; would we had no worse enemies to deal with; who keeps the lead there?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Within.</speaker>
+                        <p>O dem a deep, fifteen fathom and a half, oh!</p>
+                     </sp>
+                     <stage>[Within.</stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>What ground ha' you?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Within.</speaker>
+                        <p>
+                           <hi>Corral.</hi>
+                        </p>
+                     </sp>
+                     <stage>[Within.</stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>
+                           <hi>Corral,</hi> hell and confusion; we are upon the Rocks of <hi>As|mara,</hi> luff, luff-hard, and veer, tack, hale your sheat aboard; Boatswain, brace your fore-sail, bring her i'th wind, be yare Mates, clap the helm a lee, bring her upon her stays, w'are lost else.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Zenon.</speaker>
+                        <p>Keep the lead going.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exeunt</hi> Zenon <hi>and</hi> Master.</stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Th'are howling already, what's my fate's my fate, and it may conquer; but I'll never yield to it, nor sink while these oars <stage>Teey cry within.</stage> can bear me through.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                  </div>
+                  <div n="4" type="scene">
+                     <head>ACT. IV. SCEN. IV.</head>
+                     <stage>
+                        <hi>Enter</hi> Hipparchus <hi>and</hi> Pausanes.</stage>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>LOose the slaves, we want men to trim our sails.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>O <hi>Hipparchus,</hi> that we had but the <hi>Pluto</hi> here to bustle with this storm; this is a painted whore, her back's too weak to bear her burthen.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Look out, <hi>Pausanes,</hi> the Galley that we chas'd is sinking.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>The gods protect the Princess; see, see, she has scap'd that gust, and now they bear up with the land.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Let us steer with 'em, we may save some; port, port hard.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Helm-man.</speaker>
+                        <p>Done 'tis.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Enter</hi> Boatswain.</stage>
+                     <sp>
+                        <speaker>Boats.</speaker>
+                        <p>Who's at the helm? slaves, we'll bring our sails into the wind, veer more sheat there; for heavens sake, Gentlemen, to your Cabins and pray.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>We have chang'd our course to bear up with the Galley that's in distress.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Boats.</speaker>
+                        <p>Is the Princess in that Galley?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>I, she's there, and her virtue interceding a safety against all their hopes or merits.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Boats.</speaker>
+                        <p>In with the lead there: Ho, the cunnery, due west, west, <stage>
+                              <hi>Enter the</hi> King <hi>and</hi> Eucratia.</stage> steer due west; w'are so far upon the Lee-shoar we shall never weather the Land, if we fall to the southward w'are lost, the west|ward has a safe bay; courage, Madam, we a tight ship, and a stout ging.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Mates, clear an anchor to drop, ere she strikes; heave out the long-boat there.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exeunt all but the</hi> King <hi>and</hi> Eucratia.</stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>O ignorance of man! 'tis best seen in divers ways that knowledge runs in; this their art and wise directions is to me di|stractions. O Madam! let me add to these dangerous multitude of waters my tears, that my repentance may wash off this stain. 'Tis not the Sea I sink under, but my faults to you. Can you for|give
+<pb n="76" facs="323"/>
+my blindness that have led you into these dangers? Accursed be that Traitor Villain that brought 'em into this extremity. That on land I could have redeem'd, but this all these waters cannot ex|piate.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>They are not dangers fright me, though yours be joyn'd to them, for which Heaven knows I have a pain; you have prov'd such a friendly Enemy, my griefs concern not my self now, for I am onely in the power of Heaven, and the Gods are no less strong at Sea than Land; for though their wonders dwell in the deep, yet their mercies wait there too.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>O divine <hi>Eucratia!</hi> let me kneel to thee, and in this storm call upon thy name to save me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc</speaker>
+                        <p>Tempt not those Powers which must protect us, but joyn with me for my lost Sister, poor <hi>Leucanthe,</hi> who is not onely subject to this storm, but the dangers too with which a Traitor's lust be|girts her. O Sir! I know to dy spotless is now her Prayer and all her wishes but what we pray against, a wrack.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>'Twas her Galley that we chac'd, the Villain was forc'd to run ashoar; nor will we fail with our endeavours to seek her safety: but O! she strikes: O! w'are lost, she strikes: O! <stage>
+                              <hi>Within O! O? O? Enter</hi> Paus. <hi>and</hi> Hip.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Man the Long-boat, not a man enter till the King and Queen be in: Sir, descend, the Ship strikes, but we are near the shoar, the Long-boat now is all our hopes.</p>
+                     </sp>
+                  </div>
+               </div>
+               <div n="5" type="act">
+                  <div n="1" type="scene">
+                     <head>ACT. V. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter</hi> Gillippus <hi>with</hi> Leucanthe <hi>tied at his back, and the knot in his mouth.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>THe fire of lust, and warmth which that heat lent gave me strength to resist the coldness of the water, and to my appetite and longings the Powers that sav'd me: If I can call back her life I'll sacrifice this Lamb; I made <hi>Zenon</hi> binde her, that she might not have her will ere I had mine; the knot in my teeth I held that when I could keep her no longer she might slip; for my love 'tis vow'd to the living not to the dead; and when I cannot what I would I will what I can; to yonder fire which guided me to this safety I'll bear my load, when she begins to live I'll seem to dy; and so I'll handle the chance, and in oyly words cloath this service, faintly pleading Pardon for my past faults, as if I had onely life enough to tell her the obligation she owes me: then if I finde her melt, by degrees I'll let her charity prevail, and slowly seem to recover: but if she seem to rejoyce in my fall, and my prayers fail, by all the Gods hers then shall not prevail.</p>
+                     </sp>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. V. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter the King,</hi> Eucratia, Hipparchus, <hi>and</hi> Pausanes, <hi>all above.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>THe storm begins to cease, and this our miraculous deli|verance calls for a hearty and speedy sacrifice; Let the Long-boat immediately search the wrack for the Princess <hi>Leu|canthe.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <pb n="77" facs="323"/>
+                        <speaker>Hip.</speaker>
+                        <p>What other Vessel's that? Some of the wrack swims still.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>'Tis a <hi>Sicilian</hi> Galley by her Flag.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>O Sir! look, they swim still in charity as a Sacrifice for our deliverance, if't be possible save 'em; the Youth strikes the Wa|ters with unskilful Oars: O save, save the Innocent.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>Be at peace, Madam, if it be in man I'll save 'em.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>What do you mean?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>To leap in.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>'Tis desperate.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Paus.</speaker>
+                        <p>'Tis honest, nay 'tis honourable; and when can a young man dy better, or hope to have his end waited on with braver Mourners? Thou seest I have hunted from danger to danger all my life but to finde a name, or one to own me, and cannot compass it; therefore to chuse I'll leap into this danger; for from this glo|rious end I may in story force one; and therefore leave to counsel, and leap in with me; and let us through this as a thousand other dangers together labour; then if I faint, <hi>Hipparchus</hi> may be by; and if <hi>Hipparchus</hi> faint, Am not I there? Farewell, if thou wilt not follow, Farewell for ever.</p>
+                     </sp>
+                     <stage>[He leaps in.</stage>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>He's gone, <hi>Pausanes,</hi> Friend, steer thy Course to yonder fire, there I'll meet thee, and if't be possible, assist thy brave reso|lution.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Ye Gods! What strange kinde of men are these?</p>
+                     </sp>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>ACT. V. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter</hi> Gillippus <hi>with</hi> Leucanthe <hi>in his arms.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>SO, here I'll rest my Burden; she begins to recover her strength, and Reason works apace; she call'd for help, but <stage>He arries her to the fire.</stage> nam'd no body, but at large, Gentle Souldier help.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>O save me, save me, Gentle Youth, I am betray'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Hark! again.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Ha! Where am I? What place is this?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Now <hi>Gillippus,</hi> hide thy Snares cunningly, and then thou maist catch this Bird.</p>
+                     </sp>
+                     <stage>[Gil. <hi>counterfeits himself dead, and lies by her.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Ha! wet?—Good Heaven! now my fears return with my Reason, and I remember the danger I was in by a storm at Sea.—Ha! What's this? A man laid by my side? Sleeps he, or is he dead? Good Heaven protect me, How came I here?—Who's this? <hi>Gillippus?</hi> Bless me! he's so wicked, Me-thinks his Ashes should be dangerous. Hark! he groans. O! that faithful stranger, little does his soul fear what miseries his bounty has brought me. <hi>Hip|parchus</hi> the Traitor call'd him, or my busie minde deceiv'd me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Yonder's the fire which my Friend, will steer his desp'rate Course to. Ha! What do I see? <hi>Leucanthe,</hi> and <hi>Gillippus</hi> dead by her? <stage>
+                              <hi>Enter</hi> Hip.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Who's that nam'd <hi>Gillippus, Zenon?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>What, alive?</p>
+                     </sp>
+                     <stage>[Gil. <hi>seeing</hi> Hip. <hi>rises.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>
+                           <hi>Hipparchus!</hi> Nay, then I see my fate pursu es me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>Art alive?—Ye Gods, take this in sac ifice while I offer that—</p>
+                     </sp>
+                     <stage>
+                        <hi>[Kneels and kisses her hand, then points to</hi> Gil.</stage>
+                     <sp>
+                        <pb n="78" facs="324"/>
+                        <speaker>Leuc.</speaker>
+                        <p>'Tis he, 'tis the Youth that sav'd me—O Sir, protect me from this Ravisher.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>If he scape me now I'm strangely curs'd; Do you stare, Sir?</p>
+                     </sp>
+                     <stage>[They fight.</stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>I bleed apace.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>I'm wounded.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Nay, it has a mouth, would it had this tongue in't.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>You can fall when you are not dead; if thou jest now take that in earnest.</p>
+                     </sp>
+                     <stage>[Gil. <hi>falls.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Hold, I'm unfit for such a sudden <hi>Exit;</hi> O she's lost, she's lost, for ever lost.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>O Sir! Spare him a little time to throw off that load that sinks him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>O Madam! to what danger has my mistake of service brought you? Are you not at war with all our Sex for the Trea|cheries of this Villain?</p>
+                     </sp>
+                     <stage>[Hip. <hi>as he speaks faints.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>How do you, Sir? Alas, he faints!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hip.</speaker>
+                        <p>I bleed apace, and I fear my wounds are deeper than I ap|prehended; for I feel a darkness now begin to close mine eyes. O Madam! Madam!</p>
+                     </sp>
+                     <stage>[He falls.</stage>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>O! I fear he's lost; Good Gods, send some aid and coun|sel to a wretched Maid whom ye have pursu'd with change of cruel fates. O that I had dy'd ere I had seen this Youth; unfortunate <hi>Leucanthe,</hi> to see thy Love thus in the Cradle bloudy, born onely to add another cause of grief.</p>
+                     </sp>
+                     <stage>[Enter Judge,</stage>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>This way I heard some body cry for help, and 'twas min|gled with the noise of Swords; What's here, a man wet and wounded? Good Heaven! last night thou little expected'st such a land fate: More misery! Whence are they? A woman too? 'Tis some Murder sure. I'll take my Sword, those that could so destroy their youth will not spare my age.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>What art thou, Father, that pitiest our sad fates? Come hither and I'll teach thee how to mourn.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>Is he dead thou mourn'st thus? Let me see his wounds, Hold up's head, he breaths, Bow him forward while I fetch a Bal|sam, whose sovereign power (if the vital parts be not perish'd) will restore his health.</p>
+                     </sp>
+                     <stage>[Exit Judge.</stage>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Run, run; O my Joy! if thou dy'st, upon thy Tomb I'll lay Marble rough as thy fortune, and on it set fix'd a living statue till with my tears I have pollish'd it.</p>
+                     </sp>
+                     <stage>[Enter Judge.</stage>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>So, pour this Balsam into his wounds, and binde them up, and stay his head while I go finde the Hermit's Son, he shall help to bear him to my Cabin.</p>
+                     </sp>
+                     <stage>[Exit Judge.</stage>
+                     <stage>
+                        <hi>Enter King,</hi> Eucratia, Sortanes, <hi>Hermit and his Son, with the Bodies of</hi> Lysimella <hi>and</hi> Pausanes.</stage>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Bring 'em to yonder fire; and while <hi>Euoratia</hi> applies her charity to the Youth I'll assist <hi>Pausanes.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>
+                           <hi>Eucratia!</hi> Who nam'd <hi>Eucratia?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Why, do'st thou know <hi>Eucratia?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <pb n="79" facs="324"/>
+                        <speaker>Judge.</speaker>
+                        <p>Know her! Yes, <hi>Leucanthe.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>Father!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>'Tis she.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Leuc.</speaker>
+                        <p>O ye Gods! your hands are visible through all this change.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Who are those about the fire?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>
+                           <hi>Leucanthe</hi> and <hi>Theagines.</hi> O Sir! w'are blest beyond our <stage>Euc. <hi>goes to the fire and knows them.</hi>
+                           </stage> hopes.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>
+                           <hi>Eucratia</hi> here too! O remove my doubts, by what fate are we met thus strangely?</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>'Twill ask a longer time, Sir, than her charity now can spare to tell. <stage>
+                              <hi>In this time the Hermit is busie about</hi> Lysimella.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Son.</speaker>
+                        <p>Father, they are all acquainted, and yet in my conscience they never appointed this meeting.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit.</speaker>
+                        <p>What's here? A womans breast in a Doublet? Ladies, some of your hands will be more proper here, this habit belongs not to the Sex it cloaths.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>A woman!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit.</speaker>
+                        <p>Yes.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>
+                           <hi>Sortanes,</hi> have you never seen that face? <stage>The King knows her.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Sor.</speaker>
+                        <p>Yes, on my life.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>'Tis <hi>Lysimella.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Here, O here! Who call'd wretched <hi>Lysimella?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Madam, your charity has found my Sister, my Friend, all that I call dear; and see if a cross fate has not attempted to snatch her hence: O persist in your charity, and a little dispense with your joy, and try to save her.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>If my bloud could save her, to every vein I would a pas|sage give, and through those thousand streams pursue her safety.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit.</speaker>
+                        <p>More of that Strong-water, and give him leave to breathe.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Hermit busie to save</hi> Paus.</stage>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>Here, put on this loose Roll, and hide her Disguise.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>Some charitable hand convey me to <hi>Hipparchus,</hi> that from my dying lips I may breathe him comfort. About my neck you'll <stage>
+                              <hi>They turn to</hi> Gillippus.</stage> finde two golden Medals which I took from him and <hi>Pausanes</hi> bo|some, in which (I heard one <hi>Perseus</hi> tell, who that day fell in bat|tle) was writ in Characters their Names and Countrey, which yet they know not.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>
+                           <hi>Perseus!</hi> Who can tell tidings of the aged <hi>Perseus?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Gil.</speaker>
+                        <p>That can I—At the sack of <hi>Tunis</hi> he fell by my hands, when I took those youths Prisoners, they call'd him Father—O! I feel I'm sinking, but whither, O whither, Mercy, Mercy, Heaven.</p>
+                     </sp>
+                     <stage>[He dyes.</stage>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>I am wrapp'd in amazement at these things; these are <stage>
+                              <hi>He takes the Medals from</hi> Gil. <hi>bosome.</hi>
+                           </stage> the Medals we hung about our Childrens necks; Which of these two was call'd <hi>Pausanes?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>This.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>On thee then fall a blessing; but on thee my Son a thou|sand, thousand blessings; all that a weeping Father can with peni|tent <stage>
+                              <hi>He turns to</hi> Hip.</stage> tears call down fill thy days.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit, </speaker>
+                        <stage>aside.</stage>
+                        <p>What have I liv'd to see?</p>
+                     </sp>
+                     <sp>
+                        <pb n="80" facs="325"/>
+                        <speaker>Judge.</speaker>
+                        <p>Oh, <hi>Leucanthe</hi> and <hi>Eucratia,</hi> see your long lost Brothers.</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Though my part be strange; yet these wonders make it seem nothing, there's such providence i'th chances; how fares my <hi>Lysimella?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>Oh Brother, can you forgive this fault? I heard some body name <hi>Pausanes,</hi> where is he?</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Here.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>There! and not come to <hi>Lysimella?</hi> oh! my fears will end this wrack, speak; by all the honours of thy youth, I conjure thee, is he dead, or no?</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>No, upon my life, he lives and is found a Prince.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lys.</speaker>
+                        <p>A Prince! and will not my Brother then—</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Why dost thou hide thy blushes in my bosom, think'st thou I can be cruel to <hi>Lysimella?</hi> no, no; since I saw thee I have felt thy pain, and now can love too, but dare not promise I shall be fortunate.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>Can I add to your joys? if I can, Sir, let this Priest witness my vows to the King.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>Will it please the King to retire to my homely Cell, 'tis free from storms, unless you bring 'em with you; I have liv'd long there, but never felt any save what my sins brought. Some skill too I have in herbs, and fortunate (I thank the gods) I have been in my attempts in Surgery; and hope they'll smile upon these Pati|ents too, I find no danger of death amongst 'em: and when I have my Salvatory laid by, then I'll take up my Beads; for the Priest, I see, must compleat the joys of these happy pairs, my interest in which I'll no longer hide.—Oh speak <hi>Eucratia,</hi> think'st thou the gods will accept an offering from aged <hi>Memnon</hi>'s hand again, that <stage>Puts off his disguise.</stage> once abus'd their altars by giving false Oracles, which thus they have reveng'd? if thou think'st they will, here I throw off my dis|guise, and from a Father and Priest, Sir, receive her.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Euc.</speaker>
+                        <p>My Father!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Judge.</speaker>
+                        <p>
+                           <hi>Memnon,</hi> my Brother! oh welcome!</p>
+                     </sp>
+                     <sp>
+                        <speaker>King.</speaker>
+                        <p>Let me interrupt your joys, lest their excess prove danger|ous; and to the gods that have wrought this blessing, let us pass on to sacrifice.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>Lead on, <hi>Theagines,</hi> while we these young men bear off, on each of which a Virgin shall like their good genius wait; the story, how we came to be thus happy, we'll defer to a fitter time, when health and Hymen shall wait on these Princes, to set their Prisoners free, and prove Loves Fetters Liberty.</p>
+                     </sp>
+                     <stage>[Exeunt omnes.</stage>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="325"/>
+               </div>
+            </body>
+         </text>
+      </TEI>
+

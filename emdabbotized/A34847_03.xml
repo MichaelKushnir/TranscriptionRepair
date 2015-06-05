@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+            <author>Cox, Robert, d. 1655.</author>
+         </titleStmt>
+         <extent>31 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 November (TCP phase 1)</date>
+            <idno type="marc">12241232</idno>
+            <idno type="stc">Wing C6711.</idno>
+            <idno type="vid">56778</idno>
+            <idno type="DLPS">A34847</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+                  <author>Cox, Robert, d. 1655.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, with the addition of Simpleton the smith, not before extant.</edition>
+               </editionStmt>
+               <extent>[2], 40 p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Edward Archer ...,</publisher>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>One-act plays.</term>
+               <term>English drama -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+  <text>
+     <body>
+         <div type="play">
+                     <pb n="11" facs="16"/>
+                     <head>Singing Simpkin.</head>
+                     <div type="dramatis_personae">
+                        <list>
+                           <head>The Names of the Persons.</head>
+                           <item>
+                              <hi>Simpkin,</hi> a Clown.</item>
+                           <item>
+                              <hi>Bluster,</hi> a Roarer.</item>
+                           <item>An old Man.</item>
+                           <item>His Wife.</item>
+                           <item>A Servant.</item>
+                        </list>
+                     </div>
+                     <div type="body_of_play">
+                        <stage>Enter the wife, Simpking following.</stage>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <l>BLind <hi>Cupid</hi> hath made my heart for to bleed,</l>
+                           <l>Fa la, la, la, la, la, la, la, la.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <l>But I know a man can help you at need,</l>
+                           <l>With a fa la, la, la, la, fa, la, la, la, la, la.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <p>My husband he often a hunting goes out,
+Fa la, la, &amp;c.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>And brings home a great pair of horns there's
+no doubt; with a fa la, la, la, &amp;c.</p>
+                        </sp>
+                        <sp>
+                           <pb n="12" facs="17"/>
+                           <speaker>VVife.</speaker>
+                           <p>How is't Monsieur <hi>Simkin,</hi> why are you so sad?
+Fa la, la, la, &amp;c.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>I am up to the ears in love, and it makes me
+stark mad, with a fa la, la, la, &amp;c.
+I am vext, I am tortur'd, and troubled at heart,
+Fa la, la, &amp;c.</p>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <p>But Ile try my skill to take off your smart,
+With a fa la, la, &amp;c.</p>
+                           <l>And on that condition I give you a kiss, Fa la, la, &amp;c.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>But what says your husband when he hears of
+this? with a fa la, la, &amp;c.</p>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <l>You know my affection, &amp; no one knows more,</l>
+                           <l>With a fa la, la, &amp;c.</l>
+                        </sp>
+                        <stage>Knock within.</stage>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>'Uds niggers noggers who knocks at the door?
+with a fa la, la, &amp;c.</p>
+                        </sp>
+                        <stage>Enter Servant.</stage>
+                        <stage>The tune alters.</stage>
+                        <sp>
+                           <speaker>Serv.</speaker>
+                           <p>There is a Royster at the door, he seems a Fel|low
+stout.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Sim.</speaker>
+                           <p>I beseech you worthy friend, which is the back
+way out?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Serv.</speaker>
+                           <l>He swears and tears he will come in,</l>
+                           <l>And nothing shal him hinder.</l>
+                        </sp>
+                        <stage>Exit Servant.</stage>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <l>I fear hee'l strip me out my skin.</l>
+                           <l>And burn it into tinder.</l>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <p>I have consider'd of a way, and twill be sure
+the best.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>What may it be my dearest Dear?</p>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <l>Creep into this same Chest.</l>
+                           <stage>A chest set out.</stage>
+                           <l>And though he roar, speak you no word,</l>
+                           <l>If you'l preserve my favour.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <l>Shut to the chest, I pray, with speed,</l>
+                           <l>For something has some savour.</l>
+                        </sp>
+                        <stage>Enter Bluster.</stage>
+                        <sp>
+                           <pb n="13" facs="17"/>
+                           <speaker>Blust.</speaker>
+                           <p>I never shal be quiet if she use me in this fashion.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <p>I am here to bid you welcom; what mean you
+by this passion?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <p>With some young sweet-fac'd fellow I thought
+gone out you were.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <stage>in the chest.</stage>
+                           <p>No sooth, the sweet-fac'd fellow
+is kept a prisoner here.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <p>Where is the foole thy husband? Say, whither
+is he gone?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <p>The Wittall is a hunting.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>Then we two are alone: But should he come</l>
+                           <l>And find me here, what might the Cuckold think?</l>
+                           <l>Perhaps hee'd call the neighbours in,</l>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>And beat you till you stink.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>Yet in the bloody war full oft,</l>
+                           <l>My courage I did try.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <p>I know you have kild many a man.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>You lie, you slut, you lie.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>I never came before a foe,</l>
+                           <l>By night nor yet by day,</l>
+                           <l>But that I stoutly rouz'd my self,</l>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>And nimbly ran away.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>Within this chest Ile hide my self,</l>
+                           <l>If it chance he should come.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <p>O no my love, that cannot be,</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>I have bespoke the room.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <l>I have a place behind here,</l>
+                           <l>Which yet is known to no man.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <l>She has a place before too,</l>
+                           <l>But that is all to common.</l>
+                        </sp>
+                        <stage>Old man within.</stage>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>Wife, wherefore is the door thus bar'd?
+what mean you pray by this?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <p>Alas! it is my husband.</p>
+                        </sp>
+                        <sp>
+                           <pb n="14" facs="18"/>
+                           <speaker>Sim.</speaker>
+                           <p>I laugh now till I piss.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>Open the chest, Ile into it,</l>
+                           <l>My life else it may cost.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wife▪</speaker>
+                           <p>Alas I cannot open it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>I beleeve the key is lost.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <p>I have bethought my self upon a dainty trick.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>What may it be my dearest love?</l>
+                           <l>I prethee now be quick.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <l>You must say that your enemy</l>
+                           <l>Into this house is fled,</l>
+                           <l>And that your heart can take no rest,</l>
+                           <l>Untill that he be dead.</l>
+                           <l>Draw quickly out your furious blade,</l>
+                           <l>And seem to make a strife.</l>
+                           <l>Swear all th'excuses can be made,</l>
+                           <l>Shall not preserve his life.</l>
+                           <l>Say that the Rogue is fled in here,</l>
+                           <l>That stole away your coin,</l>
+                           <l>And if Ile not deliver him,</l>
+                           <l>You'l have as much of mine.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>Here's no man but my self,</l>
+                           <l>On whom shall I complain?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <l>This great fool does not understand,</l>
+                           <l>This thing you must but faign.</l>
+                           <l>My husband thus must be deceiv'd, and afterwards
+wee'l laugh.</l>
+                        </sp>
+                        <stage>Enter old man.</stage>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <l>Wife, since you will not ope the door,</l>
+                           <l>Ile break't ope with my staff.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>Good woman shew me to the slave,</l>
+                           <l>His limbs I strait wil tear.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <l>By all the honestly I have,</l>
+                           <l>Theres no man came in here.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <l>When I have fought to purchase wealth,</l>
+                           <l>
+                              <pb n="15" facs="18"/>
+And with my blood did win it,</l>
+                           <l>This Rogue has got my purse by stealth.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>But never a peny in it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>She's big with child, therefore take heed
+you do not fright my wife.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <p>But know you who the Father is?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>The Roarer on my life.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>She knows not of your enemy, then get you
+gone you were best.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Wife.</speaker>
+                           <p>Peace husband, peace, I tell you true, I have
+hid him in the chest.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>I am glad on't at my heart, but doe not
+tell him so.</p>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <p>I would not for a thousand pound the Roa|rer
+should it know.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <p>When next we meet his life is gone, no other
+must he hope; Ile kill him whatsoere comes on't,</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>Pray think upon a rope.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>What kind of person is it that in the chest
+does lie?</p>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <p>A goodly hansome sweet young man,
+as ere was seen with eye.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>Then let us both entreat of him—Pray
+put us not in fear: we do beseech you go from hence.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Blust.</speaker>
+                           <p>But to morrow Ile be here.</p>
+                           <stage>Exit Blust.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>Wife, run with all the speed you can, and
+quickly shut the dore,</p>
+                           <p>I would not that the roaring man should come in any more.
+Mean time I wil release the youth, and tell him how we
+have sped.—Be comforted my honest friend.</p>
+                        </sp>
+                        <stage>
+                           <hi>Simpkin</hi> comes
+forth.</stage>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>Alas <hi>I</hi> am almost dead, my heart is tortur'd in
+my breast with sorrow, fear and pain.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>Ile fetch some <hi>Aqua vitae,</hi> to comfort you a|gain.</p>
+                        </sp>
+                        <sp>
+                           <pb n="16" facs="19"/>
+                           <speaker>Simp.</speaker>
+                           <l>And cause <hi>I</hi> will requite you,</l>
+                           <l>VVhose love doth so excell,</l>
+                           <l>Ile graft a pair of horns on your head,</l>
+                           <l>That may defend it well.</l>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <l>Good husband, let the man stay here,</l>
+                           <l>'Tis dang'rous in the street.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <l>
+                              <hi>I</hi> would not for a crown of gold,</l>
+                           <l>The Roarer should him meet.</l>
+                           <l>For should he come by any harm,</l>
+                           <l>They'd say the fault were mine.</l>
+                        </sp>
+                        <sp>
+                           <speaker>VVife to Simpkin.</speaker>
+                           <p>There's half a crown, pray send him
+out to fetch a quart of wine.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <p>There's money for you Sir,—Pray fetch a
+quart of Sack.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>'Tis well, 'tis well, my honest friend, Ile see
+you shall not lack.</p>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <l>But if he should dishonest me,</l>
+                           <l>For there are such slipp'ry men.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <l>Then he gets not of his half crown</l>
+                           <l>One peny back agen.</l>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <l>Thy husband being gone my love,</l>
+                           <l>VVee'l sing, wee'l dance, and laugh,</l>
+                           <l>I am sure he is a good fellow,</l>
+                           <l>And takes delight to quaff.</l>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <l>I'le fold thee in my arms my love,</l>
+                           <l>No matter for his listning.</l>
+                        </sp>
+                        <stage>The Old man and his servant listen.</stage>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <l>Gentlemen, some forty weeks hence</l>
+                           <l>You may come to a Christning.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <l>O sirrah, have <hi>I</hi> caught you,</l>
+                           <l>Now do the best you can,</l>
+                           <l>Your Schoolmaster nere taught you</l>
+                           <l>To wrong an honest man.</l>
+                        </sp>
+                        <sp>
+                           <pb n="17" facs="19"/>
+                           <speaker>Sim.</speaker>
+                           <l>Good sir, <hi>I</hi> never went to Schole,</l>
+                           <l>Then why am <hi>I</hi> abused?</l>
+                           <l>The truth is, <hi>I</hi> am but a foole,</l>
+                           <l>And like a fool am used.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <p>Yet sirrah you had wit enough to think to
+Cuckold me.</p>
+                        </sp>
+                        <sp>
+                           <speaker>VVife.</speaker>
+                           <p>I jested with him, husband, his knavery to see.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Simp.</speaker>
+                           <l>But now you talk of knaverie,</l>
+                           <l>
+                              <hi>I</hi> pray where is my Sack?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Old man.</speaker>
+                           <l>You shall want it in your belly, Sir,</l>
+                           <l>And have it on your back.</l>
+                        </sp>
+                        <stage>They beat him off.</stage>
+                        <stage>Exeunt.</stage>
+                     </div>
+                  </div>
+      </body>
+  </text>
+</TEI>

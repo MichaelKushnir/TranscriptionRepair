@@ -1,0 +1,3416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+					 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">The country captaine and the Varietie, two comedies written by a person of honor ; lately presented by His Majesties servants at the Black-Fryars.</title>
+            <author>Newcastle, William Cavendish, Duke of, 1592-1676.</author>
+         </titleStmt>
+         <extent>97 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2006 June (TCP phase 1)</date>
+            <idno type="marc">13354909</idno>
+            <idno type="stc">Wing N877.</idno>
+            <idno type="vid">99227</idno>
+            <idno type="DLPS">A53070</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">The country captaine and the Varietie, two comedies written by a person of honor ; lately presented by His Majesties servants at the Black-Fryars.</title>
+                  <title type="alt">Country captaine</title>
+                  <author>Newcastle, William Cavendish, Duke of, 1592-1676.</author>
+                  <author>Newcastle, William Cavendish, 1592-1676.</author>
+               </titleStmt>
+               <extent>[6], 3-65 [i.e. 97] p., [4], 87 p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Hum. Robinson ... and Hum. Hoseley ...,</publisher>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Each play has separate paging and special title page: 1) The covntry captaine a comoedye ... Printed by Samuell Broun, 1649;  2) The varietie, a comoedy, ... London: Printed for Humphrey Moseley, 1649.</p>
+                  </note>
+                  <note>
+                     <p>Pt. 1: Pages 25-51 have print show-through and are tightly bound with loss of text in filmed copy.  Pages 22-51 of Pt. 1 Photographed from British Library copy and inserted at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+            <body>
+               <div n="2" type="act">
+                  <pb n="22" facs="2"/>
+                  <sp>
+                     <p>
+                        <gap unit="page" extent="21"/>twelvemoneth, thou haſt loſt thy comple|xion, by too much ſtudy. Why thou ſhale bee an heire and rule the roaſte of halfe a ſhire, if thy Father would but dye once, come to the Aſſiſes with a band of Ianiſaries to equall the grand Signior, all thy tennants ſhall at their owne charge make them ſelfes fine &amp; march, like Cavaliers with tyltinge feathers gaudy as <hi>Agamemnons</hi> in the playe after whom thou like a <hi>St George</hi> on horſe back, or the high Sheriffe, ſhalt make the Country people fall downe in Adoration of thy crupper &amp; ſilver ſturrup, my right wor|ſhipfull. A pox on buckoram and the lug|gage in it, papers defild with court hand and long daſhes or ſecretary lines, that ſtraddle, more then Frenchmen, and leſſe wholſome to the client! Is thy head to bee fild with <hi>P●olamations Rejoyndere</hi> &amp; hard words beyond the <hi>Alkemiſt?</hi> Be ruld, and live like a fine Gentleman, that may have hawkes, and hounds, and whores; and horſes, and then thou art fit Companie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>You talke wildly; I would you ſaw your error; that plaee all your happineſſe upon ſuch courſe delights I ſhould degene|rate, and too much forfeift my education.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Saek.</speaker>
+                     <p>Education? hee has gott a tune; I doe not thinke but thou wilt leave thy law, And exerciſe thy talent in compaſsing ſome Treatiſes againſt <hi>long-hayre &amp; drinkinge</hi> that moſt unchriſtian weede, yclept <hi>Tobacco:</hi> preach to the Punies of the Inne ſobrietie &amp; abſtinence from ſhaving of leawd Bailiffes
+<pb n="23" facs="2"/>
+that wil com ſhortly to your chamber doores &amp; there with reverence intreate your wor|ſhips come forth and bee arreſted: pretious tad-poles: I would not willingly diſpaire of thee; for thy Lands ſake and cauſe I am thy Countryman: one generous vagary, if thou wert w●ſe, would breake ſom bodies heard, within a ſeaven night, &amp; then thou art lord of all; have but the grace to dine with me at the Taverne, and I'le tell thy Freinds, there is ſome hope.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>My Freinds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Thy Father is in Eſſex, if hee live, hee will, purchas Rumford if he dye ſooner, then the Town's our owne, Spend but an acre a day and thou maieſt live till all the world bee weary of thee; betweene, us too, what thinke you of a wench?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Nothinge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>You meane, one wench betweene us too is nothing; I know a hundred Leverett●; things that will bound like a dancer on the rope, and kiſſe thee in thy naturall Com|plexion; a ſinner that will climbe thee like a ſquirrell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>And crack me as a nutt; I have no kirnell to ſpare for her ſweete tooth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>That was a metaphor; he is not de|ſqerate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Buy' my deere Captaine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Why farewell Countryman. I may live to ſee thy converſion. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Footman.</stage>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>How does my Vncle.</p>
+                  </sp>
+                  <sp>
+                     <pb n="24" facs="3"/>
+                     <speaker>Foot.</speaker>
+                     <p>He deſires preſently to ſpeake with you at his lodging.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I'le attend him. <stage>Exeunt.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Vnderwitt and Thomas.</stage>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>And haſt thou been carefull of all thoſe thinges I gave in charge to bee provided?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>There is a noate of the particulars.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Tis very well done, <hi>Thomas,</hi> let mee ſee, Inprimis.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>The Captaine will not faileto bee with you Sir, hee was not at his lodging, and en|quiring at the horne Taverne, I heard hee had bin there with two or three cittizens that owed him monie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>That hee owed monie too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Tis all one I thinke; Sir; for when Captaines have not pay, Creditors may pay themſelves, here they ſaid, he did mollifie the heart of the habberdaſher, &amp; dranke him|ſelfe a little mellow ere they parted which gave me ſome hope I might finde him ere night, at the devill, where indeede I fetch'd him out of the fire, and gave him your letter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>And the gold too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>That was the firſt word Hee read, if you had writte it in text, hee could not have fownd it out ſoe ſoone, his eye was no ſooner on the inſide, but his arme flew out with an open month, and his very fingers ends cry'd give me the gold which pre|ſuming to bee weight he put into his <hi>hocus ●ocus</hi> a little dormer under his right skirt,
+<pb n="25" facs="3"/>
+and ſoe taking his word to come downe and turninge over your horſe to him, with ſome caution, not to be drunke and forget your, worſhip, I tooke my leave and went about my Inventory.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd</speaker>
+                     <p>Theſe thinges are very right <hi>Thomas,</hi> let me ſee now the bookes of Martiall diſci|pline.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>I bought up all that ſeeme to have re|lation to warr and fighting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>That was well done; well done; Item the <hi>Sword-ſalve.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Sir if you bee hurt you neede goe no further then the blade for A ſurgeon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>
+                        <hi>The</hi> Buckler of faith.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>You had the <hi>ſworde</hi> before, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>
+                        <hi>A</hi> booke of Mortification.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>I Sir, that is A kinde of killing, which I thought very neceſſary for A Captaine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Item the <hi>Booke of Cannons; Shakſpeares</hi> workes. Why <hi>Shakſpeares</hi> workes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>I had nothing for the Pike men be|fore.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>They are playes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Are not all your muſteringes in the Country ſoe, Sir? pray readon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vad.</speaker>
+                     <p>
+                        <hi>Bellarmines</hi> Controverſies, in Sixe Tomes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>That I tooke upon the ſtationers word, who had been Apretty ſcholler at <hi>Paules;</hi> for the word <hi>Bellarmine,</hi> he ſaid, did comprehend warr, weapons &amp; words of defiance 〈◊〉 words provoake men to draw their ſwords and fightinge makes an end of the buſineſſe
+<pb n="26" facs="4"/>
+and all this is controverſies, pray goe on Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Two <hi>payre of Tables;</hi> Tables? for what?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Oh Sir for Ticktack; you know it was in my note, which though I doubted at firſt yet conſideringe you were newly made A Captaine I conceave it was fitt you ſhould learne to ſett &amp; order your men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Tackticks man; thou didſt miſtake: they are bookes of warr.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>You cannot know theſe from bookes as they are painted I warrant you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Why doeſt thou thinke theſe will make A Soldier.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Not of them ſelves, Sir, and there|fore I provided; pleaſe you reade on Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>
+                        <hi>P●rſons</hi> reſolutions; &amp; <hi>Felthams</hi> Re|ſolves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>All is nothing, I know Sir without reſolution.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Somma totalis 23. 19. and 7. thou haſt undon me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>If you doe not like the penny worthes; Tis but the charges of my ſelfe and a horſe againe to London: I will looſe but the three odd pownds nynteene ſhillings &amp; ſeaven|pence. It may bee you doe not underſtand theſe Authors; when the Captaine comes, hee will expounde them to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>What a Coxcombe have I to my man? but I dare not bee angry with him, well, carry them into my ſtudy; <hi>Thoma●.</hi>
+                        <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>
+                     <pb n="27" facs="4"/>
+Enter Device.</stage>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>My moſt honored Captaine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>My compleate Monſieur <hi>Device:</hi> This is a grace to us; you come to viſite your Miſtreſſe my couzen:</p>
+                     <stage>Enter Lady, Siſter, &amp; Doroth●y.</stage>
+                     <p>And ſee as if by inſtinct, ſhee had knowledge of your approach, ſhee is come to meet you: ſhall I never gett opportunitie with that ſhee waiter. If I gett her with child my man <hi>Thomas</hi> ſhall marry her.</p>
+                  </sp>
+                  <stage>Enter Thomas.</stage>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Sir the Captaine is newly alighted.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Get a botle of ſack up to my chamber preſently.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>You are a Gentleman of your word.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>And ſuch a Gentleman is to be truſted:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Hee is an Infidell Madam, that will breake his word with A <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I ſuſpect ſervant you have many Mi|ſtreſſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Nor by this white hand, I muſt ac|knowledge there are ſome <hi>Ladyes</hi> in the court in whoſe eyes &amp; opinions I am favor'd; I cannot obſcure my ſelfe from their obſerva|tions: but my heart with contempt of all other indeerements, is only devoted to your ſervice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Is it not a charge to dreſſe your ſelfe in ſuch varieties of Ribbands every day?</p>
+                  </sp>
+                  <sp>
+                     <pb n="28" facs="5"/>
+                     <speaker>Dev.</speaker>
+                     <p>Is that your ſcruple? tis the mode to expreſſe our fancy upon every occaſion; to ſhew the turne, or preſent ſtate of our hopes or feares in our affections. Your colours, to an underſtandinge lover, carry the inter|pretation of the heart, as plainly as wee ex|preſſe our meaninge one to an other in Cha|racters. Shall I decypher my colours to you now; heere is Azure &amp; peach. Azure is con|ſtant, and peach is love; which ſignifies my conſtant affection.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>A prettie Morall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>It ſaves the trouble of writinge, where the Miſtreſſe and ſervant are learned in this Amorous Blazon, yeſterday I wore fuille|mote; greedeline; and Iſabella; fuille-mote is withered, greedeline is abſent, and Iſa|bella is beauty: which put together ex|preſt'd, I did wither or languiſh for your ab|ſent beautie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>But is thereany reaſon for their di|ſtinctions?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Yes <hi>Lady</hi> for example, your fuille|mote is a withered leafe; which does mor|rallize decay; your yellow is joy, be|cauſe:—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Why yeallow Sir is jealous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Noe it is your lemon colour, a pale kinde of yeallow is jealous; your yeallow is perfect joye: your white is death, your milke white Innocent, your Black moorninge, your orange ſpightfull, your fleſh colour ●aſci|vious, your maid-bluſh envie, your red is defiance, your gold avaritious, your ſtraw,
+<pb n="29" facs="5"/>
+plentie, your graſſe greene, hope; your ſea greene Innocent, your violett, religious; your willow, forſaken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Wee may then committ a ſoleciſme &amp; be ſtrangely interpreted by ſome curious ex|pounders in the raſh election and wearinge of our colours, I perceave.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Tis pittie but there ſhould bee ſome bookes written for our inſtructions in this Art.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Your Hieroglyphick was th' Aegip|tian wiſdome. Hebrewes had their Caball; the Romans had their ſymbolle▪ and Im|preſe, &amp; Embleme, but theſe are abſolute. Your moderne Invention of Character, an Alphabeticall key trite and conſpicuous your <hi>motto</hi> or <hi>rebus,</hi> too open, and demonſtrative but the ſcience and curioſitie of your Rib|bands, is not only inſtructive but an orna|ment, and the neereſt comentator of love, for as love is entertain'd firſt by the eye, or, to ſpeake more plaine, as the object affected is tooke in firſt by theſe opticks, which re|ceave the ſpecies of things coloured &amp; beau|tified, ſoe it is anſwerable to nature that in the progreſſe of our paſſion wee ſhould di|ſtingviſh by our eye the change or conſtan|cie of our affections, in Apt, and ſignificant colours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>You have taken paines, to ſtudy this learned Blazon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>It is the only gentile knowledge; or Phyloſophy in the world: I willundertake to open any man or womans heart:—</p>
+                  </sp>
+                  <sp>
+                     <pb n="30" facs="6"/>
+                     <speaker>Lad.</speaker>
+                     <p>Heaven for bidd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Tell the moſt ſecrett imaginations &amp; deſignes, conclude every paſſion and ſcruple if they be but carefull to obſerve the Artifi|ciall Method of their Colours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Why this may bee a way of fortune ●●llinge too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>You ſaie right <hi>Lady.</hi> Phyſiognomy &amp; Chiromancy are but meere tri●●es your geo|mancy meere conjecturall, the erection of your ſcheme circumſtantiall, and fallible: but your queint a la Mode weare of your fancy, more then Aſtrologicall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Tis a kinde of divinitie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>You ſaie true Madam, &amp; comes neere to propheticall, if the mindes of Ladyes and Gentlemen were elevated to the ſublime conſideration.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>What paines hee takes to bee ridi|culous? <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>This Gentleman has a notable fancy, and talkes Poetically.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Yes; yes; hee can make Verſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Well I have red Authors in my dayes and knew the length of the Poets in my time too which was an Hexameter, and which A Pentameter, but the witts are not, as they have been, right and ſtraight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Why <hi>D●rothey.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Why becauſe winde is the cauſe of many things, now if the winde bee not in the right corner, it is, the ill winde, the proverbe ſpea|kes of, which blowes no body good; for whē vapors and winde flye up into the head it
+<pb n="31" facs="6"/>
+cannot bee in two places at one time and that is the reaſon your men of moſt witt doe ſeldome love A woman. But heere coms my Maſter and Sir <hi>Francis.</hi>
+                     </p>
+                  </sp>
+                  <stage>Enter Sir Richard; Sir Francis and Maſter Courtwell.</stage>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>This is a double honnor to us Sir <hi>Francis;</hi> I ſhall want Langvage, but not A frendly heart, to entertaine you and your noble Kinſman. What my exquiſite Cavaliere <hi>Device?</hi> Tis to no purpoſe. I ſee, to remoue into the Country, to ſave charges and bee quiet, the whole Cittie will come hither, if I ſtay: I have no ſtomack to my court knight. <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>I hope Madam, you will bee no Ene|mie to my Kinſman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>
+                        <hi>Siſter</hi> I preſent this Gentleman; ob|ſerve &amp; cheriſh him; hee has bin in the uni|verſitie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Any degree Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Only batchelour, forſooth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>If he winn you to mariage; <hi>Lady</hi> Quickfillver.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Hee will bee Maſter of his Arte.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>My vote is for him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I like not the induction of this Rivall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Hee ſtudies the law: and that is the next high way to preferment, <hi>Siſter.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Indeede it is the high way in which ſome deliver up their purſes: he may clymbe to ſearlett, but that hee has to good a face:</p>
+                  </sp>
+                  <sp>
+                     <pb n="32" facs="7"/>
+                     <speaker>Dev.</speaker>
+                     <p>Sir, I hope—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Troth doe not Sir; I meane trouble your ſelfe, he is to baſhfull to prevaile upon your ſpirited Miſtreſſe. let's leave them.</p>
+                  </sp>
+                  <stage>Enter Engine.</stage>
+                  <sp>
+                     <speaker>Engine.</speaker>
+                     <p>
+                        <hi>Sir</hi> Richard.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>More Cuſtomers; Maſter <hi>Engine,</hi> welcome. your preſence was expected in the Country.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Twas my Ambition with ſome intents to ſerve you, Sir, pleaſe you vouch ſafe your privacie, I bringe affaires worth your enter|tainement; I have rid hard.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>What Cavaliere is this unkle?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Hee is the inventor of new projectes ●ouzen, they ſaye, and pattents; one that liues like a moth upon the comon wealth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>He lookes like one.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Ric.</speaker>
+                     <p>You will excuſe me gentlemen. Make much of Sir <hi>Francis</hi> Madame. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Wee'le leave my Nephew and your Siſter Madame: And take A turne in the garden. <stage>Exit. with Lady.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>You may bee confident.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I doe not like the fancy in his hat: that Gules is warr and will bee ominous. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I muſt ſeeme a modeſt coxcombe now to preſerve my uncles Character.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sist.</speaker>
+                     <p>The Gentleman is turn'd Statue, bleſſe me how he ſtares upon me, and takes roote? I thinke it moves, and now to earth is fix'd againe; oh how it walkes and ſadly marches
+<pb n="33" facs="7"/>
+this way? Is't not a ghoſt? hee'le fright me; oh; ſweet Sir, ſpeake if you can and ſaie who murdered you: it pointes at me: my eyes, ungentle eyes to kill ſoe at firſt ſight, I'le have my lookes Arraign'd for't &amp; ſmall cupid ſhall bee judge who for your ſake will make me blinde, as hee is.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Lady</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>The man is a live againe and has A tounge, diſcretion guide it; hee but ſent his ſoule forth of an Errant; tis return'd; now wee ſhall have ſome ſentences.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Such, are the ſtrange varieties of loue, Such heates, ſuch deſperate colds—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>No more winter if you loue me; un|leſſe you can command the coale pitts; wee have had a hard time of it already, for want of fuell</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <l>I'm all turn'd eares, and, <hi>Lady,</hi> long to heare you;</l>
+                     <l>But, preſſing to you, doubt I am to neare you.</l>
+                     <l>Then I would ſpeake but cannot, nought affords</l>
+                     <l>Expreſſion, the Alphabet's to poore in words.</l>
+                     <l>Hee that knowes loue knowes well that every hower</l>
+                     <l>Lo●e●s glad; love's ſweete—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt</speaker>
+                     <p>And ſome times ſower;</p>
+                     <p>Theſe wordes would goe well to a Tune, pray let's heare you ſinge: I doe not thinke but you can make; mee A Jointure of foure Nobles a yeare in ballads, in lamentable bal|lads, for your witt lyes Tragicall, did not you make the <hi>Ladyes downfall?</hi> you expreſſe
+<pb n="34" facs="8"/>
+a paſsion rarely, but pray leave your coup|pletts, and ſay ſomthinge in blanke verſe before you goe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Before I goe; breath not that kil|linge Langvage;</p>
+                     <p>There is no Sun but in your eyes: and when I once take leave of thoſe Celeſtiall beames Tis darkneſſe through the world.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Oh; pittifull; if I were a widdow then youl'd keepe me waking for feare I ſhut my eyes, and your diſcretion looſe the way home.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <l>Where ſtrech'don ſable grownd, I downe ſhall lay</l>
+                     <l>My mournefull body, and with foulded Armes:</l>
+                     <l>Heare ſadder notes upon the Iriſh harpe;</l>
+                     <l>And while my Footman playes; ſigh out my part,</l>
+                     <l>And drop diviſion with my briniſh teares.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>This muſt bee lamentable muſique ſure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <l>But I will finde an Art to cure this wound;</l>
+                     <l>For I with fancies pencill, will ſo draw</l>
+                     <l>Your picture in the table of my heart</l>
+                     <l>Your abſence ſhall but like darke ſhaddowes ſtand,</l>
+                     <l>To ſett you of, and ſee you, <hi>Lady</hi> better</l>
+                     <l>Then love wil let me when I looke upon you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <l>Could this bee true and meant, ſweete Sir, to me;</l>
+                     <l>I ſhould be kinder then the gentleſt ſpring</l>
+                     <l>That warmes the world, &amp; makes feirce beaſts ſoe tame</l>
+                     <l>
+                        <pb n="35" facs="8"/>
+And trees to ſwell themſelves to cheerefull greene</l>
+                     <l>More jocond then the proudeſt Quire of birdes,</l>
+                     <l>What ere they bee, that in the woods ſoe wide</l>
+                     <l>Doe ſinge their merry catches.</l>
+                     <l>Sure hee does but counterfeit. <stage>Aſide.</stage>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <l>Oh now I ſee that love</l>
+                     <l>Is ſweete; as flowers in their fragrant birth,</l>
+                     <l>Gentle as ſilk; and kinde as cloudes to earth.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>One rithme more and you undoe my loue for ever, out upon it; Peddlers French is a Chriſtian language to this. I had rather you ſhould put me a caſe out of Littleton: they ſaye you are a prettie lawyer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>
+                        <hi>Tennant par la curteſy d'Angliterre, eſt ſon home prent ſamme ſelfe en ſee ſimple eſt fee taile generall en ſelfe comme heire de la taile eſpecial &amp; ad Iſſu per la meſme fe|me male ou female ●pes on nife ſoit Iſſue apres mort ou en diu de la feme debie la baron tiendra la terra durant ſa vie per le ley d'Angliterre.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Nay heere is enough in conſcience: what a noyſe this confuſion of Languages makes; this is almoſt as good as A beare baytinge, harke you Sir, you are never like to recover me by law.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>You are not the firſt ſweete <hi>Lady●;</hi> has ben overcome in common law.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Not by ten thowſand, Sir: Confeſſed, but I have no minde to come to Iſſue with A lawyer: when hee ſhould conſider my caſe at
+<pb n="36" facs="9"/>
+home, hee'le be at Weſt minſter teaching men theire ſtatutes! no; no; I will not marry a Judge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Why <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>They are caſuall thinges and men that hold ſuch ſtrange opinions, they are not ſafe; no, not in their owne lambskins.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>
+                        <hi>Lady</hi> you may bee miſinform'd; Aſtraea hath not quite left the earth and the Abuſes of ſome, which ſhame the callinge, are but like patches of beautie on the face of law to ſett the Native whiteneſſe off.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Farewell; Sir; you are in loue with a bar'd Gowne, not beauty; if you will follow my learn'd counſell, leave it. This younge thinge is a foole or a fine fellow. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Shee kicks and ſtinges out like a colt unwayd. Her witt's a better portion then her monie I would not love her, yet, if I could helpe it. (My Vnkle and his Miſtreſſe) I'le not hinder them. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Sir Francis and the Lady.</stage>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>It is no honour, Sir, if Arm'd with ſo much eloquence, you overcome A wo|man; I bluſh to ſay I loue you now too much. I wiſh you would releaſe what your Sweete charmes wonn from my toungue: I ſhall repent my promiſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Make me not miſerable after ſoe much bleſſinge. Why, Madame, it is upon honorable tearmes ſince not upō the firſt at|tempt, but, after a tedious ſeige to your faire loue, you give up what ſhall enrich us both:
+<pb n="37" facs="9"/>
+It were A ſinn to feare you can retract what both our lipps have ſeald, and looſe a hap|pineſſe ſo neere &amp; ſo ſecure; your husband holds his pleaſure of early huntinge conſtant, and when hee perſues his timorous hart to morrow morninge, Cupid will wayte, to bringe me to Elizium, your bedd, where every kiſſe will new create us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>You muſt bee wiſe in your excuſe to quitt his importunitie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Leave that to me. I were not worth the name of him that ſerv'd you to loſe my glorious hope for want of ſuch a thin <hi>Device;</hi> In your thought wiſh mee proſperous &amp; I am fortified againſt the power of fate to ſeparate us; and when thou art with in the Amorous Circle of myne Armes, wee will make lawes to love, teach time new Actions, or chaine him with the cordadge of his haire; like a tame thing to wake and watch our pillow; and bee our pleaſures centenell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>I ſee my husband, tis not ſafe hee ſhould obſerve us. Bee wiſe &amp; conſtant. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>All thats ſweete attend thee. Soe; I am ſaylinge now to my owne Indies: and ſee the happie coaſt too; how my winges doe ſpread to catch the winde which coms to cover them. And the greene ſea enamord on my barke, doth leape to ſee how cupid ſits, at the helme &amp; ſteeres my ſoule to his new world.</p>
+                  </sp>
+                  <stage>Enter Sir Richard and Engine.</stage>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>A monopoly, ſay you, for periwiggs?</p>
+                  </sp>
+                  <sp>
+                     <pb n="38" facs="10"/>
+                     <speaker>Fran.</speaker>
+                     <p>Bin viſitinge your grounds?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>My hounds rather, Sir <hi>Francis,</hi> and ſome horſes, that takes up my Country re|creations; tis Supper time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Iſt not a rare deſigne? and by ſuch Art and reaſons I can name moſt beneficiall to the common wealth, preventing the diſeaſes which ſome unwholeſome haire breedes in mens heads. It will bee worth our agitation Sir, &amp; you after the rate of every thowſand <hi>per Annum</hi> milkt out of the common purſe into your owne, may eaſily defalke to me a hundred for my firſt projection; did I not love you, Sir, I could make coine of other <hi>Abell</hi> men that would bee glad to multiply their mony.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Sir I thanke you, but have no mind to thriue upon abuſe of my princes favour, nor the Peoples curſe. Heere is a Gentleman; Sir <hi>Francis Courtwell,</hi> perhaps, will undertake it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>What; Sir <hi>Richard?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>A monopoly for compoſing and ſellinge of periwiggs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Excuſe me Sir, I dare not deale in them; doe not you heare things of this na|ture queſtioned?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>How Sir queſtioned?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>There's one among the reſt, I cannot hitt upon his name in faire election to be hanged, one <hi>Engine.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Oh Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>What ayle you Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>A meagrim in my head.</p>
+                  </sp>
+                  <stage>
+                     <pb n="39" facs="10"/>
+Enter Servante &amp; Thomas.</stage>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Who's there? looke to Maſter <hi>En|gine</hi> here, hee faints, &amp; ſend to your <hi>Lady</hi> for ſome cordiall waters preſently.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>There is a ſoveraine well hard by, has done ſtrange cures, pleaſe you; I'le throw him into that. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Though I diſtaſte his buſineſſe, I would not hee ſhould miſcarry heere, you frighted him. Tis ſupper time, I ſhall expect your company in the morninge, Sir <hi>Francis:</hi> I have a pack of doggs will make the forreſt ringe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>I'le carefully attend Sir: as early as you pleaſe I love the ſport too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I wiſh wee had all pleaſures to delight you; but nothing wants in my true love to ſerve you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Yet I muſt cuckold him, I cannot helpe it. </p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="act">
+                  <head>Actus tertius. Scaena prima.</head>
+                  <stage>Sir Richard and his Lady in Bedd Enter Thomas (with Sir Richards bootes.)</stage>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Who is that? <hi>Thomas?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>The Sunn is up before you Sir, heere
+<pb n="40" facs="11"/>
+bee your bootes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>That's well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Prithee doe not riſe, it is hardly day, Sirra, who bid you call him ſoe early? Sir <hi>Richard</hi> will not riſe yet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>I cannot help it, tis none of my fault.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Where is <hi>Dorothy.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Heere, Madame; what make you up ſoe ſoone, <hi>Thomas.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Oh Miſtris <hi>Dorothy</hi> tis even longe of you for beetweene ſleepe and wake your re|membrance came to me this morninge, and <hi>Thomas</hi> was up preſently.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>You muſt excuſe me; I meane to kill a brace of hares before you thinke tis day. Come, on with my bootes. <hi>Thomas;</hi> And <hi>Dor thy</hi> goe you to Sir <hi>Francis</hi> chamber tell him the day growes old &amp; I am ready: our horſes &amp; our merry houndes expect us. <stage>Exit Dorth.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Any excuſe to leave me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>You may take your eaſe in bedd ſtill Madam, I'le not looſe one morninge, that invites ſoe pleaſantly, to heare my Doggs, for a new mayden-head. Twas for theſe ſportes and my exceſſe of charge I left the Towne; beſides the Cittie foggs and ſteame of brickhills almoſt ſtifled me. This Aire is pure, and all myne owne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>My <hi>Lady</hi> meanes ſhee would have you gett an other <hi>Heire</hi> Sir for your land, though, it bee againſt my Maſter the younge Captaine yet ſhee ſpeakes but reaſon and now, I talke of the Captaine, Sir. would you had given him councell.</p>
+                  </sp>
+                  <sp>
+                     <pb n="41" facs="11"/>
+                     <speaker>Sir Rich.</speaker>
+                     <p>To what.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Before hee tooke this huffinge trade upon him to have been a man of peace, I meane, a Juſtice, nature has made him fits for both a like; hee is now at charge to keepe a Captaine Schoolemaſter: he might have ſav'd the Quarteridge of his Tutor if I had been his clarke, and then the in come that broaken heads bring in; and New yeares giftes from ſoadred virgins and their ſhee Provincialls whoſe warren muſt bee licenc'd from our Office.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Away you pratinge knaue; what is hee ready?</p>
+                  </sp>
+                  <stage>Enter Dorth.</stage>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Alas hee's almoſt dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Rich.</hi>
+                     </speaker>
+                     <p>How dead?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Hee has bin troubled with a fitt of the ſtone Sir, all this night poore Gentleman, hee groanes &amp; ſweates &amp; cannot:—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>
+                        <hi>What?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Make vrine Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>I heard my <hi>Lady</hi> has an excellent re|ceipt to cure the ſtone. Shee is a peece of a rare ſurgeon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Rich.</hi>
+                     </speaker>
+                     <p>Well-away and gett the horſes ready; ſirra; or I ſhall ride you and your witt together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Alas any foole may ride mee, but I would faine ſee any man ride Miſtris <hi>Do|rothy.</hi>
+                        <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>How Sirra.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I am ſorry I muſt leave ſuch a com|panion but more lament the cauſe, I wiſh
+<pb n="42" facs="12"/>
+him health: my preſence cannot ſerve him, morrow wife, I will not loſe my ſport. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor</speaker>
+                     <p>Nor ſhee; when you are gone; my <hi>Lady</hi> does expect an other <hi>bunts upp</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dad.</speaker>
+                     <p>Now I muſt truſt thy ſervice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>You ſhall not doubt me; Madam; and to aſſure you my faith, I have a ſuite to your ●adiſhip, whoſe grant, were there noe other bonds upon me, would tye me to ever|laſtinge ſilence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>What is't; but name it and I ſhall ſoone conſirme thee</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Our Captaine of the traine band has bin offeringe to chaffer Mayden-heads with me; I muſt confeſſe I can affect the foole. upon good tearmes, &amp; could deviſe to nooze my Amorous woodcock if you aſſiſt mee pri|vatly, and dare truſt mee with ſome Jewell of price, that is not knowne, which ſhall bee faithfully reſtored, Madame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>I that dare truſt my honnour with thee, ſhall not ſuſpect thy faith in any trea|ſure elſe, chuſe from my cabbinets, but, prithee, draw the curtaines while I expect this freind, I needs muſt hide my bluſhes thou maiſt diſcover from my gallery win|dow when they are horſed, I tremble, to conſider what I have promiſed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Tremble to meete a ghoſt; you are more fearefull then a Virgin; Madame; why this ſetts me a longinge, but I'le watch: this is the timorous world of fleſh &amp; blood. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>
+                     <pb n="43" facs="12"/>
+Enter Sir Richard.</stage>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Alas what doe you meane? re|tire for heavens ſake: my husband is not gone, I heard his voice yet, this raſh|neſſe will undoe my fame for ever, ſhould hee returne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Howe's this? retire for heavens ſake, my husband is not gone, I heard his voice this will undoe my ſame. It was my wife and this is ſure my bed chamber. <stage>Shee lookes out.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>I have undone my ſelfe, it is my husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>My forehead ſweates; where are you; Madame; whom did you talke too; or take me for? Ha; a ſleepe already; or doe I dreame; I am all wonder; Madame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Nay; nay kill him; if it pleaſe you; ſweete heart, I cannot abyde a blacke|moore <stage>Faynes ſleeping.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>How's, this? wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Helpe, helpe, deare husband ſtrangle him with one of my lute ſtrings; doe, doe, doe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>If ſhee bee a ſleep: ſhee was nor wont to talke thus, She has had ſome hideous dreame, ſhee ſpake to me, too. Who ſhould I ſtrangle ſweete hart, with a lute ſtringe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>The kinge of Moroco I thinke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>It is ſoe, ſhee dreames, what ſtrange chymaeras wee fancy in our ſleepe: I were beſt wake her, Madame, Madame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Oh Murder, Murder.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Sweete harte, Madame, wake.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>What's that?</p>
+                  </sp>
+                  <sp>
+                     <pb n="44" facs="13"/>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Tis I.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Sir <hi>Richard?</hi> ôh, you have delivered mee from ſuch a dreame I quake to thinke upon it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I muſt confeſſe you frighted mee at firſt.</p>
+                  </sp>
+                  <stage>Enter Dorothy.</stage>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>My Maſter come back? if hee had founde the ſick Sir <hi>Francis</hi> heere.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>How, now, art thou frighted, too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Frighted quoth a; ô Madame; the key of the cloſett, quickly, I muſt have ſome cordiall water for Sir <hi>Francis</hi> I feare this 〈◊〉 will kill him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Alaſſe good Gentleman make haſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>His appearance would betray all Thus prevented. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Nay ſweete heart, you ſhall not leave me till I told what a cruell dreame I had, me thought a kinge of blackamoores was in love with me, and havinge, by flatteringe courtſhip drawne me to his bed chamber, by my conſent, or force, ſwore to en●oy me. I knew not by what reaſons to dive●t the Rauiſher; but told him that I hearde thy voice, I bid him if hee lou'd his life retire, for thou wouldſt, (deare,) revenge my honnour, but hee perſuinge mee, I cryd out murther and having nere a ſword, I councelld thee to ſtrangle him with a lute ſtringe; for which cruelty of myne me thought hee threw an Arrowe at mee, which
+<pb n="45" facs="13"/>
+if thou hadſt not wak'd mee as thou didſt would, as I ſlept; with my ſtrong feares have killed me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>This was the kinge of Moroco; well, I am glad I came to take away thy fright.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>But, ſweete, you left me, with a reſo|lution to hunt this morninge, have you done already?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>The theeves prevented me, my ſtable has bin robd to night, two geldings &amp; my Roane n●gg are vaniſhed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>How?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Nay doe not thou vex, I have ſent Hue and cry that may overtake them; but come I'le leave thee to thy glaſſe, and viſit Sir <hi>Francis,</hi> now ſhee is return'd. How does your Noble gueſt? <stage>Enter Dorothy.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Hee is pretty well, Sir Hee has voided one ſtone ſince and now findes eaſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Tis well, attend your Miſtris. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Oh wench, I had almoſt undone my ſelfe, come on the other ſide, reach me that petticote. I le tell thee the ſtory as <hi>I</hi> make me ready. <stage>Exeunt.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Siſter and Device.</stage>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Is it poſsible you can talke thus, and bee no Scholler?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I have travell'd in my fancy: tooke the Aire about the world with the muſes, and doe for my recreation of witt, compoſe ſome wonders in Verſe, Poeticall Eſſa●es: as one upon report of a heate that was in Aegipt.</p>
+                  </sp>
+                  <sp>
+                     <pb n="46" facs="14"/>
+                     <speaker>Siſt.</speaker>
+                     <p>Let's heare them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <l>In Countryes I have been;</l>
+                     <l>Vnder the Aequinoctiall, where <hi>I</hi> have ſeene</l>
+                     <l>The Sun diſperſe ſuch a prodigious heate</l>
+                     <l>That made our ſive-like skinns to raine with ſweate:</l>
+                     <l>Men would have given, for an Ecclipſe, their lives</l>
+                     <l>Or one whiſper of Aire, yet each man ſtriues</l>
+                     <l>To throw up graſſe, feathers; nay women too</l>
+                     <l>To finde the winde, all falls like lead, none blew,</l>
+                     <l>The dogg ſtarr ſpitts new fire, till't came to paſſe</l>
+                     <l>Each eye became his neighbours burninge glaſſe.</l>
+                     <l>Leane men did turne to Aſ●hes preſently</l>
+                     <l>Fatt men did roaſt to leane Anatomy.</l>
+                     <l>Young womens heate did gett them ſelves with child</l>
+                     <l>For none but they them ſelves, them ſelves defild.</l>
+                     <l>Old women naturally to witches turn'd</l>
+                     <l>And only rubbinge one an other, burnd.</l>
+                     <l>The beaſtes were bakt, skin turn'd to cruſt they ſay</l>
+                     <l>And fiſhes in the river boild away</l>
+                     <l>Birds in the Ayre were roſted, and not burnd</l>
+                     <l>For, as they fell downe, all the way, they turn'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Moſt excellent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>
+                        <hi>I</hi> have ſeene Larkes in that motion at fire with an <hi>Engine</hi> of packthred perpen|dicular.</p>
+                  </sp>
+                  <sp>
+                     <pb n="47" facs="14"/>
+                     <speaker>Siſt.</speaker>
+                     <p>What would they have given for a ſhower in thoſe Countreys.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Now you talke of a ſhower, you ſhall heare another Coppy of Verſes that I made of a mightie raine which fell once in the Indies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>That you made? if you will venture your lungs let me heare ſome more impoſ|ſible ſtories to paſſe away the time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <l>Heaven did not weepe, but in its ſwel|linge eye</l>
+                     <l>Whole ſeas of rheume and moiſt catharrs did lye</l>
+                     <l>Which ſo beſpauld the lower world men ſee</l>
+                     <l>Corne blaſted, and the fruite of Every tree,</l>
+                     <l>Ayre was condens'd to water gainſt their wiſh</l>
+                     <l>And all their fowle was turn'd to flyinge fiſh,</l>
+                     <l>Like watermen they throung'd to plye a faire</l>
+                     <l>And thought it had bin navigable Ayre.</l>
+                     <l>Beaſtes loſt the naturall motion of each lymme.</l>
+                     <l>Forgot to goe with practiſinge to ſwimme.</l>
+                     <l>A trowte now heere, you would not thinke How ſoone</l>
+                     <l>Tane ready, dreſt for the Empreſſe of the Moone.</l>
+                     <l>The fixed ſtarrs, though to our eyes were miſsinge</l>
+                     <l>Wee knew yet were by their continuall hiſsinge</l>
+                     <l>Women were Mermaydes ſaylinge with the winde,</l>
+                     <l>The greateſt miracle was fiſh behinde.</l>
+                     <l>
+                        <pb n="48" facs="15"/>
+But men were all kept chaſt againſt their wiſh</l>
+                     <l>And could comitt but the cold ſin of fiſh.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>And that ſinn would puzzell all the civill lawyers in the Kingdome. Sins of the fleſh they are perfect in, they know well enough what belongs to Adultery &amp; ſimple fornication: but you would much improue and oblidge the practice of the court if you could bringe this ſinn of fiſh under their co|miſsion. But now I hope the rayne is over; and wee ſhall have faire weather.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Now can I tell you <hi>Lady,</hi> what a. ſtrange froſt was in one part of the world</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I ſhall cry out fire if you doe: I'ld rather have ſome diſcourſe to keepe me warme.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Or how the whole world was trou|bled with the wind collick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>No more Earth quakes I beſeech you: ſome frends of myne loſt a great deale of Land the laſt tearme &amp; for ought I know, tis never to bee recoverd. Why all theſe Verſes you have honored me to heare, were tranſlated out of French.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>You ſay very trew <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sist.</speaker>
+                     <p>Noe, noe; they are out of Spaniſh as I remember.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I thinke it bee out of Spaniſh indeede.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Or elſe out of the Italian.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Troath Madame; I know not which very well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sist.</speaker>
+                     <p>And yet you made them: ſome Gent|lemen have the facultie to make Verſes, and
+<pb n="49" facs="15"/>
+forgett what Language, was the Originall. ●is a la Mode, I confeſſe, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>There is the miſcheefe in Poetry; A man might have told a hundred lyes in proſe upon his owne name and never miſcar|ry, but leavinge theſe lewd Rymes, <hi>Lady,</hi> how doe you like the Novice that Sir <hi>Richard</hi> comended.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Maſter <hi>Courtwell?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Is he not a pretty Chryſome; I could not Chooſe but laugh to obſerve in what rurall deportment he came to ſalute you that ſhould have made his addreſſe in theſe poſtures:—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>It is enough, Sir, I apprehend what you would doe: the truth is, touching that thinge in black; I doe not love him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I know tis impoſsible.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Why is it impoſsible? The man is a prettie indifferent meaninge man but I muſt have one of a more Active ſpiritt: noe, noe; the man is a coward.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Hee lookes like one.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I put him to it, hee dares not fight, and hee that expects my favor to ſoe high a degree as Marriage, muſt bee none of my Lord Mayors whiffelers; he muſt be valiant in Armes; I am not taken with a ringe or a Carkenett as ſome avaricious <hi>Ladyes:</hi> hee that preſents me with the ſword of his rivall, is more welcome then all the ſilken ſoft na|tur'd 600. a yeare widgeons that will bee baffl'd in their beſt cloathes; and goe downe into the Country every vacation, like At|torneys
+<pb n="50" facs="16"/>
+to bee beaten againſt the next tear● me, &amp; get damages by it. But I forget ſome affaires that concernes me, &amp; take my leave: your deſertes upon mee are eminent and many; and for all your noble ſervices, I will promiſe you nothing, you apprehend me.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Tis too much, ſweete <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I am ſo weary I can ſtay no longer with you. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>You make me over happie, ſoe; ſoe; the matters done. I may viſite my freinds; hum! well thought upon, I ſhall leaveher Joyes with out any bound to entertaine me, if I firſt beate this fooliſh rivall of mine, and preſent her with his ſword; ſhee aſſures me hee dares not fight: it ſhall bee ſoe, thus with one baffeling and diſarminge him I ſhall ſecure my Miſtreſſe; and get the reputation of a fighting Cavalier, which may ſave me many knocks heere after, among men of ſtronge faith, that ſhall hea●e how much honour I have elſe where taken up upon the Tickett. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Vnderwitt &amp; Sackbury.</stage>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Stand right to your files,—Make even your rankes,—Silence—Front to the right hand,—As you were,—To the right hand about,—By the left hand, as you were,—Rankes—To the right, double—Rankes as you were,—Rankes to the left double,—Middle men to the right hand double the front,—Middle men to the
+<pb n="51" facs="16"/>
+right intire, double the front—Files to the right,—To the left,—To the right hand—Counter march to the right—To the left—Wheele about.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>
+                        <hi>Rantan!</hi> enough, you muſt not, waſte your lunges at once; march faire and make a Captaine. When theſe wordes of command are rotten, wee will ſow ſome other mili|tary ſeedes; you beare a braine and me|mory.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>I hope ſoe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sact.</speaker>
+                     <p>And now you are choſen a Captaine for the Country, you muſt give good exam|ple to your ſouldiers, and cheriſh nature: after excerciſe you muſt drinke ſack; ſack is a fortifier. Come wee'le to the Towne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>With all my heart; <stage>Enter Maſter Court.</stage>
+                     </p>
+                     <p>Heere is one Maſter <hi>Courtwell</hi> let us take him with us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>My coſtiue Countryman; he's an Anabaptiſt, hee will not drinke, and yet hee kiſt the cupp oft; laſt night, me thought, when his miſtris dranke to him. Wee'le try; how is't, my man of morall breedinge?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>My man of warr, <hi>Tresbone;</hi> your ſervant, Captaine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Why this was ſpoake like one of us, can'ſt doe't againe? thy voice is more Au|thentick, ſownds as I have heard a Cavalier in a Taverne; or like the merry Maſter of the dragon. Smale Neptune, that comptroules the rich Canaries when hee commands the Tritons of his celler; ſcud and bringe wine you varletts, with a flavour for my Nobil|litie;
+<pb n="28" facs="17"/>
+                        <pb n="29" facs="17"/>
+                        <pb n="30" facs="18"/>
+                        <pb n="31" facs="18"/>
+                        <pb n="32" facs="19"/>
+                        <pb n="33" facs="19"/>
+                        <pb n="34" facs="20"/>
+                        <pb n="35" facs="20"/>
+                        <pb n="36" facs="21"/>
+                        <pb n="37" facs="21"/>
+                        <pb n="38" facs="22"/>
+                        <pb n="39" facs="22"/>
+                        <pb n="40" facs="23"/>
+                        <pb n="41" facs="23"/>
+                        <pb n="42" facs="24"/>
+                        <pb n="43" facs="24"/>
+                        <pb n="44" facs="25"/>
+                        <pb n="45" facs="25"/>
+                        <pb n="46" facs="26"/>
+                        <pb n="47" facs="26"/>
+                        <pb n="48" facs="27"/>
+                        <pb n="49" facs="27"/>
+                        <pb n="50" facs="28"/>
+                        <pb n="51" facs="28"/>
+                        <pb n="52" facs="29"/>
+wee were conſpiringe to goe to the Taverne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I'le make one Gentlemen; to waſt away ſome melancholly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Spoake boldly like an Argonaut.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I am not now in London; upon a hall day marchinge with the Puinees Twenty of us in a Teeme, to Weſtminſter in our torne gownes embrodered with ſtrand dirt, to heare the law.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Is not thy Father dead? thou talke'ſt ſoe well? how I was couzend' in thee; come a way.</p>
+                  </sp>
+                  <stage>Enter Thomas.</stage>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Heere's my man <hi>Thomas.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Now the newes, Sir Triſtram?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Oh; the Gentleman is mad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>What Gentleman?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Why Maſter <hi>Engine,</hi> that did faint laſt night.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>With feare of being hang'd for his projections.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>My Vncle told me of him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Send him to Bedlam then; what makes hee heere? cleane ſtraw &amp; a good whipp are held reſtoratives.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Hee walkes and talkes the madlieſt, twenty midwifes are nothinge to him, hee drownes all their noyce his tonge is twenty ringes of bells; and yet hee ſeemes ſoe merry.</p>
+                  </sp>
+                  <stage>Enter Engine.</stage>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Save you Gentlemen; Gallants; Ca|valeires; how far travell you? me thinkes
+<pb n="53" facs="29"/>
+you are finely accomodated: are you a doctor Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>No; but I can tell you; how to purge if it pleaſe you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>You ſay very well; troth Gentlemen you muſt pardon me; cry you mercy: your name is Captaine <hi>Vnderwi●●.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Yes, Sir: but my Mother came of the <hi>Overmuches</hi> by the Peake: ſhe broake my Fa|thers heart, and Sir <hi>Richard</hi> buried her. Thinges muſt bee as pleaſe the Starrs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>What thinke you; of the Blazinge Start in Germany accordinge to Ptolomy? tis very ſtrainge; does the race hold at Newmarkett for the cupp? when is the coo|kinge, Gentleman there are a parcell of rich jewells to bee ſould now if a man had 〈◊〉: I doe meane to builde a very fine howſe next ſommer, and fiſh ponds. What did you heare of the new play? I am affrayed the witts are broaken, there bee men will make affidavit, they have not hearde a good ieſt ſince Ta●leton died: pray may I craue your name Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>C●urt.</speaker>
+                     <p>My name is <hi>Courtwell</hi> Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>In your eare, I have a caſt of the beſt Marlens in England: but I am reſolve'd to goe no more by water, but in my coach: did you ever ſee the great Shipp?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>I have been one of the twentie that have din'd in her Lanthorne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>It may bee ſoe, ſhee is a good ſailer; but, I'le tell you one thinge, I meane to have the beſt pack of hounds in Europe, Sir <hi>Richard</hi>
+                        <pb n="54" facs="30"/>
+loves the ſport well, and then if I can but finde out the reaſon of the loade ſtone, I were happie and would write <hi>non ultra.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>The Philoſophers ſtone were better in my opinion: have you no proiect to gett that?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>That has ſtartled him; I doubt this fellow does but counterfeit. <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>What thinke you of the Dromedary, that was to bee ſeene on the back ſide of the Bell?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>I have ſeene a ſtranger beaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Soe have I; I have ſeene you before now, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Why then I'le tell you; the ſtraingeſt beaſt that ever I ſaw was an Oſtriche that eate up the Iron-mines: but, now you talke of birdes, I ſawe an Eliphant beat a tailor in the fencing ſchole, at his owne weapon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>The Spaniſh needle?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Hee did out eate him in bread, and that was miraculous, I have ſeene a catta|mountaine once, but all was nothing, to the <hi>Lady,</hi> that turnd rounde &amp; threaded needles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Troth Sir I thinke you have turn'd round too, and are not ſetteled yet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Now you talke of ſettelinge I knew a Gentleman, that was borne to a great for|tune, ſould all his land, went to ſea in a Hol|lander, was taken by a Dunckercke, at 7. yeares and ſtole away in a Engliſh bottome after that, ſaw both the Indies, for all this, was taken by a Turkiſh man of warr put into the Gallies, and, for ought I heare by cre|dible
+<pb n="55" facs="30"/>
+report, is not ſettled yet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Sure hee is a great Scholler; a man cannot underſtand him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>His braines are out of tune.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Now you talke of muſick; there is noe man in the world loues muſick better then I: I'le give you the reaſon: I have ben deafe almoſt this halfe yeare; it came with a cold ſitting up at Primero.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Now you talke of a cold, it puts me in mind of the new <hi>Device</hi> of fire, for brewing &amp; baking: had you no hand in that project?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Againe hee is ſtartled: come hee ſhall to the Taverne with us and confeſſe all; if hee does not ſtripp his ſoule ſtarke naked to us; ſay I am no fortune teller.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>What thinke you of a cupp of <hi>medium</hi> wine?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>That will ſpoile all: pleaſe you to honnour our ſociety? wee are goeing to Indulge at the Taverne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Oh the neates tongues &amp; Aſparagus that I have eaten at the Stillyarde! But of all thinges in the world I doe not loue a black catt, next a brewers cart, there is nothing will ſtay a man ſoe much in the night as a Con|ſtable; one worde before you goe and I beſeech you give mee your opinion clearely; was not the Morocco Embaſſador, a very fine Gentleman for a Pagan?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sac.</speaker>
+                     <p>Yes ſure; and the Lead mines in Darby|ſheire hold ſtill. Marry for the Allome buſineſſes—But come, will you walke?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>I doe uſe to goe a foote ſome times, but
+<pb n="56" facs="31"/>
+when I ride; and then I muſt confeſſe ther's noe ſtriving with the ſtreame: you were in London lately they ſay the people are more affected to Bearebaytinge then in former time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>There are ſome of late are drawen like beares to a ſtake but for your owne part the goute and the grand pox are all one to you: what price beares meate in the ſhambles?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Fleſh riſes and fales; as it uſes to doe; Sir: But a Country life is the beſt when all is done: are wee all of one religion? what thinke you of a bridge from Lyon Key to Flandres, you may gueſſe I talke at randome, Gentlemen, but you muſt not interpret all fooliſh diſcourſe a diſtemper of the braine; Lords would take it for a <hi>ſcandalum magna|tum,</hi> and your Ladyes would bee Angry too; now you talke of Ladyes.</p>
+                  </sp>
+                  <stage>Enter Sir Francis and the Lady.</stage>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>By noe meanes Maſter <hi>Engine:</hi> that Gentleman loues you not. Come, I le bringe up the Reare, where is <hi>Thomas?</hi>
+                     </p>
+                  </sp>
+                  <stage>Exit with the reſt.</stage>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>I'le follow Sir; I would give my 4. markes a yeare that I could talke like that mad Gentleman; hee's heere, and there, and every where: how will his tongue runn when his Coggs are oyled? they'le drench him. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Although I miſs'd a happines, ●ap|plaude your nimble witt that ſecur'd both our honours: you have an excellent inſtru|ment to your Gentlewomen.</p>
+                  </sp>
+                  <sp>
+                     <pb n="57" facs="31"/>
+                     <speaker>Lad.</speaker>
+                     <p>Oh ſhee deliver'd ſo toth' life, how you were troubled with the ſtone, at firſt I did be|leive't my ſelfe, and think of the ſad conſequence: but time is precious now; although our ſtarrs have not been yet propitious to our meeting, I'le try my Art to night to make them ſhine with happie influence on our loves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Fran.</hi>
+                     </speaker>
+                     <p>Moſt excellent, Madam; how?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>I'le not engage your viſit to my chamber, ſince the firſt prov'd ſo unfortunate, but come to yours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Fran.</hi>
+                     </speaker>
+                     <p>This night? wo'not your husband be at home?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Yes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Fran.</hi>
+                     </speaker>
+                     <p>You enjoy but one Bed?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Without witchcraft Sir. I have a ſtrata|gem to delude my husband and all his jealous wa|king eyes: A plot that cannot faile, if you dare but expect me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Fran.</hi>
+                     </speaker>
+                     <p>I grow immortall with my hopes, and fancy more than the worlds moſt glorious Empire, in my firſt embrace, I ſhould run back into an in|fant once againe, and by degrees and time, grow up to meet ſo vaſt a happineſſe: Ages in expecta|tion ſpent were poore and eaſie ſufferings weigh'd againſt this triumph. Me thinks I am not man, but ſomething of a more exalted eſſence, humane Nature hath not Capacitie to underſtand and owne theſe pretious bleſſings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>No more rapture, but with the confidence of a lover, ſpread your equall thoughts, and in your heart and Armes Prepare an entertainment for that gueſt that hath no life nor name but what you give. A kiſſe, and leave our ſoules to thinke
+<pb n="58" facs="32"/>
+upon the joyes this night attends us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Fran.</hi>
+                     </speaker>
+                     <l>Sullen day</l>
+                     <l>Doe not tyre now tis down hill all the way.</l>
+                  </sp>
+                  <stage>Exeunt ſeverally.</stage>
+               </div>
+               <div n="4" type="act">
+                  <head>Actus quartus Scaena prima.</head>
+                  <stage>A Catch Sung, after which Enter <hi>Thomas</hi> with a Cloake and a Sword.</stage>
+                  <lg>
+                     <l>COme let us throw the dice who ſhall drinke,</l>
+                     <l>Thine is twelve and his ſice ſinck.</l>
+                     <l>Sixe and Foure is a caſt,</l>
+                     <l>Six and three not too faſt.</l>
+                     <l>Come aloft ſink tray,</l>
+                     <l>Sice ace faire play,</l>
+                     <l>Cator duce is your throw ſir,</l>
+                     <l>Cator ace they run low ſir.</l>
+                     <l>Two duces we ſee,</l>
+                     <l>Duce Ace is but three.</l>
+                     <l>Oh where is the wine, come fill up his glaſſe,</l>
+                     <l>For here is the man that has thrown Am●ace.</l>
+                  </lg>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>They are all drunke already, and ſuch a confuſion in their heads and tongues: my Maſter kiſſes the next man and calls him Miſtris <hi>Dorothy,</hi> Maſter <hi>Courtwell</hi> poſſeſt with the ſpirit of defi|ance to Cupid is ready to beate him for being in
+<pb n="59" facs="32"/>
+love. My Projector's dead drunk in archaire, and the Captaine peeping into his mouth like a tooth|drawer and powring down Sack, which he feeles not, but his chapps ſhut againe like a ſpring-lock, till he returne with a key to open his teeth to poure in the next health.</p>
+                  </sp>
+                  <stage>Enter Maſter Courtwell.</stage>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>My Cloake and Sword Drawer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Tis here ſir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Thou art a pretty fellow; there's halfe a crowne, ſay I am gone <hi>Thomas.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>You are a petty well.</p>
+                  </sp>
+                  <stage>Enter Vnderwit and Captaine.</stage>
+                  <sp>
+                     <speaker>Vnder.</speaker>
+                     <p>What ſhalls doe with him? this Engine burnes like <hi>Etna.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>Throw him into the River.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnder.</speaker>
+                     <p>Hee's able to mull the <hi>Thames.</hi> VVell for mine owne part, would Miſtris <hi>Dorothy</hi> were here to open her files.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <l>Did not you name a woman?</l>
+                     <l>I will have no mention of any thing thats Femall.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Vnder.</speaker>
+                     <p>May not a man talke of ſack?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>Sack is a ſoveraigne medicine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnder.</speaker>
+                     <p>Oh very ſoveraigne.</p>
+                  </sp>
+                  <stage>Enter Muſitians.</stage>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>It is <hi>hic &amp; hac</hi> ſack, both for he and ſhe. Stay, is my Countryman gone? come my <hi>Apollos,</hi> my <hi>Orpheus's,</hi> or my <hi>Bachus</hi> his Minſtrells; which to leave poeticall expreſſions, in broader phraſe, is Taverne fidlers, ſome of your Tunes my maſters, doe you heare?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Muſi.</speaker>
+                     <p>Doe you meane Maſter <hi>Adſons</hi> new ayres ſi●?</p>
+                  </sp>
+                  <sp>
+                     <pb n="60" facs="33"/>
+                     <speaker>Cap.</speaker>
+                     <p>I ſir. But they are ſuch phantaſticall ayres as it puts a Poet out of his witts to ryme to them but let me heare—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Muſique</speaker>
+                     <p>—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>No I doe not like that?—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Muſi.</speaker>
+                     <p>—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>Nor that: no, no, no, neither:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Muſi.</speaker>
+                     <p>An't pleaſe your worſhip Maſter Captain our boyes can ſing ſongs to theſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>No, no, ſaving your preſence, your boyes have nothing ſurreverence but love ſongs, and I hate thoſe things monſtrouſly to make things ap|peare better than they are, and that is but <hi>Decep|tio viſus,</hi> which after ſome embracing, the par|ties ſee preſently what it is.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Muſique</speaker>
+                     <p>—</p>
+                  </sp>
+                  <stage>The Captaine ſings and reeles, Then Phillips all the while with his fingers. (after ſpeakes.)</stage>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>I, I, this thumping tune I like a liſe; a Song, a ſong to it.</p>
+                  </sp>
+                  <lg>
+                     <head>Song.</head>
+                     <l>The Juyce of Spaniſh ſquee'zd grapes is it</l>
+                     <l>That makes a dull braine ſo full of wit,</l>
+                     <l>So Lemonado's cleere ſparkling wine</l>
+                     <l>The groſſer wits too doth much refine,</l>
+                     <l>Then to be fox'dit is no crime,</l>
+                     <l>Since thickeſt and dull braines it makes ſublime.</l>
+                     <l>The Stilyards Reniſh wine, and Devills white,</l>
+                     <l>Who doth not in them ſometimes take delight?</l>
+                     <l>If with mimique geſtures youl keep you from ſadnes</l>
+                     <l>Then drink luſtie Claret, twill make you in madnes.</l>
+                     <l>And then to ſettle you no hopes in beere,</l>
+                     <l>But wholſome po●ts of Scotch ale though tis deere.</l>
+                  </lg>
+                  <sp>
+                     <pb n="61" facs="33"/>
+                     <speaker>Cap.</speaker>
+                     <p>But harke you child, you ſay in your ſong the Devills white, you have been ill catechiz'd boy, for a white Devill is but a Poeticall fiction, for the devill bleſſe us child is black.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Boy.</speaker>
+                     <p>No Captaine, I ſay white wine at the De|vill.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>Thats true, thats a good boy indeed—<hi>Vnderwit,</hi> lend me a peece, lend me a peece to give theſe harmonious men—The●e,—and now be gone my maſters; without noyſe, for I will have no more fidle fadles for my money; no tunes of ſuperrogation after the muſicall bill is paid,— <stage>Exit Muſique.</stage>
+                     </p>
+                     <p>Come hither <hi>Thomas,</hi> do you thinke I am drunke?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Truely Captaine, I cannot tell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>You cannot tell, there's your ignorance, drinke is a vice I am as little given to as another, for I do abhorre it in my ſelfe, I do wonder how any reaſonable man can be drunk, &amp;c—man can be drunke, therefore every wiſe man take counſell and example by me, and he may ſee very plaine|ly what an odious thing it is, for you muſt follow your Leader, and Vertue which is an ancient—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Vertue an Ancient?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>I, an ancient old Gentlewoman, that is growne very poore, and no body knowes where ſhe dwells, very hard to finde her out, eſpecially for a Captaine, you will finde it very difficult for a Lieutenant, but we wil endeavour the beſt we can. You ſee my courſes, I have travell'd to finde her out, and I could never yet ſee her at a baudihouſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <l>VVho is this to be ſeene at a Baudihouſe?</l>
+                     <l>To the righthand—Counter-march.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>He talkes of vertue ſir.</p>
+                  </sp>
+                  <sp>
+                     <pb n="62" facs="34"/>
+                     <speaker>Vnd.</speaker>
+                     <p>Vertue? ſhe never comes there, why doe you thinke ſhe ſhould be there Captaine?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>Why? becauſe ſhe is an old Gentlewoman, and might keepe the houſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Alas Captaine Miſtris Vertue is poore and leane.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>Nay then ſhe is not fit to be a Baud; but tell me, did you ever ſee her, or if ſo, did you ever—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>No, but 'twas none of my fault. I know not what I may doe in time, when ſhe underſtands the words of command.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>He does not meane Miſtris <hi>Dorothy;</hi> but Captaine, I would ●aine know the reaſon why your Bauds are ſo fatt ſtill?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>A plaine caſe, they lye fallow and get hart, then they keepe themſelves ſo in health, and ſo ſoluble with ſtewd prumes, and then ſipping of ſack is a great matter to fatten them. But they are as good people as a man can keepe company withall, and bring up the young gen|tlewomen ſo vertuouſly; I came into one of their houſes tother day for a carreere, and I found the Baud very ſicke upon her deathbed, very reli|gious, and much given to repentance, for thoſe poore ſinnes ſhe had committed; when ſhee had taken order for her ſoule, ſhe told me the young Gentlewoman I look'd for was in the next roome, &amp; deſiring her upon her bleſting to give me con|tent, ſhe turnes her to the wall, and gives up the Ghoſt very privately, becauſe ſhe was loath to trouble us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>By your relation Captaine, theſe ap|peere
+<pb n="63" facs="34"/>
+to bee very good people what if wee went to viſitt one of theſe Matrones? I have a greate minde to exerciſe</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Why you ſpeake like an underſtan|dinge Soldier &amp; one that may come to ſom|thinge in the end, therefore let us march on.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>March on to venus warrs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>For you know, <hi>Thomas</hi> that the ſpi|der &amp; the Bee doe ſomthinge, but I have for|gett what it is.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Tis no matter, come let us goe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Goe? no more but goe, though I bee a Captaine if I have not commiſſion in this imploiment,—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>What then Captaine?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Why then I cannot goe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Very right. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Doe you heare Captaine? for all this; I have a great minde to a wench, and a wench I muſt have, if there bee one aboue grounde; ôh, ôh; London; London. Thou art full of franke tennants, give me London ſhall wee wheele about thither, yett?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Give you London? will not cheapſide ſerve your turne or the Exchainge?</p>
+                  </sp>
+                  <stage>Enter Thomas.</stage>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Oh Gentlemen, Maſter <hi>Engine</hi> is truly bewitch'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Why, what's the matter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Bringe the witch and Maſter <hi>Engine</hi> before us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Hee does vomitt the ſtraingeſt thinges yonder.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Did not I ſaie, murther will out?</p>
+                  </sp>
+                  <sp>
+                     <pb n="62" facs="35"/>
+                     <speaker>Tho.</speaker>
+                     <p>I thinke hee has eaten and drunken nothinge but monopolyes: and, being too hard to bee diſgeſted they all come up againe, I muſt hold his head. <stage>Within:</stage> Oh</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Did not I tell you ſomthinge would come out?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>
+                        <hi>Pins; Pins;</hi> they lay croſſe his throat, I told you hee was bewitch'd? Hey day <hi>cards</hi> and <hi>dice,</hi> and with them the devill is a gameſter. And payes the box ſoundly, now; now; now: <stage>Within:</stage> Oh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>What's that.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Tis ſomethinge clammy; ôh tis <hi>Soape.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Soape? give a man leave to waſh his mouth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Does not the lime burne his throat <hi>Thomas?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Alas poore Gentleman, ſomethinge now againe is ready to ſtrangle him, I thinke they are <hi>Hides,</hi> &amp; the hornes ſtuck in his gul|lett, well ſtraind! what a fowle ſtomack hee has: <stage>Within:</stage> Oh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Open his mouth, thruſt downe a pottle pott.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>I have Sir; and it is come up full of <hi>medium</hi> wine. If you have any charity come and healpe to hold his head: now againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Oh; Oh; Oh:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Tis very ſtrainge Captaine; the man is certainely inchanted.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng.</speaker>
+                     <p>Oh; Oh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Maſter Maſter; hey! will you take Tobacco in the Rowle? heere is a whole ſhipladinge, varietie of <hi>Bermoda's</hi> and one
+<pb n="63" facs="35"/>
+little two penny paper of <hi>Verina's,</hi> with a ſuper ſubſcription, to my very Frends of the cu|ſtome howſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Put up that for a relique, <hi>Thomas:</hi> and open it upon high dayes to cleare the fore eyes of your Spaniſh Marchants, <hi>Thomas;</hi> noe more, but call the Drawer, an underſtan|ding Drawer and one writes Orthogra|phy &amp; doe you pay the Reckoninge.</p>
+                     <stage>Enter Drawer.</stage>
+                     <p>Sirra I charge you ſet A padlock on the chamber doore: there is a dangerous fellow muſt be bronght to his purgation and looke all the goods that he hath vomited bee forth cominge. While wee diſcreetely goe and in|forme the Magiſtrates: at your perill Sirra, at your perill: Seale up the dore and doe you pay the Reckoninge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Sir <hi>Richard</hi> is a Juſtice; there's your monie, and yet wee neede not pay; the Gentleman hath left enough for the Recko|ninge in the next roome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Draw.</speaker>
+                     <p>I have made him faſt; y'are very welcome Gentlemen: all is paid in the Por't cullis. <stage>Exeunt.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Maſter Courtwell and Siſter.</stage>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I'le walke no further; if you have a Secret to impart, you neede not feare this place. The trees, and hedges will not liſten, what is the buſines? I hope your phlegmaticall ſtock of verſe is ſpent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cour.</speaker>
+                     <p>Why then in proſe the worſt that I can ſpeake; I doe not love you <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt</speaker>
+                     <p>How? you have not traind me thus farr to tell me that?</p>
+                  </sp>
+                  <sp>
+                     <pb n="64" facs="36"/>
+                     <speaker>C●urt.</speaker>
+                     <p>You are.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>You doe not meane to quarrell, now you have betray'd me to the feild, and beate me, Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>What is there in your face more, to attract me, then that red cowes complēxion? why the devill doe you thinke, I ſhould doate upon your perſon? that thinge when ſhee is ſtroak'd gives milke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>By that I underſtand, all this is in re|venge, becauſe you thinke I did neglect you: pray, Sir, tell me, and tell me ſeriouſly; put the caſe that I ſhould love you: could you love againe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>In troth, I thinke I could not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Doe you but thinke:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I will binde it with an oath before the parriſh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>What reaſons?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I ſhall bee loath to ſay your eyes are twinckelinge ſtarrs againe your lipps twyn cherries, and out blu●h the rubies; your Azure vaines vie beautie with the Saphire: or that your ſwellinge breſt are hills of ●vo|rie pillowes for Joue to reſt his Amorous head. When my owne conſcience tell me that <hi>Bunn—hill</hi> is worth a hundred of them, and but <hi>High gate</hi> compared with them is a para|dice, noe I thanke you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>S●ſt.</speaker>
+                     <p>But how come you ſo cur●d? you weere a paſſionate, I may ſaie, foole, in hope you will deſerve it: what phiſick tooke you, that hath thus reſtor'd you?</p>
+                  </sp>
+                  <sp>
+                     <pb n="65" facs="36"/>
+                     <speaker>Court.</speaker>
+                     <p>A little ſack had power to cure this madneſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I hope you are not ſober yet; the hu|mour may chainge when you have ſlept.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I'le rather ſtich my eye lids up with Siſters-threed, and ſtareperpetually.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>When you may ſee me againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I thinke I ſhall not, unleſſe it bee to wonder when you are in that ●vie buſh; that face cutt upon taffata, that creame &amp; prunes ſoe many plumbes in white broath, that Scut|cheon of pretence. powderd with Ermines. How ſell you grapes? your haire does curle in bunches: your lipps looke like the Par|ſons gleabe; full of redd, blue, and yellow flowers; how they are chapp'd and looke like trenches made to draine the medowes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sist.</speaker>
+                     <p>This rudeneſſe is beyond the manner of a Gentleman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I cannot help it and I hope you thinke ſoe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>But if your paſſion have not drowned all reaſon; I pray let us part civilly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>C●urt.</speaker>
+                     <p>With all my hart, I dare then take my leave too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Whoe is that.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Where.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sist.</speaker>
+                     <p>Behinde that tree.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>You have no plot t'accuſe me for a rape? t'was at the worſt, but fellony with cherryes, that looke as if they had bin a fort night gathered:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sist.</speaker>
+                     <p>I know you'le bringe mee home in curteſie.</p>
+                  </sp>
+                  <sp>
+                     <pb n="66" facs="37"/>
+                     <speaker>Court.</speaker>
+                     <p>Not I; I will not truſt my ſelfe and you: fare well <hi>Lady:</hi> doe you ſee that bull?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Yes Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>That is a happie beaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt</speaker>
+                     <p>Why happie Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Hee writes noe verſes to his Miſt|reſſe, is not cozened nor forſworne: to get her favor, beſtowes no rings, nor empties his exchequer to appeere ſtill in new rich ſuites but lives free upon the ſtock of nature, yet loues none. Like the great Turke, hee walkes in his Seraglio and doth command which Concubine beſt pleaſes, when hee has done, hee falles to graze or ſleepe, and wakes, as hee had never knowne the dun, white, redd, or brended Cow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>You are unmanly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Nay, I know you will raile now: I ſhall like it: call me a skirvy fellowe, proud, and ſawcy, and ill bred crooked clowne, I'le heare. This, rather then liue upon your pittie, and yet doe not: For if you raile too men that know you can diſſemble, may beleive you loue me, and tis not my Aime.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>You are a fine man</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I am in my beſt cloathes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I perceive tis true now, what the world ſayes of you, and yet tis ſtrainge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Tis ſtrainge it ſhould bee otherwiſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſſt.</speaker>
+                     <p>You give your tongue a licence, nor will I hope your mallice ſhould ſpare me a broad, that have ſoe prodigally abuſed a <hi>Ladyes</hi> fame that deſerves nobly from you; but you men care not whoſe name you blaſt
+<pb n="67" facs="37"/>
+with a looſe Character, ſoe you maintaine your pride of Talke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>How is this? it is confeſſed I have talked in my time and talked too much, but not too much of you; for I but ſeldome thought of ſuch a woman, or any other.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Nay Sir I am ſatisfied, you can talke your pleaſure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Have I not done it, too?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Yes by your owne report, and with a <hi>Lady</hi> ſoe much in vertue &amp; in birth aboue you? &amp; therefore I expect not your modeſt language of me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Stay. This moves me; I never tooke a pleaſure yet to lye with <hi>Ladyes</hi> fames: or ever thought that ſport lye in the tongue; ſuch humors are for men: that live by Bro|thell offices, let mee but know who hath traduc'd me to you thus, hee ſhall bee known noe more.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I'le not bee guilty Sir: of any murther; when wee meete againe and you in better humour I may tell you: ſo farewell <hi>Gon|dari●o,</hi> nothinge's loſt when you turne wo|man hater. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>She has vex'd me, if wee two make a matrimony after this rate, the divell is like to dance at our Wedding. <stage>Enter Device.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Hee's heere, a lone too, and the place moſt opportune! how ſhall I begin. Maſter <hi>Courtwell,</hi> doe you loue any friend of mine?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Not to my knowledge, Sir, I ſhould bee ſorry.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Doe you not loue a Gentlewoman, Sir?</p>
+                  </sp>
+                  <sp>
+                     <pb n="68" facs="38"/>
+                     <speaker>Court.</speaker>
+                     <p>If ſhee bee a frend of yours, I'le take the firſt occaſion to neglect her, for your ſake.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>It will become your wiſdome, and your ſafetie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>What miſcheefe have you done to your face?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>My face?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>You looke ſoe ſcurvily, come hither thou new monſter, with more feete then a caterpiller what time of the day is it? you that move upon ſoe many wheeles, ſay Mon|ſieur, are you not a walkinge clock; I have a mighty minde to ſee you tooke in peeces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I doe not like this: you cannot put me, Sir, together againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I will not take the paines, why doe you ſmile now?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>At your conceit, to thinke I was a clock I am a watch; I never ſtrike, Hee's valiant. <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>You have prettie colours theire are theſe your Miſtreſſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>If you did know the miſtery you would applaud them: you have read <hi>Lievre de B'azon●,</hi> what meane you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I will beſtow them upon ſome fore|horſe; they will become a Country ●eeme rarely.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>
+                        <hi>Morr▪d●e●!</hi> why you dare fight it ſeemes, and I was told, you were no Cava|lier: A very dreame, a wedge for men to breake their ſwords upon, I ſhall never truſt fame againe for your ſake.</p>
+                  </sp>
+                  <sp>
+                     <pb n="69" facs="38"/>
+                     <speaker>Court.</speaker>
+                     <p>Thou never did●ſt couzen me.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I was never ſoe Illitterate in a man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>For 〈◊〉 did ever thinke thou durſt not fence but at a cōplexion, agliſteringe vapour: a thinge of cloathes, and fitt for Chamber|maydes to whett their witts upon: but now reſolve either to have your skine flead off; or fight with me for troublinge my preſent me|ditations.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Why Sir if you bee ſerious I ſhall quitt that prejudice you have upon my valour looke you Sir I can draw, &amp; thus provoke'd I dare chaſtiſe you, too cauſe I was merry I am not bound to feede your ſpleane eter|nally with laughter, yet I am not Ignorant what an advantage, Sir, your weapon gives you in length.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Wee'le change why this is honnour in thee. <stage>They meaſure and Device g●●s both weapons.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Now, Sir, keep of.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Sure thou art not ſo baſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I never cozend you, doe you remem|ber? theſe two will guide me on the rope.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>You meane to daunce then.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Yes but with quicker time then you I hope can follow. Thus I begin; fa la, la. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>What a heathen coward is this? how the rogue tripps like a fayrie: to the towne with them, he has bin a footman ſure I have not breath enough to overtake him, &amp; t'will be darke preſently if I looſe the ſight of him; I'le ſearch the Towne and if I finde him not there, perſue him with hue and cry, and after hange him. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>
+                     <pb n="70" facs="39"/>
+Enter Sir Francis: (A Taper prepared.)</stage>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>The ſun, whoſe buſie eye is ſtill Employed a ſpie upon our Actions, tire'd with waytinge is drowſy gon to bed, about whoſe pillow night hath hunge all her winges, &amp; ſet up Tapers as if the day were timorous like a child and muſt have light to ſleepe by, welcome all the howres that go|verne pleaſure, but bee ſlow when you have bleſſed mee with my wiſhes, time and loue ſhall dwell like twinnes, make this your bower and charme the aire to ſweeteneſſe, and to ſilence: favour me now, and you ſhall chainge your ſtates: Time ſhall bee old no more, I will contract with deſtiny, if hee will ſpare his winges, to give him youth and beautie, that wee may finde every minute a freſh childe of pleaſure: loue ſhall bee proud to bee no more a boy but grow to per|fect ſtrength and hold conſiſtance: for when two active lovers meete ſoe happie as wee whoſe equall flames doe light Embraces twill bee noe weight to number many yeares in our delights and thinke all age a bleſſing: but language is too narrow to expreſſe what I expect, tis fit my ſoule retire till ſhee pre|ſent her ſelfe, and if it can meaſure my hop'd-for Joyes with thoughts prepare to entertaine the happineſſe. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Dorothy (with a light) to Sir Richard &amp; his Lady, (in bedd)</stage>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>I have ſett already my deſigne a
+<pb n="71" facs="39"/>
+moveing to take my Captaine, <hi>Vnderwit,</hi> who in wine was late more feirce uppon me; in the meane time I cannot chooſe but laugh at the <hi>Device</hi> wee hope to cheate my Maſter with ſure the devill is agreat freind to womē that loue men! Hee doth ſo furniſh us with quainte inventions: preſently after ſupper, ſhee began her ſit of tooth atch, and did coun|terfet ſo naturally; but ſince ſhee went to bed ſhe almoſt rau'd by turnes; I heard her at it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Oh oh; whoſe there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor</speaker>
+                     <p>Tis I for ſooth, I heard you groane and I have not the heart to ſleepe, ſhall I watch by you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Oh no! get you to bedd, make faſt the chamber: I cannot endure.—</p>
+                  </sp>
+                  <stage>D●roib● puts out the candle at the dore and returnes.</stage>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Deare heart, bee patient.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>I, you have your homilyes of pa|tience, but if you had my paine, it would make you mad, oh; oh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I'le ſend for the french tooth drawer in the morninge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>There is no rack nor torture like it, oh; what ſhall I doe; I ſhall never ſleepe againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Which tooth is it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Do●.</speaker>
+                     <p>The ſweete one you may bee ſure troubles her</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>This, this; oh that there.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>They are happie that are old and have no teeth.</p>
+                  </sp>
+                  <sp>
+                     <pb n="72" facs="40"/>
+                     <speaker>Lad.</speaker>
+                     <p>Oh take heede; now it ſhoots up to my head.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Thou makeſt my headāke with thy noiſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>If you knew what I ſuffer, your head would ake, in deede, I muſt riſe and walke in the chamber, there's no remedy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ser Rich.</speaker>
+                     <p>You'le catch more cold.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Oh noe; deere life doe not croſſe me; if you weere in my torment, you would riſe; and try any thinge, for a little eaſe It cannot bee worſe the paine ſure came with a cold and who knowes but an other cold may cure me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I prithee come to bedd againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Soe, ſoe doe not trouble me. I am now in ſome little eaſe it is a heavenly thing to bee goeing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Doeſt thou heare?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad</speaker>
+                     <p>Your noiſe will bringe my paine back againe, if you knew what a vexation it is for me to ſpeake you would not put me to it ſoe, if you doe talke I will not anſwere a word more. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>S●r Rich.</speaker>
+                     <p>Well! by this noe light I'le to London to morrow. I ſee tis poſsible a wo|mans Tooth may bee as trouble ſo me, as her tongue</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Oh; oh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I cannot chuſe but pitty her: that any woman ſhould hold ſoe much paine in a hollow Tooth!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>If my Maſter touch'd with ſoe much compaſſion ſhould riſe and force me to bedd
+<pb n="73" facs="40"/>
+to him, I muſt not cry out a rape. Tis at the worſt on my ſyde, but fornication in my owne defence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Prithee come to bed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Oh; oh; oh:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>The muſick at a convocation of catts, at a witches upſittinge is the ſpheares to this catterwawlinge. I will thruſt my head into the pillow, as Diana did, in the buſh when the beare was cominge, and then I ſhall not heare her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Oh! this is a kinde of purgatory for the ſines of the fleſh: if ſhe ſhould fall a ſleepe with the other knight; it is not poſſible I ſhould hold out till morninge that which would fright away an ague hath put mee into a feauer: I ſhall have the tooth atch in deede with counterfeitinge. I have knowen ſome men taught the Stammers ſo, my gumes doe murmur, there is feare all over my fleſh ſhee will ſtay too long, and then,—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ser Rich.</speaker>
+                     <p>Vh; uh:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Oh; oh; I'le ſhift places to ſhew more diſtraction at the worſt my noyſe ſhalbee within his reach it may give her warninge to returne too. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Lady to Sir Francis (a ſleepe) a table Inke &amp; paper ſet out.</stage>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>I am full of feares and my owne motion frights: me this furious love is a ſtrange Pilott: Sir where are you, ha; a ſleepe? can any dulneſſe that is not death poſſeſſe a Gentleman ſo valiant in deſires, when hee
+<pb n="74" facs="41"/>
+expects to meete his Miſtreſſe? how I bluſh to rayſe him? was I not worth thy wakinge expectation, farewell: yet ſomethinge like a chaine that's faſten'd to my poore heart re|ſtraines me, inke and paper: <stage>Writes.</stage>
+                     </p>
+                     <p>I'le leave him a ſhort monument of his ſhame &amp; my neglected love. Hee knowes my hand, farewell forgetfull lover. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>What? have I ſlept? ſome witch|craft did betray my eyes to ſo much dark|neſſe, yet my dreame was full of rapture ſuch as I with all my wakinge ſence would ſly to meete; me thought I ſaw a thouſand cupids ſlyde from heaven and landinge heere made this there ſcene of Reuells clappinge their goulden feathers, which kept time while their owne feete ſtruck muſick to their dance as they had trod and touched ſo may Lutes: This done with in a cloude form'd like A throne, ſhe to whome love had con|ſecrate this night my Miſtreſſe, did deſcend, and cominge towards me my ſoule that ever wakes, angry to ſee my body made a pri|ſoner, &amp; ſo mock'd, ſhooke of the chaines of ſleepe, leaſt I ſhould looſe eſſentiall pleaſures for a dreame. Tis happie: I will not truſt my ſelfe with eaſe and ſilence. But walke and wayte her comming that muſt bleſſe me. For|give me you bright Starrs, and doe not frowne that I have not attended as became one that muſt live by your kind Influence. Not yet appeere? ſhee did command I ſhould with confidence expect her; Ha! what's heere? this Character was not viſible before;
+<quote>
+                           <pb n="75" facs="41"/>
+                           <l>" That man's too much compos'd of phlegme</l>
+                           <l>" Will looſe his Miſtreſſe, for a dreame.</l>
+                        </quote>
+Tis hers. I know ſhee has ben heere; Oh fatall! and findinge me a ſleepe ſcorn'd to uncharme my dull and curſed ſilence, this diſtracts mee. Have I ſo long, with ſo much Art and Study labourd this hower and ob|tain'd, what my ambition look'd at, her con|ſent, and when the tree itſelfe bow'd downe Its goulden fruit and tempted me to gather, muſt I make my ſelfe uncapable &amp; bee guiltie of ſo black ſo baſe a forfeite? I could teare my eye lidds off, that durſt let in a miſt ſo darke and ſo deſtroyinge: muſt I ſleepe at ſuch a time? that the devill muſt bee over watch'd too? this howre hath blaſted ſuch a hope as the Earth never teem'd with nor the ſpringe gave up in ſmiling bloſſoms to the breath of thoſe ſweete winds that whiſper from the weſt, a tale of triumph to the yeare, I could diſſolve, with curſinge of my Le●hargie. How ſhall I looke upon her face, whoſe love and bold adventure I have thus rewarded? but paſſion will not cure my wounde which muſt bleede till I ſee her, and then either ceaſſe bleſſed by her pardon; or diſmiſſe a life though juſt, too poore a ſacri|fice to her Anger. Where ſhall I hide my ſelfe and ſhame for ever? <stage>Exit.</stage>
+                     </p>
+                  </sp>
+               </div>
+               <div n="5" type="act">
+                  <pb n="76" facs="42"/>
+                  <head>Actus quintus. Scaena prima.</head>
+                  <stage>Enter Siſter &amp; (preſently after) Maſter Courtwell.</stage>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I cannot forgett my careleſſe Gentle|man; his neglect &amp; reproches have wrought ſtrangly upon me; hee's heere.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Is there not a weazle crept in to your chamber, <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>A weazle Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Yes, a Monſieur ſuckegg.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Doe you take my chamber for a hens neſt, Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Ther's a Thinge that calls him ſelfe <hi>Device,</hi> one that will break the heart of a poſt-horſe to continue a hand gallop with him, your a la mode, your fightinge fayrie, fethered footed ſervant, when ſaw you him?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>My fightinge ſervant, has hee beaten you Sir? perhapps hee thought you were his rivall: ſurely I ſaw him not ſince yeſterday.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Be'e <hi>Lady</hi> how many mile is it to the next Cutler? the rogue has pawnd or ſold my ſworde.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sist.</speaker>
+                     <p>Doe you heare Sir? I can tell you now what <hi>Lady;</hi> it was you did abuſe ſo</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I abuſe a <hi>Lady?</hi> Tell me the ſlave re|ported it; I hope it will prove this Monſieur if ere wee meete againe;—Who was it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Vpon condition Sir you will requite
+<pb n="77" facs="42"/>
+me but with one Gentle favour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Any thinge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>You muſt ſit downe and heare me then, while lat a diſtance, thus deliver.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Tis more ſtate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I am moſt unfortunate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>For what deare Damoſell?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>And wrong d by a Gentleman I lou'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Can hee bee a Gentleman that dares wronge ſo much love and beautie? what s the offence?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sist.</speaker>
+                     <p>He will not love againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>And you would have the ſtubborne man corrected?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt</speaker>
+                     <p>I would bee revenged, if I know how, and honour him, ſhould doe me ●uſtice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Name the man: I'le doe it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I cannot.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>How.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Yet turne your face: alas! it is your ſelfe: I have your word to puniſh him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Sweete <hi>Lady</hi> I am well acquainted wi●h the worthy Gentleman, but will not kill nor ſtrike him: for I know hee has juſt reaſon not to love you, you, of all your ſexe; hee told mee ſo.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>His reaſon?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Was in theſe words, ſuppoſe you heare him ſpeake it. Now doe you ſit; <hi>Lady;</hi> when I conſider you to a perfect forme of what we can call handſ●me with all your at|tributes of ſoule and body where no Addi|tion or detraction can by cupids, ●icer critticks finde a fault, or Mercury with your
+<pb n="78" facs="43"/>
+eternall frame &amp; then conſider what a thinge I am to this high Character of you; ſo low ſo loſt to noble merits, I diſpaire to love a Miſtreſſe cannot love againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>This is as much diſſembled modeſty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>No let it all alone, I have other rea|ſons, <hi>Lady,</hi> among my papers, to love, or to bee in loue is to bee gull'd, that's the plaine Engliſh of cupids latine beſides, all reverence to the calling, I have vowed never to marry: and you know, loue may bringe a man to▪t at laſt and therefore my fine gewgaw, doe not abuſe me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>How can I when you will neither loue me nor marry mee?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I was not made for a husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>But I would make you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I know what you would make me.</p>
+                     <stage>Enter Servant.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Serv.</speaker>
+                     <p>Monſieur <hi>Device</hi> if you bee alone would preſent his ſervice to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Is hee come?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Doe me but one favour, I'le recant my loue, I will not have ſo much as one good thought of you, I will neglect you, Sir, but for three minutes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I'le have patience ſo long. <stage>He● hides.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Admit him. I will bee revenged on ſomebody? now Sir: <stage>Enter Device.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I'have broug'ht you a weapon <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Me, what to doe Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Tis juſtice I preſent it to your feete, whoſe love Arm'd me to vindicate your honour.</p>
+                  </sp>
+                  <sp>
+                     <pb n="79" facs="43"/>
+                     <speaker>Siſt.</speaker>
+                     <p>My honour?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>This is but the firſt of my valour in your cauſe; if you affect theſe monuments, I'le make you up an Armory: meane time receive my ſervice with this ſword; if hee provoake me to fight with him againe; I'le cut his hand off and bringe it with me, to preſent the next.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Whoſe hand deare Servant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Hee is not worth the naminge, alas; this does not deſerve your knowledge; only thinke what I dare doe, when your bright name is queſtioned: and I in time may mer|rit to bee call'd the darlinge of your Virgin thoughts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt</speaker>
+                     <p>Pray ſtay; my name traduc'd? who was ſo impudent? doe me the grace to let me know on whome your valour has bin exer|cis'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Why upon the formall thinge, call'd <hi>Courtwell,</hi> I would call him Gentleman, but that I have baffled him; you neede noe other witneſſe then his ſword: <stage>Shee ſhuts the doore.</stage> With the fine holliday hilt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Looke you Sir I have made faſt the doore becauſe I meane before you goe, to have a ſatisfaction for the baſe Injury you have done me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I done you Injury?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Not that I value <hi>Courtwell</hi> whome you would pretend has bin too ſaucy with my honour, but cauſe I ſcorne to owne a good|neſſe ſhould depend upon your ſword or vin|dication: I'le fight with thee my ſelfe in this
+<pb n="80" facs="44"/>
+                        <hi>ſmale volume</hi> againſt your bulke in <hi>folio.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Excellent wench.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I was your champion, <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I had rather have no fame then have thee name it; thou fight for a <hi>Ladyes</hi> honour, and diſarme a Gentleman? thou fence before the Pageants &amp; make roome for the porters, when like Elephants they carry once a yeare the Cyttie Caſtles: or goe a feaſtinge with the drum or ſchole boyes to the banke ſyde &amp; ſave the beares a whippinge that day: come Sir I meane to have about with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>At what weapon?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>This, and none other, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I'le rather bleede to death then lift a ſworde in my defence▪ whoſe inconſide|rate brightneſſe may fright the roſes from your Cheekes, &amp; leave the lyllyes to Lament the rude divorce: but were a man to dare me, and your enemie, my rage more nimble then the <hi>M●dian</hi> ſhaft ſhould flye into his boſome, and your eye change Anger into ſmiles, to ſee me fight and cut him into a rag|ged ſtaffe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>I cannot hold no longer; you have got a ſtomack Sir with running, I'le try how you can eate a Sword.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev</speaker>
+                     <p>Have you an ambuſh <hi>Lady;</hi> I'le cry out murther, tis two to one. Faire play!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Let me but cut one legg off to marre his running.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Hold: let me ſpeake.</p>
+                  </sp>
+                  <sp>
+                     <pb n="81" facs="44"/>
+                     <speaker>Court.</speaker>
+                     <p>What canſt thou ſaie for thy baſe|neſſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Some men love witt, and can without dishonour endure a Ieaſt; Why? doe you thinke I knew not you were heere &amp; but ob|ſerv'd to ſee my humour? I came to wayte upon you with your ſword.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>How came you by it? Confeſſe be|fore this <hi>Lady.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Doeſt thinke her witt's ſo lymber to beleive I could compell it from thee, twas a trick, a meere conceipt of mirth, thou ſhalt have myne: Doeſt thinke I ſtand upon a ſword? I'le give thee a caſe of piſtolls, when wee come to London; and ſhoote mee when I love thee not: pox on it, thou apprehendeſt me well enough.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>But I am not ſatisfied, doe you loue this Gentlewoman?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Hum;</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>You will reſolve Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>As may become a ſtranger; I will not loſe thy friendſhipp for all woman kinde.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Hee dares, not owne you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I eaſily forgive him: I ſhould hate my ſelfe if I depended on his pitty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Thou art a noble wench: ſhall wee leave of theſe Jiggs, and ſpeake our minds in earneſt by theſe twyn lipps, I loue thee extreamly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Sweare by your owne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>They ſhall bee myne: Monſieur, for your pennance you ſhall a long &amp; witneſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>What I pray.</p>
+                  </sp>
+                  <sp>
+                     <pb n="82" facs="45"/>
+                     <speaker>Cou.</speaker>
+                     <p>The prieſt ſhall tell you, come, wee have both diſſembled, wee doe loue one an other.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Tis not poſſible.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Vnleſſe you will denie me in the church. I have vowed to lye with you this night: <hi>Device,</hi> amble before, and finde the Parſon out; wee will bee frends, and thou ſhalt bee her Father.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>I muſt mayntayne my honour, or be beaten.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Co.</speaker>
+                     <p>Com we'le have no more acquaintance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Very pretty! I may deceave you yet for all your confidence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>If the skye falle, wee'le have the darkes to ſupper. <stage>Exeunt.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Lady Sir Francis and Dorothy.</stage>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>It was a ſtrange neglect, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>I confeſſe it, and not deſerve to live for it, yet if you but knew my ſufferings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Let her bee Judge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>By no meanes Madame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>You may truſt her knowledge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>This is worſe then a whippinge now, theſe <hi>Ladyes</hi> have no mercy on a delinquent; I muſt ſtand to it; there is no tyrant to a chambermayde, made judge in ſuch a caſe; I'le give a limbe to bee quitt now; but if ſhee chuſe, I am a criple for this world.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Is it poſſible? A man and ſuch a beaſt?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Soe: I muſt to the ſhambles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>What puniſhment can bee equall to the offence?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Hee lookes with ſome compunction for his fault, troth, Madame, ſuch an other
+<pb n="83" facs="45"/>
+night: and trye whether hee'le ſleepe againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Mercifull wench; if wee piece againe; it ſhall bee a good turne in thy way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>My husband is reſolu'd this day for London. It is his humour, or elſe worſe, ſuſpition: there's noe pretence for him to ſtay behinde.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>You have made ill uſe of your time Sir <hi>Francis;</hi> I know not how to helpe you; ſeauen yeares hence you may have ſuch an other opportunitie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Watch if my husband come not this way, <hi>Dorothy,</hi> well Sir, though your tranſ|greſsion deſerve no pardon, yet I am chari|table upon condition.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Any thinge, Madame: this ſhewes ex|cellent in you. No pennance ſhall diſpleaſe, ſo you abſolue me. Bid me to clyme ſome rocke or piramide, upon whoſe narrow ſpeare you have advanc'd my peace, and I will reach it, or elſe fall loſt to the world in my contempt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad</speaker>
+                     <p>You ſpeake gloriouſly, the condition that aſſures your pardon, is only this, that you conclude, here, all your looſe deſires, with a reſolve never to proſecute or hope to enjoye me:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Call you this charitie, let me rather looſe your pardon, then ever bee thus Di|vorc'd: binde me never to ſee you, (and yet that were cruelty) then, charme me to forget that I am man, or have a heart, and you a beautie which your abſence can as well make nothinge, as divide from my adoreing
+<pb n="84" facs="46"/>
+It is not cure but killing to preſcribe I never muſt enioye you, if you have reſolu'd death upon me, let it bee when wee like lovers have embrac'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad</speaker>
+                     <p>It is not poſsible.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>nothing in loue can bee impoſſible to willing mynds. I'le tell you, Madame, Sure the devill has forſworne the fleſh, there may bee a plott, I have it. An excellent rare <hi>Do|vice,</hi> if you but favour it: your husband is immediately for London I muſt in modeſty ride with him; you are left behinde.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>How can that proffit you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>What a deale of ſubmiſſion theſe fooliſh men trouble us women with, that are more forward to bee frends againe, then they?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>I will counterfeit a fall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>A fall?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>I, from my horſe, obſerve me then.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>My confederate I hope by this time is at the gate enquiringe for Sir <hi>Richard</hi> very formally from the old Knight his Maſter &amp; good <hi>Lady:</hi> the follow has witt to mannage it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>My <hi>F●o man</hi> ſhall pretend himſelfe the ſurgeon to attend me; I'ſt not rare? ſtand but to it fate in this and if I faile I will ſit downe a convert and renownce all wanton hope hereafter. Deereſt Madame if you did meane this honour to me before let not your louinge thoughts freeze in a minute; my genius is a prophet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Sir <hi>Richard,</hi> Madame, is cominge this way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran</speaker>
+                     <p>Shall I hope againe</p>
+                  </sp>
+                  <sp>
+                     <pb n="85" facs="46"/>
+                     <speaker>Lad.</speaker>
+                     <p>I will not ſay you ſhall diſpayre.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>You bleſſe me. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>My buſineſſe is on foote, your Jewell Madame will credit much the cauſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Wee will with draw; and let me know how you, have caſt the plott. <stage>Exeunt.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Sir Richard (openinge a letter) &amp; Footman.</stage>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>From thy Maſter? his name?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foot.</speaker>
+                     <p>
+                        <hi>Sir</hi> William Litleland.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I doe not know him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foot.</speaker>
+                     <p>His name is well known in <hi>Lincol|neſhire</hi> neere the <hi>Fenns;</hi> there were of his family Ancient Gentlemen before the con|queſt, ſome ſay, ever ſince the flood,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Little Land?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foot.</speaker>
+                     <p>But hee has now more land then 3. of the beſt of the ſheere, thank the dutch men that have drunke up al the water.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>They water—drinkers?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foot.</speaker>
+                     <p>Why not, as well as eate dry land? they are lyn'd with butter; Sir; they feare noe dropſies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <floatingText type="letter">
+                        <body>
+                           <p>
+                              <hi>Shee has bin abſent theſe two yeares, the occaſion her diſlike and diſaf|fection to a Gentleman whome I confeſſe, I did ſeverely urge her to marry, if ſhee have liv'd with you, as my late intelligence informs me in the nature of a Servant, which is be●●ath my wiſh and her cōdition, I hope upon this knowledge, you will with conſider of her qualittie ſhee beinge my
+
+<pb n="86" facs="47"/>only child and heyre to my fortunes, uſe her like a Gentlewoman: and though my pea|res have made me unfitt for trauell I doe Intend upon the returne of my daughter, whome I ſhall receive as a new bleſſinge from you, to expreſſe my ſelfe for your favour</hi>
+                           </p>
+                           <closer>
+                              <signed>Your trew Frend and Servant WILLIAM LITTELAND.</signed>
+                           </closer>
+                        </body>
+                     </floatingText>
+                     <p>My maid <hi>Dorothy</hi> A knights daughter &amp; heire? doe you know your younge Miſtriſſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foot.</speaker>
+                     <p>I ſhall bee happie to ſee her, with a Letter and token from her <hi>Lady</hi> Mother.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I pray truſt me to deliver it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foot.</speaker>
+                     <p>I, With all my heart, Sir; you may command.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>
+                        <hi>T●omas,</hi> pray entertaine this <hi>Foot|man</hi> in the buttery: let him drinke &amp; refreſh him ſelfe and ſet the cold chine of beefe be|fore him hee has runn hard.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>That will ſtay his ſtomack indeede; but claret is his only binder.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Foot.</speaker>
+                     <p>Sack while you liue after a heate, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Peaſe you, I'le ſhew you the way to be drunke. <stage>Exit with Footman.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>
+                        <hi>To my lovinge daughter?</hi> may not this bee a trick? <stage>Enter Vnderwitt.</stage>
+                     </p>
+                     <p>By your favour Madame; Captaine, gather you the ſence of that Letter, while I peruſe this, you know Miſtris <hi>Dor●thy?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>I have had a greate deſire to know her,
+<pb n="87" facs="47"/>
+I confeſſe, but ſhee is ſtill like the bottom of the mapp, <hi>Terra incognita,</hi> I have ben a long time hoveringe about the Magellan ſtraytes but have made no new diſcoveryes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Ha! This is no counterfeit; I dare truſt my owne Judgment; tis a very rich one I am confirm'd, and I will ſeale them up againe. My <hi>Ladyes</hi> Woman Sir <hi>William Littelands</hi> daughter and heyre? what ſay you now of Miſtreſſe <hi>Dorothy?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>A great deale better then I did, and yet I have loud her this halfe yeare in a kinde of way, of my conſcence, why may not I marry her?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>This Jewell was ſent by her Mother to her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Deare Vncle conceale it till I have talke with her, oh for ſome witchcraft to make all ſure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I like this well: ſhee's here.</p>
+                  </sp>
+                  <stage>Enter Dorothy.</stage>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>I vow, Miſtreſſe <hi>Dorothy;</hi> if I were immodeſt, it was the meere impudence of my ſack, and not my owne diſpoſition but if you pleaſe to accept my loue now by the way of marriage I'le make you ſatisfaction, like a Gentleman in the point of honour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>your birth and eſtate is to high and unequall for me, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>What care I for portion or a face, ſhee that has good eyes, has good—Give me vertue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>You are pleas'd to make your mirth of me.</p>
+                  </sp>
+                  <sp>
+                     <pb n="88" facs="48"/>
+                     <speaker>Vnd.</speaker>
+                     <p>By this ruby nay; you ſhall weare it in the broad eye of the world; doeſt thinke I jeſt?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Sir <hi>Richard:—</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>If hee were ten Sir <hi>Richards,</hi> I am out of my wardſhip</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>How hee flutters in the lyme-buſh: it takes rarely. <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>What a neceſſary thinge were a houſ|hold chapline? <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>So; ſo; the wench inclynes, I will haſten my jornie that I may appeare with more excuſe, when they are married in my abſence. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <stage>Enter Master Courtwell, Sister and Device.</stage>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Come wee are faſt enough, and now I have thee, I'le tell the all the fault I finde, thou haſt a little two much wit, to bee a wife: it could not bee too nimble for a Miſtreſſe. There is a part of your pennance ſtill behind <hi>Device;</hi> you would pretend to bee a poet, I'le not diſgrace the name to call thee one, but let me have times againſt wee goe to bed, Two Anagrames that weigh an ownce with coment, and after that, in verſe your affida|vitt that you doe wiſh us joye, and I'le diſ|charge you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Tis time I were at ſtudy then.</p>
+                  </sp>
+                  <stage>Exit Device.</stage>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>About them, your double congie, and depart with ſilence: now prithee tell me who reported I had wrong'd a <hi>Lady?</hi> Was it
+<pb n="89" facs="48"/>
+not thy revenge to make me Angry?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>It was indeed Now tell me; why at the firſt approach ſeem'd you ſo modeſt? you have confidence to ſpare, now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Troth I came not with any wooinge purpoſe: only to pleaſe my Vnkle, and try thy witt and that converted me. <stage>Enter Tho.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Did you ſee my Maſter Captaine <hi>Vn|derwit?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Yes he's talkinge with a prieſt and Miſtreſſe <hi>Dorothy.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>Her Fathers <hi>Footeman</hi> is heere, ſhee is a Knights daughter and heyre, but ſhee doth not know it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>I thinke ſoe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Where's my Vnkle?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>A myle on his way to London, by this time with Sir <hi>Richard,</hi> I longe to ſee my Maſter. <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Wee ſhall want Companie to dance.</p>
+                  </sp>
+                  <stage>Enter Lady.</stage>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>My Siſter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>If you pleaſe Madame, you may call me, Brother, wee have ben at, <hi>I Iohn take thee Eliſabeth,</hi> a poſſett and foure naked thighes in a bed to night, wee'le bid faire earneſt for a boy too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Siſt.</speaker>
+                     <p>Tis even ſo Madame; the Prieſt has done it</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Nay then all joyes attend you; if this had bin knowen, it might have, ſtay'd Sir <hi>Richard,</hi> and your Vnkle one day more.</p>
+                  </sp>
+                  <stage>Enter Vnderwit, Dorothy, Sackbury, Thomas.</stage>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Roome for an other couple.</p>
+                  </sp>
+                  <sp>
+                     <pb n="90" facs="49"/>
+                     <speaker>Tho.</speaker>
+                     <p>In hell, my Maſter is maried.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>My husband left ſome letters, and a token was ſent you Miſtris <hi>Dorothy,</hi> you did Ill to obſcure your ſelfe ſo much, you ſhall not want hereafter all reſpects that may be|come you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D●r</speaker>
+                     <p>Madame I know not what you meane.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cap.</speaker>
+                     <p>Shee will not take it upon her, yet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>There is the ſport <stage>Enter Device.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Oh Madame, newes; Ill newes; an Accident which will blaſt all your mirth, Sir <hi>Francis;—</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>What of him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Has broake;—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>His neck?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>You gueſſe very neere it, tis but, his ſhoulder has ſav'd that Joynt; a fall from his horſe they ſaye hath much endangerd him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>My Vnckle hurt? <stage>Exit.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Hee has kept his word; now if hee counterfeyte handſomely.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Monſieur <hi>Device,</hi> I muſt entreat a cour|teſie: you have wit and I will have a Maſque to entertaine my new Father in Law Sir <hi>William Littleland;</hi> Miſtris <hi>Dorothy</hi> now my wife is his only daughter &amp; heyre</p>
+                  </sp>
+                  <sp>
+                     <speaker>D●r.</speaker>
+                     <p>Who has gull'd you thus? I am no Knights daughter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>Give you Joy Captaine</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Shee is ſtill loath to confeſſe it.</p>
+                  </sp>
+                  <stage>Enter Sir Francis; Master Courtwell, Lady, Sister, Sackbury.</stage>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>If you loue charitie; a bone ſetter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Hee counterfeites rarely, where is Sir <hi>Richard.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="91" facs="49"/>
+                     <speaker>Fran.</speaker>
+                     <p>Hee rid before, but I ſent my <hi>Foote|man,</hi> to tell him my misfortune; oh; Ma|dame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>This is better then the tooth atch; he carries it excellently.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Aske me no torturinge queſtions, I deſire Madame a little conference with you, I'le thanke the reſt if they will with draw.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Lett's leaue him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Wee'le to my chamber, Captaine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>You have a minde to examine the bu|ſineſſe privatly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd</speaker>
+                     <p>No, good Captaine you may bee pre|ſent, come; <hi>Thomas,</hi> thou ſhalt bee wittneſſe too. <stage>Exeunt.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>They are gone, you faine moſt Arti|ficially, let me embrace you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Oh take heede.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>What's the matter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Tis noe diſſembling, Madame; I have had a fall indeede: a dreadfull fall, I feele it, I thinke my horſe ſawe the devill in ſome hedge, ere I had rid three furlongs: gaue a ſtart, pitch'd me off his back like a barre and broake a flynt with my ſhoulder, I thinke; which ſtrooke fire too there was ſomethinge like it in my eyes; I am puniſhed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>But is this ſerious, are you hurt in|deede?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Hurt? I have broake my ſhoulder, feelingly, and I am of opinion when I doe enjoy you, Madame, I ſhall breake my neck: that will bee the next; I'le take this for a
+<pb n="92" facs="50"/>
+warninge and will leaue of in time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>It makes me tremble.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>I will bee honeſt now, and ſo forgive me, is not the ſurgeon come yet?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>Heaven hath cur'd us both.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>I am not cur'd yet, oh for the bone ſetter, if ever I counterfeit againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>There is a bleſsing falne upon my bloud: your only thoughts charme had power to make my thoughts wicked, and your con|verſion diſenchants me: may both our liues be ſuch as heaven may not greeve, to have ſhewed this bountie.</p>
+                  </sp>
+                  <stage>Enter Courtwell and the rest with Sir Richard.</stage>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Sir <hi>Richard;</hi> Madame:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>You may enter now, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>I doe not like this Stratagem, Sir <hi>Francis</hi> muſt not heere practice his court tricks, I will not truſt my wifes ſurgery:</p>
+                     <stage>Enter Su●geon.</stage>
+                     <p>Hee's come; <stage>Sir Francis is led out.</stage>
+                     </p>
+                     <p>How is it noble Sir <hi>Francis;</hi> beſt with draw, I'le ſee him dreſt my ſelfe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Madame and Gentleman; Miſtriſſe <hi>D●rothy</hi> will not acknowledge ſhe is a Knights daughter ſhe ſweares ſhe knowes no <hi>Little|land.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>Till it appeare to whome, this ●emm was meant, deafe Madame, bee you treaſurer, I confeſſe I have wealth enough in ſuch a noble husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>It ſhall belonge to thee; be honeſt <hi>Dorothy,</hi> and uſe him well.</p>
+                  </sp>
+                  <sp>
+                     <pb n="93" facs="50"/>
+                     <speaker>D●r.</speaker>
+                     <p>With my beſt ſtudy●, Madame;</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Where is this <hi>Foo●●man</hi> you talke of?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>He p●etended letters to carry two myles off to a Kinſmans of his Maſters and returne preſently: hee drunke 3. or 4. beere glaſſes of Sack and hee rune away ſo lightly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>His reward ſhall overtake him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Will you have her; ſhee'le doe you ſervice, Captaine at a low Country leager or thou <hi>Thomas</hi> I le give thee a coppihold.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>You have one life to come in that leaſe yet, I thanke you I am free, and that is Inheritance. For ought I know ſhee may ſerve us both.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sack.</speaker>
+                     <p>Come you may perſuade her to take it upon her for your creditt, the gullery is yet with in theſe walls let your ſhames goe noe further, the wench may prove right; ſhee may.</p>
+                  </sp>
+                  <stage>Enter Sir Richard.</stage>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>What newes from Sir <hi>Francis.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Wife I hartily aske thy forgive|neſſe: I had jealous thoughts, but all is right againe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <p>I will deſerve your confidence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>No greate danger, his blade bone diſlocated: the man has put every thinge in his right place</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Doe you heare Sir <hi>Richard,</hi> wee are married.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Tis well done t'is to my mynd, ſend you Joy;</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>Come hither <hi>Dorothy.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="94" facs="51"/>
+                     <speaker>Dor.</speaker>
+                     <p>My Mother dyed, I have it by tradi|tion, ſoe, as ſoone as I was borne my Father but no Knight, is now in the Indies a poore Marchant that broake for 20000.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>The ſhips may come home, ha;</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dor.</speaker>
+                     <p>You had beſt uſe me well now wee are married, I will bee ſworne you forc'd me to the church and thriſe compeld me there to ſaid, I <hi>Dorothy—</hi>The Parſons oath and mine, for ought I know may make it halfe a rape.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>There is no remedy wee can proue no conſpiracy; and becauſe I have bin gull'd my ſelfe, gett her with childe; my Doe is barren, at birth of hir firſt baby I'le give thee a hundred peeces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>That's ſomewhat yet: when charge coms on, thy hand, a wife can bee but a wife: it ſhall coſt me 500. but I'le make thee a <hi>Laay</hi> in earneſt.</p>
+                  </sp>
+                  <stage>Enter Sir Francis and surgeon.</stage>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>How is it Sir <hi>Francis.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>My <hi>Surgeon</hi> ſayes no danger: when you pleaſe I may venture Sir to London.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Noe haſt now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Court.</speaker>
+                     <p>Not to night, Sir, wee muſt have revells, and you ſalute my bride.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vnd.</speaker>
+                     <p>And myne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tho.</speaker>
+                     <p>A Knights daughter and heyre.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>May all Joyes thriue upon your Ioues; then you are cozen'd of your Miſt|reſſe Monſieur, but your nephew knowes
+<pb n="95" facs="51"/>
+I have met with my match if not put to the worſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Rich.</speaker>
+                     <p>Come wee looſe time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>Preſerve your Marriage faith: a full increaſe of what you wiſh confirme your hap|pineſſe.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         </TEI>
+

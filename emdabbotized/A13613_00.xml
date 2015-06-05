@@ -1,0 +1,195 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A13613">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">The two first comedies of Terence called Andria, and the Eunuch newly Englished by Thomas Newman. Fitted for scholler priuate action in their schooles.</title>
+            <author>Terence.</author>
+         </titleStmt>
+         <extent>88 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2011 December (TCP phase 2)</date>
+            <idno type="marc">99838757</idno>
+            <idno type="stc">STC (2nd ed.) 23897.</idno>
+            <idno type="vid">3145</idno>
+            <idno type="DLPS">A13613</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">The two first comedies of Terence called Andria, and the Eunuch newly Englished by Thomas Newman. Fitted for scholler priuate action in their schooles.</title>
+                  <title type="alt">Andria. English</title>
+                  <title type="alt">Andria.</title>
+                  <title type="add">Eunuchus.</title>
+                  <author>Terence.</author>
+                  <author>Newman, Thomas, fl. 1627,</author>
+                  <author>Terence.</author>
+               </titleStmt>
+               <extent>[16], 110 [i.e. 108], [2] p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by G. M[iller] and are to be sold at the house of M. Fenricus next to the Grayhound Tauerne in the Black-Friers,</publisher>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Printer's name from STC.</p>
+                  </note>
+                  <note>
+                     <p>Verse translations, by Thomas Newman, of Terence's Andria and Eunuchus.</p>
+                  </note>
+                  <note>
+                     <p>The Eunuch begins on verso of F2 [i.e. E2].</p>
+                  </note>
+                  <note>
+                     <p>Pages 50-51 repeated in number only; 60-61 and 63-64 missing in number only; 56-57 misnumbered 58-59; E2 missigned F2.</p>
+                  </note>
+                  <note>
+                     <p>Errata on recto of H8, final leaf.</p>
+                  </note>
+                  <note>
+                     <p>Preliminary pages and 81-82 torn. Beginning-page 1 and 76-101 from Folger Shakespeare Library copy spliced at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the British Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="1"/>
+            <pb facs="1"/>
+            <p>THE TWO FIRST COMEDIES OF <hi>Terence</hi> called <hi>Andria,</hi> and the <hi>Eunuch</hi> newly Engliſhed by THOMAS NEWMAN.</p>
+            <p>
+               <hi>FITTED FOR SCHOLLER Priuate action in their Schooles.</hi>
+            </p>
+            <quote>
+               <p>Nec verbum verbo curabis reddere fidus Interpres.</p>
+               <bibl>Horace.</bibl>
+            </quote>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. M.</hi> and are to bee ſold at the houſe of M. <hi>Fenricus</hi> next to the Gray|hound Tauerne in the Black-Friers. 1627.</p>
+         </div>
+         <div type="poem">
+            <pb facs="2"/>
+            <head>Author ad Librum</head>
+            <l>OLd wiues and fooles haue faith, the <hi>Cricquets</hi> ſong</l>
+            <l>In the warm'd chimney portends deathere long</l>
+            <l>My creede holds no ſuch thing. If <hi>Cricquets</hi> ſing,</l>
+            <l>I rather doubt the'oreheated brickes may bring</l>
+            <l>Some danger to my houſe when theſe I heare,</l>
+            <l>(If any thing) I onely fire do feare:</l>
+            <l>But many things (poore Booke) I iuſtly feare,</l>
+            <l>When <hi>Critiques</hi> deſcants on thy lines I heare.</l>
+            <div type="poem">
+               <head>Libri ad Authorem reſponſio.</head>
+               <l>Feare no true <hi>Critique;</hi> all that know you, know</l>
+               <l>What loue and honor to ſuch men you owe:</l>
+               <l>And men of that high name, will neuer throw</l>
+               <l>Their cenſures on an argument ſo low.</l>
+               <l>Theſe I not feare; but I do doubt them though,</l>
+               <l>Who would from fooles Cenſorious <hi>Critiques</hi> grow.</l>
+            </div>
+            <closer>
+               <signed>T. N</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="2"/>
+            <head>TO THE SCHOLLERS of PAVLES <hi>Schoole, T. N.</hi> wiſheth increaſe in grace and learning.</head>
+            <p>_WHat I at firſt intended for mine owne imployment to paſſe away ſpare time, and afterward purpoſed for your pri|uate exerciſe onely, is now made pub|lique not by my free and voluntarie e|lection; but by an accident of neare nature to con|ſtraint. For hauing hastily finiſhed the tranſlation of theſe two firſt comedies of <hi>Terence,</hi> and ended the foure firſt acts of the third, I miſſed my booke one alone day, and then found it againe gelded of the three Latter Acts of the third Comedie. Shortly after I met the Copie thereof in the hands of a Sta|tioner: whence I coniectured that my booke had been copied out by character for ſale; and that done by ſome lame and ignorant Author, who was not able to be his owne diſcipherer. I had neglected this thiefe, this plagiarie; and had ſuffered him to make vſe of my labour, but that one honeſt and learned gentleman had ſeene my doings in <hi>Andria,</hi> and who alſo knew I was about the reſidue. You apprehend the iust reaſon of this publication. As touching my
+<pb facs="3"/>Dedication, I do not ſo much doubt the imputation of careleſneſſe of my credit in ſeeking Patronage from raw and greene youth, as I feare the challenge of ambitiouſneſſe in prouiding Patrons, who are to ſtand vp in all ſucceſſion of times ſo long as your Schooles foundation ſhall continue: and ſome of you being likely very ſhortly to become of moſt full abili|tie to defend your vnknowne Client. But till you arriue at ſuch maturitie, giue me leaue to main|taine my ſelfe, and to prepare you.</p>
+            <p>I haue alreadie heard ſomewhat, whereby I further ſuſpect how I may be further quarelled. There will perhaps ſome be found who on their good faiths will proteſt that this generall licentiouſneſſe of turning Latine bookes into Engliſh, caries with it much inconuenience. I hope in the generall looſeneſſe they include not thoſe extant tranſlations of <hi>Liuy, Plinie, Plutarch, Suetonius, Tacitus,</hi> and the like Authors: if they meane onley ſuch verſions as was that of <hi>Ouids</hi> Art of loue, &amp; the like bookes tending to corruption of youth, I will ioyne with them; and adde, that ſuch tranſlations are not onely inconue|nient but impious alſo. But in <hi>Terence</hi> is no ſuch danger. In thoſe few paſſages where his matter beares any ranke ſent or ſence, you ſhall find it huſhed by ſome modest cloſe <hi>Eclipſie,</hi> or ſtopping <hi>Apoſio|peſis;</hi> or elſe couched vnder ſuch darke and miſti|call termes, as the young ſcholler cannot apprehend to any danger of defiling: which courſe I haue alſo
+<pb facs="3"/>purſued. Beſides <hi>Terence</hi> (as I heard) hath for|merly beene Engliſhed and publiſhed: ſo that this way I might decline the crime, of first turning him into our tongues, but becauſe I neuer ſaw that En|gliſh Author, and therefore know not how he hath carried it, I dare not ſhelter my ſelfe vnder ſuch precedent: but I dare venture to ſhare with <hi>Theod. Beza</hi> in any hazard of this imputation; and let ſuch Cauillers know, that they by this aſperſion ſhall bee found to wound that learned Frenchman through my ſides: for his tranſlation is extant, imprinted in French on one ſide and in Latine on the other ſide of euery leafe: and is now in the handes of all young ſchollers, throughout the whole French King|dome. From the matter of the tranſlation I come to the manner, and therein do foreſee, that it may be obiected, that where <hi>Terence</hi> many times vſeth generall tearmes, I do ſo raſhly perticularlize him, places that in many places I retaine not the purpoſe &amp; meaning of my Author; and againe, that in ſome my Engliſh doth not render the Latine truly: by the firſt they would inforce, that I conceaue not the drift and ſcope of my Author; by the later that I vnderſtand not his words. I will onely giue you two or three inſtances, the better to prepare you to ap|prehend the rest. <hi>An. Act. 1. Sc. 1. ver. 3. Curentur haec</hi> that theſe things be well ordered or looked too, I in ſpecial tearmes thus reſtraine, that theſe things be well cooked; hauing relation to <hi>Iſthaec intrò au|ferte</hi>
+               <pb facs="4"/>
+               <pb facs="4"/>
+               <pb facs="5"/>going before, where I vnderstand <hi>Iſthaec</hi> to be meant of prouiſion for a diſſembled wedding ſupper. Here it may be oppoſed by ſome, not out of their owne braines or conceipt, but by arguments filched out of blinde and ignorant Authors, that I am be|ſide the cuſhion. I am not ignorant of three reaſons vſed aboue a hundred yeares agoe against this inter|pretation. Firſt it is ſaid that <hi>Auferre</hi> is a word denoting things contemptible, and therefore cannot be meant of Cates or dainties of diet. Se|condly, it is affirmed that here was no ſuch pro|uiſion made as would require theſe ſeruants to car|rie in: and this they ground on the words of <hi>Dauus Act. 2. Scen. 2. Paululum obſonij.</hi> And againe, <hi>Act. 2. Scen. 6. Vix drachmis inquit obſonatus eſt decem.</hi> Thirdly, they vrge the old French printed bookes, where by the pictures expreſſing the argu|ments of euery Scene certaine logges or billets are ſigured, and not baskets with prouiſion from the market. Whence they would inferre that by <hi>Iſthaec</hi> no feaſting ſtuffe is intended but matter of fewell onely. Perceiue you not the blockiſh conceipt of theſe loggerhead arguers? ſtay a while; and perhaps I ſhall affoord you meanes, better to vnderstand the matter. First, therefore I confeſſe and auoid the argument of contempt: for though <hi>Auferre</hi> (accor|ding to <hi>Donat</hi>) be commonly vſed of things ſpoken of with diſdaine, yet not alwayes ſo; for that which <hi>Terence</hi> meant by <hi>Auferte iſthaec</hi> in the firſt line, is
+<pb facs="5"/>named <hi>Curentur haec</hi> in the third: Now <hi>Curatio</hi> in its proper notion is <hi>Medicinae, aut (quae eſt eius famula) coquinae;</hi> and cannot be ſaid of any thing whereof we ſpeake with diſdaine or loathing. <hi>Dauus</hi> words proue nothing: they only extenuate, do not deny the prouiſion. And for the French pictures. Painters and Poets (you know) take much libertie: but for anſwer I ſay, that <hi>Aſcenſius</hi> a learned Critique, great Grammarian and famous Printer aboue <hi>100.</hi> yeares ago in France, and ſo beſt able to determine, the doubt, taking vpon him to argue the queſtion, hath left the matter indifferent: yet inclines ra|ther to <hi>Edulia</hi> then <hi>ligna.</hi> And me thinks ſuch inter|pretation may be euinced by euidence of reaſons; for beſides that a wedding was ſtrongly to be borne vp (this could not handſomely be carried without a feast) it is manifest that <hi>Simo</hi> came from the mar|ket: for ſo <hi>Pamphilus, Act. 1. Scen. 5. Pater prae|teriens modò apud forum.</hi> Did theſe ſernants at|tend <hi>Simo</hi> thence with billets or bauins on their ſhoulders? this construction were as ridiculous, as improbable that a man of <hi>Simo's</hi> eſtate whoſe ſonne was worthy to receiue tenne talents in portion with a wife, <hi>Act. 5. Scen. 4.</hi> ſhould be vnfurniſhed of ſuch ordinarie prouiſion. Or came theſe ſeruants emptie home after <hi>Simo?</hi> and were appointed to carrie in logges and fagots then lying before their Maſters doore? this coniecture is as abſurd; for how came the wood there? why did it trouble the ſtage? or
+<pb facs="6"/>which way might it concerne the Argument? Eſpe|cially why ſhould <hi>Soſia</hi> formerly made free, now ſuſpect that his Maſter <hi>Simo</hi> would <hi>Mutare factū;</hi> and recall him to a ſecond bondage, by impoſing vp|on him ſuch ſlauiſh drudgerie as <hi>Curare focum;</hi> a ſcullions no freed mans office? what art needed here|to? and <hi>Soſia</hi> tenders imployment of art in the words immediately following <hi>Quid eſt, quod ars mea tibi efficere poſſit amplius?</hi> Indeed to ſteward a feast had in it ſome art, and ſeemes to haue beene a part of freed mens imployments, <hi>Eunuch, Act. 3. Scen. 5. ver. 60.</hi> Thus I hope I haue giuen you ſome reaſon of this interpretation. Beſides <hi>Guido</hi> hath long ago ſo construed it, viz. <hi>Anno Dom. 1497.</hi> and <hi>Aſcenſius</hi> reuiewing <hi>Guido</hi> &amp; in many places cor|recting him, hath yet herein againſt his owne french printed copies allowed him, at leſt left it indiffe|rent. I told you before I had heard ſomewhat: it was of him in whoſe hands I met with my adulterate copie. This man charged the booke with many foule errors, and that iuſtly: One thing he taxed which was mine owne; yet which I durſt not maintaine, for feare of giuing ſuſpicion that I was father of the rest. <hi>Ander. Act. 2. Scen. 2.</hi> The words were <hi>Olera &amp; piſciculos portantem in coenam ſeni,</hi> Which I render with hearbes and ſmall ſprots for the old mans ſupper: The challenge was, that the doer tooke <hi>Piſciculus</hi> to be Latine for the ſprot; beſide (ſaid he) it would be conſidered whether this fiſh were to bee
+<pb facs="6"/>found in the Attick ſeas. I would not haue vouch|ſafed anſwer hereunto, but that many coincident paſſages in the booke will directly fall vnder the ſame friuolous cauill. In this reſpect therefore I thought good to ſatisfie you herein; that by the ſame reaſon you may be the better armed to defend the reſidue. I know <hi>Piſciculus</hi> to be a generall word including euery ſpecies of ſmall fiſhes, and not the ſprot onely, as well as <hi>Cetus</hi> doth comprehend <hi>Quamuis belluam marinam,</hi> and not the whale a|lone: yet ſhould I tranſlate <hi>Immania cete</hi> hideous or dreadfull whales, I thinke the ſharpeſt ſighted Grāmarian wold wink at it. Whither the ſprot hath euer bin eaten in Athens, I neither know nor care: I writ in London, and would ſpeake to be vnderſtood: And being to ſet downe a poore &amp; homly fiſh ſupper thought by ſprots it might be wel expreſſed. Maſter <hi>Gaſcoigne</hi> long ſince tranſlated a Comedie of <hi>A|rioſtoes,</hi> which he Engliſhed <hi>Suppoſes:</hi> this was preſented in Grayes Inne. He therein thus deſcribes an homely and ſcanty ſupper — One ſmall ſhottrell a peniworth of cheeſe, and ten ſpurlings. I thinke no wiſe man would preſſe that tranſlator to inſtance in the very fiſhes in kind by <hi>Arioſto</hi> named: I could in|deed haue wiſhed hee had named ſome other courſe fiſh better knowne to his audience: which hee might haue done if hee had ſaid, One ſhotten herring, and ſome halfe ſcore of red ſprots: For my part, I do not vnderſtand what a Shottrellor a Spurling meaneth.
+<pb facs="7"/>Yea <hi>Terence</hi> himſelfe in the <hi>Eunuch Act. 2. ſc. 2.</hi> brings in <hi>Gnato</hi> reckoning vp a number of ſeuerall kinds of <hi>Victualers, Cetarij, lanij, coqui, fartores, piſcatores &amp;c.</hi> It ſhall be hard for the beſt Critique to proue all theſe profeſſions to be had in Athens in <hi>Menanders</hi> time. This is <seg xml:lang="unk">〈◊〉 〈◊〉〈◊〉</seg>
+               <hi>Comicū</hi> as par|donable as vſuall among tranſlators. <hi>Furcifer</hi> I call pillorie roague: the pillorie beeing with vs a puniſh|ment of reproch, neareſt to that which they vnder|went, who thence were called <hi>Furciferi</hi> amongſt the ancient Romans. Grammarians diuide themſelues into two parties about the word <hi>Riſcus, Eunuch A. 4.1.6.</hi> I incline to the one ſide, and imagine it ſome ſuch thing as is our hampar of Wicker couered with leather. <hi>Peniculus</hi> is a word of large extent, and ma|nifold ſignification, I render it a moppe wherewith our ſeruants vſe to clenſe wet floores; if another ſhall call it the Cookes maukin wherewith they cleare ouens, I will not challenge it. Many things were in Athens in <hi>Menanders</hi> time, which <hi>Terence</hi> had ne|uer ſeene, there were as many in Rome in <hi>Terence</hi> his time, which no Engliſh man knoweth. Shall I be driuen to giue names of things not extant? If I put in things now in being to ſupply the place of other things long ſince loſt, to the vnderſtanding of my Reader and ſufficient expreſſion of my Author, I hope I can be no further required. Theſe and the like are the maine things which I doubt to heare of; for the reſt I leaue to your free and curteous cenſure; which yet
+<pb facs="7"/>I deſire you to ſpare, till a few yeares more bee ouer your heads; and then alſo to vſe this method. Let the originall and the Engliſh copie be laid together; con|ſult for euidence with the old expoſitors: if they chance to wrangle (as they do almoſt euery where) then if you pleaſe hearken to <hi>Donat</hi> and <hi>Aſcenſius;</hi> if theſe at any time be ſilent, or elſe varie (this hap|pens ſeldome) then make vſe of your owne iudgment. After this courſe taken you may with pleaſure ſtuffe your booke with marginall caſtigations; to me it ſhal be no diſparagement, to you it will proue much ad|uantagious; there being no booke of this kind, to the ſtudious and often turning ouer whereof I would more willingly excite you. The hope of this your di|ligence ſhall incourage me to let ſlip no vacant time til I haue ſent the other foure Comedies among you. Now the Father of lights and giuer of all good gifts enlighten your vnderſtandings; ſtrengthen your me|mories; rectiſie your wils; and furniſh you with all needfull graces, that you may become a comfort to your parents and gouernors, a credit to your ſchoole-Maſters, and Tutors, an ornament to the Church and ſtate wherein you are to liue. In the meane time. committing you to your ſtudies, I bid you heartily farewell.</p>
+            <closer>
+               <signed>Your very heartie well wiſher <hi>T. N.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      
+      <back>
+         <div type="errata">
+            <pb facs="66"/>
+            <p>
+               <hi>Faults eſcaped in Andria.</hi>
+            </p>
+            <p>PAge 1. l 3. I thinke, r. Sir thinke. p. 2. l. 20. one ſome, 1. ſome one. p. 8 l. 23. round abouts, r. windeabouts. p. 9. l. 25. nothing, r. noting. p, 36. l. 1. now I, r. I. l. 16. leaue the courſe, r. I leaue. p. 39 l. 6. this the, r. tis the p. 17. l. 22. ought, r. oft. p. 49. O <hi>Charinus,</hi> r. who's that Oh <hi>Charinus.</hi>
+            </p>
+            <p>
+               <hi>Eunuch.</hi>
+            </p>
+            <p>Argument l. 56 hath downe, r. hath ſet downe. Char. of Au. l. 7 ſtragling, r. ſtrugling. Pro. l. 64. playes, r. play. Ac. 1. S. 1. l. 10. not one, r. one. betweene 14 and 15 line, put in this verſe, You are caſt in Law, you may goe ſhake the care. l. 29 ſhee it. r. ſhee yet. l 32. ſhall allay, r. ſheel allay, S. 2. l. 87 louely woman, r. lonely woman. l. 88. kinſmen, 1. kinſman. l. 112. and Eu. an Eu. l. 113. great Ladies haue, r. great Ladies onely haue. Act. 2. Sc. 3. l. vlt. his ſouldiers, r. the ſouldiers Sc. 5. l. 70. I wormeling, r. I a wormeling l. 99 whom, r. home. Ac 4 Sc. 2 l 3 ought, r. oft. l. 10. torne, r. turne. l. 12. be pent, r. here be pent. Sc. 3. l. 35. and accident, r. an accident l. 68. i● be, r. if 't be. l. 7. <hi>Simatio</hi> &amp; <hi>Sannto,</hi> r. <hi>Si|matio</hi> and <hi>Sannto</hi> l. 14. but, r. that. l. 15. or Souldiers, r. our Souldiers l. 27. thinkes, r. Thinkſt l. 39. aſſure, r. aſſur'd. <hi>Act.</hi> 5. <hi>ſc.</hi> 1. l. 19. leſt 'him. reade, left 'hem. pag. 104. l. 6. he cauſe. reade, caſe, l. 18. Ile-but, r. I'l—, But.</p>
+            <pb facs="67"/>
+            <pb facs="67"/>
+            <pb facs="68"/>
+            <pb facs="68"/>
+            <pb facs="69"/>
+            <pb facs="69"/>
+            <pb facs="70"/>
+            <pb facs="70"/>
+            <pb facs="71"/>
+            <pb facs="71"/>
+            <pb facs="72"/>
+            <pb facs="72"/>
+            <pb facs="73"/>
+            <pb facs="73"/>
+            <pb facs="74"/>
+            <pb facs="74"/>
+            <pb facs="75"/>
+            <pb n="1" facs="75"/>
+            <pb n="76" facs="76"/>
+            <pb n="77" facs="76"/>
+            <pb n="78" facs="77"/>
+            <pb n="79" facs="77"/>
+            <pb n="80" facs="78"/>
+            <pb n="81" facs="78"/>
+            <pb n="82" facs="79"/>
+            <pb n="83" facs="79"/>
+            <pb n="84" facs="80"/>
+            <pb n="85" facs="80"/>
+            <pb n="86" facs="81"/>
+            <pb n="87" facs="81"/>
+            <pb n="88" facs="82"/>
+            <pb n="89" facs="82"/>
+            <pb n="90" facs="83"/>
+            <pb n="91" facs="83"/>
+            <pb n="92" facs="84"/>
+            <pb n="93" facs="84"/>
+            <pb n="94" facs="85"/>
+            <pb n="95" facs="85"/>
+            <pb n="96" facs="86"/>
+            <pb n="97" facs="86"/>
+            <pb n="98" facs="87"/>
+            <pb n="99" facs="87"/>
+            <pb n="100" facs="88"/>
+            <pb n="101" facs="88"/>
+         </div>
+      </back>
+   </text>
+</TEI>

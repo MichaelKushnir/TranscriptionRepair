@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+            <author>Cox, Robert, d. 1655.</author>
+         </titleStmt>
+         <extent>31 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 November (TCP phase 1)</date>
+            <idno type="marc">12241232</idno>
+            <idno type="stc">Wing C6711.</idno>
+            <idno type="vid">56778</idno>
+            <idno type="DLPS">A34847</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+                  <author>Cox, Robert, d. 1655.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, with the addition of Simpleton the smith, not before extant.</edition>
+               </editionStmt>
+               <extent>[2], 40 p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Edward Archer ...,</publisher>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>One-act plays.</term>
+               <term>English drama -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+  <text>
+     <body>
+         <div type="play">
+                     <div type="dramatis_personae">
+                        <pb facs="11"/>
+                        <head>ACTAEON and DIANA.</head>
+                        <list>
+                           <head>The names of the Persons.</head>
+                           <item>Actaeon.</item>
+                           <item>Three Huntsmen.</item>
+                           <item>Bumpkin, <hi>an inferior.</hi>
+                           </item>
+                           <item>Diana.</item>
+                           <item>Five Nymphs.</item>
+                           <item>Three Countrey Wenches.</item>
+                        </list>
+                     </div>
+                     <div type="body_of_play">
+                        <pb n="1" facs="11"/>
+                        <head>ACTEON &amp; DIANA.</head>
+                        <stage>Enter the first Huntsman, and Bumpkin
+very Melancholy.</stage>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <l>BUt tell me fellow <hi>Bumpkin,</hi> what's the matter?</l>
+                           <l>Thou that hast formerly been heard to sing</l>
+                           <l>As merily and sweetly as the Cuckowe,</l>
+                           <l>But by the posture thou dost now appear in,</l>
+                           <l>Strangers will sooner take thee for an Asse,</l>
+                           <l>Then for a man of mettle.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Bumpkin.</speaker>
+                           <l>It may be so.</l>
+                           <p>And for my owne part, I am not such a fool, to think
+the contrary; nay, I would change condition with an
+Asse, and thank him too: never was any man (of parts)
+so tumbled, Jumbled and Rumbled, as poor <hi>Bumpkin</hi> is.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <p>Why what's the matter?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bumpkin.</speaker>
+                           <p>Nay, I know not, but every day my great
+guts and my small guts makes such a combustion in my
+belly as passes, and my puddings (like Lances) runs a
+tilt at my heart, and makes me as queasie stomackt as
+a young Green-sickness girl newly come to a big belly.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <p>Canst thou not guess the reason of this trouble.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Yes, I think I can, and Ile be judged by thee,
+
+
+<pb n="2" facs="12"/>
+if my case bee not desperate: I have a horrible
+minde to be in Love.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <p>With whom.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>With any body, but I cannot find out the
+way how to be in Love.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <p>Why? Ile instruct thee: canst thou be
+Melancholly?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Yes, as a dog, or a hoglouse, I could even
+finde in my heart, to cry presently.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <p>Canst thou sleep well?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>I cannot tell, <hi>I</hi> never saw my self sleep.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <l>Is't possible, that thou who hast so long</l>
+                           <l>Been an attendant on my Lord <hi>Acteon.</hi>
+                           </l>
+                           <l>Shouldst be to learn the way to be in Love.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>I would it were not possible, on the condition
+thou wert hanged and quartered.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <l>I thank you Sir, but <hi>Bumpkin</hi> list to me,</l>
+                           <l>This day thou knowest the maids and youngmen meet</l>
+                           <l>To sport, and revell it about the May-pole;</l>
+                           <l>Present thy self there, tell thy cause of grief,</l>
+                           <l>And I dare warrant thee a sweet-heart presently.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hump.</speaker>
+                           <p>If thou canst do that, Ile marry her first,
+and learn to love her afterwards.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <p>Hast thither <hi>Bumpkin,</hi> Ile go on before.</p>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <l>And I will follow there a dog trot.</l>
+                           <p>Is it not pitty, that a man of Authority as I am, having
+been chief dog-keeper to my Lord <hi>Acteon</hi> this five
+years, being a man so comely of person, and having
+such a pure complexion, that all fair Ladyes may be
+ashamed to look on me, and that I should be distressed
+for a sweet-heart:</p>
+                           <l>Maypole I com, &amp; if the wenches there increas my pains</l>
+                           <l>And scorn to Love, Ile beat out all their braines.</l>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <stage>
+                           <pb n="3" facs="12"/>
+Enter the Huntsmen, with three Country Wenches,
+as they come in, they sing this song.</stage>
+                        <floatingText>
+                           <body>
+                              <div type="song">
+                                 <head>SONG.</head>
+                                 <sp>
+                                    <speaker>1. Country Wench.</speaker>
+                                    <lg>
+                                       <l>COme you youngmen, come along.</l>
+                                       <l>With your Musique, dance and song;</l>
+                                       <l>Bring your Lasses in your hands,</l>
+                                       <l>For 'tis that which Love commands:</l>
+                                       <l>Then to the Maypole come away,</l>
+                                       <l>For it is now a Holiday.</l>
+                                    </lg>
+                                    <lg>
+                                       <l>It is the choice time of the year,</l>
+                                       <l>For the Vi'lets now appear;</l>
+                                       <l>Now the Rose receives its birth,</l>
+                                       <l>And prettie Primrose decks the earth:</l>
+                                       <l>Then to the Maypole come away,</l>
+                                       <l>For it is now a Holiday.</l>
+                                    </lg>
+                                    <lg>
+                                       <l>Here each Batchelor may chuse</l>
+                                       <l>One that will not saith abuse,</l>
+                                       <l>Nor repay with coy disdain,</l>
+                                       <l>Love, that should be lov'd again:</l>
+                                       <l>Then to the Maypole, &amp;c.</l>
+                                    </lg>
+                                    <lg>
+                                       <l>And when you well reckoned have,</l>
+                                       <l>What kisses you your sweethearts gave,</l>
+                                       <l>Take them all again, and more,</l>
+                                       <l>It will never make them poor:</l>
+                                       <l>Then to the Maypole, &amp;c.</l>
+                                    </lg>
+                                    <lg>
+                                       <pb n="4" facs="13"/>
+                                       <l>When you thus have spent the time,</l>
+                                       <l>Till the day be past its prime,</l>
+                                       <l>To your beds repaire at night,</l>
+                                       <l>And dream there of your dayes delight:</l>
+                                       <l>Then to the Maypole come away,</l>
+                                       <l>For it is now a Holiday.</l>
+                                    </lg>
+                                 </sp>
+                              </div>
+                           </body>
+                        </floatingText>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <p>It is possible, would <hi>Bumpkin</hi> be in
+Love?</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <l>Yes, if he knew but how, and for that sicknes</l>
+                           <l>I have undertaken to become his doctor;</l>
+                           <l>For, at the Maypole meeting 'tis decreed</l>
+                           <l>A sweet heart must be purchast, come what will on't.</l>
+                        </sp>
+                        <sp>
+                           <speaker>3. Co. Wench.</speaker>
+                           <p>Nay, if he be distressed, twenty to one
+he may find charitable persons there.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Co. Wench.</speaker>
+                           <l>What Lasse to such a writhled fac'd
+companion;</l>
+                           <l>One that by's looks, shewes that his fathers orchard</l>
+                           <l>Could yield no fruit, but Crabs or Apple-Johns:</l>
+                           <l>Should he be granted a prevailing suitor,</l>
+                           <l>I should not think it requisite or fitting</l>
+                           <l>Women hereafter should enjoy their eyes;</l>
+                           <l>Their very tongues too should be put to silence,</l>
+                           <l>Onely allowed to rail at that vile person,</l>
+                           <l>Who by her choice of him, sham'd the whole sex.</l>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co.</speaker>
+                           <l>Nay, I would lay a heavier curse upon her,</l>
+                           <l>She should not sleep without a wanton dream,</l>
+                           <l>And waking find no hopes of what she dream'd.</l>
+                        </sp>
+                        <sp>
+                           <speaker>2. Hunt.</speaker>
+                           <l>That was a heavie curse and well con|sider'd,</l>
+                           <l>But could you find our fellow <hi>Bumpkins</hi> parts.</l>
+                        </sp>
+                        <sp>
+                           <speaker>3. Co. Wench.</speaker>
+                           <p>He can loose none, and who can finde
+them then.</p>
+                        </sp>
+                        <sp>
+                           <speaker>3. Hunt.</speaker>
+                           <p>Do you beleeve him foolish.</p>
+                        </sp>
+                        <sp>
+                           <pb n="5" facs="13"/>
+                           <speaker>1. Co. Wench.</speaker>
+                           <p>It is a faith that needs no confirmation.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <p>Laugh at him then, and wee'l assist you in't;
+but do't with Consideration.</p>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <p>So we will,—hark Lasses.</p>
+                        </sp>
+                        <stage>They whisper.</stage>
+                        <sp>
+                           <speaker>2. Hunt.</speaker>
+                           <p>Now if they be not hatching Eggs of
+mischief, let me be counted addle, what think you sirs?</p>
+                        </sp>
+                        <stage>
+                           <hi>Country Wenches Laugh,</hi> Ha ha ha,</stage>
+                        <sp>
+                           <speaker>1. Co. Wench.</speaker>
+                           <l>And if he have not love enough, good
+Cupid,</l>
+                           <l>Let me want Love when look't for.</l>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <l>In the mean time</l>
+                           <l>Let us not starve our pastimes, pray sirs,</l>
+                           <l>Being the Maypole revels.</l>
+                        </sp>
+                        <sp>
+                           <speaker>3. Hunt.</speaker>
+                           <l>So we will;</l>
+                           <l>Come strike up a farewell to misfortune.</l>
+                        </sp>
+                        <stage>Enter Bumpkin.</stage>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Thats a dance that I could never hit off,
+Pray desist a while and hear my dolefull tale.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Co. Wench.</speaker>
+                           <p>Hee'l make us cry sure.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Be it known unto all men by these presents</p>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <p>An obligation; wee'l be no witnesses.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Why then ile hang my self?</p>
+                        </sp>
+                        <sp>
+                           <speaker>3. Co. Wench.</speaker>
+                           <p>We will be witness then.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>What to my hanging? O my conscience! If
+I should woo my heart out, I should never be the
+fatter, for it.—where's your promise now?</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <p>You have not yet exprest your self, be plain,
+Tell them your grief, a remedy will follow.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>If that be all, 'tis but an easie matter, pray
+take notice that I am in Love—with somebody.</p>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <p>Would I were she!</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Why? so you are, if you have a minde to't</p>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <p>Why then you are my own?</p>
+                        </sp>
+                        <sp>
+                           <pb n="6" facs="14"/>
+                           <speaker>3. Co. W.</speaker>
+                           <p>Pardon me, sister, I
+<stage>They all hang
+about him.</stage>
+bespake him yesterday.</p>
+                        </sp>
+                        <stage>goes to her</stage>
+                        <sp>
+                           <speaker>Bump</speaker>
+                           <p>Yes marry did she.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Co. Wench.</speaker>
+                           <p>But I was she that won him at the
+Maypole.</p>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <p>Was that the cause you strove so for
+the Garland.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <l>What's that to you?</l>
+                           <stage>Goes to her.</stage>
+                           <l>Would I had any one of them in quietness.</l>
+                        </sp>
+                        <sp>
+                           <speaker>3. Co. Wench.</speaker>
+                           <p>But yet I must have share.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Co. Wench.</speaker>
+                           <p>So must I too.</p>
+                        </sp>
+                        <stage>All put him.</stage>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <p>I will not part without the better half.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Then who shall have me whole, what are you
+mad?</p>
+                        </sp>
+                        <sp>
+                           <speaker>3. Co. Wench.</speaker>
+                           <p>There's reason for a madness in this
+case.</p>
+                        </sp>
+                        <sp>
+                           <speaker>1. Co. Wench.</speaker>
+                           <p>I will not lose my right. Let go I say.</p>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co. Wen.</speaker>
+                           <l>He shall be mine, or else he shall be nothing.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Bumpkin.</speaker>
+                           <l>Away you Burrs, why do you stick thus on me?</l>
+                           <l>Now by this hand, if nothing can perswade you</l>
+                           <l>Ile drown my self for spight that you may perish.</l>
+                        </sp>
+                        <stage>(Horn.)</stage>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <l>Hark, hark, my Lord <hi>Acteons</hi> warning piece,</l>
+                           <l>That Horne gives us intelligence he does intend</l>
+                           <l>To spend this day in hunting, <hi>Bumpkin,</hi> why stay you?</l>
+                           <l>The hounds will quarrell with you, wee'l come after.</l>
+                        </sp>
+                        <sp>
+                           <speaker>1. Co. Wench.</speaker>
+                           <p>Will you not stay my Love.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Ile see you hang'd first, and by this hand ere I
+will be in love again, Ile feed my hounds with my own
+proper carcase.</p>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>2. Co. Wench.</speaker>
+                           <p>Now he is gon, our dancing may go
+forward.</p>
+                        </sp>
+                        <sp>
+                           <pb n="7" facs="14"/>
+                           <speaker>2. Hunt.</speaker>
+                           <p>My Lord <hi>Acteon</hi> stayes, be quick, I pray.</p>
+                        </sp>
+                        <sp>
+                           <speaker>3. Co. Wench.</speaker>
+                           <p>Quick as you will, the doing of it
+quick makes it shew better.</p>
+                        </sp>
+                        <stage>A Country dance,
+Then Exeunt.</stage>
+                        <stage>
+                           <hi>Enter</hi> Acteon <hi>and</hi> Bumpkin.</stage>
+                        <sp>
+                           <speaker>Acteon▪</speaker>
+                           <l>ARe all the hounds uncoupled, let the woods,</l>
+                           <l>Vallies, and hils, be fild with their sweet musick:</l>
+                           <l>Till the thick Aire pierc't by their harmony,</l>
+                           <l>Return a willing Ecchoe; Let your cunning</l>
+                           <l>And care in this dayes hunting be exprest,</l>
+                           <l>To make the world know that <hi>Acteons</hi> pleasure,</l>
+                           <l>Is honoured and obeyed, be nimble sirrah.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <p>Nimble? yes, as a Bear that hath been lug'd to
+purpose: if <hi>Love</hi> be such a troublesome Companion, I
+will intreat him to keep out of my company.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Acteon.</speaker>
+                           <l>Where are your fellows? we consume the day</l>
+                           <l>That should be spent in sport, with idleness.</l>
+                           <l>Go find them out, and tell them of my purpose.</l>
+                        </sp>
+                        <stage>Enter the three Huntsmen.</stage>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <l>They have sav'd me a labour.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Acteon.</speaker>
+                           <l>Fie! what mean you?</l>
+                           <l>The glory of this day calls us to action:</l>
+                           <l>The wild inhabitans of these fair woods,</l>
+                           <l>Are to be instructed, they must fear our Javelins,</l>
+                           <l>Our sloath will make them careless.</l>
+                        </sp>
+                        <sp>
+                           <speaker>1. Hunt.</speaker>
+                           <l>Sir, you may please to know, that yesternight</l>
+                           <l>I lodg'd a Boar within the neighbouring Forrest.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Bump.</speaker>
+                           <l>Yes Sir, and <hi>I</hi> lodg'd a Fox at a house hard
+by.</l>
+                        </sp>
+                        <sp>
+                           <pb n="8" facs="15"/>
+                           <speaker>Hunt.</speaker>
+                           <l>His foamy tushes did proclaim defiance</l>
+                           <l>To all that would oppose him, his vast length</l>
+                           <l>And breadth of wonder, caus'd me to beleeve</l>
+                           <l>These woods nere bred his equall.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Acteon.</speaker>
+                           <l>He's then a worthy subject for my javelin,</l>
+                           <l>Whose glittering head Ile bath so long within him,</l>
+                           <l>Till <hi>I</hi> have dy'd it Crimson with his blood;</l>
+                           <l>Nor shall <hi>Diana's</hi> self, who every day</l>
+                           <l>Honours these woods with her fair train of Nymphs,</l>
+                           <l>Have power to ravish from my resolute arm,</l>
+                           <l>The glory of this conquest: in the mean time,</l>
+                           <l>Let musicks sweet tunes in our breasts create</l>
+                           <l>Desire of <hi>Acteon,</hi> whilst our active Feet,</l>
+                           <l>Nimbly beguiles our duller thoughts of power</l>
+                           <l>To contradict our pleasures: in the fall</l>
+                           <l>Of this wild Boar, lies honour for us all.</l>
+                        </sp>
+                        <stage>A dance with Acteon and his
+Huntsmen.</stage>
+                        <stage>Exeunt.</stage>
+                        <stage>A dance of Diana and her Nymphs, in the later
+end of which Acteon and his Huntsmen joyn
+with them, upon which Diana sayes,</stage>
+                        <sp>
+                           <speaker>Diana.</speaker>
+                           <l>This boldness ruines thee.</l>
+                           <stage>Exit▪</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Act.</speaker>
+                           <l>Ile follow though my ruine do attend me,</l>
+                        </sp>
+                        <stage>Exeunt.</stage>
+                        <stage>Enter Diana and her Nymphs.</stage>
+                        <sp>
+                           <speaker>Diana.</speaker>
+                           <l>The unbridled boldness of <hi>Acteons</hi> youth,</l>
+                           <l>Merits a punishment to equalize</l>
+                           <l>The nature of his crime; sawcy young man,</l>
+                           <l>Too much presuming of thy known deserts,</l>
+                           <l>Be witness you that have vowd chastitie,</l>
+                           <l>How much he hath endeavoured to eclipse</l>
+                           <l>
+                              <pb n="9" facs="15"/>
+The glory of our puritie; for to me</l>
+                           <l>And those that are my Votaries, honors precepts</l>
+                           <l>Must strictly be observed; no Balm can cure</l>
+                           <l>The wound of Reputation when 'tis made</l>
+                           <l>Upon those bosoms that are vowd to vertue.</l>
+                           <l>Shall she resolve his ruine?</l>
+                        </sp>
+                        <sp>
+                           <speaker>1. Nymph.</speaker>
+                           <l>Gracious Madam,</l>
+                           <l>Mercy with chastity and beauty joyn'd,</l>
+                           <l>Are both with Gods and Men in estimation,</l>
+                           <l>And though his fault beyond expression great,</l>
+                           <l>Cries lowdly on your wrath to execute,</l>
+                           <l>Yet let his youth find pardon.</l>
+                        </sp>
+                        <sp>
+                           <speaker>2. Nymph.</speaker>
+                           <l>It will prove your charity unequalled.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Diana.</speaker>
+                           <l>Your goodness shall</l>
+                           <l>Become example to my willing pitie:</l>
+                           <l>Therefore if young <hi>Acteon</hi> from this time,</l>
+                           <l>Consider his own safety and my honor,</l>
+                           <l>My vengeance shall be silent; but if agen</l>
+                           <l>He shall presume to tempt his most sad fate,</l>
+                           <l>Ruine as quick as lightning shal demolish</l>
+                           <l>What Nature did erect in him for wonder,</l>
+                           <l>That so from men this truth may not be hid,</l>
+                           <l>No one must covet what the Gods forbid:</l>
+                           <l>Undress you now, for by this fountain side.</l>
+                           <l>Our garments from our bodies wee'l divide.</l>
+                        </sp>
+                        <stage>Enter Acteon.</stage>
+                        <sp>
+                           <speaker>Acteon.</speaker>
+                           <l>What wonders do I gaze on? Might I thus</l>
+                           <l>Be feasted at my eyes till time grow old,</l>
+                           <l>I would not wish a satisfaction</l>
+                           <l>Of any other sense:—Unkind <hi>Diana,</hi>
+                           </l>
+                           <l>To be so much a miser of thy beauties.</l>
+                           <l>
+                              <pb n="10" facs="16"/>
+Loves laws can not be perfect, till they part</l>
+                           <l>Rebellion from the confines of thy heart.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Diana.</speaker>
+                           <l>We are betraid! Oh Chastity defend us.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Acteon.</speaker>
+                           <l>Twas but a flattring bliss that did me cherish.</l>
+                           <l>Fly, fly, <hi>Acteon,</hi> lest thy life do perish.</l>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Di.</speaker>
+                           <l>Fool! thinkst thou to escape? Know that my will</l>
+                           <l>Has power to reach, though thou bestrid'st a wind,</l>
+                           <l>And as by hunting thy offence grew high,</l>
+                           <l>So by the hands of Hunters thou shalt die.</l>
+                           <l>My will prevails, his head is circled round,</l>
+                           <l>The largest Hart ere beat the Forrest ground.</l>
+                           <l>And now forbear this fountain from henceforth,</l>
+                           <l>Let my dishonour dwell upon the Spring,</l>
+                           <l>The waters be corrupted, choakt with mud,</l>
+                           <l>Foul and infectious, like to <hi>Lethes</hi> flood.</l>
+                        </sp>
+                        <stage>Exeunt.</stage>
+                        <stage>A Dance.</stage>
+                        <p>Where <hi>Acteon</hi> comes transformed into the shape
+of a Hart, his Huntsmen pursue him, and in the
+conclusion kill him, and bear him away.</p>
+                     </div>
+                  </div>
+      </body>
+  </text>
+</TEI>

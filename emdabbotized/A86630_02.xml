@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+					 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">The nuptialls of Peleus and Thetis.:  Consisting of a mask and a comedy, or The the [sic] great royall ball, acted lately in Paris six times by the King in person. The Duke of Anjou. The Duke of Yorke. with divers other noble men. Also by the Princess Royall Henrette Marie. The Princess of Conty. The Dutchess of Roquelaure. The Dutchess of Crequy. with many other ladies of honour.</title>
+            <author> Howell, James, 1594?-1666.</author>
+         </titleStmt>
+         <extent>32 400dpi TIFF images (displayed as GIF) and XML-encoded text (displayed as HTML).</extent>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2008 September (TCP phase 1)</date>
+            <idno type="DLPS">A86630</idno>
+            <idno type="vid">125555</idno>
+            <idno type="Aleph">5369327</idno>
+            <idno type="stc">Wing (2nd ed.) H3097.</idno>
+            <idno type="stc">Thomason E.228[3].</idno>
+            <idno type="bibno">(UnM)99873101e</idno>
+            <availability>
+               <p>Where applicable, subject to copyright.  Other restrictions on distribution may apply.  Please  go to http://www.umdl.umich.edu/ for more information.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">The nuptialls of Peleus and Thetis.:  Consisting of a mask and a comedy, or The the [sic] great royall ball, acted lately in Paris six times by the King in person. The Duke of Anjou. The Duke of Yorke. with divers other noble men. Also by the Princess Royall Henrette Marie. The Princess of Conty. The Dutchess of Roquelaure. The Dutchess of Crequy. with many other ladies of honour.</title>
+                  <author> Howell, James, 1594?-1666.</author>
+               </titleStmt>
+               <extent>[8], 26; [2], 25, [1] p.    </extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Henry Herringman, and are to be sold at his shop at the Ancor in the lower walke of the New Exchange,</publisher>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The comedy has a separate dated title page, pagination and register.</note>
+                  <note>Possibly translated from the Tedide of Diamante Gabrielli. Cf. BM, v. 107, col. 922.</note>
+                  <note>Annotation on Thomason copy: "May 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script mrcb2eeboutf.xsl on 2007-07-06.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>Buti, Francesco, -- d. 1682. -- Nozze di Peleo e di Theti.</term>
+               <term>Gabrielli, Diamante. -- Tedide.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="19"/>
+                  <p>THE
+NUPTIALS
+OF
+PELEUS
+AND
+THETIS.
+A NEW
+ITALIAN COMEDY,
+Whence the preceding MASK
+was extracted;
+Made Engliſh by a nearer adherence to the
+<hi>Original,</hi> then to the <hi>French</hi>
+TRANSLATION.</p>
+                  <p>—Non ſeria ſemper.</p>
+                  <quote>
+                     <hi>London.</hi> Printed for <hi>Henry Herringman,</hi> at the Anchor.</quote>
+               </div>
+               <div type="prologue">
+                  <pb facs="20"/>
+                  <head>The PROLOGUE.</head>
+                  <stage>Apollo and the Muſes upon the Pierian Mount;
+Quires of Water-Nymphs upon the Banks of Epi|dano
+and Onochono, Rivers of Theſſaly.</stage>
+                  <sp>
+                     <speaker>The NYMPHS to APOLLO.</speaker>
+                     <l>O Living Treaſure of the glorious Sky,</l>
+                     <l>Who by thy piercing all ſurveying eye</l>
+                     <l>Doſt in thy <hi>golden</hi> Armor conquer Night,</l>
+                     <l>And ſo in triumph uſher'ſt in the Light:</l>
+                     <l>Among the glittering Stars thou dost not ſhine</l>
+                     <l>With greater Luſtre, then amongſt the nine</l>
+                     <l>
+                        <hi>Aonian</hi> Siſters▪ O deſcend and daign,</l>
+                     <l>Great God, (leaving a while <hi>Olympian</hi> Raign)</l>
+                     <l>To feaſt with us: a joyful Augury</l>
+                     <l>Vouchſafe to <hi>Peleus</hi> paſsions, whoſe pure breſt</l>
+                     <l>May juſtly merit <hi>Hymen</hi> for his gueſt.</l>
+                     <l>To the eternal Lawes of Love,</l>
+                     <l>The higheſt Gods and Saints above</l>
+                     <l>
+                        <hi>Are Subject:</hi> Monarchies and Scepters yield▪</l>
+                     <l>To <hi>Love,</hi> and crown him Victor in the field:</l>
+                  </sp>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="act">
+                  <div n="1" type="scene">
+                     <pb n="1" facs="20"/>
+                     <head>ACT I. SCENE I.</head>
+                     <stage>
+                        <hi>Chiron, Peleus,</hi> A Quire of dumb Magicians.</stage>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>_WHy do you thus your ſelf torment?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>
+                           <hi>Chiron,</hi> How ſhall I find content?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>Purſue your hopes, and onward go▪</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>Is't poſſible I ſhould do ſo?</l>
+                        <l>When on my heart a beauty lies</l>
+                        <l>That is deſcended from the Skies;</l>
+                        <l>A beauty that's all moving and immenſe,</l>
+                        <l>That hath o're me ſuch an omnipotence?</l>
+                        <l>Moreover, I two Rivals have,</l>
+                        <l>No leſs then Gods, who me outbrave</l>
+                        <l>For <hi>Neptune</hi> with his Trident, and great <hi>Jove</hi>
+                        </l>
+                        <l>Are my competitors for <hi>Thetis</hi> love.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>
+                           <hi>Peleus,</hi> Why do you thus your ſelf torment?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>
+                           <hi>Chiron,</hi> Where is it I ſhould find content?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>Then follow your fair hopes, and onward go.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>How is it poſſible I ſhould do ſo?</l>
+                     </sp>
+                     <sp>
+                        <pb n="2" facs="21"/>
+                        <speaker>Chiron.</speaker>
+                        <l>Liſten to me, gray hairs do but in vain</l>
+                        <l>Attempt young beauties, they will them diſdain</l>
+                        <l>Though they be Gods: <hi>Neptune</hi> is rich in <hi>yeers</hi>
+                        </l>
+                        <l>As well as <hi>Treaſure, Thetis</hi> will him jeer.</l>
+                        <l>For <hi>Jove,</hi> beſides his age, his rapes and wiles,</l>
+                        <l>How he ſo many Ladies did beguile</l>
+                        <l>Will make her ſhun him: but if you deſire</l>
+                        <l>To compaſs your deſignes, and quench your fire,</l>
+                        <l>Behold thoſe <hi>Magies</hi> that with charmed flight</l>
+                        <l>Will guide you ſafely to <hi>Prometheus</hi> ſight,</l>
+                        <l>Who being bold and wiſe, is th'only man</l>
+                        <l>Who in this Enterpriſe you pleaſure can:</l>
+                        <l>He is no friend to <hi>Jove,</hi> who him torments</l>
+                        <l>With ſuch eternal pangs, therefore he will,</l>
+                        <l>To help you, exerciſe his utmoſt skil.</l>
+                        <l>Wherefore take my advice, and hence away</l>
+                        <l>To <hi>India,</hi> through the air cut out your way.</l>
+                        <l>Delay is alwayes dangerous to Lovers,</l>
+                        <l>He ne're obtain'd his ends who hums and hovers.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>This Aiery journey I will undertake,</l>
+                        <l>But though herein <hi>Fortune</hi> my friend I make</l>
+                        <l>Yet are my hopes but ſmal, I have a hint,</l>
+                        <l>That <hi>Thetis</hi>'s cruel, and her heart is flint.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>When modeſt beauties to <hi>excuſes</hi> fall,</l>
+                        <l>You muſt not preſently it <hi>rigor</hi> call.</l>
+                        <l>The <hi>heart</hi> oft-times deſires what <hi>lips</hi> deny,</l>
+                        <l>For a huge diſtance doth betwixt them lye.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>Could it unto my Love-ſick thoughts appear</l>
+                        <l>That what you ſay hereto is true and clear,</l>
+                        <l>Thoſe pangs I ſuffer in my breſt</l>
+                        <l>Would turn to caſe, delight and reſt.</l>
+                        <l>But fall what will my fate portends.</l>
+                        <l>I ſtill will glory in my ends,</l>
+                        <l>
+                           <pb n="3" facs="21"/>
+Which an unmeaſurable joy diſtils,</l>
+                        <l>And my ſo high-ſwoln heart with comfort fils.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron, Peleus.</speaker>
+                        <l>Let a true Lover never loſe</l>
+                        <l>His hope or courage when he wooes:</l>
+                        <l>The more his ſuff'rance is, the more</l>
+                        <l>Sweetneſs is kept for him in ſtore.</l>
+                        <l>In <hi>Cupids</hi> gentle kingdom nothing is</l>
+                        <l>Impoſſible, but one may gain his wiſh.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>Go on then happily, for who doth know</l>
+                        <l>But that your conſtancy may tell you ſo?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>On, on, then to my Magies I will go.</l>
+                     </sp>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>The Second Scene.</head>
+                     <stage>
+                        <hi>Thetis, Neptune,</hi> a Quire of Tritons, and Mere|maids,
+with a Quire of Corral-Fiſhers.</stage>
+                     <l>The Quire of Tritons and Meremaids.</l>
+                     <l>At ſuch a ſplendid glorious ſhow,</l>
+                     <l>What heart but would turn fire and tow?</l>
+                     <l>A Pomp ſo rare, a ſight ſo fair,</l>
+                     <l>Is able to perfume the air:</l>
+                     <l>Nor Morn nor Sun did ever view</l>
+                     <l>So bright and raviſhing a hue.</l>
+                     <l>At ſuch a ſplendid glorious ſhow,</l>
+                     <l>What heart but would turn fire and tow?</l>
+                     <sp>
+                        <speaker>Neptune.</speaker>
+                        <l>There is no fence I find,</l>
+                        <l>Love will invade my mind.</l>
+                        <l>In theſe moiſt fields my Rivers run in vain,</l>
+                        <l>To quench my fire, or tepifie my pain;</l>
+                        <l>Though I in midſt of waters lye,</l>
+                        <l>Yet do I melt, diſſolve and fry;</l>
+                        <l>But <hi>Thetis,</hi> you at laſt will find it true,</l>
+                        <l>To be more <hi>fool</hi> unto your ſelf, then you</l>
+                        <l>
+                           <pb n="4" facs="22"/>
+Are cruel <hi>unto</hi> me. Will you refuſe</l>
+                        <l>The richeſt of the Gods, Him who doth uſe</l>
+                        <l>To give thoſe gems that beauties do adorn,</l>
+                        <l>Thence, where the Queen of Love her ſelf was born?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>
+                           <hi>Aurora</hi> commonly doth riſe</l>
+                        <l>Cheerful and ſmiling to our eyes</l>
+                        <l>But ſuddenly we oftentimes do ſee,</l>
+                        <l>She fals a weeping upon flower and tree.</l>
+                        <l>If you deſire the cauſe I ſhould unfold,</l>
+                        <l>It is becauſe her<note n="*" place="marg" anchored="true">Titan.</note> Conſort is ſo old.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Neptune.</speaker>
+                        <l>
+                           <hi>Thetis,</hi> Be not deceiv'd, though I be gray,</l>
+                        <l>My waters ſtill are green, and ſo they may</l>
+                        <l>Be wholſomer then Springs, which by and by</l>
+                        <l>'Pon the leaſt drowth grow ſhallower and dry.</l>
+                        <l>Youth is unſtable, heady, raſh; but age</l>
+                        <l>Is constant, cautious, provident, and ſage.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>I do confeſs, that you diſcourſe, and reaſon</l>
+                        <l>Like a quaint Amoriſt, although the ſeaſon</l>
+                        <l>Of Love in you be paſt. It was for Love</l>
+                        <l>The Heavens made <hi>Youth,</hi> for which the Gods above</l>
+                        <l>Have journeyed down to earth; no other age</l>
+                        <l>Is fit a Female beauty to engage.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Neptune.</speaker>
+                        <l>Perfidious thing, I plainly now do find,</l>
+                        <l>Thou art unto another more inclin'd.</l>
+                        <l>Come winds and tempeſts, and with my lament</l>
+                        <l>Your blaſts unite; Come, come incontinent,</l>
+                        <l>Let hiſpid bluſt'ring <hi>Boreas</hi> from the North,</l>
+                        <l>Bring all the Haracanes and Whirlwinds forth,</l>
+                        <l>Blow off, and baniſh from my Kingdom quite</l>
+                        <l>This impious Girle ſo full of hate and ſpite.</l>
+                        <l>Revenge the quarrel of your King,</l>
+                        <l>And with your vengeance Juſtice bring:</l>
+                        <l>Shall ſhe in my Dominions dwel,</l>
+                        <l>Who hath inflam'd my heart with fire from hel?</l>
+                     </sp>
+                     <sp>
+                        <pb n="5" facs="22"/>
+                        <speaker>Chorus.</speaker>
+                        <l>Ingrateful, raſh, and fooliſh Nymph, canſt thou</l>
+                        <l>Slight thus the greateſt of the gods below▪</l>
+                        <l>The grief will be thine own</l>
+                        <l>When thou art wiſer growne.</l>
+                        <l>Neglected Amoriſts may learn from hence,</l>
+                        <l>Againſt blind <hi>Cupids</hi> arrowes a true fence▪</l>
+                        <l>Diſdain of beauty a <hi>revenge</hi> may be,</l>
+                        <l>Though not of love th'expected <hi>remedy:</hi>
+                        </l>
+                     </sp>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>The third Scene.</head>
+                     <stage>
+                        <hi>Thetis, Juno, Jupiter,</hi> A Quire of the furies of
+<hi>Jealouſie:</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Thetis</speaker>
+                        <lg>
+                           <l>Now that the fury of the wind</l>
+                           <l>Hath left ſo ſweet a calm behind:</l>
+                           <l>Now that the ſtorm is gone,</l>
+                           <l>I pray let me alone</l>
+                           <l>To vent unto my ſelf my moan.</l>
+                        </lg>
+                        <lg>
+                           <l>Oh me, I find that ambuſhes are laid.</l>
+                           <l>To take me and entrap poor ſilly maid:</l>
+                           <l>What will become of thee my heart?</l>
+                           <l>Th'art like to ſuffer many a ſmart.</l>
+                           <l>Oh me, Oh me,</l>
+                           <l>Poor heart what will become of thee?</l>
+                        </lg>
+                        <lg>
+                           <l>Thy chaſtity <hi>Love</hi> ſtudies to ſurprize.</l>
+                           <l>He's ſly and cunning, though not alwayes wiſe;</l>
+                           <l>He Armour hath of every ſort</l>
+                           <l>For to aſſault a female Fort:</l>
+                           <l>
+                              <pb n="6" facs="23"/>
+He prayes, complains, and pines,</l>
+                           <l>He menaceth and whines</l>
+                           <l>Now, if another God ſhould joyn</l>
+                           <l>With him, who can me then eſſoyn?</l>
+                           <l>Oh me, Oh me,</l>
+                           <l>Poor heart what will become of thee?</l>
+                        </lg>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter.</speaker>
+                        <l>What can bleſt heaven me avail,</l>
+                        <l>If ſtill of my deſire I fail?</l>
+                        <l>Celeſtial joies, if they to ſorrow turne,</l>
+                        <l>Far worſe then all <hi>Tartarean</hi> tortures burn▪</l>
+                        <l>O <hi>Thetis,</hi> thou alone</l>
+                        <l>Haſt made me quit my Throne,</l>
+                        <l>Thou giv'ſt him law,</l>
+                        <l>Who Gods doth aw●</l>
+                        <l>It is my deſtiny and luck,</l>
+                        <l>By thee for to be deadly ſtruck;</l>
+                        <l>And that which is the greateſt wonder,</l>
+                        <l>Thy beauti's ſtronger then my thunder.</l>
+                        <l>But come, O come, my Fair, increaſe my bliſſe,</l>
+                        <l>And let's cohabit both in <hi>Pardiſe.</hi>
+                        </l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>O no,</l>
+                        <l>Not ſo.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter.</speaker>
+                        <l>Come and be partner of my Throne</l>
+                        <l>Which <hi>Hymen</hi> offers thee alone;</l>
+                        <l>That Empire <hi>Love</hi> hath thee deſign'd,</l>
+                        <l>Come, come my Fair, be not unkind.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>O no,</l>
+                        <l>Not ſo▪</l>
+                        <l>The heavens forbid I ſhould be ſaid,</l>
+                        <l>(Poor innocent and ſilly maid)▪</l>
+                        <l>
+                           <pb n="7" facs="23"/>
+For to be ſuch a Rebel as to wrong</l>
+                        <l>Her<note n="*" place="marg" anchored="true">Juno.</note> bed who train'd me all along</l>
+                        <l>From my firſt cradle: I had rather dy</l>
+                        <l>A thouſand deaths, and ſcorch in Tartary.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter.</speaker>
+                        <l>If you will uſe ſuch ſlight Apologies,</l>
+                        <l>To him who can command both lair and Skies;</l>
+                        <l>To cleer your error, and my pain aſſwage,</l>
+                        <l>I muſt uſe force, my Dear, but far from rage.</l>
+                        <l>Cloud,<note place="marg" anchored="true">A cloud ap|pears.</note> gently take her up.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>Oh me.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter.</speaker>
+                        <l>What ails my ſoul?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>Aime, who helps me?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter.</speaker>
+                        <l>What mortal Creature's hee</l>
+                        <l>Can thee reprize from me?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Juno.</speaker>
+                        <l>Diſloyal <hi>Jove,</hi>
+                           <note place="marg" anchored="true">
+                              <hi>Juno</hi> with the help of the fi|ſhers and fu|ries redeem her</note> is it my hapleſs fate</l>
+                        <l>Thou ſhould'ſt ſo oft thy Faith thus violate?</l>
+                        <l>But ſince in <hi>Heaven</hi> no Juſtice can be found,</l>
+                        <l>Or Piety among the Stars, the ground</l>
+                        <l>Shall ope, and ſtyx ſhall belch forth furies fell:</l>
+                        <l>Come then appear, ye gaſtly dames of Hell;</l>
+                        <l>And help to vindicate</l>
+                        <l>The juſtneſs of my fate.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter.</speaker>
+                        <l>Farewel my <hi>Thetis,</hi> ſo enchanting bright,</l>
+                        <l>But know I do not thee abandon quite.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis to Juno.</speaker>
+                        <l>Great Goddeſſe, I no pardon crave of thee,</l>
+                        <l>But <hi>pity;</hi> though <hi>infortunate</hi> I be,</l>
+                        <l>Yet I am <hi>guiltleſs,</hi> and from foulneſſe free.</l>
+                     </sp>
+                     <sp>
+                        <pb n="8" facs="24"/>
+                        <speaker>Juno.</speaker>
+                        <l>Such hazzards to eſcape is no offence,</l>
+                        <l>Much leſs <hi>miſfortune</hi> or incontinence.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis and Juno.</speaker>
+                        <l>Sweet gratitude doth alwayes reſt</l>
+                        <l>In a' well born gentle breſt:</l>
+                        <l>The Gods deſire no more</l>
+                        <l>For thoſe bleſſings in ſuch ſtore,</l>
+                        <l>Which on us Mortals ev'ry hour</l>
+                        <l>They in ſilver ſhowres do pour.</l>
+                     </sp>
+                  </div>
+               </div>
+               <div n="2" type="act">
+                  <div n="1" type="scene">
+                     <pb n="9" facs="24"/>
+                     <head>ACT II. SCENE I.</head>
+                     <stage>
+                        <hi>Peleus, Promethus,</hi> A Quire of dumb men, and
+ſavage women.</stage>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>INfortunate <hi>Prometheus,</hi> how thine</l>
+                        <l>Eternal torments are like mine!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Prometheus.</speaker>
+                        <l>Ah, who is he▪</l>
+                        <l>Thus ſpeaks to me?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>Tis <hi>Peleus</hi> King of <hi>Theſſaly,</hi>
+                        </l>
+                        <l>Who may thy mate for torture be.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Prometheus</speaker>
+                        <l>I from the body of the Sun</l>
+                        <l>Stole fire e're ſcarce the world begun.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>And I ſome fiery glances took</l>
+                        <l>From <hi>Thetis</hi> all inchanting look.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Prometheus</speaker>
+                        <l>
+                           <hi>Jove</hi> chaſtneth my temerity</l>
+                        <l>By this voracious<note n="*" place="marg" anchored="true">A Vultur preying upon his heart which ſtill renewes.</note> bird you ſee.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>
+                           <hi>Prometheus,</hi> it is <hi>Jove</hi> the very ſame</l>
+                        <l>Torments likewiſe with jealouſie my flame.</l>
+                     </sp>
+                     <sp>
+                        <pb n="10" facs="25"/>
+                        <speaker>Prometheus</speaker>
+                        <l>But yours one day</l>
+                        <l>May find allay.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>But when, and how?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Prometheus</speaker>
+                        <l>Ah, ah, my torments grow.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>O cruel pangs ſome truce and reſpit give,</l>
+                        <l>
+                           <hi>Prometheus</hi> may with counſel me relieve.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Prometheus</speaker>
+                        <l>I have receiv'd advice from <hi>Mercury,</hi>
+                        </l>
+                        <l>The<note n="*" place="marg" anchored="true">Jove.</note>
+                           <hi>Thunderer</hi> will <hi>Thetis</hi> fly,</l>
+                        <l>And his <hi>Ambition</hi> place (as you ſhal prove)</l>
+                        <l>Before her <hi>Beauty,</hi> or his flames of love;</l>
+                        <l>To credit this you may be bold,</l>
+                        <l>For by the Oracle it is foretold.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>If it be true what iſſues from that vioce,</l>
+                        <l>My ſoul ſhal carols ſing, my heart rejoice</l>
+                        <l>There never was ſo coy and cruel ſhe,</l>
+                        <l>But only ſought by one, may conquered be.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Prometheus</speaker>
+                        <l>Go, go, return where thou didſt leave thy heart,</l>
+                        <l>Thou ſhalt find eaſe for thy corroding ſmart.</l>
+                        <l>In the vaſt ſea of <hi>Love</hi> who e're doth ſail</l>
+                        <l>Muſt loſe no wind, and then he may prevail.</l>
+                     </sp>
+                     <sp>
+                        <pb n="11" facs="25"/>
+                        <speaker>Peleus</speaker>
+                        <l>For this ſweet counſel thou haſt given me,</l>
+                        <l>May heaven, O <hi>Prometheus,</hi> ſet thee free.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Prometheus</speaker>
+                        <l>The <hi>Thunderer</hi> may be</l>
+                        <l>Leſſe cruel unto me.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Prometheus, Peleus</speaker>
+                        <l>O dear, and ſolacing, ſweet bliſsful <hi>Hope,</hi>
+                        </l>
+                        <l>How comforting art <hi>Thou</hi> to thoſe who cope</l>
+                        <l>With rigid beauties? thou doſt periods put</l>
+                        <l>To black deſpair; the Gods did juſtly ſhut</l>
+                        <l>
+                           <hi>Thee out of Hell;</hi> Thy breath though ne're ſo ſmall</l>
+                        <l>Would eaſe the damned ſouls in <hi>Pluto</hi>'s Hall.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus to the Savages</speaker>
+                        <l>And you my faithful guides unto this place,</l>
+                        <l>Enjoy the comforts alſo I embrace;</l>
+                        <l>Be all partakers of my hopes, and ſhare</l>
+                        <l>Some of my joyes, which paſt expreſſions are.</l>
+                     </sp>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>The Second Scene.</head>
+                     <stage>
+                        <hi>Jupiter, Mercury,</hi> A Quire of dumb Dryads, or
+woo'd Nymphs.</stage>
+                     <sp>
+                        <speaker>Jupiter</speaker>
+                        <l>Well,</l>
+                        <l>What did the Oracle at <hi>Delphos</hi> ſay</l>
+                        <l>Touching my love to <hi>Thetis,</hi> tell me, pray.</l>
+                     </sp>
+                     <sp>
+                        <pb n="12" facs="26"/>
+                        <speaker>Mercury</speaker>
+                        <l>
+                           <hi>Apollo</hi> from the Tripod did pronounce,</l>
+                        <l>The<note n="*" place="marg" anchored="true">Achilles.</note> Son of <hi>Thetis</hi> (all will ſee)</l>
+                        <l>Shall greater then his Father be.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter</speaker>
+                        <l>How can that be? unleſs the fates renew</l>
+                        <l>In me my<note n="*" place="marg" anchored="true">
+                              <hi>Saturn</hi> thruſt out of 〈◊〉 by <hi>Jupiter</hi> his ſon.</note> Sire's example, and make't true.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Mercury</speaker>
+                        <l>That which <hi>Prometheus</hi> told me alſo is</l>
+                        <l>No leſs infallible and true then this.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter</speaker>
+                        <l>Then I do find that it doth me behove</l>
+                        <l>To leave commanding Heaven, or not to love.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Mercury</speaker>
+                        <l>Which do you moſt deſire,</l>
+                        <l>To ſerve or domineer?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter</speaker>
+                        <l>I hold <hi>Love's</hi> golden fetter,</l>
+                        <l>Then any Empire better,</l>
+                        <l>The one doth thouſand ſweets inſtil,</l>
+                        <l>Th'other the brain with cumbers fill.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Mercury</speaker>
+                        <l>Permit me, mighty <hi>Jove,</hi> to tell you 'tis</l>
+                        <l>Folly of a <hi>Mortal</hi> ſtill to wiſh,</l>
+                        <l>Under the vail of good, to meet the bad,</l>
+                        <l>Which goes in Vertues habit often clad.</l>
+                        <l>But you which o're the Spheers do ſway,</l>
+                        <l>And ſuch coruſcant beams diſplay;</l>
+                        <l>
+                           <pb n="13" facs="26"/>
+Can you be ſo tranſported, as endure</l>
+                        <l>That a blind lying <hi>Boy</hi> ſhould you allure,</l>
+                        <l>Who will vapour every where,</l>
+                        <l>That he did fetter <hi>Jupiter.</hi>
+                        </l>
+                        <l>
+                           <hi>Thetis,</hi> ſuppoſe, an idle wench ſhould prove:</l>
+                        <l>Have you not Goddeſſes enough above?</l>
+                        <l>If you <hi>Olympus</hi> looſe, where will you find</l>
+                        <l>Throughout the world a Kingdom of that kind?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter</speaker>
+                        <l>In your Diſcourſe you go ſo ſtrongly on</l>
+                        <l>That makes me half of your opinion.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Mercury</speaker>
+                        <l>Nor can you any true content obtain</l>
+                        <l>Whilſt you are compaſt with a double pain.</l>
+                        <l>
+                           <hi>Juno</hi> purſues you with her Furies here,</l>
+                        <l>And <hi>Thetis</hi> may perhaps flye from you there;</l>
+                        <l>The one is doubtful, th'other is jealous ſtill,</l>
+                        <l>Both may confederate to croſſe your will.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter</speaker>
+                        <l>'Tis true, that <hi>Juno</hi> me purſues,</l>
+                        <l>And raiſeth furies by whole crews.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Mercury</speaker>
+                        <l>She every where doth ſtir and wheel about,</l>
+                        <l>She doth diſturb all Heaven to find you out.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Jupiter</speaker>
+                        <l>Then <hi>Mercury,</hi> go and proclaime</l>
+                        <l>From Pole to Pole that I diſclaim</l>
+                        <l>
+                           <hi>Thetis,</hi> and will no more my Honour maim.</l>
+                        <l>Go ſpeedily.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Mercury</speaker>
+                        <l>
+                           <hi>Jove,</hi> I wil fly.</l>
+                     </sp>
+                     <sp>
+                        <pb n="14" facs="27"/>
+                        <speaker>Jove</speaker>
+                        <l>Fair Wood Nymphs let this day be Feſtival</l>
+                        <l>That I my wonted freedom did recal,</l>
+                        <l>Which impious fate and beauty did conſpire</l>
+                        <l>To captivate with falſe and fatuous fire.</l>
+                        <l>Fair Wood Nymphs let this day by all</l>
+                        <l>Be kept hereafter Feſtival.</l>
+                     </sp>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>The Third Scene.</head>
+                     <stage>A Quire of Prieſts, a dumb Quire of Cavaliers at
+Barriers.</stage>
+                     <sp>
+                        <speaker>The Quire of Prieſts.</speaker>
+                        <l>Great God of War, the prop, defence and ſtay</l>
+                        <l>Of Empires, intercede that <hi>Peleus</hi> may</l>
+                        <l>(By favor of that<note n="*" place="marg" anchored="true">Venus.</note> Goddeſſe whom alone</l>
+                        <l>Thou do'ſt adore, and art to ſerve ſo prone)</l>
+                        <l>Return to ſway again fair <hi>Theſſaly:</hi>
+                        </l>
+                        <l>Behold that amourous Warrier with mild eye.</l>
+                        <l>And you brave Champions propitious make</l>
+                        <l>Our vowes and Altars; let the welkin quake</l>
+                        <l>With the high claſhings of your Barriers.</l>
+                        <l>
+                           <hi>Peleus</hi> at his return will pay you your Arrears.</l>
+                     </sp>
+                     <sp>
+                        <speaker>One of the Prieſts.</speaker>
+                        <l>But ſtay a little, ſtay,</l>
+                        <l>Our Oracle will ſomething ſay.</l>
+                     </sp>
+                     <sp>
+                        <speaker>The Oracle</speaker>
+                        <l>At laſt the King of <hi>Theſſaly</hi>
+                        </l>
+                        <l>Shall home return with mirth and glee.</l>
+                     </sp>
+                     <sp>
+                        <pb n="15" facs="27"/>
+                        <speaker>The Quire of Prieſts</speaker>
+                        <l>O newes more rare</l>
+                        <l>Then <hi>Indian</hi> Pearle, and ſweeter far</l>
+                        <l>Then that <hi>Hyblean</hi> juice the Attic Bee</l>
+                        <l>Stov'd in her cell for <hi>Joves</hi> Nativity;</l>
+                        <l>And will King <hi>Peleus</hi> come agen?</l>
+                        <l>Then <hi>Theſſaly</hi> ſhall ſwarm with men.</l>
+                        <l>O newes more rare</l>
+                        <l>Then <hi>Indian</hi> pearle, and richer far.</l>
+                     </sp>
+                  </div>
+               </div>
+               <div n="3" type="act">
+                  <div n="1" type="scene">
+                     <pb n="16" facs="28"/>
+                     <head>ACT III. SCENE I.</head>
+                     <stage>
+                        <hi>Peleus, Chiron,</hi> A dumb Quire of Chirons, Aca|demiſts,
+or Diſciples.</stage>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>FOR him who parts from his delight</l>
+                        <l>
+                           <hi>Time</hi> makes too quick and rapid flight,</l>
+                        <l>But who is travelling to ſee his <hi>Love,</hi>
+                        </l>
+                        <l>Each moment unto him an <hi>age</hi> doth prove.</l>
+                        <l>Hope <hi>ſtill with</hi> doubts, fruition <hi>with</hi> fear</l>
+                        <l>Is commonly attended every where.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>I with my companions here</l>
+                        <l>Did think to find you full of cheer.</l>
+                        <l>Now that you are a Champion o're the Gods,</l>
+                        <l>Of whom for <hi>Faith</hi> and <hi>Love</hi> you have ſuch odds;</l>
+                        <l>Why do you thus afflict your ſelf with pain?</l>
+                        <l>Faint heart did ne're a Ladies favour gain.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>Sometimes my ſpirits are alert and high,</l>
+                        <l>Then they begin to languiſh preſently;</l>
+                        <l>
+                           <pb n="17" facs="28"/>
+Becauſe I fear that <hi>Thetis</hi> heart</l>
+                        <l>May Marble prove; hence comes my ſmart.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>You are deceiv'd; when <hi>Thetis</hi> knowledg had</l>
+                        <l>You left fair <hi>Greece,</hi> and undertook ſo bad</l>
+                        <l>And hazardous a journey to find eaſe,</l>
+                        <l>The fury of your paſſion to appeaſe;</l>
+                        <l>She with a pitying paleneſs then was ſtruck,</l>
+                        <l>
+                           <hi>And ſighing ſaid,</hi> The Stars ſend him good luck.</l>
+                        <l>Go, lay cloſe ſiege, and let her ſee</l>
+                        <l>You are reſolv'd for Battery.</l>
+                        <l>The Female who believes ſhe's truly lov'd,</l>
+                        <l>Need not by too long Prayers to be mov'd.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>Your counſel's good: now with alacrity</l>
+                        <l>I will both <hi>Love</hi> and <hi>Fortune</hi> try;</l>
+                        <l>And of the buſineſs you ſhall quickly ſee</l>
+                        <l>I'l make a ſhaft or bolt. But where is ſhe?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Chiron.</speaker>
+                        <l>I'l go in queſt of her.</l>
+                        <l>In the mean time let my Diſciples dance,</l>
+                        <l>We will be fortunate in ſpite of chance:</l>
+                     </sp>
+                  </div>
+                  <div n="2" type="scene">
+                     <pb n="18" facs="29"/>
+                     <head>The ſecond Scene.</head>
+                     <stage>
+                        <hi>Thetis, Peleus,</hi> A Quire of <hi>Peleus</hi> Cour|tiers.</stage>
+                     <sp>
+                        <speaker>Thetis</speaker>
+                        <l>Love, if you will enter like a friend,</l>
+                        <l>Lay down your Armes, let peace attend</l>
+                        <l>Your purpoſes, and ſo you may</l>
+                        <l>Be welcome, and ſo win the day.</l>
+                        <l>If boiſterouſly you me aſſault,</l>
+                        <l>Come not neer me, but make a halt:</l>
+                        <l>Be ſure not to torment my heart,</l>
+                        <l>Or with your paſſions make it ſmart.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>O <hi>Thetis,</hi> you deſire to ſhun</l>
+                        <l>
+                           <hi>That</hi> which your ſelf to me have done.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis</speaker>
+                        <l>Ohime.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>My Dear,</l>
+                        <l>What do you fear?</l>
+                     </sp>
+                     <sp>
+                        <pb n="19" facs="29"/>
+                        <speaker>Thetis</speaker>
+                        <l>Ohime, when you were far from hence</l>
+                        <l>
+                           <hi>Love</hi> did do much for you; but now</l>
+                        <l>You are ſo neer, I fear with violence</l>
+                        <l>He will aſſault me with his bow.</l>
+                        <l>I pray retire.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>Will you with ſuch a heart of flint and ſteel</l>
+                        <l>Convert thoſe pleaſing <hi>paſsions</hi> which I feel</l>
+                        <l>To <hi>pangs?</hi> Shall he ſtill languiſh</l>
+                        <l>With tears, with doubtfulneſs and anguiſh,</l>
+                        <l>Who loves your eyes</l>
+                        <l>More then the Stars or Skies?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis</speaker>
+                        <l>Theſe words an amorous pleaſure do inſtil</l>
+                        <l>Into my breſt, my thoughts with fancies ſwill;</l>
+                        <l>Fool that I am, I who have made a vow</l>
+                        <l>To any Love enchantments ne're to bow;</l>
+                        <l>I who two Gods for marriage did refuſe,</l>
+                        <l>Shall I yeild now</l>
+                        <l>And love-ſick grow?</l>
+                        <l>I pray retire.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>From thoſe fair eyes I will not part,</l>
+                        <l>Who have infuſ'd into my heart</l>
+                        <l>
+                           <pb n="20" facs="30"/>
+Grief, and content, with <hi>conſtancy;</hi>
+                        </l>
+                        <l>All Trophies of your <hi>chaſtity,</hi>
+                        </l>
+                        <l>And of my <hi>Faith:</hi> where ere you go</l>
+                        <l>I will adore your ſhadow too and fro.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis to her ſelf</speaker>
+                        <l>'Gainſt ſuch a charming violence</l>
+                        <l>If I can find no guard or fence,</l>
+                        <l>I'l have recourſe for quenching of this fire</l>
+                        <l>Unto the Arts of <hi>Proteus</hi> my great Sire.</l>
+                        <l>
+                           <hi>Peleus</hi> will then deſiſt, unleſs he fall</l>
+                        <l>In love with <hi>Lions, Monſters, Rocks</hi> and all.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>Dear, Whats that you whiſper?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis</speaker>
+                        <l>May your laments</l>
+                        <l>Find their contents.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>Oh pleaſing accents!</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>But <hi>Peleus</hi> now I wil you diſabuſe,</l>
+                        <l>They are fain'd fancies which you thus amuſe</l>
+                        <l>When you made me the object of your mind</l>
+                        <l>You took me for a <hi>Nymph,</hi>
+                           <note place="marg" anchored="true">A cloud ap|pears, wherein <hi>Thetis</hi> enters.</note> but you ſhall find</l>
+                        <l>I am a ravenous Lion, a hard Rock,</l>
+                        <l>A Monſter that wears clouds in lieu of ſmock.</l>
+                     </sp>
+                     <sp>
+                        <pb n="21" facs="30"/>
+                        <speaker>Peleus.</speaker>
+                        <l>My ſweeteſt friend,</l>
+                        <l>What do you now intend?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>I'l wrap my ſelf within that cloud:</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>Do not do ſo,<note place="marg" anchored="true">The Cloud va|niſhes and <hi>The|tis</hi> turns her ſelf into a Lion</note> for I ſhall cry aloud.</l>
+                        <l>O heaven bleſs me, what do I ſee!</l>
+                        <l>Can ſuch a beauteous Creature turn to be</l>
+                        <l>A beaſt of ſuch immane ferocity?</l>
+                        <l>You cannot fright me, or make an eſcape,</l>
+                        <l>My <hi>Thetis</hi> I'l purſue in any ſhape.</l>
+                        <l>What do I ſee?<note place="marg" anchored="true">She transforms her ſelf into a Monſter.</note> This ſhape becomes you well,</l>
+                        <l>And ſhewes that you are cruel, fierce and fell.</l>
+                        <l>But all this cunning will not ſerve your turn,</l>
+                        <l>The more you horrid are, the more I burn.</l>
+                        <l>A Sacrifice of ſighes and groans</l>
+                        <l>I'l offer though you change to ſtones.</l>
+                        <l>Dear, take your ſhape again,</l>
+                        <l>And eaſe me of this pungent pain.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis.</speaker>
+                        <l>O God,</l>
+                        <l>The more I monſtrous make my ſelf in ſhow,<note place="marg" anchored="true">
+                              <hi>Thetis</hi> reſumes her ſelf.</note>
+                        </l>
+                        <l>The more my ſpirits melt, and gentle grow.</l>
+                        <l>I am <hi>almoſt</hi> in Love.</l>
+                     </sp>
+                     <sp>
+                        <pb n="22" facs="31"/>
+                        <speaker>Peleus</speaker>
+                        <l>
+                           <hi>Almoſt!</hi> That word my panting breſt doth pierce,</l>
+                        <l>And ſhewes you ſtill are cruel, fell and fierce,</l>
+                        <l>In lieu of ſolacing my love-ſwoln mind,</l>
+                        <l>It leaves a double agony behind,</l>
+                        <l>Ohime, what Lions, Monſters thus oppoſe</l>
+                        <l>My vertuous Love, and make themſelvs my foes?</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis to her ſelf.</speaker>
+                        <l>I know not where to turne, my ſpirits are</l>
+                        <l>in ſuch a ſtrange confuſion, yet I dare</l>
+                        <l>Not ſay I love as yet; my hot deſire</l>
+                        <l>I will ſuppreſs and quench this raging fire.</l>
+                        <l>The tongue ſhall give my heart the ly;</l>
+                        <l>I'l make no haſte,</l>
+                        <l>Though I muſt yeild at laſt,</l>
+                        <l>There is no remedy.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>Dear <hi>Thetis,</hi> caſt on him a pitying eye,</l>
+                        <l>Whoſe breſt for thee with candent coles doth fry.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis to her ſelf.</speaker>
+                        <l>Diſtracted ſoul, 'tis too too true,</l>
+                        <l>I muſt bid now Virginity adieu.</l>
+                        <l>But ſure my lips and faltring tongue doth err,</l>
+                        <l>Oh did my heart do ſo; I muſt prefer</l>
+                        <l>The <hi>heart</hi> before the tongue, becauſe the <hi>laſt▪</hi>
+                        </l>
+                        <l>Leſs noble is; i'th <hi>Heart</hi> Dame Nature plac'd</l>
+                        <l>The pure arterial and illuſtrious blood;</l>
+                        <l>I fear that I am too well underſtood.</l>
+                        <l>By <hi>Peleus.</hi>
+                        </l>
+                        <l>
+                           <pb n="23" facs="31"/>
+Ohime, by ſoft degrees I find</l>
+                        <l>That cunning little <hi>God,</hi> though <hi>blind,</hi>
+                        </l>
+                        <l>Doth make his way into my breſt,</l>
+                        <l>Maugre my ſelf, I muſt make him my gueſt.</l>
+                        <l>Yet I muſt try once more this <hi>Boy</hi> to mock,</l>
+                        <l>And turn my ſelf into a ſenſeleſs Rock:</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus</speaker>
+                        <l>Have I again loſt <hi>Thetis?</hi>
+                           <note place="marg" anchored="true">
+                              <hi>Thetis</hi> doth metamorphoſe her ſelf into a Rock.</note> is ſhe gone?</l>
+                        <l>Muſt I to ſtones and rocks make now my moan?</l>
+                        <l>O precious criſtal Rock, thou now doſt hold</l>
+                        <l>A gem more rich then Diamond or Gold;<note place="marg" anchored="true">He embraceth the Rock, and weeps upon it.</note>
+                        </l>
+                        <l>I fear that at the foot of this hard Rock</l>
+                        <l>My Hope will ſhipwrack by a fatal ſhock.</l>
+                        <l>But for ſtrong water made of <hi>Mercury,</hi>
+                        </l>
+                        <l>I'l try with tears this Rock to mollifie.</l>
+                        <l>My heat is ſuch, 'twill me to aſhes turn,</l>
+                        <l>Then will I make this precious Rock my Urne.</l>
+                     </sp>
+                     <stage>The Rock vaniſheth▪ whereupon Thetis re|ſumes
+her ſhape and ſpeaks.</stage>
+                     <sp>
+                        <l>
+                           <hi>Love,</hi> Lo, I yield, I can no more reſiſt</l>
+                        <l>Thy all ſubduing power, or perſiſt</l>
+                        <l>In my firſt purpoſes, thy dart</l>
+                        <l>Hath ſplit in two my tender heart.</l>
+                        <l>Who have no hearts at all are only fit</l>
+                        <l>To cope with thee, and fence away thy hit.</l>
+                        <l>Lo <hi>Peleus</hi> I am thine.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus in a kind of rapture.</speaker>
+                        <l>Hold heart, do not too wide thy ſelf dilate,</l>
+                        <l>Leſt by exceſs of joy I draw my fate</l>
+                        <l>Too ſoon upon me, and ſo dye</l>
+                        <l>Ere I make uſe of Victory.</l>
+                        <l>
+                           <pb n="24" facs="32"/>
+And you my faithful followers rejoice,</l>
+                        <l>And cleave the air with your triumphing voice:<note place="marg" anchored="true">The Courtiers▪ ſing.</note>
+                        </l>
+                        <l>You have been ſharers of my miſery,</l>
+                        <l>Now you ſhall ſhare of my proſperity.</l>
+                     </sp>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>The laſt Scene.</head>
+                     <stage>
+                        <hi>Thetis, Peleus, Prometheus,</hi> a Quire of Deities,
+<note n="*" place="marg" anchored="true">Who had freed <hi>Promethe|us.</hi>
+                        </note>
+                        <hi>Hercules, Juno, Hymen,</hi> with the
+Liberal and Servile Arts.</stage>
+                     <sp>
+                        <speaker>Thetis and Peleus</speaker>
+                        <l>Now our Deſires</l>
+                        <l>Do flame with equal fires.</l>
+                        <l>And there doth nothing want but <hi>conſtancy,</hi>
+                        </l>
+                        <l>For to complete both our Felicity.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Peleus.</speaker>
+                        <l>
+                           <hi>Thetis,</hi> Thou art my chiefeſt good.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis</speaker>
+                        <l>And you my heart and precious bloud.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis and Peleus</speaker>
+                        <l>Behold the Gods are come to be our Gueſts,</l>
+                        <l>And learn of us what it is to be bleſt.</l>
+                     </sp>
+                     <sp>
+                        <pb n="25" facs="32"/>
+                        <speaker>Prometheus</speaker>
+                        <l>
+                           <hi>Peleus,</hi> We now are both from tortures free;</l>
+                        <l>You <hi>Hymen</hi> help'd, and <hi>Hercules</hi> help'd mee.</l>
+                        <l>And to oblige us further, they are here</l>
+                        <l>To mingle joy with us, and make good cheer.</l>
+                     </sp>
+                     <sp>
+                        <speaker>The Quire of Deities</speaker>
+                        <l>To them who languiſh</l>
+                        <l>In pain and anguiſh,</l>
+                        <l>Love gives at laſt</l>
+                        <l>A ſweet repaſt.</l>
+                     </sp>
+                     <sp>
+                        <speaker>Thetis, Peleus, Prometheus</speaker>
+                        <l>Juſt heaven ne're fails, and Powers above</l>
+                        <l>To recompence a vertuous conſtant Love;</l>
+                        <l>Grief, cares, and pain</l>
+                        <l>Turn all at laſt to gain.</l>
+                        <l>By this we find adverſity to be</l>
+                        <l>The ſureſt road to true Felicity.</l>
+                     </sp>
+                     <trailer>FINIS.</trailer>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </TEI>
+

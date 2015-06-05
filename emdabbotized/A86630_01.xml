@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+					 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">The nuptialls of Peleus and Thetis.:  Consisting of a mask and a comedy, or The the [sic] great royall ball, acted lately in Paris six times by the King in person. The Duke of Anjou. The Duke of Yorke. with divers other noble men. Also by the Princess Royall Henrette Marie. The Princess of Conty. The Dutchess of Roquelaure. The Dutchess of Crequy. with many other ladies of honour.</title>
+            <author> Howell, James, 1594?-1666.</author>
+         </titleStmt>
+         <extent>32 400dpi TIFF images (displayed as GIF) and XML-encoded text (displayed as HTML).</extent>
+         <publicationStmt>
+            <publisher>University of Michigan Library</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2008 September (TCP phase 1)</date>
+            <idno type="DLPS">A86630</idno>
+            <idno type="vid">125555</idno>
+            <idno type="Aleph">5369327</idno>
+            <idno type="stc">Wing (2nd ed.) H3097.</idno>
+            <idno type="stc">Thomason E.228[3].</idno>
+            <idno type="bibno">(UnM)99873101e</idno>
+            <availability>
+               <p>Where applicable, subject to copyright.  Other restrictions on distribution may apply.  Please  go to http://www.umdl.umich.edu/ for more information.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">The nuptialls of Peleus and Thetis.:  Consisting of a mask and a comedy, or The the [sic] great royall ball, acted lately in Paris six times by the King in person. The Duke of Anjou. The Duke of Yorke. with divers other noble men. Also by the Princess Royall Henrette Marie. The Princess of Conty. The Dutchess of Roquelaure. The Dutchess of Crequy. with many other ladies of honour.</title>
+                  <author> Howell, James, 1594?-1666.</author>
+               </titleStmt>
+               <extent>[8], 26; [2], 25, [1] p.    </extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Henry Herringman, and are to be sold at his shop at the Ancor in the lower walke of the New Exchange,</publisher>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The comedy has a separate dated title page, pagination and register.</note>
+                  <note>Possibly translated from the Tedide of Diamante Gabrielli. Cf. BM, v. 107, col. 922.</note>
+                  <note>Annotation on Thomason copy: "May 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script mrcb2eeboutf.xsl on 2007-07-06.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>Buti, Francesco, -- d. 1682. -- Nozze di Peleo e di Theti.</term>
+               <term>Gabrielli, Diamante. -- Tedide.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+            <front>
+               <div type="argument">
+                  <pb facs="2"/>
+                  <pb facs="2"/>
+                  <head>The Stanzas of the Royall Ball, with the
+Argument of every Scene of the Comedy,
+which gives occaſion to every entry
+in the Ball.</head>
+                  <head type="sub">THE ARGUMENT.</head>
+                  <p>
+                     <hi>_PEleus</hi> King of <hi>Theſſaly</hi> being enamored with
+<hi>Thetis,</hi> and croſſed by two potent Rivalls,
+<hi>Jupiter</hi> and <hi>Neptune,</hi> doth ſo carry the bu|ſineſs
+by the Counſells of <hi>Chiron,</hi> and by the
+ſuccour of <hi>Prometheus,</hi> that both the Gods
+are at the end excluded of their pretentions;
+<hi>Neptune</hi> deſiſts by reaſon of his old age, and
+<hi>Jupiter</hi> being the elder of the two, but much more conſiderable,
+doth voluntarily renounce his intereſt. Whereupon <hi>Thetis</hi> being
+plainely perſwaded of the conſtancy, and fidelity of her Lover, gives
+her conſent to marry him, ſo the Nuptialls are celebrated with a
+great concourſe of Gods and Goddeſſes. <hi>Prometheus</hi> alſo having
+done good ſervice in the buſineſs, and to put a period to his troubles,
+is there alſo preſent, and brings with him the Liberall and Mecha|nick
+Arts which hee had invented; Diſcord alſo would faine have
+been there, but that ſhe was aſhamed to appeare upon the theatre,
+having been chac'd out of <hi>France,</hi> and it had been to no purpoſe for
+her to diſturb ſo ioyfull a meeting.</p>
+               </div>
+               <div type="dramatis_personae">
+                  <pb facs="3"/>
+                  <head>The Singers.</head>
+                  <list>
+                     <item>Two Rivers
+of <hi>Theſſaly.</hi>
+                        <list>
+                           <item>Epidan and</item>
+                           <item>Onochone</item>
+                        </list>
+                     </item>
+                     <item>Jupiter</item>
+                     <item>Neptune</item>
+                     <item>Juno</item>
+                     <item>Mercury</item>
+                     <item>
+                        <hi>Peleus</hi> King of <hi>Theſſaly</hi>
+                     </item>
+                     <item>Thetis</item>
+                     <item>Chiron</item>
+                     <item>Prometheus</item>
+                     <item>A Quire of water-Nymphs</item>
+                     <item>A Quire of <hi>Syrens</hi> &amp; <hi>Tritons</hi>
+                     </item>
+                     <item>A Quire of prieſts of Man.</item>
+                     <item>A Quire of all the Deities.</item>
+                  </list>
+                  <list>
+                     <head>The Dancers.</head>
+                     <item>
+                        <hi>Apollo,</hi> and the nine Muſes.</item>
+                     <item>Magicians.</item>
+                     <item>Fiſhers of Corrall</item>
+                     <item>The Furies of jelouſly</item>
+                     <item>Savage men and women.</item>
+                     <item>The Dryads or Wood|nymphs.</item>
+                     <item>Cavaliers of <hi>Theſſaly</hi>
+                     </item>
+                     <item>Chirons Academiſts</item>
+                     <item>
+                        <hi>Peleus</hi> his Courtiers</item>
+                     <item>
+                        <hi>Thetis</hi> young maids of honor</item>
+                     <item>The Liberall &amp; ſervile Arts</item>
+                     <item>Love</item>
+                     <item>Iuno</item>
+                     <item>Hymen</item>
+                     <item>Hercules</item>
+                     <item>The harmony of the
+Sphears.</item>
+                  </list>
+               </div>
+               <div type="dedication">
+                  <pb facs="3"/>
+                  <head>TO THE
+MOST EXCELLENT,
+And HIGH-BORN Lady,
+The Lady
+KATHERINE
+Marchioneſſe of DORCHESTER, &amp;c.</head>
+                  <opener>
+                     <salute>Madam;</salute>
+                  </opener>
+                  <p>_I Believe, no diſcerning Reader will
+queſtion my <hi>Judgement</hi> in point of
+<hi>Election,</hi> nor accuſe my <hi>Election</hi> of
+much <hi>preſumption</hi> in Dedicating
+this princely new piece to your La|diſhip.</p>
+                  <p>Touching the firſt, the Fancy comming from
+that <hi>Country</hi> which doth challenge as much Inte|reſt
+in your <hi>Illuſtrious</hi> blood as <hi>England,</hi> I humbly
+conceived it might well become your Ladiſhip to
+be Patroneſſe thereof.</p>
+                  <p>Touching the ſecond reaſon, it having been not
+onely <hi>Repreſented,</hi> but <hi>Acted</hi> ſo many times (and
+reſerv'd yet for entertaining <hi>Pimentel</hi> the Spaniſh
+<pb facs="4"/>
+Ambaſſador) by a Great <hi>King</hi> in perſon, with ſuch
+a number of Princes, Princeſſes, Nobles, and a|bove
+a hundred Repreſentators beſides, ſo that
+the charge of the ſcene and ſhewes amounted to
+half a million of French liures; But above all, it
+being an invention ſo cryed up, ſo well contriv'd
+and trac'd, ſo full of wit, and variety of Muſicall
+airs, with other <hi>gentileſſes;</hi> I deem'd it would be a
+thing not unworthy of your Ladiſhips private en|tertainment.</p>
+                  <p>Laſtly, Madam, the Fancy being ſo <hi>freſh,</hi> and
+ſutable to the <hi>ſeaſon,</hi> it comes to uſher in a hap|py
+and healthfull <hi>ſpring</hi> to your Honor, attended
+with affluences of all Felicity preſent and future,
+according to the humble and <hi>pregnant</hi> votes of</p>
+                  <closer>
+                     <salute>My moſt Highly Honored Lady,</salute>
+                     <signed>Your thrice-Obedient and devoted Servitor JAM. HOVVEL.</signed>
+                     <date>The first of <hi>May</hi>
+1654.</date>
+                  </closer>
+               </div>
+               <div type="prologue">
+                  <pb facs="4"/>
+                  <head>THE PROLOGUE.
+Apollo and the Nine Muſes, Epidan and
+Onochone Rivers of Theſſaly, a
+Quire of water-Nymphs.</head>
+                  <p>AT the opening of the Theater, <hi>Apollo</hi>
+and the Muſes appeare upon the top
+of a Mountaine, on both ſides thereof run
+two Rivers of <hi>Theſſaly,</hi> and the water-Nymphs
+being ſeparated in two Quires,
+fall into the prayſe of <hi>Apollo,</hi> inviting him
+to come downe and give a happy Augury
+to the Loves of <hi>Peleus;</hi> The ſaid Moun|taine
+ſtoopes by little and little, whereup|on
+the Rivers and Nymphs retiring, <hi>A|pollo</hi>
+and the Muſes fill the Stage, and com|poſe
+the firſt entry of the Ball.</p>
+                  <pb facs="5"/>
+                  <pb facs="5"/>
+               </div>
+               <div n="1" type="dramatis_personae">
+                  <pb facs="6"/>
+                  <head>The firſt Entry.</head>
+                  <list>
+                     <head>Apollo and the Nine Muſes.</head>
+                     <item>The King repreſents <hi>Apollo,</hi>
+                     </item>
+                     <item>
+                        <hi>Madam Henriette</hi> Princeſſe of England. repreſents <hi>Erato.</hi>
+                     </item>
+                     <item>Madamoiſella <hi>of</hi> Ʋilleroy. repreſents Clio.</item>
+                     <item>The Dutcheſſe of <hi>Crequy</hi> repreſents <hi>Euterpe.</hi>
+                     </item>
+                     <item>The Dutcheſſe of <hi>Roquelaure</hi> repreſents <hi>Thalia.</hi>
+                     </item>
+                     <item>The Princeſſe of <hi>Conty</hi> repreſents <hi>Vrania.</hi>
+                     </item>
+                     <item>
+                        <hi>Madam de Monlovet</hi> repreſents <hi>Terpſicore.</hi>
+                     </item>
+                     <item>
+                        <hi>Madam de Saint Simon</hi> repreſents <hi>Calliope.</hi>
+                     </item>
+                     <item>
+                        <hi>Madam d'Olonne</hi> repreſents <hi>Melpomene.</hi>
+                     </item>
+                     <item>
+                        <hi>Madamoiſelle de Gourdon</hi> repreſents <hi>Polyhimney.</hi>
+                     </item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="6"/>
+                  <head>THE NVPTIALS
+Of PELEUS and THETIS;
+OR;
+The Great Royall Ball.</head>
+                  <sp>
+                     <speaker>The King of France repreſenting Apollo.</speaker>
+                     <lg>
+                        <l>_MOre bright and better made then all the Gods,</l>
+                        <l>Superior to the reſt of Dëities by ods,</l>
+                        <l>My ForeSPEAKER with immortal beams is crown'd,</l>
+                        <l>Victorious beauties I raiſe from the ground,</l>
+                        <l>I after <hi>Glory</hi> alwaies run,</l>
+                        <l>Not after <hi>Daphne</hi> whom I ſhun.</l>
+                     </lg>
+                     <lg>
+                        <l>That fierce deſtructive <hi>Python</hi> I did quell,</l>
+                        <l>That ugly horrid <hi>Serpent</hi> hatch'd in Hell,</l>
+                        <l>
+                           <hi>Rebellion,</hi> which had poyſon'd farre and neare</l>
+                        <l>Faire <hi>France</hi> I chac'd from off this Hemiſpheare:</l>
+                        <l>I rather had this <hi>Monſter</hi> ſlay,</l>
+                        <l>Then with my <hi>Daphne</hi> ſport and play.</l>
+                     </lg>
+                     <lg>
+                        <l>Yet it muſt be at laſt, early or late</l>
+                        <l>I muſt a Femall court, it is my Fate,</l>
+                        <l>
+                           <pb facs="7"/>
+And though I am all God, yet there's a <hi>ſhee,</hi>
+                        </l>
+                        <l>Whom with love glances I muſt deifie.</l>
+                        <l>And what Nymph, Goddeſſe, Queen, or Muſe</l>
+                        <l>To be my <hi>Daphne</hi> would refuſe.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Madam Henriette the Princeſſe of England, repreſent|ing
+the muſe Erato, which fell to her by lott.</speaker>
+                     <l>My ſtemm is more then of a mortall race;</l>
+                     <l>For to <hi>great</hi> Henries <hi>Granchild</hi> all give place:</l>
+                     <l>My Innocent and young aſpect,</l>
+                     <l>Inſpires both pitty and reſpect;</l>
+                     <l>And he who loudly would complain</l>
+                     <l>of <hi>Princes</hi> falls and <hi>Peoples</hi> raign,</l>
+                     <l>Of angry ſtarrs, and deſtiny,</l>
+                     <l>Let him but caſt his eyes on me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiſelle de Villeroy repreſenting Clio,
+the inventreſſe of History.</speaker>
+                     <l>I turn this charming look</l>
+                     <l>Sometimes to Doomſday book;</l>
+                     <l>Theſe eyes, where in his throne</l>
+                     <l>Love ſits, make many mone;</l>
+                     <l>My Roſy cheeks, my quickening fire,</l>
+                     <l>Madd the beholders with deſire:</l>
+                     <l>And though I am but a young thing,</l>
+                     <l>Blown as it were but in this ſpring;</l>
+                     <l>My office is the Hiſtory to tell</l>
+                     <l>Of what a thouſand yeers ago befell.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Madam the Dutcheſs of Crequy, repreſenting Euter|pe,
+the inventreſse of Muſique.</speaker>
+                     <l>The <hi>Mouth</hi> of Fame doth tell,</l>
+                     <l>In <hi>Mine</hi> the graces dwell:</l>
+                     <l>
+                        <pb n="3" facs="7"/>
+So red, ſo ſmall, Loves Queen</l>
+                     <l>Had not, nor ere was ſeen;</l>
+                     <l>A hundred beauties more</l>
+                     <l>I have in banke and ſtore;</l>
+                     <l>Yet none eſteemes them leſſe:</l>
+                     <l>I nature rather bleſſe</l>
+                     <l>For thoſe inward parts I have,</l>
+                     <l>Which will laſt me to my Grave.</l>
+                     <l>Though I with muſique uſe to cheer the mind,</l>
+                     <l>Yet in my Pipes no fouleneſſe you ſhall finde.</l>
+                  </sp>
+                  <sp>
+                     <speaker>M. the Dutcheſſe of Roquelaure, repreſenting Tha|lia,
+the inventreſſe of Comedy.</speaker>
+                     <l>There is no heart ſo free</l>
+                     <l>But it will yeeld to me;</l>
+                     <l>I have the true ſupremacy</l>
+                     <l>Of beauty both in front and eye:</l>
+                     <l>My glances able are for to recover</l>
+                     <l>The ſickeſt amoriſt, the paleſt lover:</l>
+                     <l>My <hi>Comedies,</hi> if that you liſten well,</l>
+                     <l>Are able to redeem a ſoul from hell.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Madame the Princeſſe of Conty, repreſenting Vrania
+the inventreſſe of Aſtronomy.</speaker>
+                     <l>The ſtarres in their carreer</l>
+                     <l>Are not ſo bright and cleer</l>
+                     <l>As is my minde, which 'bove the Elements</l>
+                     <l>Doth ſoar to view thoſe high ſyderian Tents.</l>
+                     <l>This port, this countenance, and eyes</l>
+                     <l>Shew I did drop down from the skyes.</l>
+                     <l>I ſtudy their <hi>Aſpects</hi> and <hi>Influence,</hi>
+                     </l>
+                     <l>Their <hi>Motions,</hi> &amp; what good deſcends from thence.</l>
+                  </sp>
+                  <sp>
+                     <pb n="4" facs="8"/>
+                     <speaker>Madam de Montlouet repreſenting Terpſicore
+inventreſse of dances and masks.</speaker>
+                     <l>If for a mortall I am taken,</l>
+                     <l>You may perchance be there miſtaken,</l>
+                     <l>I dart a ray will pierce the heart,</l>
+                     <l>And make the center of it ſmart:</l>
+                     <l>I carry ſuch a Majeſty,</l>
+                     <l>Which repreſents Divinity:</l>
+                     <l>The graces all in me do dwell,</l>
+                     <l>Contending which ſhall bear the bell:</l>
+                     <l>I doe preſide in <hi>Maskes</hi> and <hi>Dances,</hi>
+                     </l>
+                     <l>Wounding the looker with my glances.</l>
+                  </sp>
+                  <sp>
+                     <speaker>M. the Dutcheſs of San Simon repreſenting Calliope,
+the inventreſſe of Heroick Poeſy.</speaker>
+                     <l>Beauty a treaſure of high rate</l>
+                     <l>Is my companion and my mate;</l>
+                     <l>Of vertues I have ſuch a ſtore,</l>
+                     <l>That could enrich a thouſand more:</l>
+                     <l>I raiſe my ſpirits to enhance,</l>
+                     <l>(When I am in poetique trance)</l>
+                     <l>By high heroick verſe the acts</l>
+                     <l>Of noble Champions and their facts:</l>
+                     <l>The <hi>Sock</hi> I ſcorn, the <hi>Buskin</hi> me</l>
+                     <l>Doth raiſe to immortality.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Madam d' Olonne repreſenting Melpomene,
+the inventreſſe of Tragaedy.</speaker>
+                     <l>Although my countenance be grave,</l>
+                     <l>Yet pleaſure and delights I have▪</l>
+                     <l>
+                        <pb n="5" facs="8"/>
+I look on <hi>Death</hi> and <hi>Deſtiny,</hi>
+                     </l>
+                     <l>Yet are my ſtraines Divinity:</l>
+                     <l>The paſſages of vertue I rehearſe,</l>
+                     <l>Though in an Elegiack Tragick verſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiſelle de Gourdon repreſenting Polhymny,
+the inventreſſe of vocall Muſique.</speaker>
+                     <l>A hundred objects I do ſee,</l>
+                     <l>Although at my Nativity</l>
+                     <l>They ſay I hooded was, my ſong</l>
+                     <l>Will carry one to heaven along,</l>
+                     <l>The various poſtures I do ſhow</l>
+                     <l>Will make the Gods themſelves to bow;</l>
+                     <l>I am the glory of our hills,</l>
+                     <l>Where joy both heart and ſpirit fills.</l>
+                  </sp>
+                  <div n="1" type="act">
+                     <head>THE FIRST ACT.</head>
+                     <div n="1" type="scene">
+                        <head>The firſt Scnee, where appears a Grott
+open on both ſides.</head>
+                        <stage>Chiron, Peleus, a dumb quire of Magicians.</stage>
+                        <stage>
+                           <hi>CHiron</hi> adviſeth <hi>Peleus</hi> either to abandon love, or not to
+loſe higher hopes; perſwading him, that the old age
+of his Rivals, might happily give him ſome aſſurance, yet
+he exhorts him for preventing the violence that <hi>Jupiter</hi>
+might perchance offer to <hi>Thetis,</hi> to go upon Mount
+<hi>Caucaſus,</hi> and implore the help of <hi>Prometheus,</hi> who with
+the fire he ſtole from heaven, had brought thence all the
+great and ſublime ſorts of knowledge; and <hi>Prometheus</hi>
+would be glad to oblige <hi>Peleus</hi> in ſuch an occaſion to croſſe
+the paſſion of <hi>Jupiter,</hi> who made him endure ſuch cruell
+<pb n="9" facs="9"/>
+torments; <hi>Peleus</hi> approves of <hi>Chirons</hi> counſell, whereupon
+the Magicians, as they dance, uſe a charm, carrying him a|way
+in a flying chair.</stage>
+                        <stage>The ſecond Entry.</stage>
+                        <stage>Magicians.</stage>
+                        <stage>The Count of <hi>Lude,</hi> the Marquis of <hi>Villequire,</hi> and of
+<hi>Genlis,</hi> the Lords <hi>Bontemps</hi> and <hi>Cabou,</hi> the Lords <hi>Verbec,
+Baptista,</hi> and <hi>Lambert.</hi>
+                        </stage>
+                        <sp>
+                           <speaker>The Count of Lude repreſenting a Magician.</speaker>
+                           <l>Let my heart go looſe more then to one,</l>
+                           <l>If I do love but three, I leaſure have</l>
+                           <l>To ſell love by retale;</l>
+                           <l>I cry; I ſigh, and ready am to hang,</l>
+                           <l>Yet then I vaniſh in the height of paſſion.</l>
+                        </sp>
+                        <sp>
+                           <speaker>The Marquis of Villequier repreſenting a Magician.</speaker>
+                           <p>The beauty which me charmes is like the ſpring,
+wee ought to love each other, ſhe is fierce, and ſo am I.
+A young forcereſſe may well become a Magician of
+twenty years.</p>
+                        </sp>
+                        <sp>
+                           <speaker>The Marquis of Genlis repreſenting a Muſician.</speaker>
+                           <l>Who can make ſcruple of my art and skill,</l>
+                           <l>My reaſons in due time have Energie enough;</l>
+                           <l>If I look fair in any part,</l>
+                           <l>I'ſt not a trick of Magique Art?</l>
+                        </sp>
+                     </div>
+                     <div n="2" type="scene">
+                        <head>The ſecond Scene, which opens within a perſpective
+where a Sea is ſeen.</head>
+                        <stage>Thetis, Neptune, a Quire of Syrens▪ and Tritons, a Quire
+of dumb Fiſhers for Corrall.</stage>
+                        <stage>
+                           <pb n="7" facs="9"/>
+                           <hi>Thetis</hi> appears upon a great ſhell attended by a halfe De|my
+water God, being encompaſſed by a fair troop of
+Corrall Fiſhers; On the other ſide <hi>Neptune</hi> appears upon a|nother
+great ſhell drawn by four Sea horſes, and begins to
+vent his paſſion to <hi>Thetis;</hi> but when he perceives that ſhe
+deſpiſeth him, he ſuddenly leaves her, and retires with
+all his train in choler, and ſtriking the Sea with his Tri|dent,
+he rais'd ſuch a horrible tempeſt, that <hi>Thetis</hi> with
+all her Corrall Fiſhers was forced to deſcend, who being
+very joyfull to eſcape the ſtorm, make a dance among
+themſelves to cheer and entertain her with delight.</stage>
+                        <stage>The third Entry.</stage>
+                        <stage>A half Sea-God leading Thetis attended by twelve
+Fiſhers of Corrall.</stage>
+                        <stage>Mounſieur the Count of St. <hi>Aignan</hi> prime Gentleman
+of the Kings Chamber, is the half Sea-God.</stage>
+                        <stage>The Fiſhers of Corrall.</stage>
+                        <stage>The Duke of <hi>Anjou</hi> the Kings onely brother, the Duke
+of <hi>York,</hi> the Duke <hi>Danville,</hi> the Count <hi>de G'viche,</hi> the lit|tle
+Count of <hi>Aignan,</hi> the Marquis of <hi>Mirepoix,</hi> Mounſieur
+<hi>Saintot,</hi> Mounſieur <hi>de la Cheſnay,</hi> the Lord <hi>Bruneau,</hi> S. <hi>Fre.
+L'Anglois,</hi> and <hi>Raynal.</hi>
+                        </stage>
+                        <sp>
+                           <speaker>The Count Saint Aignan repreſenting a demy
+Sea-God, beginns.</speaker>
+                           <l>I have enhanc'd my gallantries ſo high,</l>
+                           <l>That Neptunes Court is glorified thereby.</l>
+                           <l>They equall the exploits of Paladins,</l>
+                           <l>Whoſe fame the Earth with Ecchos dims,</l>
+                           <l>What a poor thing it is to be</l>
+                           <l>A Demy-God by land or Sea?</l>
+                           <l>
+                              <pb n="8" facs="10"/>
+Yet I am one, I'de have it known,</l>
+                           <l>It is no ſtain but a renown,</l>
+                           <l>In the fair field of love for to be ſo</l>
+                           <l>Where joy &amp; ſadneſs, flowers and weeds do grow:</l>
+                           <l>And for the water-Nymphs none can expreſs</l>
+                           <l>Better then I whether th'are fiſh or fleſh.</l>
+                        </sp>
+                        <floatingText>
+                           <body>
+                              <div type="madrigal">
+                                 <head>A Madrigall.</head>
+                                 <sp>
+                                    <l>With a Nymph both fair and cruell;</l>
+                                    <l>The Fates have call'd me to a Duell</l>
+                                    <l>My torments endleſſe are, my breſt</l>
+                                    <l>with the Sea ſurges have like reſt.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>The Duke of Anjou repreſenting a Fiſherman.</speaker>
+                                    <lg>
+                                       <l>1. In my fine hooks ther's danger, then beware</l>
+                                       <l>I am a fairer Fiſherman by far,</l>
+                                       <l>Then love himſelf my hook and line</l>
+                                       <l>Can catch a creature though Divine.</l>
+                                    </lg>
+                                    <lg>
+                                       <l>2. Husbands their cares do double, leſt one day</l>
+                                       <l>I fiſh within their ponds and catch the prey,</l>
+                                       <l>So ſubtill is my wit, that none can ſee</l>
+                                       <l>Where I do fiſh thoſe things which flow from me.</l>
+                                    </lg>
+                                    <lg>
+                                       <l>3. I will launce out when Age improves my flanks,</l>
+                                       <l>In the mean time I keep upon the banks</l>
+                                       <l>For corrall on Vermilian lipps I fiſh,</l>
+                                       <l>And who will hinder me to have my wiſh?</l>
+                                    </lg>
+                                 </sp>
+                                 <sp>
+                                    <speaker>The Duke of Yorke repreſenting a Fiſherman.</speaker>
+                                    <l>T'is not for me to fiſh for Corrall here,</l>
+                                    <l>I to another Coaſt my courſe muſt ſteer,</l>
+                                    <l>A fatall ground</l>
+                                    <l>Which Seas ſurround.</l>
+                                    <l>There I muſt fiſh upon an angry Main,</l>
+                                    <l>More then two Crowns and Scepters to regain.</l>
+                                 </sp>
+                                 <pb n="9" facs="10"/>
+                                 <sp>
+                                    <speaker>The Duke Damville repreſenting a Fiſherman
+for Corrall.</speaker>
+                                    <l>I have the ſame bait, hook and line</l>
+                                    <l>I had when I could ſcarce tell nine,</l>
+                                    <l>A few there are</l>
+                                    <l>Though nere ſo fair,</l>
+                                    <l>If I am ſet</l>
+                                    <l>Can 'ſcape my flaxen net.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>The Count of Guiche repreſenting a Fiſherman.</speaker>
+                                    <l>Upon the ſide of a ſtill peacefull pond</l>
+                                    <l>I uſe to fiſh, and dare not go beyond;</l>
+                                    <l>The time will come that I may alſo ſeek</l>
+                                    <l>The Rivers Banks, and happly a Sea-creek.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>The little Count of Aignon repreſenting a Fiſherman.</speaker>
+                                    <l>As ſtreight and ſlender as a ruſh</l>
+                                    <l>I uſe to caſt my line, and puſh</l>
+                                    <l>It on, but I do onely catch</l>
+                                    <l>Small things, I cannot yet attach</l>
+                                    <l>Great wel-grown fiſhes, one might make</l>
+                                    <l>Good cheer with thoſe I cannot take.</l>
+                                 </sp>
+                                 <sp>
+                                    <speaker>The Maaquis of Mirepoix repreſenting a Fiſherman.</speaker>
+                                    <l>Of this ſweet Trade of Fiſhing I intend</l>
+                                    <l>To be one day a Maſter, and ſo mend</l>
+                                    <l>My fortunes, now, the greateſt skill</l>
+                                    <l>Of a true Fiſherman is to be ſtill,</l>
+                                    <l>And patient for a while, to make no haſt</l>
+                                    <l>So he may compaſſe well his ends at laſt.</l>
+                                 </sp>
+                              </div>
+                           </body>
+                        </floatingText>
+                     </div>
+                     <div n="3" type="scene">
+                        <head>The third Scene.</head>
+                        <p>
+                           <hi>Thetis, Jupiter, Juno, a dumb Quire of the Furies of jealouſie▪ Jupiter</hi>
+being encompaſſed with pomp and Majeſty, de|ſcends
+<pb n="10" facs="11"/>
+from the Air in midſt of a great cloud, and pro|pounds
+to <hi>Thetis</hi> all the tender &amp; paſſionate things which
+might oblige her to be his ſpouſe; but ſhee refuſeth this
+honor out of high reſpects ſhe ow'd to <hi>Juno,</hi> who had been
+ſo carefull of her Education; whereupon <hi>Jupiter</hi> was up|on
+point of carrying her away; but as he was wrapping her
+within the cloud wherein he deſcended, <hi>Iuno</hi> comes in a
+whirlwind not ſo violent as her rage; And after a loud
+fit of ſcolding, having brought the furies along with her,
+the earth open'd and diſgorgeth a huge horrid Monſter;
+At ſight hereof <hi>Iupiter</hi> letting go his prey, and putting off
+his deſign till a more convenient time, returnes to Hea|ven.</p>
+                        <p>In the mean time the Furies extreamly well pleaſed to
+have ſo opportunely done ſuch a piece of ſervice to <hi>Iuno,</hi>
+dance all before her, whereupon the goddeſſe <hi>Iuno</hi> having
+thanked <hi>Thetis</hi> for her vertuous reſiſtance, takes the furies
+up with her in the ſame whirlwind which brought her
+down to perſecute <hi>Iupiter</hi> in his repoſe, and in his glory.</p>
+                        <stage>The fourth Entry.</stage>
+                        <stage>
+                           <hi>The King, the Duke of</hi> Ioyeuſe, <hi>the Marquis of</hi> Genlis,
+<hi>Mounſieur</hi> Bontemps, <hi>the Lords</hi> de Lorge, Verpre, Beauchamp,
+Mollier, le Vacher, Deſairs, Dolnist, Baptiſte.</stage>
+                        <sp>
+                           <speaker>For the King repreſenting a fury.</speaker>
+                           <lg>
+                              <l>
+                                 <hi>Spain,</hi> fly from this yong fury, fly away,</l>
+                              <l>She comes to daunt thee, and with torch in hand</l>
+                              <l>Through every corner ſhe doth force her way,</l>
+                              <l>To find thee out, 'gainſt her thou canſt not ſtand.</l>
+                           </lg>
+                           <lg>
+                              <l>She perſecutes the bad, and makes them read</l>
+                              <l>Their guilt within their looks, nay, the ſame time</l>
+                              <l>They miſchief work, and do commit the crime,</l>
+                              <l>She glides into the Conſcience fear and dread.</l>
+                           </lg>
+                           <pb n="11" facs="11"/>
+                        </sp>
+                        <sp>
+                           <speaker>The Duke of Joyeuſe repreſenting a Fury.</speaker>
+                           <l>Believe me not, to truſt in me forbear,</l>
+                           <l>A fained ſweetneſſe on my front I wear,</l>
+                           <l>Of me there may be ſome miſtakes,</l>
+                           <l>for I do hide my claws and ſnakes.</l>
+                        </sp>
+                        <sp>
+                           <speaker>The Marquis of Genlis repreſenting
+another Fury.</speaker>
+                           <l>My face is lovely, ſweet and debonnair,</l>
+                           <l>Such as an honeſt Fury ought to bear.</l>
+                           <l>My heart ſome poyſon may contain,</l>
+                           <l>Yet ſerpents lodge not in my brain.</l>
+                        </sp>
+                     </div>
+                  </div>
+                  <div n="2" type="act">
+                     <head>THE SECOND ACT.</head>
+                     <div n="1" type="scene">
+                        <head>The firſt Scene.</head>
+                        <stage>Which repreſents the top of Caucaſus.</stage>
+                        <stage>Prometheus, Peleus, a Quire of dumb men, and
+ſavage wmen.</stage>
+                        <p>
+                           <hi>PEleus</hi> being conducted by ſavage men and women,
+meets with <hi>Prometheus</hi> upon a Rock with his Eagle
+which gnawes upon his heart, and having made a light
+compariſon of their torments, <hi>Prometheus</hi> aſſures him that
+the Oracle of <hi>Delphos</hi> had foretold that <hi>Thetis</hi> ſhould bear a
+ſon greater then his Father; and that <hi>Iupiter</hi> alſo without
+doubt ſhould be conſtrained to renounce his pretention,
+and that <hi>Mercury</hi> having been ſent in his behalf to <hi>Iupiter,</hi>
+to acquaint him with the ſaying of the Oracle, the buſi|neſſe
+ſhould end to his contentment: <hi>Peleus</hi> hereupon re|turnes
+to <hi>Theſſaly</hi> extreamly comforted, and the ſavages
+upon hopes that <hi>Prometheus</hi> ſhould be freed from his tor|ment,
+<pb n="12" facs="12"/>
+and that <hi>Peleus</hi> ſhould obtain his hearts deſire, could
+not more lively expreſſe their joy then by a dance.</p>
+                        <stage>The fifth Entry.</stage>
+                        <stage>The Lords of Cheſnay, and Joyeux, the Lords la
+Marre, Monglas, Laleu, Raynall, Rod|dier,
+all Savages.</stage>
+                        <l>Wee value beautious cheeks, and how</l>
+                        <l>They muſt be uſed we alſo know,</l>
+                        <l>Nor ſuch rude ſavages are we,</l>
+                        <l>But civiliz'd we ſoon may be.</l>
+                     </div>
+                     <div n="2" type="scene">
+                        <head>The ſecond Scene.</head>
+                        <stage>Which diſcovers a place of Gold and ſtones.</stage>
+                        <p>Jupiter, Mercury, <hi>a dumb Quire of Wood-Nymphs.</hi>
+                        </p>
+                        <p>
+                           <hi>Jupiter</hi> meets with <hi>Mercury</hi> in this fair Palace which
+he had caus'd to be prepar'd in the ſecret place about
+<hi>Caucaſus,</hi> to celebrate his Nuptialls there without the
+knowledge of <hi>Iuno,</hi> and deviſing the means how to con|duct
+thither the new ſpouſe; <hi>Mercury</hi> gave him notice
+what the Oracle had ſaid; <hi>Iupiter</hi> being therewith ſur|priz'd,
+and fearing that the ſame diſtaſter might befall
+him there, which had happen'd 'twixt him and <hi>Saturn,</hi>
+makes love to yield to ambition, and retires to Heaven af|ter
+he had commanded <hi>Mercury</hi> to make it known that he
+would think on't no more, nor do an act ſo injurious to
+his Authority; the <hi>Dryades</hi> being Land-Nymphs, fell to
+be jealous of the good fortune of <hi>Thetis</hi> a Sea-goddeſſe, be|ing
+there as ſpies to give account to <hi>Juno</hi> of all the purpo|ſes
+of <hi>Jupiter,</hi> and they expreſſe by a dance the joy they
+conceived that <hi>Jupiter</hi> had altered his reſolutions.</p>
+                        <pb n="13" facs="12"/>
+                        <stage>The ſixth entry.</stage>
+                        <stage>Dryades or wood-Nymphs.</stage>
+                        <p>The King, the Dukes of <hi>Joyeuſe,</hi> and of <hi>Roquelaure,</hi> the
+Marquis of <hi>Genlis,</hi> Mounſier <hi>Bontemps,</hi> the Lords of <hi>Lorges,
+Deſairs, le Vaiſer, Verpre, Beauchamp, Molier, D'Olivet.</hi>
+                        </p>
+                        <sp>
+                           <speaker>For the King repreſenting a Dryade.</speaker>
+                           <lg n="1">
+                              <head>1.</head>
+                              <l>A Nymph as great as generous,</l>
+                              <l>In Oaks as green as pretious</l>
+                              <l>I lead a happy traine:</l>
+                              <l>My youthfull branches taper ſo,</l>
+                              <l>As if to heaven they would grow,</l>
+                              <l>And ſtarres ſalute would fain:</l>
+                              <l>They ſpread and ſhoot ſo bravely out, that they</l>
+                              <l>The glory of their root will not betray.</l>
+                           </lg>
+                           <lg n="2">
+                              <head>2.</head>
+                              <l>By their rind you well may know</l>
+                              <l>With what ſtrength and <hi>Sap</hi> theſe grow,</l>
+                              <l>and whence it ſprings.</l>
+                              <l>They may be fit <hi>Caeſars</hi> to make,</l>
+                              <l>Or <hi>Alexanders</hi> for to ſhake,</l>
+                              <l>with thouſand earthly Kings.</l>
+                           </lg>
+                           <lg n="3">
+                              <head>3.</head>
+                              <l>About this proud and Royall Tree</l>
+                              <l>Others do grow, but modeſtly</l>
+                              <l>They creepe more humble then the graſſe,</l>
+                              <l>So that one day 'twil come to paſſe,</l>
+                              <l>This Tree of Heaven may be made</l>
+                              <l>Unto the <hi>Europian</hi> world a ſhade.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>The Duke of Ioyeuſe repreſenting another
+Wood-Nymph.</speaker>
+                           <l>While the ſeaſons, rude and cold,</l>
+                           <l>I wonder none with me makes bold</l>
+                           <l>
+                              <pb n="14" facs="13"/>
+My wood hath this rare quality, it ſhall</l>
+                           <l>Burn, warme, and make no noyſe at all.</l>
+                        </sp>
+                        <sp>
+                           <speaker>The Duke of Roquelaure repreſenting
+alſo a Dryade.</speaker>
+                           <lg n="1">
+                              <head>1.</head>
+                              <l>Some hold me for a merry wench,</l>
+                              <l>And that I care not much for Continence,</l>
+                              <l>I am the greateſt babler I confeſſe,</l>
+                              <l>And imitate <hi>Vergonda</hi> by my treſſe.</l>
+                           </lg>
+                           <lg n="2">
+                              <head>2.</head>
+                              <l>There is no Forreſt but doth feel</l>
+                              <l>The ſtrokes of my victorious ſteel,</l>
+                              <l>As ſoone as I doe haunt a cops of wood,</l>
+                              <l>To bring the Axe among them were as good.</l>
+                           </lg>
+                           <lg n="3">
+                              <head>3.</head>
+                              <l>I have my vanities, beſides my Age</l>
+                              <l>By right of Impudence ſometimes doth rage,</l>
+                              <l>And if a Tree cleffed may chance,</l>
+                              <l>They preſently impute the cauſe to me.</l>
+                           </lg>
+                           <lg n="4">
+                              <head>4.</head>
+                              <l>But to conclude, ſweet Nymphs, my pleaſures ſhall</l>
+                              <l>Never hurt yours, therefore doubt not at all;</l>
+                              <l>To my beloved trunk ile ſo adhere,</l>
+                              <l>That for to injure others none ſhall feare.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>The Marriage of Genlis repreſenting
+the last Dryade.</speaker>
+                           <l>Within the bottom of a Grove</l>
+                           <l>A Satyre thereabouts did rove,</l>
+                           <l>Who held my honor at a bay,</l>
+                           <l>But hard it was for to diſplay</l>
+                           <l>Whether a reall <hi>Satyre,</hi> or one clad</l>
+                           <l>Like Satyres, or indeed a true <hi>Dryad.</hi>
+                           </l>
+                        </sp>
+                     </div>
+                     <div n="3" type="scene">
+                        <pb n="15" facs="13"/>
+                        <head>The Third Scene.</head>
+                        <stage>Which repreſents a Theater, and at the end of a
+proſpective, a Statue of God Mars.</stage>
+                        <stage>A Quire of Mars his Prieſts, with another dumb
+Quire of Theſſalian Knights.</stage>
+                        <p>The Cavaliers of the Principall City of <hi>Theſſalia</hi> being
+afflicted for the cruelty of <hi>Thetis</hi> againſt <hi>Peleus</hi> their Mo|narch,
+do bring in a combat at Barriers to the honor of
+<hi>Mars:</hi> in the mean time they offered ſacrifices on the o|ther
+ſide to the ſame God, with ſupplications, that he
+would imploy his credit with <hi>Venus</hi> for the returne of
+<hi>Peleus,</hi> and for mollifying the heart of <hi>Thetis;</hi> At this ſame
+time the Statue of <hi>Mars</hi> having ſpoken and foretold all
+good auguries, the Knights quit their armes and dance.</p>
+                        <stage>The ſeventh Entry.</stage>
+                        <stage>A combat at Barriers by the Knights of Theſſaly.</stage>
+                        <stage>The Count of Saint <hi>Aignan</hi>
+chiefe of the Defendants.</stage>
+                        <stage>Defendants
+<list>
+                              <item>Young <hi>Beaufort,</hi>
+                              </item>
+                              <item>San Maury,</item>
+                              <item>Deſens,</item>
+                              <item>Derville.</item>
+                           </list>
+                        </stage>
+                        <stage>M. <hi>Beaufort</hi> chiefe of the
+Appellants.</stage>
+                        <stage>Appellants
+<list>
+                              <item>Gamard,</item>
+                              <item>Clinchant,</item>
+                              <item>Ourdanlt,</item>
+                              <item>De Hallus.</item>
+                           </list>
+                        </stage>
+                        <sp>
+                           <speaker>For the Count Sant Aignan repreſenting a
+Theſſalian Knight.</speaker>
+                           <l>Attend me Lawrells, this combat's made</l>
+                           <l>To gain the glory of thoſe irons which hold</l>
+                           <l>Me captive, therefore I muſt be more bold</l>
+                           <l>Then any, and employ my truſty blade.</l>
+                           <l>
+                              <pb n="16" facs="14"/>
+What force can lance or ſword</l>
+                           <l>Againſt me then afford?</l>
+                        </sp>
+                     </div>
+                  </div>
+                  <div n="3" type="act">
+                     <head>THE THIRD ACT.</head>
+                     <div n="1" type="scene">
+                        <head>Firſt Scene.</head>
+                        <stage>Which repreſents the portall of Thetis Palace.</stage>
+                        <stage>Peleus, Chiron, a Quire of Chiron's Academiſts.</stage>
+                        <stage>
+                           <hi>PEleus</hi> being returned from <hi>Caucaſus,</hi> and living with
+<hi>Chiron,</hi> doth reſolve by his adviſes to preſent himſelfe
+to <hi>Thetis,</hi> and to make his addreſſe to her with amorous
+patheticall prayers, which he might do the more confi|dently
+by reaſon of <hi>Jupiter's</hi> declaration, wherein hee re|ſolved
+not to think any more on her; The Diſciples of
+the ſaid <hi>Chiron,</hi> the inventor and Maſter of many differing
+profeſſions frame a dance to expreſſe the joy they con|ceived
+for the return of <hi>Peleus.</hi>
+                        </stage>
+                        <stage>The eight Entry.</stage>
+                        <stage>Chiron making his Academy to dance for the enter|tainment
+of Peleus.</stage>
+                        <stage>Mounſieur <hi>Heſſelin</hi> Maſter of <hi>Chirons</hi> Academiſts.</stage>
+                        <stage>The Academiſts habited like Indians.</stage>
+                        <stage>The King,</stage>
+                        <stage>
+                           <hi>The Lords</hi> Saintot, Bon● emps, <hi>and</hi> Cabou, <hi>the Lords</hi> Mol|lier,
+Bruneau, Langlois, Beaucham, le Vacher, Baptiſte, D'Olvet,
+<hi>and</hi> de Lorges.</stage>
+                        <sp>
+                           <speaker>Chiron the Centaure who was to be repreſented by
+Mounſieur Heſſelin.</speaker>
+                           <lg>
+                              <l>Be not my friends at all aſtoniſhed</l>
+                              <l>To ſee a man onely for back and head,</l>
+                              <l>
+                                 <pb n="17" facs="14"/>
+He happy is who is a beaſt</l>
+                              <l>Backward, and not above the breſt.</l>
+                           </lg>
+                           <lg>
+                              <l>I find no incommodity</l>
+                              <l>That I am ſuch a prodigy,</l>
+                              <l>Half a man ſomtimes may need</l>
+                              <l>Half a horſe for better ſpeed.</l>
+                           </lg>
+                           <lg>
+                              <l>When I have moraliz'd by ſenſe,</l>
+                              <l>(Within my cell) neat and diſtinct</l>
+                              <l>Unto the ſtable, I withdraw me thence,</l>
+                              <l>From <hi>Reaſon</hi> taking pleaſure in <hi>inſtinct.</hi>
+                              </l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>The Maſter of the Academy repreſented by
+Maſter Heſſelin.</speaker>
+                           <l>If that my pride appear, I reaſon have,</l>
+                           <l>For I inſtruct all gallant men and brave,</l>
+                           <l>
+                              <hi>Lucre</hi> makes me not mercenary,</l>
+                           <l>But I do teach all frank and free,</l>
+                           <l>If 'mong my ſchollers<note n="*" place="marg" anchored="true">[King.]</note> one be pleas'd to pay,</l>
+                           <l>I can afford the reſt a good long day.</l>
+                        </sp>
+                        <sp>
+                           <speaker>For the King repreſenting an Academiſt.</speaker>
+                           <lg>
+                              <l>This young Academiſt doth learn ſo well</l>
+                              <l>His part, that all the reſt he doth excel;</l>
+                              <l>His preſent (and his future) Grandeur ſhow</l>
+                              <l>All mortall his high vertues are below.</l>
+                              <l>This Maſter piece to perfect, it ſeems that</l>
+                              <l>Fortune with Nature did cooperate.</l>
+                           </lg>
+                           <lg>
+                              <l>The Bodies exerciſe is his delight</l>
+                              <l>Againſt his own in many an eager fight;</l>
+                              <l>He beaten hath the iron, and made them fly</l>
+                              <l>A fair preſage of future victory</l>
+                              <l>He greater things prepares; And <hi>Spain</hi> ſhall find</l>
+                              <l>How dextrous he will prove in every kind.</l>
+                              <l>
+                                 <pb n="18" facs="15"/>
+He cannot broke any ſhould him exceed,</l>
+                              <l>Whether he runnes, or leaps, or mounts the Steed,</l>
+                              <l>In dancing neatly none ſurpaſſe him ſhall,</l>
+                              <l>The world admires him, only the Ladies are</l>
+                              <l>Wary, nor dare they what they thinke declare.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                     <div n="2" type="scene">
+                        <head>The ſecond Scene</head>
+                        <sp>
+                           <speaker>Thetis, Peleus, a dumb quire of Peleus Courtiers,
+and the little Maids of honor of Thetis Court.</speaker>
+                           <p>
+                              <hi>Peleus</hi> doth all he can to gain the good grace of <hi>Thetis,</hi>
+but ſhe continues ſtill in the ſame rigor, and as <hi>Proteus</hi>
+daughter, takes advantage of the priviledge of her birth
+to deceive <hi>Peleus</hi> by various ſhapes, yet he faints not in the
+pursuit, but begins to adde boldneſſe to affection: at laſt
+<hi>Thetis</hi> transformes her ſelfe to a Rock, which <hi>Peleus</hi> em|braceth,
+and proteſteth to periſh rather then forſake her;
+at this laſt proof of Conſtancy and love, <hi>Thetis</hi> yeelds, and
+accepts him for her husband; hereupon all <hi>Peleus</hi> Court
+falls into an exceſſs of gladneſſe, which makes the Cour|tiers
+to fall a dancing.</p>
+                           <stage>The ninth entry.</stage>
+                           <stage>Courtiers.</stage>
+                           <p>The Duke of <hi>Candale,</hi> the Marquis of <hi>Villequier,</hi> and of
+<hi>Genlis</hi> the Count.</p>
+                        </sp>
+                        <sp>
+                           <speaker>For the King who ſhould have repreſented a Courtier.</speaker>
+                           <lg>
+                              <l>This youthfull Courtier hath ſo high a look,</l>
+                              <l>As if for ſome great King himſelfe he took,</l>
+                              <l>He's forward, bold, and cannot be alone,</l>
+                              <l>Nothing doth pleaſe him more then to come on:</l>
+                              <l>He ſure will ſomething do:</l>
+                           </lg>
+                           <lg>
+                              <pb n="19" facs="15"/>
+                              <l>The charge we ſee he hath is honourable,</l>
+                              <l>And for his age very conſiderable,</l>
+                              <l>Some lofty ſpirits would be glad with leſſe,</l>
+                              <l>But he doth farre more glorious things profeſſe,</l>
+                              <l>ſure he will ſomething do.</l>
+                           </lg>
+                           <lg>
+                              <l>He ordinary titles doth excell,</l>
+                              <l>He would do better, though he now doth well,</l>
+                              <l>Had he no proceſſe with a neerally,</l>
+                              <l>Which yet doth ſet an edge on Majeſty,</l>
+                              <l>Sure he will ſomething do</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>The Duke of Candale, repreſenting a Courtier.</speaker>
+                           <l>The Court would not ſo ſplendid be and brave,</l>
+                           <l>Were I not there, nor halfe that luſtre have:</l>
+                           <l>We are the 'ffects of one another,</l>
+                           <l>We laugh, and play and ſport together,</l>
+                           <l>The <hi>Courtier</hi> may do <hi>Fortune</hi> a good turne</l>
+                           <l>As well as ſhe to him—</l>
+                        </sp>
+                        <sp>
+                           <speaker>The Marquis of Ʋillequier, repreſenting
+another Courtier.</speaker>
+                           <l>
+                              <hi>Fortune</hi> and <hi>Love</hi> are two odd things,</l>
+                           <l>The one is blinde, to'ther hath Wings,</l>
+                           <l>It is a tedious task and doubtfull gain</l>
+                           <l>The true good-will of either to obtain;</l>
+                           <l>For me, I like the lover, who doth go</l>
+                           <l>By way of ſtorming, and ends quickly ſo.</l>
+                           <l>I will not knock too long at one hearts dore,</l>
+                           <l>Leſt in the mean time I loſe hundreds more.</l>
+                        </sp>
+                        <sp>
+                           <speaker>The Marquis of Genlis repreſenting a
+Courtier alſo.</speaker>
+                           <l>In the Court a number te●ds</l>
+                           <l>To divers projects, divers ends,</l>
+                           <l>
+                              <pb n="20" facs="16"/>
+All oppoſed to one another,</l>
+                           <l>The ſiſters oft do croſs the brother,</l>
+                           <l>Touching my ſelfe, I hope to expedit</l>
+                           <l>My buſineſſe by my charming face and witt.</l>
+                        </sp>
+                     </div>
+                     <div n="3" type="scene">
+                        <head>The laſt Scene.</head>
+                        <stage>
+                           <hi>Thetis, Peleus,</hi> a quier of all the Deities, <hi>Prometheus,</hi> a
+dumb quier of loves, <hi>Hercules, Hymen, Juno,</hi> dumb perſona|g●s,
+a ſo a dumb quier of the Liberall and Mechanick Arts, a Ce|lestiall
+Harmony.</stage>
+                        <stage>
+                           <hi>Thetis</hi> and <hi>Peleus</hi> appear, being ſeated upon a high
+Throne, whereof the upper part changeth to a proſpe|ctive
+of the Firmament where the loves are ſeated; and the
+other part of the Scene formeth it ſelfe into a Cloud,
+athwart whereof all the Dieties do glitter, being invited
+to the Marriage: <hi>Hercules</hi> brings with him <hi>Prometheus</hi> freed
+by <hi>Jupiters</hi> order; in the mean time, <hi>Juno</hi> and <hi>Hymen</hi> ac|companyed
+by the intelligences that compoſe the Cele|ſtiall
+Harmony, deſcending in a great engine, all which
+being joyned to the Liberall and Mechanick Arts, which
+were the invention of <hi>Prometheus</hi> who conducted them
+thither, a great dance is formed on earth below, while the
+little loves make another in the heavens above at the
+ſame time.</stage>
+                        <stage>The laſt entry.</stage>
+                        <stage>The liberall Arts.</stage>
+                        <stage>Madam de Brancas, Madamoiſelle de Mancini, Madamoi|ſelle
+de Mortſmart, Madamoiſelle de la Riviere Bonnevill, Ma|damoiſelle
+de Fovilloux, Madomoiſelle Destree, Madamoiſelle
+de la loupe.</stage>
+                        <sp>
+                           <speaker>Madam Brancas repreſents Geometry.</speaker>
+                           <l>I trace the earth all over by account,</l>
+                           <l>As farre as <hi>Pindus</hi> or <hi>Parnaſſus</hi> Mount;</l>
+                           <l>
+                              <pb n="21" facs="16"/>
+I <hi>Corinth</hi> view, where every one</l>
+                           <l>Cannot arrive, 'tis I alone</l>
+                           <l>Who can by Land-ſkips, Mapps, and Inſtruments,</l>
+                           <l>Meaſure all Regions, and their vaſt extents.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Madamoiſelle Mancini, repreſenting Muſique.</speaker>
+                           <l>In me a comely ſpritfull grace,</l>
+                           <l>Makes <hi>Vniſons</hi> throughout my face:</l>
+                           <l>A charming harmony</l>
+                           <l>Moves betwixt lips and eye:</l>
+                           <l>Sometimes I melt, bring ſadneſſes and ſmarts,</l>
+                           <l>Which ſhews I am not welcome to all hearts.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Madamoiſelle de mortmart, repreſenting Logique.</speaker>
+                           <l>My youth, my hue, my eyes do prove,</l>
+                           <l>The ſtrongeſt <hi>Reaſon</hi> in the School of <hi>Love</hi>
+                           </l>
+                           <l>Is <hi>Beauty,</hi> 'twill convince the moſt auſtere,</l>
+                           <l>And make a <hi>Fool</hi> of a <hi>Philoſopher:</hi>
+                           </l>
+                           <l>I pray let this ſerve for an argument,</l>
+                           <l>I merit on Parnaſsus Hill a Tent.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Madamoiſelle d' Eſtre, repreſenting Aſtronomy.</speaker>
+                           <l>My mind is not ſo muſsled 'mong the clouds,</l>
+                           <l>But I can know the cauſes which by crouds</l>
+                           <l>Puzzle us here below; the ſtarres when I</l>
+                           <l>Was born, did ſmile at my Nativity,</l>
+                           <l>The Heavens did powre their graces in ſuch ſtore,</l>
+                           <l>That ever ſince it makes me them adore.</l>
+                           <pb n="22" facs="17"/>
+                        </sp>
+                        <sp>
+                           <speaker>Madamoiſelle delle Rivere Bonnevill repre|ſents
+Grammar.</speaker>
+                           <l>Though young and innocent, I have ſome fitts</l>
+                           <l>Of the Green ſickneſſe, yet I well may ſit</l>
+                           <l>Among theſe ſiſters, to my <hi>A. B. C.</hi>
+                           </l>
+                           <l>Ther's not an Art but 'tis an obligee:</l>
+                           <l>The ground-work I do lay, cut out, and trace,</l>
+                           <l>Therefore on <hi>Phocis</hi> Hill let me have place.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Madam de Fovilloux repreſenting Rhetorick.</speaker>
+                           <l>I uſefull am at Court, Hearts will not yield</l>
+                           <l>I ſnatch away, and ſo do winne the field,</l>
+                           <l>I conquer with my tongue which I do file,</l>
+                           <l>When I a charming beauty would beguile.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Madamoiſelle de la Loupe repreſenting
+Arithmetick.</speaker>
+                           <l>My youthfull charms make many hearts</l>
+                           <l>With grones, and ſighes, and ſobs to ſmart</l>
+                           <l>Beyond <hi>computing,</hi> yet could I</l>
+                           <l>To <hi>number</hi> them my ſelfe apply,</l>
+                           <l>But that thereof I make a ſmal account,</l>
+                           <l>They to ſo many <hi>Cyphers</hi> do amount.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Madam de Commenge repreſenting Iuno.</speaker>
+                           <l>Having immortall beauty in my face,</l>
+                           <l>Where roſes bloom, and Lillies ſtill have place,</l>
+                           <l>What reaſon is there I ſhould jealous be?</l>
+                           <l>Poor Mortalls be not ſo deceiv'd in me;</l>
+                           <l>I jealouſie do ſcorn with foul diſdain,</l>
+                           <l>I'le neither give nor take it, 'tis a grain</l>
+                           <l>
+                              <pb n="23" facs="17"/>
+Of curſed, ſeed that naturally doth bear</l>
+                           <l>A dry black leaf, which will the heart ſtrings teare.</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hymen repreſented by the Duke of Ioyeuſe.</speaker>
+                           <l>I am as ſerious, as <hi>Cupid</hi> is a ſot,</l>
+                           <l>I turn his flames to vertue every jot,</l>
+                           <l>Madam <hi>de Puy</hi> knowes well no Blonden is</l>
+                           <l>So frequent with <hi>chaſt</hi> maids though full of wiſh.</l>
+                        </sp>
+                        <sp>
+                           <speaker>The Duke Damville repreſenting Hercules.</speaker>
+                           <l>In the behalf of <hi>Love</hi> whoſe pleaſing bait,</l>
+                           <l>Have done me ſuch good offices and bad,</l>
+                           <l>I muſt begin my <hi>Labours,</hi> and go clad</l>
+                           <l>On <hi>Venus</hi> ſhrine, and Altars for to wait;</l>
+                           <l>I find my veines and paſſions all as hot</l>
+                           <l>My heart as vigorous as 'twas at firſt,</l>
+                           <l>Ther's nothing in me that's decay'd a jot,</l>
+                           <l>For glory alſo I ne're more did thirſt:</l>
+                           <l>Only my feet are not ſo quick, as when</l>
+                           <l>I deceive did my hoſt, and may agen.</l>
+                        </sp>
+                        <list>
+                           <head>The Mechanique Arts.</head>
+                           <item>The King repreſents repreſents Warre,</item>
+                           <item>The Count St. <hi>Aignan</hi> repreſents Agriculture,</item>
+                           <item>De Verpre repreſents Navigation,</item>
+                           <item>De Lorges repreſents Hunting,</item>
+                           <item>Le Vacher repreſents a Goldſmith,</item>
+                           <item>Beauchamp repreſents a Painter,</item>
+                           <item>D' olivet repreſents Chirurgery.</item>
+                        </list>
+                        <sp>
+                           <speaker>The King repreſenting Warre.</speaker>
+                           <lg>
+                              <l>Peace, ſure thou'lt come at laſt ſo much deſir'd,</l>
+                              <l>Who haſt to heaven thy ſelf ſo long retir'd</l>
+                              <l>And we muſt be</l>
+                              <l>Thankfull to Warre for thee.</l>
+                              <l>
+                                 <pb n="24" facs="18"/>
+Behold ſhe comes, and ſhe to me is ſent</l>
+                              <l>To make me have a timely ſentiment</l>
+                              <l>Of <hi>Europes</hi> dolefull caſe, lo, ſhe doth bring</l>
+                              <l>Lawrels &amp; palms, fit preſents for a King.</l>
+                           </lg>
+                           <lg>
+                              <l>Ye charming Femals, from your eyes</l>
+                              <l>It is, that warrs and tumults riſe</l>
+                              <l>You dart the thunderbolts of ſtrife,</l>
+                              <l>You have your trumpets, drum and fife,</l>
+                              <l>
+                                 <hi>Venus</hi> we know is <hi>Mars</hi> his wife.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>The Count Saint Aignan repreſents Agricul|ture
+or Husbandry.</speaker>
+                           <l>By toyling much both night and day</l>
+                           <l>In <hi>Mars</hi> his field, &amp; <hi>Venus dales,</hi>
+                           </l>
+                           <l>I glory have obtain'd, they ſay,</l>
+                           <l>Having ſtill propitious gales;</l>
+                           <l>I have got Laurells, but the bloom</l>
+                           <l>Is paſs'd, the fruit is not yet come.</l>
+                        </sp>
+                        <stage>A Quire of Loves.</stage>
+                        <stage>The Duke of <hi>Anjou</hi> the Kings brother, the Count of
+<hi>Guiche,</hi> the Marquis of <hi>Villeroy,</hi> the little Count of Saint
+<hi>Aignan,</hi> little <hi>Raſſent</hi> page of the Chamber, <hi>Laleu, Do|nart</hi>
+and <hi>Aubry.</hi>
+                        </stage>
+                        <sp>
+                           <speaker>For Mounſieur, repreſenting the firſt love.</speaker>
+                           <l>Ladies, from this tender ſpray</l>
+                           <l>There may ſome danger come one day,</l>
+                           <l>Ye with careſſes flatter him, he you,</l>
+                           <l>Ye kiſs, &amp; hugg him, but you'l find it true,</l>
+                           <l>It is a Lions cubb which yon do ſtroke,</l>
+                           <l>Who with his paw in time may make you ſmoke;</l>
+                           <l>
+                              <pb n="25" facs="18"/>
+He ſports with you, he ſmiles and mocks,</l>
+                           <l>Playes with your jewells, fancies, locks,</l>
+                           <l>But take yee heed, for he at length</l>
+                           <l>Will gather more encreaſe of ſtrength;</l>
+                           <l>Yet, I foreſee he will wean quite</l>
+                           <l>Himſelf from all ſuch ſoft delight;</l>
+                           <l>And marching in the ſteps of his great ſires</l>
+                           <l>Make <hi>Glory</hi> the ſole <hi>Queen</hi> of his deſires.</l>
+                        </sp>
+                        <sp>
+                           <speaker>The Count of Guyche repreſenting
+another love.</speaker>
+                           <l>All thoſe Loves I do behold</l>
+                           <l>Brighter then the burniſh'd gold,</l>
+                           <l>Are nothing if compar'd with me,</l>
+                           <l>Whether Fire, or Light they be,</l>
+                           <l>I do diſcover in effect</l>
+                           <l>I am all love, when I reflect</l>
+                           <l>upon my ſelf—</l>
+                        </sp>
+                        <sp>
+                           <speaker>The Marquis of Villeroy repreſenting
+another Love.</speaker>
+                           <l>I peep to hear what lovers ſay,</l>
+                           <l>When they whiſper ſport or play;</l>
+                           <l>And ſometimes lay</l>
+                           <l>Traps in their way.</l>
+                        </sp>
+                        <sp>
+                           <speaker>For the little Count of Saint Aignan repreſen|ting
+another Love.</speaker>
+                           <l>If hee be as diſcreet as is his mother,</l>
+                           <l>He will neglect the love of any other,</l>
+                           <l>But if the father he be like unto,</l>
+                           <l>He miſtreſſes will have &amp; Beauties wooe.</l>
+                           <pb n="26" facs="19"/>
+                        </sp>
+                        <sp>
+                           <speaker>For litle Raſſent repreſenting another
+Love.</speaker>
+                           <l>Our talents are diverſified,</l>
+                           <l>Each one hath his perfections aſide;
+For me,</l>
+                           <l>Till I have wings, 'tis meet</l>
+                           <l>I fence my ſelf with feet.</l>
+                        </sp>
+                     </div>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         </TEI>
+

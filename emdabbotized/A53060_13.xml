@@ -1,0 +1,2304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+	 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+            <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+         </titleStmt>
+         <extent>356 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 March (TCP phase 1)</date>
+            <idno type="marc">11861873</idno>
+            <idno type="stc">Wing N868.</idno>
+            <idno type="vid">50022</idno>
+            <idno type="DLPS">A53060</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+                  <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+                  <author>Newcastle, William Cavendish, 1592-1676.</author>
+               </titleStmt>
+               <extent>[24], 679 [i.e. 675], [4] p. : ill.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by A. Warren, for John Martyn, James Allestry, and Tho. Dicas ...,</publisher>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>First edition.</p>
+                  </note>
+                  <note>
+                     <p>Errata: p. [4] at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text><body><div n="2" type="play">
+            <pb facs="240"/>
+            <div type="dramatis_personae">
+               <list>
+                  <head>The Actors Names.</head>
+                  <item>
+                     <hi>Sir</hi> William Lovewell, <hi>and the Lady</hi> Hypocondria <hi>his wife.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Henry Sage, <hi>and the Lady</hi> Chastity <hi>his wife.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Edward Courtly, and the Lady <hi>Jealousie</hi> his Wife.</item>
+                  <item>
+                     <hi>Sir Humphrey Disagree,</hi> and the Lady <hi>Disagree</hi> his Wife.</item>
+                  <item>
+                     <hi>Sir</hi> Thomas Cuckold, <hi>and the Lady</hi> Wanton <hi>his wife.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Timothy Spendall, <hi>and the Lady</hi> Poverty <hi>his wife.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Francis Inconstant, <hi>and the Lady</hi> Inconstant <hi>his wife.</hi>
+                  </item>
+                  <item>
+                     <hi>Monsieur</hi> Amorous.</item>
+                  <item>
+                     <hi>The Lady</hi> Procurer.</item>
+                  <item>
+                     <hi>Monsieur</hi> Disguise.</item>
+                  <item>Mistris <hi>Single,</hi> sister to the Lady <hi>Jealousie.</hi>
+                  </item>
+                  <item>
+                     <hi>Master</hi> Make-peace, <hi>Sir</hi> Humphrey Disagree's <hi>Friend.</hi>
+                  </item>
+                  <item>
+                     <hi>Master</hi> Perswader, <hi>the Lady</hi> Disagree's <hi>Chaplin.</hi>
+                  </item>
+                  <item>
+                     <hi>Nan Lightheel,</hi> and Many other Maid-Servants of the several La|dies.</item>
+                  <item>
+                     <hi>Roger Trusty,</hi> man to Sir <hi>VVilliam Lovewel,</hi> and other men-ser-servants of his, and the rest of the Knights.</item>
+                  <item>
+                     <hi>Raillery Jester,</hi> the Lady <hi>Jealousies</hi> Fool.</item>
+               </list>
+            </div>
+            <div n="1" type="act">
+               <pb facs="241"/>
+               <head>THE Second Part of the PLAY Called the MATRIMONIAL TROUBLE A COME-TRAGEDY.</head>
+               <head type="sub">ACT I.</head>
+               <div n="1" type="scene">
+                  <head>Scene. 1.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Procurer, <hi>and Sir</hi> Henry Sage.</stage>
+                  <sp>
+                     <speaker>LAdy Procurer.</speaker>
+                     <p>Sir <hi>Henry,</hi> by reason my Lady is gone abroad, I make bold to visit you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>I perceive I am oblig'd to my Wifes absence for your Visit, Madam.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>'Faith, to tell you the truth, we women had ra|ther visit men when they are alone, than when they have company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>Then men and women agree better with particular, than with the general.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>They do so, yet they love varietyes best.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>That's natural, for the Senses to delight in variety.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>It is so, and yet our Civil and Divine Laws have forbid the use of Varieties, which (me thinks) is very unconscionable and unnatural.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>But if some of the natural Appetites and Actions were not restrain'd by Laws, no Comman-wealth could subsist.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>How did the <hi>Lacedemonians</hi> subsist? they liv'd all in common; and had not all <hi>Greece</hi> been imbroyl'd with VVars, their Common-wealth might have lasted to this day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>The <hi>Lacedemonians</hi> had stricter Lawes than the Common-wealth which we live in, and are of: for though they gave more liberty and free|dom to some Actions than our Governments do, yet they were stricter in o|thers; and breakers of their Lawes were more severely punish'd, even in the smallest breach, than the breakers of our Laws are almost in the greatest breach.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>I am sure the Maker of the <hi>Lacedemonian</hi> Laws was a wise man,
+<pb n="459" facs="241"/>
+and a kind-hearted man, in Decreeing for the Increase of Mankino, yet by some of his Laws he seem'd but a Sloven: for he banish'd all curidsity and neatness, and I believe, many conveniences: Also he seem'd to be a man of a weak stomach,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>He rather seem'd of a strong stomach, and a greedy appetite, by the course diet he brought men to live with; but (for my part) If I should judge of the <hi>Lacedemonians</hi> Laws, I should judge that they strove to bring men to be like beasts, rather than to make them like as Gods, which men should strive to be.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>By your favour Sir, there can be no Law that can keep men from being horned beasts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>Whose fault is that, Madam? not mens which make the Laws, but womens that break the Laws.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>It is mens fault, for giving women such liberty: And let me tell you Sir, women are such subtil creatures, as they strive first to get an honou|rable esteem from their Friends and Husbands, and a belief of their Cha|stity; and when they have secured mens jealousies, they make their Hus|bands Cuckolds, which all their Neighbours perceive, although the Husband is blind and muffl'd with affection.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>Madam, your Sex deserve a better Character than you give of them: for by your description there are few chaste.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Every woman knows the humours of her own Sex better than men know the humours of one another: wherefore let me advise you, Sir <hi>Henry Sage,</hi> to watch my Lady your Wife: for many, to my knowledge, seek for to corrupt her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>Madam, although she is one of your Sex, yet she is of an Angelical nature, and not corruptible.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Sir, I am your humble servant, and I wish your Angel may not fall from Virtue into Vice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>I have no jealous doubt, Madam.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>I wonder at it: for wise men use to doubt.</p>
+                  </sp>
+                  <stage>He leads her forth. Exeunt.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene 2.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Edward Courtly, <hi>and the Lady</hi> Jealousie.</stage>
+                  <sp>
+                     <speaker>COurtly.</speaker>
+                     <p>Wife, I have given you warning twice, beware of the third time, that you receive no Masculine Visiters: for by Heaven, if you do, I will hang you up in my garters.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iealousie.</speaker>
+                     <p>Do if you dare, I will have those that shall cut your throat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Courtly.</speaker>
+                     <p>You could not fright me with your Champions, were I a coward: for they are Carpet-Knights, and dare not fight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iealousie.</speaker>
+                     <p>They dare more than you dare.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Edward Courtly <hi>takes off a garter, or some other string or ribband about his cloaths, and makes her believe he will strangle her.</hi>
+                  </stage>
+                  <sp>
+                     <pb n="460" facs="242"/>
+                     <speaker>Courtly.</speaker>
+                     <p>By Heaven I'll give an Example to all men that love their Honour, and hate to be Cuckolds.</p>
+                  </sp>
+                  <stage>He takes the string, and offers to put it about her neck. She is afraid.</stage>
+                  <sp>
+                     <speaker>Iealousie.</speaker>
+                     <p>O Husband, Husband, spare me, spare me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Courtly.</speaker>
+                     <p>Wife, you may make me a Fool, but not unman me; you may flatter me, but not frighten me; you may make me commit an indiscretion, but never to be Effeminate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iealousie.</speaker>
+                     <p>O mercy, mercy, Husband, do but spare me this time, and I will be the best wife in the World.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Courtly.</speaker>
+                     <p>Well, I will pardon you this time; and know, VVife, that though I am willing to part with my Breeches and Doublet to give them you, yet I will never part with my Sword and my Spurs, which is my Courage and my Management: And I will give you all liberty in Vanity, but not in Dis|honesty; you shall keep the Purse, but not manage the Horse: Also let me tell you, that it is not enough to be honest, but you must give no suspicion to the contrary.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scene 3.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Procurer, <hi>and the Lady</hi> VVanton.</stage>
+                  <sp>
+                     <speaker>LAdy Procurer.</speaker>
+                     <p>Come, Come Madam, are you ready? for Monsieur <hi>A|morous</hi> hath provided a great and costly Banquet for you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>I am ready, I did only stay for you to go along with me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>But will not your Husband watch whither we go?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>O no: for he believes I am going to the Lady <hi>Breeders</hi> Up|sitting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>That's well be is so credulous to believe so easily whatsoever you would have him believe, and if he be but as obstinate of belief of that you would not have him believe you are happy, for let me tell you, that all men hath not that spiritual gift of Faith, but have strange opinions, and full of doubts, and suspitions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVanton.</speaker>
+                     <p>Nay, I thank <hi>Iove,</hi> I have as good a Husband, as any woman whatsoever hath.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Prethee Madam leave some thanks for your loving servant, which loves, and adores you more than he doth Heaven, and worships you as his only Goddess.</p>
+                  </sp>
+                  <sp>
+                     <speaker>VVanton.</speaker>
+                     <p>He shall not pray in vain, nor shall I be as an Idoll made of Stone, or Brass.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Come your wayes then.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <pb n="461" facs="242"/>
+                  <head>Scene 4.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Disguise <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MOnsieur Disguise.</speaker>
+                     <p>O man! O man! inconstant man! false and perjuri|ous man! flattering dissembling man! and the worst of Mankind is <hi>Sir Francis Inconstant</hi>! He hath not only forsaken me, but forgot me, drown|ing the memory of me in his superfluous Cups. O <hi>Pluto,</hi> from whence all wickedness proceeds, make his fair Bride as false to him, as he hath prov'd to me, and sill his mind with furious Jealousie.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="5" type="scene">
+                  <head>Scene 5.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Hypocondria, <hi>as at her Husband Sir</hi> VVilliam Lovewells <hi>Closet-door; she knocks at the door.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LOvewel.</speaker>
+                     <p>Who's there?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>'Tis I, Husband.</p>
+                  </sp>
+                  <stage>She enters.</stage>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>I may bid you welcome, VVife: for you are a stranger here.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>Truly Husband, I should not have disturb'd you, but that I was afraid you were not well: for I came two or three times to the door, and heard no noise, which made me afraid you might be in a swoun, or dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>I thank you for your loving fear and care of me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>You may think this is an over-fond humour in me; but I have heard of many that have been found dead in their Beds, and in their Closets, when as their Friends never mistrusted it, but thought they were asleep, or a● study, which if they had been found or known in time, they might have been recover'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewell.</speaker>
+                     <p>You say true Wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>But now I know you are well, I will not disturb you any longer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewell.</speaker>
+                     <p>I will bear your kindness company.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <pb n="462" facs="243"/>
+                  <head>Scene 6.</head>
+                  <stage>
+                     <hi>Enter</hi> Sir Henry Sage, <hi>and the Lady</hi> Chastity <hi>his Wife.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SAge.</speaker>
+                     <p>VVife, thou art false.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Chastity.</speaker>
+                     <p>'Tis strange to hear you say so, when but yesterday you made me such protestations of your Faith, believing I was Virtuous, Chaste, and full of Truth, which I did think Time had not power to alter your belief, and such Vows and Protestations of your Affections to me, as if the fire of Love within your heart did burn so clear, and flame so high, as nought could quench it out but Death's cold damps, yet not so much, but still a heat with|in the ashes would remain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>I confess, VVife, my doubts of Love did make me to try, at least to say so to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Chastity.</speaker>
+                     <p>True Love never makes doubts; and though you can dissemble with me, I cannot dissemble with you, could the Gods command me, as they cannot, things unjust.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>I perceive you are angry, VVife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Chastity.</speaker>
+                     <p>No truly Husband, I am rather griev'd than angry, to think my honest truth mistrusted: for Doubts are unjust to great Affections, true Love, and good Intentions; and Examinations are scandalous to a strict chaste life, and makes it seem as criminal: but could the VVorld lay fals|hood to your charge, and should condemn you, yet my Affections would set you free, and rather tax my self for want of Merit to deserve your Love, than you want love to give Desert.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>Prethee VVife be not griev'd nor angry, for 'tis natural for Love to be suspicious: wherefore pray forgive my doubts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Chastity.</speaker>
+                     <p>My nature is to forgive, and not to bear a grudge or spleen in minde.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sage.</speaker>
+                     <p>Then we are friends again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Chastity.</speaker>
+                     <p>My love is still the same, not to be alter'd.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="7" type="scene">
+                  <head>Scene 7.</head>
+                  <stage>
+                     <hi>Enter Mistris</hi> Single, <hi>the Lady</hi> Jealousies <hi>sister, and</hi> Rail|lery Jester <hi>the Fool.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MIstris Single.</speaker>
+                     <p>Fool, How many degrees is there in Understanding?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iester.</speaker>
+                     <p>Three.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>Distinguish them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iester.</speaker>
+                     <p>There is a Coelestial Understanding, a Terrestrial Understanding, and an Understanding betwixt both, as an Airestial Understanding: Those that are Coelestial, are wise men; those that are Terrestrial, are fools; and those that are betwixt both, as Airestial, are half-witted men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>I thought you would have said that those that were Terrestrial, were beasts.</p>
+                  </sp>
+                  <sp>
+                     <pb n="463" facs="243"/>
+                     <speaker>Iester.</speaker>
+                     <p>O no: for beasts are one degree above wise men, two degrees a||bove half witted men, and three degrees above fools.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>But how will you make that good, that beasts are wiser than wise men?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iester.</speaker>
+                     <p>By all their actions: for beasts (for the most part) are more indu|strious, prudent, temperate, and peaceable, than the best of men; neither do they trouble their heads, nor break their sleeps, about the trifles of the World, but govern their Affairs easily, and live orderly, every several kind agreeing amongst themselves; besides, we are taught to imitate the Ser|pent and the Dove, and Examples are Principles, and the Original is to be preferr'd before the Copy, the Sample before the Pattern. Thus a Beast is preferr'd before a Wise man, by reason all Men must learn of Beasts to be wise, and of Birds to be virtuously honest, as to be harmless.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="8" type="scene">
+                  <head>Scene 8.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Hypocondria, <hi>and her Maid</hi> Joan.</stage>
+                  <sp>
+                     <speaker>MAid Ioan.</speaker>
+                     <p>Certainly Madam, you will starve your self with eating so little.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>Why a little serves Nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>Yes; but there are great differences betwixt Natures: for mankind requires more food than some kind of beasts or birds; for a man would be starv'd, if he should eat no more than a Dormouse, or a Camelion, or a Sparrow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>But a Sparrow cannot eat so much as an Eagle, nor an Eagle so much as an Estrich: Likewise, as it is with Bird-kind, so it is with Man|kind, some would starve with that proportion another would surfet on.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>But surely there are none that could surfet with your diet, as with Water and Air, nay (most commonly) nothing but Air, Camelion-like: for you oft times for a week together neither eat bit, nor drink a drop; and that which makes me wonder more, is, that you naturally have a very good sto|mach, and can eat, when you please, very heartily, and it thrives well with you; but my greater wonder is, that when you do fast, eating now and then a bit, week after week, nay moneth after moneth, yet you are not so lean, as to appear a Skeleton, nor so weak, but you can walk two hours without re|sting, or being very weary.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>Oh Custome is a second Nature, <hi>Ioan.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>I would have your Ladyship accustome your self to live without eating, and then you will be set in a Chronicle.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>Who would strive for that, since most think Chronologers are Artificers, and that their Chronicles are false.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>Why some will believe it; and it were better to live in the memo|ry of a few, than to die to all memory, and to live by nothing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>I would have my Fame live only by singular and transcending Merits, not by singular and melancholy Follies. I know my Errors, though I cannot mend my Faults.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <pb n="464" facs="244"/>
+               <head>ACT II.</head>
+               <div n="9" type="scene">
+                  <head>Scene 9.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Procurer, <hi>and the Lady</hi> VVanton.</stage>
+                  <sp>
+                     <speaker>PRocurer.</speaker>
+                     <p>Well Madam, you are to give me thanks for bringing you ac|quainted with Monsieur <hi>Amorous:</hi> for he is as fine a Gentleman as any our Nation hath.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>Indeed he is the most obligingst person as ever I met with; but pray Madam, what said he of me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>O he raves in your praise: He says you are the finest, sweetest, fairest and kindest Lady that ever was: but did not your Husband examine you when you came home?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>No 'faith, not much, some slight questions he ask'd; but come into my Chamber, and there let us discourse of Monsieur <hi>Amorous.</hi>
+                     </p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="10" type="scene">
+                  <head>Scene 10.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Jealousie, <hi>beating her Maid</hi> Nan.</stage>
+                  <sp>
+                     <speaker>JEalousie.</speaker>
+                     <p>I will make you humbler than to give me such unmannerly words. What had you to do in my Husbands, your Masters Chamber?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nan.</speaker>
+                     <p>I went to speak with <hi>Tom</hi> my Masters barber.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iealousie.</speaker>
+                     <p>What had you to do with your Masters barber? I am sure you had no use for him; but I will beat you so, as you shall not be able to stir, much less to go frisking into your Masters Chamber so often as you do.</p>
+                  </sp>
+                  <stage>
+                     <hi>Falls a beating her again</hi>: Nan <hi>runs crying from her Lady, her Lady follows her. Enters</hi> Raillery Jester <hi>the Fool.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>What a Volly of words their gun-powder breath, and the fire-lock of their anger hath shot into my Ears, giving me no warning to baracade them up, but hath surprized my brain by their sudden assault, and hath blown up the Magazines of my Contemplations; but all creatures love to make a noise, beasts vocally, men verbally, and some actually in boyste|rous deeds.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Mistris</hi> Single.</stage>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>How now Fool, what's the matter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Why this is the matter fool, thy Sister fool hath beaten her Maid fool, for kissing her Master fool.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>For kissing her Masters fool, say you?</p>
+                  </sp>
+                  <sp>
+                     <pb n="465" facs="244"/>
+                     <speaker>Fool.</speaker>
+                     <p>Nay by'r Lady, if she had done so, she had been wise: for if she had kiss'd me, she had not been beaten; but she did not kiss me, <hi>Ergo</hi> she's a fool.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="11" type="scene">
+                  <head>Scene. 11.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Hypocondria, <hi>and Sir</hi> VVilliam Lovewell <hi>her Husband.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>HYpocondria.</speaker>
+                     <p>Husband, why seem you so sad?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>My love to you makes me sad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>To me? Heaven bless me, what do you see in me to make you sad?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>Why for these passions and ●rights that you fall into, like one in an Epilepsie, and now you look as pale, as if you were ready to fall down dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>Alas Husband, consider it is a timorous effect of Love, which is to be pardon'd, since it proceeds from the kindness I have to my Friends; it is honourable to the World, and no dishonour to you, but only trouble|some to my self, and to those I naturally love, as Husband, Children, Father, Mother, Brothers, and Sisters: And though fond Love and vain Fears may be produced from the melancholy Spleen, yet those fears that proceed from my firm, true, and honest Affection, are created in the Soul: for noble, and honourable, and honest Fears, are the natural Issues of pure Love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>But Reason, the chief Magistrate of the Soul, and Governour of the Passions, should temper the Excess.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>O Husband, when Love comes to be temper'd, it loses or quit● the essential part, and the vertical strength: for true Love is pure like gold, which is debased with an allay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>But as Allay makes gold work better for use, so Temperance makes Love Happy for life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>Well Husband, I will strive to love with Discretion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>Pray do, and goe abroad, to divert your melancholy, and eat as others do, that may have good meat and drink, and not live by the Air, as you do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>I shall obey you.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="12" type="scene">
+                  <head>Scene 12.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Inconstant <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Inconstant.</speaker>
+                     <p>O <hi>Cupid,</hi> thou art a cruel Tyrant, making more wounds than remedies! And I am wounded so, as I am sick with Love, and
+<pb n="466" facs="245"/>
+cannot live unless I am belov'd again.</p>
+                     <l>To make my Passions know, is all my care,</l>
+                     <l>Lest he should love me not, is all my fear.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="13" type="scene">
+                  <head>Scene. 13.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Procurer, <hi>and Sir</hi> Thomas Cuckold.</stage>
+                  <sp>
+                     <speaker>LAdy Procurer.</speaker>
+                     <p>Sir <hi>Thomas Cuckold,</hi> Monsieur <hi>Amorous</hi> desires very much to make friendship with you: for he is so taken with your Civilities, and your courteous Demeanors when he was to visit you, that he swears you are one of the finest Gentlemen in the Kingdome: He says you are so gravely wise, so hospitably kind, and so generously free, as he honours you, and loves you with his soul.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cuckold.</speaker>
+                     <p>I am his very humble Servant, and shall be glad, nay proud of such a worthy Friend as Monsieur <hi>Amorous.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Have you returned his Visit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cuckold.</speaker>
+                     <p>No; but I'll go wait upon him immediatly.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="14" type="scene">
+                  <head>Scene 14.</head>
+                  <stage>
+                     <hi>Enter</hi> Nan <hi>the Lady</hi> Jealousies <hi>Maid, going through the room cry|ing, and the Fool following her singing.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>FOol.</speaker>
+                     <l>Childrens eyes are always flowing,</l>
+                     <l>Womens tongues are always going,</l>
+                     <l>And mens brains are always musing,</l>
+                     <l>And mans natures all abusing,</l>
+                     <l>And mans life is always running,</l>
+                     <l>And mans death is always comming.</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter Mistris</hi> Single.</stage>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>VVhose death is comming?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Yours for any thing I know: wherefore take heed; for let me tell you; Death is a rough fellow: for he pulls the soul out of the body, as a Barber-Chirurgeon doth a tooth, sometimes with less pain, sometimes with more; but many times Death is forc'd to tear the body, as a Tooth-drawer tears the jaw-bone, before he can get it out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>VVhat Instruments doth Death draw out the Soul with?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Sickness, VVounds, Passions, Accidents, and the like.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>But how came Death and you so well acquainted?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>VVe are near a Kin: for Death and Ignorance are Cousin-Ger|mans.</p>
+                  </sp>
+                  <sp>
+                     <pb n="467" facs="245"/>
+                     <speaker>Single.</speaker>
+                     <p>'Faith thou art rather a Knave than a Fool, and a Knave is nearer a-kin to Life than Death.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="15" type="scene">
+                  <head>Scene 15.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Disagree, <hi>and her Chaplin Master</hi> Perswader.</stage>
+                  <sp>
+                     <speaker>DIsagree.</speaker>
+                     <p>VVell, I am resolv'd to be Divorced from my Husband, for I cannot endure his tyranny any longer: for he will let me have my will in nothing, crosses and contradicts me in every thing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perswader.</speaker>
+                     <p>Madam, we are taught to obey and humble our selves to our Superiours, and the Husband is the Master of his Family, the Governour of his Estate, and Ruler and Disposer of his Children, the Guide and Protector of his VVife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disagree.</speaker>
+                     <p>Yes, he protects me well indeed, when he breaks my head.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perswader.</speaker>
+                     <p>May be your Ladyship doth provoke him with some unkind words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disagree.</speaker>
+                     <p>VVhat unkind words were they? I only said that Goos-quils made the best pens to write with, and he said no, that Crows-quils were better for that purpose: 'tis true, at last I returned as bad words as he flung at me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perswader.</speaker>
+                     <p>Truly Madam, it is a great grief to your friends and servants, to see yoo live so disquietous together; besides, you torment your selves with your own anger.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disagree.</speaker>
+                     <p>That's the reason I would part: for I will never be a slave to his humour, I will rather chuse to die first.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="16" type="scene">
+                  <head>Scene 16.</head>
+                  <stage>
+                     <hi>Enter</hi> Sir Humphrey Disagree, <hi>and Master</hi> Makepeace <hi>his Friend.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SIr Hum. Disagree.</speaker>
+                     <p>It were better we were parted, than to live in a perpe|tual war together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Makepeace.</speaker>
+                     <p>But Sir, is it not possible to temper your Passion?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disagree.</speaker>
+                     <p>No truly: for her words are so sharp, and pierce so deep, that they make me as furious as a wilde Boar that is hurt with a Javelin: And since she cannot temper her Tongue, nor I temper my Passion, it will be best for us to live asunder: for absence is the best and most certain remedy I can think of.</p>
+                  </sp>
+               </div>
+               <div n="17" type="scene">
+                  <pb n="468" facs="246"/>
+                  <head>Scene 17.</head>
+                  <stage>
+                     <hi>Enter two</hi> Serving-men <hi>of Sir</hi> VVilliam Lovewels.</stage>
+                  <sp>
+                     <speaker>1 <hi>SErvant.</hi>
+                     </speaker>
+                     <p>Have not you heard that my Master hath had a Quarrel, and is wounded?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Servant.</hi>
+                     </speaker>
+                     <p>Yes; and 'tis said he fought so valiantly, as he beat half a do|zen lusty men, and followed them so close, as they were forc'd to take shelter; and I have also heard, that one of them he beat, swears to be re|venged.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Servant.</hi>
+                     </speaker>
+                     <p>But if my Lady hears of it, she will run mad, or die.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Servant.</hi>
+                     </speaker>
+                     <p>O no, my Lady (<hi>Ioan</hi> says) hath left those follies, and is be|come discreet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Servant.</hi>
+                     </speaker>
+                     <p>Discreet? what is that? to be ill-natur'd, as not to care if her Husband or Friends be kill'd?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Servant.</hi>
+                     </speaker>
+                     <p>O yes, so much to care, as to pity them, and be sorry, nay sad, if they should be kill'd; but not passionately to drown themselves in tears, or to let their grief feed on their life, and die.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="18" type="scene">
+                  <head>Scene 18.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Amorous <hi>and Sir</hi> Thomas Cuckold: <hi>They meet each other, and imbrace as two dear Friends.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>CUckold.</speaker>
+                     <p>O my sweet <hi>Amorous</hi>!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>O my dear <hi>Cuckold,</hi> the delight of my Life!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cuckold.</speaker>
+                     <p>'Faith <hi>Amorous</hi> I have been to seek you all the Town over, and my Lady <hi>Procurer</hi> met me, and sent me to the other end of the City, telling me you were at the Horn-Tavern.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>Why do you not know her humour? she will serve you twen|ty such tricks: for she is the veriest Wag in all the Town, although she is in years.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cuckold.</speaker>
+                     <p>Well, if I be not even with her, as very a Wag as she is, let me be condemn'd for a fool.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <pb n="469" facs="246"/>
+               <head>ACT III.</head>
+               <div n="19" type="scene">
+                  <head>Scene 19.</head>
+                  <stage>
+                     <hi>Enter a Maid as to her Lady, the Lady</hi> Hypocondria.</stage>
+                  <sp>
+                     <speaker>MAid.</speaker>
+                     <p>O Madam, my Master is comming home, being wounded in a Duel.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Lady ●wouns.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>Help, help, my Lady, my Lady.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Joan <hi>her Maid.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>What's the matter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>My Lady is kill'd with the report of my Masters being hurt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>It were fit you should be punish'd for telling her of it.</p>
+                  </sp>
+                  <stage>They raise the Lady, and bow her forward: She revives, but with a groan.</stage>
+                  <stage>Lady groans, Oh, oh.</stage>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>Take life again: for my Master is not so much hurt, as to be in dan|ger of Death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>Do you speak this as a known truth, or for to recover me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>As a truth upon my Conscience, Madam.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocon.</speaker>
+                     <p>Then I charge you do not discover my Passion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>We shall not.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="20" type="scene">
+                  <head>Scene 20.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> VVilliam Lovewell, <hi>and two of his men, and his Man</hi> Roger Trusty.</stage>
+                  <sp>
+                     <speaker>LOvewell.</speaker>
+                     <p>Go, and give charge to my Footmen, that none of them run home to tell my Wife of my hurt, for fear of frighting her: for if she hears I am hurt before she sees me, she will apprehend me worse than I am, and that may kill her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Servant.</speaker>
+                     <p>Sir, she hath heard of it already.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>Rogue that he was that he was that told her: who was it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Roger Trusty.</speaker>
+                     <p>It was I Sir, when I went to fetch your Leaguer-cloak to keep you warm.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>Villain, I'll run you through.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trusty.</speaker>
+                     <p>What you please Sir; but my Lady takes it very patiently: for
+<pb n="470" facs="247"/>
+when she heard of it, she was playing on the Lute, and did not leave playing at the report.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>I am glad she is so discreet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trusty.</speaker>
+                     <p>Truly Sir I think my Lady is now one of the wisest and discreetest Ladies in the Town.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>What, for playing on the Lute?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Trusty.</speaker>
+                     <p>No Sir; but for being so patient and temperate, as all wise persons are, who bear afflictions with that Moral Philosophical Carelesness, and (as they call it) passive Courage, composing their Faces into a Grave, surly Countenance, fashioning their Behaviour with Formality, walking with a slow and stately Pace, speaking nothing but Wise Sentences, and Learned Morals.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewel.</speaker>
+                     <p>You are a moral Ass; and although my wounds are but small, yet I grow faint with standing to hear a fool talk.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="21" type="scene">
+                  <head>Scene 21.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Inconstant, <hi>and Monsieur</hi> Disguise.</stage>
+                  <sp>
+                     <speaker>LAdy Inconst.</speaker>
+                     <p>Sir, I believe you may wonder, and think it strange, that a woman can love a stranger so soon and so much.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>I doe not think it strange in Nature, but I think it strange you should affect me, a person which is no way worthy of your Favour and your Love, unless you (like a Deity) humbly descend to mortals, accepting of their Adorations and Offerings: And, as a mortal to a Deity, I offer up my Heart on the Altar of your Obligations.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>Here I do vow to <hi>Venus,</hi> not only to offer you my person, and all delights that it can yield, but I offer you my Honour, my Fathers Honour, my Husbands Honour, nay their lives, if you require it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>I must confess your Husbands life is dangerous, for we cannot well enjoy our loves with safety, if that your Husband lives.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>Name but the way unto his Death, and I will execute it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>I cannot; for you must do it as you find Fortune gives you op|portunity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>Farewel and believe, I shall let no opportunity slip, that might bring my designs to pass.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Lady</hi> Inconstant <hi>goes out.</hi>
+                  </stage>
+                  <stage>
+                     <hi>Monsieur</hi> Disguise <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>My revenge is too big for words, all actions to little for his pu|nishment: wherefore you furies, I invoke you to assist me, and if Hell gives me not help, Heaven or Death give me ease.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="22" type="scene">
+                  <pb n="471" facs="247"/>
+                  <head>Scene 22.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Procurer, <hi>and Monsieur</hi> Amorous.</stage>
+                  <sp>
+                     <speaker>LAdy Procurer.</speaker>
+                     <p>Now Monsieur <hi>Amorous,</hi> you and the Lady <hi>Wanton</hi> shall not need to make so many excuses to meet, for your going into the Country, with Sir <hi>Thomas Cuckold,</hi> you will be always in the House with his Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>Faith, I have a great deal of business in the City, which may suffer, if I should go out of the Town.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Out upon you, make excuses already.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>I do not make excuses, I only tell you the truth of my affairs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Can you have any affairs greater, or of more concernment, than waiting on a Mistriss, and such a Mistriss as you were a dying for to enjoy, but a little time since? well go thy ways Monsieur <hi>Amorous,</hi> for thou art like a woman that hath fits of the Mother, often swouning and sick, but never dyes in any of them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>The Lady <hi>Chastity</hi> would be like a draught of cold water, to bring me to life again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Let me tell thee, as those fits will never kill thee, so all the Cha|stity in the Town can never cure thee.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="23" type="scene">
+                  <head>Scene 23.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Hypocondria, <hi>and</hi> Joan <hi>her Maid.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Hypocondria.</speaker>
+                     <p>Pray <hi>Iuno,</hi> my Husband doth not perceive I have cry'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>You need not fear it, for the hot Cloath you laid to your eyes hath so●'d out the redness, and abated the swelling thereof; but I doubt you will cry when you see him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>I hope I shall be wiser, than to cry; for I would not have my Husband think me a Fool, or troublesome, for the world.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>But surely Madam, you must needs torment your Soul, to strive so much against nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>Love had rather torment it self, then torment what it loves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ioan.</speaker>
+                     <p>Your Ladyship will make the old Proverb good, which sayes, love overcomes all things, and surely it overcomes all when it overcomes nature it self.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="24" type="scene">
+                  <pb n="472" facs="248"/>
+                  <head>Scene 24.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Jealousy, <hi>and the</hi> Fool.</stage>
+                  <sp>
+                     <speaker>LAdy Iealousy.</speaker>
+                     <p>Prethy Fool watch thy Master, and my Maid <hi>Nan,</hi> and when they are together give notice, and I will give thee a new Coat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>I shall stand Sentinel, and give the watch-word.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Lady</hi> Jealousy <hi>goes out.</hi>
+                  </stage>
+                  <stage>
+                     <hi>The</hi> Fool <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Most Creatures their tails lyes in their heads, or their heads lyes in their Neighbours tayles, nose to breech; for they are always thinking thereof; which makes their thoughts as sluts and slovens, their brains like to a heap●-up Dunghil; but I must watch, my Master and his Maid to catch.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="25" type="scene">
+                  <head>Scene 25.</head>
+                  <stage>
+                     <hi>Enter Master</hi> Makepeace, <hi>and Master</hi> Perswader, <hi>friend and Chaplain to Sir</hi> Humphrey Disagree.</stage>
+                  <sp>
+                     <speaker>MAster Makepeace.</speaker>
+                     <p>'Tis strange, that Sir <hi>Humphrey Disagree,</hi> and his Lady, cannot agree, yet they are both of good natures, and generous Souls; keep a noble House, and are bountifull to their Servants, kind and courteous to their Friends, and he a very understanding Gentleman, and a learned Scholar, and an honest Man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perswader.</speaker>
+                     <p>And she is a very Chast Lady, a good Huswife, and very or|derly in her House, as concerning what she is to take care of, or to direct, and is very pious and devout, and yet both to be so indiscreet as to fall out about light toys, and frivolous matters.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Makepeace.</speaker>
+                     <p>'Tis strange, and truly great pitty; wherefore, we ought to do our indeavour, to try if we can make them friends.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perswader.</speaker>
+                     <p>Surely that might be easily done; for they are as apt, and as soon friends when their anger's over, as they are apt to fall out when they are friends, and I make no doubt to make them friends; but the business is to keep them friends, and the question is, whether it were not better they should be parted friends, than present enemies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Makepeace.</speaker>
+                     <p>Yet we have discharged our parts, if we make or do our in|deavour to make them friends.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perswader.</speaker>
+                     <p>Well Sir, perswade the Husband, and I will try to perswade the Wife.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="26" type="scene">
+                  <pb n="473" facs="248"/>
+                  <head>Scene 26.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Disguise, <hi>and Sir</hi> Francis Inconstant.</stage>
+                  <sp>
+                     <speaker>SIr Francis Inconstant.</speaker>
+                     <p>Sir, you do amaze me; for I have not been so long married as to give her time for Incontinency, nor have I been so ill a Hus|band as yet, as to create, or beget her hate towards me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>Sir, if I do not prove it, I shall be content to suffer the heaviest punishment you can inflict upon me; and because your belief is wavering, I will place you, where you shall hear her declare her intentions, as towards your Death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>I long to prove the Truth.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="27" type="scene">
+                  <head>Scene 27.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Wanton, <hi>and the Lady</hi> Procurer.</stage>
+                  <sp>
+                     <speaker>LAdy Wanton.</speaker>
+                     <p>Prethy my Lady <hi>Procurer,</hi> go into the Country with us, since we shall have such good Company this Summer, as Monsieur <hi>Amorous,</hi> we will be so merry, and have such sports and pastimes, as you shall not repent your journey.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Faith Madam I cannot; besides, you have no use of me now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>I am not as many others are, that when they can make no more use of a friend, they strive to shun their Company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Well, if I can go with you I will; but I doubt I cannot, at lest I cannot stay above a week, or such a time with you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>Nay, if I once get you there, I will make you stay.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="28" type="scene">
+                  <head>Scene 28.</head>
+                  <stage>
+                     <hi>Enter Mistriss</hi> Single <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MIstriss Single.</speaker>
+                     <p>What a troublesome life is a Married life, bless me Heaven, who would Marry?</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Raillery Jester <hi>at her last words.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>That would you if you could get a Husband; for Maids long to be Wives, and Wives longs to be Widows, that they might Marry again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>That is, because Maids do not know the vexations of Marriage, which Wives do.</p>
+                  </sp>
+                  <sp>
+                     <pb n="474" facs="249"/>
+                     <speaker>Fool.</speaker>
+                     <p>Faith Women take a pleasure in being vext, crost, and injured; for then they have a ground for their anger, and revenge is the sweetest, and dearest imployment they have, or would wish to have; otherwise, they would be dull, and idle without it; and to prove it, Widows are as ●arae●●, and industrious to Marry as Maids, and all is, because they would be vext and crost.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>And are not men as desirous, and hasty to Marry as Women?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Yes, those that are Fools.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>Why then you should marry, if any VVoman would have you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Such Fools as I, never, or very seldom Marry, for though we are Christened Fools, we were Born VVise (where other men were Born Fool●, but Christened VVise) as bearing the name of VVise and understanding Men, so as they have only the name, but not the wisdome; the Truth is, we Fool, and other men are fool'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>Then VVomen are Born VVise, for they Fool Men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Nay saith, poor Souls, they are for the most part double fool'd; first, thinking they fool, and then in being fooled.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter a Maid of the Lady</hi> Jealousy's.</stage>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>Mistriss, my Lady is very angry, that you let your Lute-Master stay, whilst you talk to the fool; she says you will be as much a fool as he, with talking so often with him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>Tell my Sister, I shall learn more good from the fool, than the sidler.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Mark you that Maid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>I mark that Children and Fools keep company together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>And the Maids and the Master.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <head>ACT IV.</head>
+               <div n="29" type="scene">
+                  <head>Scene 29.</head>
+                  <stage>
+                     <hi>Enter two Maids of the Lady</hi> Hypocondria.</stage>
+                  <sp>
+                     <speaker>1 <hi>MAid.</hi>
+                     </speaker>
+                     <p>Alas my poor Lady looks as if she would drop to the earth, so pale and ill.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>How should she be otherwise, for she smothers in her grief, and dares not discover it; and then she seldom sleeps, or eats, or drinks: and is so restless, as she cannot sit still, but walks about her Chamber.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="30" type="scene">
+                  <pb n="475" facs="249"/>
+                  <head>Scene 30.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Hypocondria, <hi>and a Doctor.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Hypocondria.</speaker>
+                     <p>O Master Doctor, what do you think of my Husband, I hope he is in no danger, is he?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>I dare assure you Madam, he will be very well again; for he is only weak and faint with loss of blood: for he taking the wound to be slight, did not take care to stop it soon enough, whereupon his Spirits with his blood issued out so much, as makes him so weak, as you see he is forc'd to keep his Bed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>But Doctor, Spirits is life, and if he wants the one, he must soon lose the other.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>'Tis true, if there were no Spirits left: but let me tell you Madam, there is more danger when the Body hath too many Spirits, than when there is but a few; for many Spirits make the Body too hot, by giving the Pulse too quick a motion; which quick motion, fires the heart so much, as the blood becomes boyling hot; which Perboyls the Liver, and the rest of the vital parts, and melts the fat, wastes the flesh, and weakens the Sinnews, or Nerves, as being boyled as to a soft, tender, quaking Jelly; that is the cause that the Sick is so weak they cannot stand, having not that tough strength in their Sickness, and some after their sickness; and shall continue weak, untill such time as the Sinnews, and Nerves grow harder, and tough again; and many times from the boyling blood there arises such gross, and so many Vapours, which Vapours is Smoak, as they stif●le the life, or at least disquiet the Brain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>But will you assure me <hi>Doctor?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Doctor.</speaker>
+                     <p>As far as Human skill can assure you I will.</p>
+                  </sp>
+                  <stage>
+                     <hi>The</hi> Doctor <hi>goes out.</hi>
+                  </stage>
+                  <stage>
+                     <hi>The Lady</hi> Hypocondria <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>Fair <hi>Iuno</hi> hear me, send to thy Brother <hi>Pluto,</hi> to imprison Death in his dark Vault, or at least for to forbid him to touch my Husband; and fair Goddess, send health to raise his weary limbs from off his hated Couch, if not, give order to grim Death to strike me too; for thou hast power on all, as being chief in power.</p>
+                  </sp>
+                  <stage>Enter her Maid.</stage>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>Madam, my Master desires you would be pleased to come to him.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="31" type="scene">
+                  <pb n="476" facs="250"/>
+                  <head>Scene 31.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Disguise <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MOnsieur Disguise.</speaker>
+                     <p>I will not only make me a Garland, but a Bower of Willow, where I will sit and lament all forsaken Lovers; nay, I will sit and Curse so long, till I have laid those Curses so thick together, as nei|ther sighs, nor tears, nor prayers, shall dissolve them.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="32" type="scene">
+                  <head>Scene 32.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Procurer, <hi>and Monsieur</hi> Amorous.</stage>
+                  <sp>
+                     <speaker>LAdy Procurer.</speaker>
+                     <p>I am come to bring you good news, Monsieur <hi>Amo|rous.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>What is that my comfortable Lady?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>The Lady <hi>Wanton</hi> is come to Town.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>
+                        <hi>Pluto.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>What do you swear, because she is come to Town?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>No I swear, because I must go out of Town.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>I hope you will not go out of the Town, now she is come to town.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>Alas my occasions are such, as I shall be utterly ruined if I stay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Then let me tell you, the Lady <hi>Chastity</hi> begins to listen to your Sute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>And is there hopes I shall enjoy her?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>I cannot tell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>Nay Dear Lady, speak some comfort?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>It is a solly, if you must go into the Country.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>
+                        <hi>Neptune</hi> shall swallow the Country, rather than I will endanger to lose a Paradise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>But if you stay, you will be ruined.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>I rather shall be ruined if I go, for now I have considered it, I find, I have such potent affairs here in the City, as they will force me to stay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>O <hi>Iupiter</hi>! how Inconstant is Mankind; for what they have enjoyed they despise, and what they cannot get, they earnestly desire, and are restless in the pursute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>What say you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>I say you are an unthankfull Man, and not worthy of a Ladyes favour, as to forsake her that loves you, and seek her that hates you; for know, the Lady <hi>Chastity</hi> scorns your Sute, despises your Person, and hates your Humour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>
+                        <hi>Pluto</hi> take all your sex.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>If he should, you would whiningly follow them to Hell, rather
+<pb n="477" facs="250"/>
+than miss their Company, refusing Heaven, for effeminate Society.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>They torment men more than Devils do.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="33" type="scene">
+                  <head>Scene 33.</head>
+                  <stage>
+                     <hi>Enter Master</hi> Makepeace, <hi>and Master</hi> Perswader.</stage>
+                  <sp>
+                     <speaker>MAster Makepeace.</speaker>
+                     <p>Now Sir <hi>Humphrey Disagree</hi> and his Lady are made good friends, they are become a loving Couple.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Perswader.</speaker>
+                     <p>Heaven keep them so.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Makepeace.</speaker>
+                     <p>Truly I begin to believe they will; for they seem very sensi|ble of their errors, and they laugh at their one follies, to see, what ridicu|lous, frivolous, and small matters, their quarels are built with, and upon.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <stage>
+                     <hi>Enter Sir</hi> Humphrey Disagree, <hi>and his Lady.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Sir Humphrey Disagree.</speaker>
+                     <p>Look you Wife, here is the Priest that hath new married us, and our friend that hath joyned us in a loving friendship again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>And I will celebrate this Union with a Feast, to which, I will invite my good friends as to my wedding day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>I perceive we shall be merry, pray let us have Fidlers, and Dance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>That we will.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="34" type="scene">
+                  <head>Scene 34.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> VVilliam Lovewell <hi>upon a Couch, as being weak, and his Lady following him.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SIr William Lovewell.</speaker>
+                     <p>Come, come Wife, you are not so kind as you were wont to be; for you did use to watch my looks, my sleep, and how I fetcht my breath in my sleep, and what I did eat, and how much I did eat, for fear I should be sick, and no help unsought to cure me: But I perceive you are as all other women are, inconstant; for now you do neglect me, and seldom come near me but when I send for you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>I dare not, for fear my diligence may prove loves indiscre|tion, and so my service become a burthensome trouble.</p>
+                  </sp>
+                  <stage>
+                     <pb n="478" facs="251"/>
+                     <hi>Enter one of the Men Sir</hi> William <hi>fought with, and beat, with a Pistol in his hand, the Lady</hi> Hypocondria <hi>sees him, and on the sudden runs to the Man, and snatch|es the Pistol out of his hand, the whilst the Man was in amaze at it, She Shoots him with his own Pistol, the noise of the Pistol brings in the Servants.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>You Cowardly Rogue, do you take the advantage of sick|ness to work your revenge, do you come when my Husband is not able to defend himself?</p>
+                  </sp>
+                  <stage>The Man falls, and sayes, O I am kill'd.</stage>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>Kill'd? if you had a thousand lives, my single life would kill them all, rather than suffer my Husband to be murdered.</p>
+                  </sp>
+                  <stage>The Servants all the while stand at a distance, as being all afrighted.</stage>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>You Company of dull dead statues, move for shame, and bear away this Villain, this murderous Villain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Servants.</speaker>
+                     <p>Where should we carry him Madam?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>Why any where, cast him into a Ditch, there let him ly and rot, like Beasts without Butiall.</p>
+                  </sp>
+                  <stage>
+                     <hi>The mean while Sir</hi> William Lovewell <hi>having recovered his breath, which was spent in striving to get up from his Couch, but being very weak he could not.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lovewell.</speaker>
+                     <p>Carry him to a Justice, and bid the Justice dispose of him as he thinks fit, telling him of his crime.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Servants.</speaker>
+                     <p>Let us search him, to see if he hath never another Pistol.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewell.</speaker>
+                     <p>Go you Cowards, and carry him away.</p>
+                     <stage>The Servants and Man goes out.</stage>
+                     <p>O this effeminate sickness hath disgraced me; O how like a worm a sick man is, which lyes so low, and is so shiftless, that any beast treads out his life?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>Why, had you been in health and strength, it would have been no Honour to beat a Coward.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewell.</speaker>
+                     <p>He seem'd not such a Coward, but that he had some courage, or otherwise he would not have adventur'd himself alone into a House, wherein were many persons, which would have been his Enemies; but I am glad that you have the honour of his wounds, but it is a miracle to me, to see how valiantly you did behave your self, and yet by nature is so fearfull.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>Mistake not Love; for true Love is only a fraid when it cannot help, but when it hath hopes to rescue what it loves, <hi>Mars</hi> is not Valianter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewell.</speaker>
+                     <p>Well Wife, I owe my life to your love, and I shall account you as <hi>Pallas,</hi> that hath defended me with a prudent courage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Hypocondria.</speaker>
+                     <p>If you think I have done you service worthy a reward, pray give me a request.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewell.</speaker>
+                     <p>That I shall, if it be that life you have defended, what is it?</p>
+                  </sp>
+                  <sp>
+                     <pb n="479" facs="251"/>
+                     <speaker>Hypocondria.</speaker>
+                     <p>It is to set love free from the Chains of discretion, and Jai|ler of temperance; for it is impossible to confine love, but either it will dy, or break out in revenge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lovewell.</speaker>
+                     <p>VVell VVife, hereafter I will never oppose loves wayes.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="35" type="scene">
+                  <head>Scene 35.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Francis Inconstant, <hi>and Monsieur</hi> Disguise.</stage>
+                  <sp>
+                     <speaker>MOnsieur Disguise.</speaker>
+                     <p>Sir, did you hear what your Lady said?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>Yes, I heard her say, she would poyson me in a mess of broath.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>VVhat will you do to prevent it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>Leave that care to me, I shall be my own Sentinel, to discern the aproaching Poyson.</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Francis <hi>goes out.</hi>
+                  </stage>
+                  <stage>
+                     <hi>Monsieur</hi> Disguise <hi>alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>Their Deaths will be my triumph, and my Death a re|prieve.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="36" type="scene">
+                  <head>Scene 36.</head>
+                  <stage>
+                     <hi>Enter Monsieur</hi> Amorous, <hi>and the Lady</hi> Procurer:</stage>
+                  <sp>
+                     <speaker>LAdy Procurer.</speaker>
+                     <p>I am come to invite you to a Collation, for the Lady <hi>Wanton,</hi> for whom you at first made costly Collations, is forced to invite you now to the like.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>Faith Madam, I am so squezy stomacked, that the very sight of a Banquet will put me into an Apoplexy, as with an obstructed Surfit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>If you should deny her, you would lose you reputation amongst our Sex for ever.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amorous.</speaker>
+                     <p>Well I will go, upon condition that you carry a message from me to another Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Most willingly, so it be not to the Lady <hi>Chastity.</hi>
+                     </p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="37" type="scene">
+                  <head>Scene 37.</head>
+                  <stage>
+                     <hi>Enter Mistriss</hi> Single, <hi>and</hi> Raillery Jester <hi>the Fool.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MIstriss Single.</speaker>
+                     <p>Prethy Fool give me advice, as how to choose a Husband.</p>
+                  </sp>
+                  <sp>
+                     <pb n="480" facs="252"/>
+                     <speaker>Fool.</speaker>
+                     <p>Faith you are wise to take a Fools Counsel; for Fools have for the most part, best Fortune, either in their Counsel or Choice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>Why, are Fools Fortunes favourites?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Yes, for by Fools Fortune plainly shews her power, when wise men usurp it, striving to take her power from her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>Then Fortune direct thee, to direct me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>Fortune is giddy, and directs by chance, which causes so many misfortunes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>Then by your direction, I may be unfortunate; but I will venture, wherefore tell me how to choose.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>VVhy then, you must choose a Husband by the Ear.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>By the Eye you mean.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>No faith, those that would be happily match'd, must choose a Hus|band, or VVife by the Ear, and not by the Eye: for though report is oft-times false, yet it seldom flatters; nay for the most part, it is so far from gi|ving merit its due Praises, as it detracts therefrom.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>But Fortune carries worthless men upon the tongue of fame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>'Tis true, but Fortune being giddy, is apt to stagger, and so to stum|ble, and oft-times flings those worthless men in soul disgrace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>But hopes and fears, bribe or force the VVorld to praise a worthless He, or Shee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>'Tis true, hopes of gain are bribes, and fear of punishments are threats, for to perswade, or force the tongue to flatter; yet none but Gods and Kings, are subject to this flattery, and you are not to marry, either the one, nor yet the other; for Gods joyn not to Mortals, and Kings are far too proud to marry Subjects; nor were it good for you, if that they would, as that you were matcht to a King: for happiness lives in equallity.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Single.</speaker>
+                     <p>Faith thou art too wise to wear a Fools-Coat; wherefore cast it oft.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Fool.</speaker>
+                     <p>And faith I should be more Fool than my profession makes me, if I should cast it off; therefore I will keep it on.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <div n="39" type="scene">
+                  <head>Scene 39.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Inconstant, <hi>and Monsieur</hi> Disguise.</stage>
+                  <sp>
+                     <speaker>LAdy Inconstant.</speaker>
+                     <p>O my Dear love, I have such an opportunity, that For|tune could never have given me a better; for my Husband is fallen Sick, and if I Poyson him now, the VVorld will say, and think it was his Sickness that kill'd him, and that will secure me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>I he be Sick, perchance he may dye, and that will save you the labour, and hazard of poysoning.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>O But if he should recover again, then I were undone; where|fore I will not venture to rely upon his Sickness.</p>
+                  </sp>
+                  <sp>
+                     <pb n="481" facs="252"/>
+                     <speaker>Disguise.</speaker>
+                     <p>Use your discretion, but tis not fit we should be seen together; wherefore, I will kiss your hands, and leave you for a time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>And I hope the next time we meet, we shall be rid of the ob|structor of our loves:</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="39" type="scene">
+                  <head>Scene. 39.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Wanton, <hi>and the Lady</hi> Procurer.</stage>
+                  <sp>
+                     <speaker>LAdy Wanton.</speaker>
+                     <p>Madam, did you give Monsieur <hi>Amorous</hi> the present I sent you to give him?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Yes, there was Shirts, Caps, and Handkerchiefs, of each two dozen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>There were so.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>They were of the finest Holland, and Flanders Lace, that ever I saw, what might the present cost you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>Not much above five hundred pounds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>You speak as if it were but a slight present, but if your Husband knew of it, he would think it were too much by four hundred ninety and nine pound nineteen shillings eleven pence halfpeny farthing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>But what said Monsieur <hi>Amorous,</hi> when you presented that pre|sent, as from me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>At the first he would not receive the present, saying it was too costly, and that he could not return enough thanks for it, and so should seem as ungratefull against his will; but at last upon my perswasion, he took your present, and to Morrow he will come and give you thanks.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>I had rather meet him in some other place, than receive his visit at home, where my Husband is.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="40" type="scene">
+                  <head>Scene 40.</head>
+                  <stage>Enter the Lady Poverty <hi>weeping, and two or three Children following her: Then Enters her Husband.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>LAdy Poverty.</speaker>
+                     <p>Husband, how shall these Children live?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spendall.</speaker>
+                     <p>By Heavens Providence Wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Poverty.</speaker>
+                     <p>I fear they will starve, unless your providence feeds them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spendall.</speaker>
+                     <p>It was imprudently done to get them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Poverty.</speaker>
+                     <p>But now they are got, they must be provided for.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spendall.</speaker>
+                     <p>Yes, as Beggers provide for their Children, put them to the Parish.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Poverty.</speaker>
+                     <p>The Parish will not keep them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spendall.</speaker>
+                     <p>Then sell them to Animal Merchants, they will Traffick with them into the <hi>Barbadoes,</hi> or <hi>Barmudes,</hi> or <hi>Virginy,</hi> or the like places.</p>
+                  </sp>
+                  <sp>
+                     <pb n="482" facs="253"/>
+                     <speaker>Poverty.</speaker>
+                     <p>And how shall I live?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spendall.</speaker>
+                     <p>Why you may go along, and be their Nurse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Poverty.</speaker>
+                     <p>And the Merchants Whore.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spendall.</speaker>
+                     <p>As you can agree; for he may sell you at as great a prize after, as if you were honest; besides, your Children will prove you to be fruitfull, for which, they will give a double, or trebble price for you; and if you thrive send me word, and I will come to you, if I cannot live here.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Poverty.</speaker>
+                     <p>I thank you Husband, for you have made me miserably unhappy, by your mispendings, yet you would feed upon my good fortune, if it can be call'd good fortune, to thrive with dishonesty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spendall.</speaker>
+                     <p>Faith Fortune hath undone me; but may be she will be chari|table to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Poverty.</speaker>
+                     <p>I hope so, for Fortune never befriends those whom Vices be|sots, and though your deboysteries have undone you, I hope my Virtues will help to save me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spendall.</speaker>
+                     <p>But I never perceived your virtue to do you any good, but for any thing I perceive to the contrary, you are like to starve, for all your virtues.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Poverty.</speaker>
+                     <p>I hope when I am parted from you and your wickedness, Heaven will powre down some mercy on me.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="41" type="scene">
+                  <head>Scene 41.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> VVanton, <hi>and the Lady</hi> Procurer.</stage>
+                  <sp>
+                     <speaker>LAdy Wanton.</speaker>
+                     <p>Pray Madam inform me where Monsieur <hi>Amorous</hi> is, for I have sent two or three times to his Lodging, and my Messenger is an|swered still he is from home.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>He is a wanderer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>I think he is wandred into some other parts of the World, for after he went from us, I sent a dozen Letters, whilst I staid in the Country, and received not one answer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Faith Madam Monsieur <hi>Amorous</hi> is one of the lasiest of Mankind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>I am resolv'd when I see him to chide him, for I could not con|veniently do it when he came to give me thanks for my present.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter Sir</hi> Thomas Cuckold.</stage>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Sir <hi>Thomas Cuckold,</hi> you are welcome to the Town, for though I have had the Honour to see your Lady two or three times, yet I could not got a sight of you never since you came out of the Country.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cuckold.</speaker>
+                     <p>My Wife did wish for your Company whilst we were in the Country, a hundred times.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>I should be glad to be in any place, to do my Lady Service.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cuckold.</speaker>
+                     <p>I was abroad even now, where I met Monsicur <hi>Amorous,</hi> who lookt upon me as if he knew me not, or rather as if he did despise me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Perchance he did not know you.</p>
+                  </sp>
+                  <sp>
+                     <pb n="483" facs="253"/>
+                     <speaker>Cuckold.</speaker>
+                     <p>His memory must be very short, if he could forget me so soon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>Perchance Husband you lookt strangely upon him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cuckold.</speaker>
+                     <p>Truly Wife I went to imbrace him, as I was used to do, with kind love, and he crost the street to shun me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>I dare lay my life it is some mistake Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Friends (Sir <hi>Thomas</hi>) must never be exceptious.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cuckold.</speaker>
+                     <p>I am not apt to be exceptious, I will assure you Madam no Man is freer from that humour than I am.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="42" type="scene">
+                  <head>Scene 42.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Francis Inconstant <hi>as sick upon a Couch, he being alone.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SIr Francis Inconstant.</speaker>
+                     <p>This feigned Sickness shall serve as a snare, to catch my Wives design.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter the Lady</hi> Inconstant.</stage>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>My dear heart how are you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>Very Sick, so Sick as I fear Heaven doth envy my happiness, and will part us by Death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>The Gods forbid! I hope you will live so long, as to Crown your Virtuous life with aged years.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>O no, I find my life draws towards an end, and Death will separate us from each other; but you being young Wife, will soon for|get me, placing your love upon some other Man, in whom, all the remem|brance of me will be buried.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>Dear Husband speak not so Melancholy; your words strike such terrour into my heart, as I cannot indure to hear them, I had ra|ther Death should strike me, than you; Dear Husband, cheer up your self, your Disease is only Melancholly; wherefore take such nurishing things, as may give your Spirits strength and life; shall I bring you a little Burnt Wine, to comfort your Spirits, or some Jelly broath to strenghten your Stomack?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>If you please VVife.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Lady</hi> Inconstant <hi>goes out.</hi>
+                  </stage>
+                  <stage>He alone.</stage>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>Now for the poysoned Draught.</p>
+                  </sp>
+                  <stage>Enter the Lady with a Porrenger of Broath.</stage>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>Here my dear heart, drink this.</p>
+                  </sp>
+                  <stage>He takes the Porrenger, and when it was in his hand, he rises and goeth to the Chamber Door, and locks it.</stage>
+                  <sp>
+                     <pb n="484" facs="254"/>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>VVhat mean you Husband to lock the Door?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>Because none shall enter, untill the Broath be drunk VVife.</p>
+                  </sp>
+                  <stage>She seems to be afraid, and desires to go forth of the Chamber.</stage>
+                  <stage>He stays her.</stage>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>No Wife, you must not go out, for I mean to nourish you with that Broath that you would have nourished me with.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>Why Husband I am not Sick, I do not require Broath.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>O yes VVife, your Soul is Sick, although your Body is well, and this Broath may perchance cure the one, although it kills the other; wherefore drink it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>I will not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>You shall, and if you drink it not willingly, I will force it down you throat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>Dear Husband spare me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>Why, I give you nothing but that which you prepared for me, and if it were good for me, it is good for you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>Dear Husband have mercy on me, and I will confess my crimes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>No VVife, no more mercy than you would have had one me, and therefore drink it:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>'Tis Poyson Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>That is the reason you shall drink it VVife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>Dear Husband, let me live but to repent my sinns, which like a black thick cloud do cover all my Soul.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>This will be a sufficient punishment, for if you be pu|nished in this World, you may escape the punishment of the next.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>Good Husband consider youth, that is apt to run into er|rors, not being guided with good Counsel, as it ought.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>I will consider nothing, and therefore drink it, or by Heaven I will force you to it, and therefore linger not.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Lady</hi> Inconstant <hi>takes the Cap, and then kneels and lifts up her eyes to|wards Heaven, and then prayes.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>You Gods forgive me my crimes, and let this deadly draught purge clean my Soul from sin.</p>
+                  </sp>
+                  <stage>She drinks the poysoned Broath.</stage>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>Now VVife have you any Amorous desires to Monsieur Disguise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Inconstant.</speaker>
+                     <p>No, the fire of my unlawfull love is quencht.</p>
+                  </sp>
+                  <stage>She sinks to the ground, Heaven receive my Soul; O, O, Husband forgive me.</stage>
+                  <stage>Dies.</stage>
+                  <sp>
+                     <speaker>Francis Inconstant.</speaker>
+                     <p>Ha she is dead, what hath my furious passion done, I was too sudden to crop her tender life so hastily, without more strickt exa|minations; for it was likely thus spruse Gallant corrupted her with his al|luring
+<pb n="485" facs="254"/>
+looks, and smoth inticing words, which he knew well how to apply; and youth is credulous, and women soon perswaded, and being joyned in one they easily are overcome. I do repent.</p>
+                     <stage>He walks a turn or two in a Me|lancholy muse.</stage>
+                     <p>I will revenge my self of those that were the cause.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="43" type="scene">
+                  <head>Scene 43.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Procurer, <hi>and the Lady</hi> VVanton.</stage>
+                  <sp>
+                     <speaker>LAdy Wanton.</speaker>
+                     <p>Where is Monsieur <hi>Amorous</hi> that he comes not with you, you said you would bring him with you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Faith he desires to be excused, for he saith he is not well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>This is but an excuse, for he hath made an hundred within this week; but since he doth neglect me, I will have another that shall be more constant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>You are wise Madam: for since men are so various as they are, women would seem but fools, should they be constant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wanton.</speaker>
+                     <p>Well then Madam, you must do me a favour, for since I became acquainted with Monsieur <hi>Amorous,</hi> upon your perswasion, you must con|trive a private meeting for me and another Gentleman, upon my per|swasion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Procurer.</speaker>
+                     <p>Sweet Lady, you do oblige me to imploy me in your Service.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="44" type="scene">
+                  <head>Scene 44.</head>
+                  <stage>
+                     <hi>Enter two Maid Servants, that were the Lady</hi> Poverties.</stage>
+                  <sp>
+                     <speaker>1 <hi>MAid.</hi>
+                     </speaker>
+                     <p>O <hi>Ursely,</hi> I am glad to see thee with all my heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>Truly <hi>Ioan,</hi> so am I to see you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>When did you hear of our good Lady, the Lady <hi>Poverty?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>It was not long since I saw her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>And how doth she live poor Lady?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>Why she lives privately, but is likely to live happy enough; for let friends have now taken care of her and her Children, upon the condition that she will receive no visits from her Husband, but banish his Company; left he should encrease their charge with more Children; neither will they allow him any thing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>By my trath he doth not deserve any maintenance; but I am glad she is provided for, being a shiftless creature for her self and Children, but where do you live <hi>Ursely</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>Why I live with an old Widower.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>And I with a grave Matronly Widow, wherefore let us endea|vour
+<pb n="486" facs="255"/>
+to make a match betwixt them, that so we may live once again in a House together; for you and I were always dear friends you know.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>'Tis true <hi>Iane,</hi> but as you are my friend I must tell you, I should be an ill friend to my self, if I should perswade my Master to marry.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>Nay if it be so <hi>Ursely,</hi> make the best of him; and if thou wilt shew me where thou dwellest, I will come and visit thee when I have leisure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>Come with me, and I will shew you where I live.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="45" type="scene">
+                  <head>Scene 45.</head>
+                  <stage>
+                     <hi>A Table set out cover'd, and furnish'd with meat. Enter Sir</hi> Hum|phrey Disagree, <hi>and the Lady</hi> Disagree, <hi>and their Friends; every one takes their place, and sits as to eat.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SIr Humphrey Disagree.</speaker>
+                     <p>Wife, where are the Fidlers that you promist we should have.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>I did forbid them to play, untill such time as we had half din'd, for their scraping would hinder our eating.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>Pray wife let them come in, for I love my meat should dance in my mouth, my teeth keeping just time to the tune; and the Musick will make my meat turn nimbly in my mouth, and will heat my cast to a high gusto.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>The noise that they will make, will take away my Stomack, and will make my head ake; besides, no body will hear one another speak, neither will our Servants hear what we call for.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>It will make our Servants the more diligent, for Mu|sick will revive their Spirits, and will make them agil; wherefore pray VVife let them come in and play.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>No pray Husband let them alone a little while longer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>If you keep them out untill our Stomacks be full, we shall be so dull and heavy with the vapour of the meat, as it will not be in the power of Musick to move our minds to mirth, or so drunk with VVine, as the Musick will make us mad.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>I hope you will not be mad before you are drunk.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>No VVife, I will be merry before I am drunk, where|fore Servants call them in.</p>
+                  </sp>
+                  <stage>She speaks as to the Servants.</stage>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>Let them alone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>I say they shall come and play, and therefore call them in.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>I say they shall not come in, nor play, therefore forbid them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>Surely I will be Master, and therefore they shall play.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>Surely I will be Mistriss of this Feast, and therefore they shall not play.</p>
+                  </sp>
+                  <sp>
+                     <pb n="487" facs="255"/>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>Call them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>Let them alone.</p>
+                  </sp>
+                  <stage>The Servants the while sometimes run as to the door, and then as from it, not knowing whether they should obey.</stage>
+                  <stage>[Sir <hi>Humphrey</hi> rises as to call them himself, She rises also.]</stage>
+                  <sp>
+                     <speaker>Humphrey Disagree.</speaker>
+                     <p>They shall come and play.</p>
+                  </sp>
+                  <stage>He offers to go, She puls him back.</stage>
+                  <sp>
+                     <speaker>Lady Disagree.</speaker>
+                     <p>They shall not play.</p>
+                  </sp>
+                  <stage>He shoves her from him, she takes her Napkin and rouls it, flings it at him, he flings another at her; she takes a Plate, and throws at him, he Curses, and she Scolds, their Friends strive to part them, and in the strife and bussle, down goeth all the Pots and Dishes, and so they go sighting, and striving off the Stage.</stage>
+                  <stage>The Servants take away all the meat and things, and after all was gone Enter two Maid-Servants.</stage>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>Lord there is such doings within, as it is wonderfull, my Master swears, my Lady cries, and rails, and rails and cries.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>in truth it is a sad Feast, and I was joyed to think how merry we should all be.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>And I pleased my self to think, what good cheer we should have, and what dainties we should eat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>Why, so you may still.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>No Faith in this Hurlyburby every one catcht who catch could, that all is vanish'd, and purloyn'd away in this disorder.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>Come let us go, and see whether they can agree or not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Maid.</hi>
+                     </speaker>
+                     <p>That they can never do, so long as the sound of their tongues is within the distance of their Ears; besides nature hath not matcht their dis|positions, or humours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Maid.</hi>
+                     </speaker>
+                     <p>You say right, intruth their Souls are mismatcht, and therefore it is impossible they should ever agree.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="46" type="scene">
+                  <head>Scene 46.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> Francis Inconstant, <hi>and Monsieur</hi> Disguise.</stage>
+                  <sp>
+                     <speaker>SIr Francis Inconstant.</speaker>
+                     <p>Sir my VVife your Mistriss is Dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Disguise.</speaker>
+                     <p>No Sir, my Mistriss and your VVhore is Dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>You are a Villain to corrupt her.</p>
+                  </sp>
+                  <sp>
+                     <pb n="488" facs="256"/>
+                     <speaker>Disguise.</speaker>
+                     <p>You are a Villain to marry her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>Draw, for either or both of us Villains shall dy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>I fear not Death nor you.</p>
+                  </sp>
+                  <stage>They both draw their Swords.</stage>
+                  <sp>
+                     <speaker>Disguise.</speaker>
+                     <p>Justice defend the wrong'd, and take my part.</p>
+                  </sp>
+                  <stage>
+                     <hi>They fight and give each other deadly wounds; Sir</hi> Francis Inconstant <hi>falls, and as he lay on the ground speaks.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>Heaven is just, to punish perjury with violent Death; O my Conscience, how it stings me at my Death, with the remembrance of the wrongs I did my first love.</p>
+                  </sp>
+                  <stage>
+                     <hi>Monsieur</hi> Disguise <hi>sinks close by Sir</hi> Francis; <hi>and then discovers her self.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mistriss Forsaken.</speaker>
+                     <p>Do you know this Face, or have my sorrows disfigur'd it so much, as you cannot call it to remembrance?</p>
+                  </sp>
+                  <stage>
+                     <hi>Sir</hi> Francis <hi>Starts.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>You powers above, affright not my fleeting Soul with visions, but let it gently pass, and leave my body to the silent grave.</p>
+                  </sp>
+                  <stage>He directs his Speech to her.</stage>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>You Spirit divine, take not revenge; for I am truly sorry for the wrongs I did thee in thy life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mistriss Forsaken.</speaker>
+                     <p>I forgive you, and know I am no Spirit, and though I cannot say I live, because I am dying, yet I am not dead, and that Letter I brought you, was to disguise me the more by a false report; but I have acted the design of my Travel, which was to end my life with yours, for since I could not enjoy you in life, I desir'd to imbrace you by Death, and so I shall.</p>
+                  </sp>
+                  <stage>She flings her arms over him and dyes.</stage>
+                  <sp>
+                     <speaker>Inconstant.</speaker>
+                     <p>O my Soul make haste and follow hers.</p>
+                  </sp>
+                  <stage>He kisses her, and on her lips dyes.</stage>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         </body></text></TEI>
+

@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+	 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+            <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+         </titleStmt>
+         <extent>356 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 March (TCP phase 1)</date>
+            <idno type="marc">11861873</idno>
+            <idno type="stc">Wing N868.</idno>
+            <idno type="vid">50022</idno>
+            <idno type="DLPS">A53060</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+                  <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+                  <author>Newcastle, William Cavendish, 1592-1676.</author>
+               </titleStmt>
+               <extent>[24], 679 [i.e. 675], [4] p. : ill.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by A. Warren, for John Martyn, James Allestry, and Tho. Dicas ...,</publisher>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>First edition.</p>
+                  </note>
+                  <note>
+                     <p>Errata: p. [4] at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text><body><div type="play">
+            <pb n="557" facs="290"/>
+            <div type="dramatis_personae">
+               <list>
+                  <head>THE ACTORS NAMES.</head>
+                  <item>Sir <hi>William Admirer,</hi> and many other Gentlemen.</item>
+                  <item>Lady <hi>Peaceable.</hi>
+                  </item>
+                  <item>Lady <hi>Solitary.</hi>
+                  </item>
+                  <item>Lady <hi>Censurer.</hi>
+                  </item>
+                  <item>Lady <hi>Examination.</hi>
+                  </item>
+                  <item>Lady <hi>Bridlehead.</hi>
+                  </item>
+                  <item>Lady <hi>Kindeling.</hi>
+                  </item>
+                  <item>Lady <hi>Gadder.</hi>
+                  </item>
+                  <item>Lady <hi>Faction,</hi> and a Matron.</item>
+               </list>
+            </div>
+            <div n="1" type="act">
+               <pb n="558" facs="291"/>
+               <head>THE COMICAL HASH</head>
+               <head type="sub">ACT I.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>
+                     <hi>Enter a Company of young Gentlemen, and two or three young Ladyes, as the Lady</hi> Gadder, <hi>the Lady</hi> Kindeling, <hi>and the Lady</hi> Bridlehead.</stage>
+                  <sp>
+                     <speaker>KIndeling.</speaker>
+                     <p>My Dear <hi>Gadder.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>My sweet <hi>Kindeling.</hi>
+                     </p>
+                  </sp>
+                  <stage>They imbrace and kiss each other.</stage>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>Faith Ladyes Nature never made women to kiss each other, and therefore 'tis unnatural, and being unnatural it is unlawfull, and being unlawfull it ought to be forbidden.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>Yes, you would have us kiss you men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>No Ladies, we men will kiss you women, if you please to give us leave.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridlehead.</speaker>
+                     <p>You will take leave sometimes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>'Tis when we think we shall not be refus'd, or at least not to be disfavour'd for it.</p>
+                  </sp>
+                  <stage>The Ladies kiss again.</stage>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>VVhat, kissing again? faith Ladies you will make us believe by your often kissing, that you desire we should kiss you, and with that belief we may run into an error, if it be an error to kiss a fair Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>Fye, fye, you men are odd Creatures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>No, you women are odd Creatures, when you are not with us men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>Preethy <hi>Gadder</hi> and <hi>Bridlehead</hi> let us go do something to pass away our time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>VVhat shall we do?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridlehead.</speaker>
+                     <p>Let us go to Cards.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>Faith I have made a Vow not to play for money.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridlehead.</speaker>
+                     <p>VVe will play for Sweet-meats.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>No, preethy let us play for a Sack Possit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>O no, we will play for Sweet-meats.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>I say a Sack Possit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>Let the most voices carry it.</p>
+                  </sp>
+                  <sp>
+                     <pb n="559" facs="291"/>
+                     <speaker>Gentleman.</speaker>
+                     <p>I will speak for the men, we say a Sack Possit, for that will make us both good Company in the eating the Possit, and after 'tis eaten, whereas Sweet-meats will make us heavy and dull.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>Well then let us go play for a Sack Possit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridlehead.</speaker>
+                     <p>Faith a Sack Possit will make me drunk.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>You will be the better Company Lady.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindling.</speaker>
+                     <p>Fye <hi>Bridlehead,</hi> you should not say drunk, but your head giddy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>That is better than to be drunk: for a giddy head hath a light heel.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scene 2.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>The Lord <hi>Poverty</hi> is a gallant Noble person.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>They are gallant and Noble that are Rich, and titled Honour without Means, is like a Body without a Soul.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>You are mistaken friend, it is rather a Soul without a Body.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Alas titled Honour without Means to maintain it, is despised.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>If the person hath Merit worthy of his titled Honour, that titled Honour is worthy to be respected and bowed to by all inferiour persons; nay put the case that Honourable titles are placed upon Unworthy persons, yet all ought to give respect to those Titles, and to do homage thereunto, though not unto the Person, yet because it comes from a lawfull and Supreme pow|er; as Natural rays of light do from the Sun; and those that strive through envy and through spite, for to Eclipse the light, deserve to be in a perpetual darkness; so those that do detract from titled Honours, ought never to be honoured with Titles or respect.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Why, 'tis not only I that have no such titles of Honour that speaks against them, but those that do possess them, and their fore-fathers long before them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>They that do so ought to be degraded, as being unworthy to wear the badge or mark of their fore-fathers Merits, or heroick Acts, for they do shew they have none of their own; but those that get their own Ho|nours, by their own Merits and worthy Actions, deserve them best; for they, like as a clear and glorious day, appear; for oft-times their posterity, like Clouds begot from gross and drowsie Earth, strive to quench out their Fathers flaming Honours, and by their Baseness obscure the light of their fore-fathers great and glorious Fame, and in the end bury themselves in dark Oblivion, as vanishing to nothing, as being never mentioned nor remembred; but those that for their loyalty and their fidelity unto their King and Coun|try, have hazarded lives, and lost their liberties and Estates, and are grown poor for Honesties sake, and Virtuous causes, yet they in after Ages will live with great renown; for 'tis not in the power of spite to pull them down; for the Gods give Fame to Noble Actions, as Kings give titled Honours; though men that are base will not relieve them, yet Fame will remember them; and though base men will rail against them, yet Fame will praise them; and though they dye with Poverty, and should end their lives in a foul
+<pb n="560" facs="292"/>
+Ditch, yet shall that Ditch be honoured by their Death, more than the rich unworthy man be honoured by his stately Tombs and costly Funerals.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scene 3.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Solitary, <hi>and the Lady</hi> Examination.</stage>
+                  <sp>
+                     <speaker>EXamination.</speaker>
+                     <p>What's the matter with you to day Lady <hi>Solitary</hi>? you look as if you were in a married humour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>Why Lady <hi>Examination,</hi> what humour is a married humour?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>Why a masse of ill humours mixt or put together; as a lumpish, dumpish, dull, stupid humour; or a pievish, fretting, pining, whi|ning humour; or a brawling, yawling, quarrelling, scoulding humour; or a jealous, suspicious humour; or a fawning, feigning, dissembling humour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>If these humours are woven into the marriage knot, I will never marry, for I would be loth to have the peace of my life strangled in discon|tent: for whosoever be subject to these humours can never be happy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>You will change your mind, and rather live with these hu|mours than without a Husband; but I am come now to fetch you abroad, for their is a Company of sociable Ladyes and gallants, that have made a meeting some league of, where there will be Mirth, Jollity, Plenty and Pleasure, and they desire you will be sociable for once, and go along with them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>Would you have the Body which is the habitation of the Mind a wanderer, travelling from place to place, disturbing the mind with un|profitable journeys?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>No, I would have it remove so as it may always situate it self in a wholsome, profitable, plentifull, pleasant, and pleasurable place.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>I perceive you prefer the pleasures of the Body before the de|light of the Mind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>Why the mind can take no delight without the body; for the body gives the mind a being and habitation: for there would be no mind if there were no body, but if there could be a mind without a body, yet the mind could receive no delight without the pleasure of the body, for the pleasure of the body is the delight of the mind, and not the delight of the mind the pleasure of the body, for the mind doth never give nor return; wherefore come away, and leave your Solitary musing to those whose con|dition of fortune denies them the use of the World, and worldly pleasures, and do not deny your self, for I hate a self-denying Creature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>Well, you shall prevail with me for this one time.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <pb n="561" facs="292"/>
+                  <head>Scene 4.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>Have you seen Monsieur <hi>Thesis</hi> Book of Poems that is newly come forth?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Yes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>And how do you approve of them?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>As well as I do of an Anagram.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>There is never an Anagram in the Book.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Why the whole Book is an Anagram of Doctor <hi>Costives</hi> Poems: for he hath only new placed the words, as they do Anagrams of names, but the whole matter, sense, and conceits is the same.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Indeed he hath imitated him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>By your favour, imitation is only to be like another, and not the same; but his is the very same, as I have told you, for which he deserves less praises than a Imitator, although those that do imitate any Excellent Poet, do not gain so much honour to themselves, as they give honour to those they imitate; as for example, the Imitators of <hi>Homer</hi> give more honour to <hi>Homer</hi> than to themselves; for Imitators are only as Painters, where he that is imita|ted is as Nature, or the Gods, for the one draws but Copies, the other makes the Original; so that there is as much difference as a Man, and the Picture of a man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But a Painter that draws the Picture of a man, very like the life, he may be more famous than the man that is drawn.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But not worshiped and adored, as Nature is, that made him: for Art cannot out-do Nature, nor do as Nature hath doue, and doth do; and an Imitator is but an Artificer, when as the Original Author is a Creator, and ought to be accounted of, and respected, and worship'd as Divine; but there are or have been but very few Poets that have such powers and parts to make a perfect Creature, which is a perfect work, as Poems, scenes, or story; but some Poets are like Chymist, that strive and labour to make as Na|ture makes, but most fail in their work, and lose their labours, wanting that Natural heat, or well-tempered matter, which should produce such Crea|tures as Nature makes, yet some 'tis said have made gold, as <hi>Raimond Lully.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Then <hi>Homer</hi> is a <hi>Raimond Lully</hi> in Poetry.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Nay rather <hi>Raimond Lully</hi> is a <hi>Homer</hi> in Chymistry: for no man ought to compare <hi>Homer</hi> to any Creature, by reason he hath out-wrought Nature, having done that which she never did; for Nature never made Gods, Devils, Hells, and Heavens, as <hi>Homer</hi> hath done.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>For my part I had rather be <hi>Raimond Lully</hi> than <hi>Homer:</hi> for I had rather have the Art to make Gold, than the Nature to make Poems.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>You would not gain so much by Gold as Wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>VVhy, what shall I gain?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Fame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But Gold will bribe Fame to speak as I would have her, if I have ●old enough to bribe her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But Poems will force Fame to speak for you without a bribe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>That were all one to me, so she speaks well, whether she be for|●●d, flattered, or bribed.</p>
+                  </sp>
+                  <pb n="558" facs="293"/>
+                  <pb n="559" facs="293"/>
+                  <pb n="560" facs="294"/>
+                  <pb n="561" facs="294"/>
+                  <sp>
+                     <pb n="562" facs="295"/>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But there is a fate of Poverty on Chymists, as much as on Poets, so that if you were as Excellent a Chymist as <hi>Raimond Lully,</hi> you would be as poor as Divine <hi>Homer.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Not if I could make Gold.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Yes, for Chymists spend more in the making of Gold, than they gain by it when it is made; and how should they do otherways, when they must needs spend a pound or pounds to make a grain? for the limbeck of a Chymist is but a little Still set a-work by a wasting fire, whereas Natures limbeck is the Earth, set a-work by an undecaiable fire, which is the Sun; this Chymist becomes as poor by an over-greedy Covetousness, as Poets by a despising Carelessness.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Then Chymists are like those Bodyes which become lean with over-eating, and Poets like those Bodyes that becomes lean by over-fasting; the one surfits, the other famishes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Indeed Chymists are so greedily Covetous, and feed so much on hopes, as they never leave untill such time as they have vomitted out all their wealth, and then they become sick and lean with Poverty.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II.</head>
+               <div n="5" type="scene">
+                  <head>Scene 5.</head>
+                  <stage>Enter two other Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>The Lady <hi>Faction</hi> is of a strange busy Nature, she runs into eve|ry House, takes upon her to govern every ones Family, yet cannot rule her own; she condemns all Actions, be they never so Just or Prudent; all Officers, be they never so worthy, or fitly placed; all Laws, be they never so beneficial, or expedient for the Common-wealth; all Customs, be they never so antient or harmless, indeed all peaceable, wise, and well or|dered Governments: she hates and delights in nothing but disordered change.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>'Tis said she is in love with Sir <hi>William Admirer.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>And he in love with the Lady <hi>Peaceable.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>She is a sweet Lady.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <head>Scene 6.</head>
+                  <stage>Enter the Lady <hi>Peaceable,</hi> and Sir <hi>William Admirer.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>ADmirer.</speaker>
+                     <p>I will sit and lissen to what you say, and learn from you what is the noblest way to entertain the life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>Alas I cannot learn you, I have not long experience, my Soul is
+<pb n="563" facs="295"/>
+young, a meer novice Soul, it wants both growth and experienced years, for I am like a House that is newly built and is unfurnished.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>Though you are young, you are wise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>How can you expect youth can be discreet and wise, when those that have lived long, and have had much experience, are oftentimes Fools? wherefore I can only entertain you like a Parrot, only with words, not wisely to discourse, and if you should lissen to me long, I shall surfit your Ears with idle words, for the Brain will be as soon over-charged with noise, as the Stomack with meat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>I can no more be weary of thy words, than Angels are with Heavenly Musick.</p>
+                  </sp>
+                  <stage>Enter the Lady <hi>Faction.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Faction.</speaker>
+                     <p>Lady <hi>Peaceable,</hi> the report is you are Ambitious to get away my Servant Sir <hi>William Admirer</hi> from me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>I am only Ambitious to live Virtuously, and dye Piously.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Faction.</speaker>
+                     <p>Why Servant, I hear you have forsaken me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>I despaired of ever being entertained, and so I never really ad|dress'd a Sute, but by way of rallery.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Faction.</speaker>
+                     <p>Your Mistriss doth not believe you, for she blushes either for your faults, or her own.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>My Bashfullness proceeds not from a Guiltiness, either of base actions, wicked thoughts, mean birth, or breeding, or evill or erronious opi|nions; for my bashfullness is only an effect of Nature: for as some are natu|rally fearfull, so am I naturally bashfull; and as Melancholy produces a sad Countenance, so Bashfullness produceth an extorted and a Convulsive Coun|tenance; as Grief produces tears, so Bashfullness produces blushing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>Lady <hi>Faction,</hi> spare my young Mistriss, lest she should out-run you in a full speed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Faction.</speaker>
+                     <p>Your Mistriss is too grave, and speaks too scholastical for a wo|man, she seems as if she had been bred in an University, which breeding is fitter for a man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>No surely, for men should be bred with Heroick Actions, wo|men with Modest Contemplations, as I have been.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Faction.</speaker>
+                     <p>If you have talk'd so seldome, and have learn'd so little, how come you to know so much?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>My knowledge is not copious, yet I have learn'd as much as
+my years could imbrace, and my desire is to know as much as Modesty will
+allow of, Honour will give leave to, Capacity can comprehend, or Life can
+reach at; but the longest life is but a short time to gather knowledge in;
+but Madam, I should think I had learn'd well, if I knew how to do you service.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Faction.</speaker>
+                     <p>Let me tell you, 'tis Craft and Subtilty that you practice, to catch fond, facil Fools under the veil of Civility, but not good Nature; for you, like a Sorceress as you are, Inchant and Bewitch all that come neer you, with this dissembling, for which you ought to be banish'd from all noble Company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>Take heed Lady of sharp-headed Curses, that Shoot through innocent Lips, they seldome miss the mark they aim at.</p>
+                  </sp>
+                  <sp>
+                     <pb n="564" facs="296"/>
+                     <speaker>Faction.</speaker>
+                     <p>Shoot as many as you will, I fear them not.</p>
+                  </sp>
+                  <stage>
+                     <hi>Lady</hi> Faction <hi>goes out.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>My dear sweet, wife, Virtuous Mistriss, be not angry, for all the World knows the Lady <hi>Faction</hi> is a disturber of all good and peaceable Society.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>No, I am not angry with her, but I will watch her, lest she should do me some harm.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="7" type="scene">
+                  <head>Scene 7.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Solitary <hi>as sitting a writing, then enter the Lady</hi> Examination <hi>as to visit her.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>EXamination.</speaker>
+                     <p>Prethee what art thou writing?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>I am writing Fancies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>Prethee what are Fancies?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>Why, Fancies are minzed Objects, pounded and chopt by Ima|gination, which Imaginations are the several Cooks which serve the Mind, and as skillfull Cooks of several meats make Bisks or Olioes, so doth the Imagination of several Objects; and as skillfull Cooks will mix several meats, so as not any one particular shall be tasted, so doth the Imagination of several Objects or Subjects.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>But some say Fancies are Created by Motion in the Brain, which would be there were there no such materials as Objects or Subjects, which the Senses as Caterers bring in.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>The Brain can no more Create Fancy without the materials of outward Objects, and Subjects, than Nature can Create a World without matter to make it withall; so the Brain can no more Create Fancy without the help of the Senses, than Nature can Create a Creator without the help of Motion; for though Fancies are the works of the Brain, yet the Brain could not work unless it had something to work on; but Objects and Sub|jects of Objects, may be divided in the Brain so small, or beaten so thin, as the first form may be beaten out, and when the first form is gone, we deny the matter, like as if we should deny that Paper is made with Rags, because the form of Rags is beaten out; thus by the subtill and curious motion of proud Conception joyned with the dazled memory, we deny the Senses a share, as not being Partners therein, or laboures thereof, the same way we conceive the Gods, for the Conceptions of the Gods is but minzed Ima|ginations.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="8" type="scene">
+                  <pb n="565" facs="296"/>
+                  <head>Scene 8.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Censurer, <hi>and the Lady</hi> Examination.</stage>
+                  <sp>
+                     <speaker>EXamination.</speaker>
+                     <p>Lady <hi>Censurer,</hi> pray what think you of the Lady <hi>Retorts</hi> wit, hath not she a great wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Oh fye, she hath a Chamber-Maids wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>What wit is that Lady?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Why a snip snaply wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>Indeed I have heard many Nursery Maids give so sharp and quick replies, as amongst some would be judged to be great wits, yet come to discourse seriously with them, and they were not much wiser than Beasts; but what do you think of the Lady <hi>Sharps</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer</speaker>
+                     <p>Her wit fetches the skin off of the Ears, it corrodes the minds of the hearers, more than Vinegar the tongues of the tasters.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>How approve you of the Lady <hi>Courtlyes</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Her wit is tedious, as all Complementing wits are, they tire the Ears of the hearers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>What say you to the Lady <hi>Stronglines</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Her wit is costive, and is delivered with labour, difficulty, and pain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>What think you of the Lady <hi>Learnings</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Her wit is an Alms Tub, it yields nothing but scraps, frag|ments, and broken pieces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>What think you of the Lady <hi>Subtilties</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Her wit is Lime, Twigs, Snares and Traps to catch Fools in or with.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>How like you the Lady <hi>Fancies</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Her wit indeed is a true Natural wit, it 'tis sweet and delight|full, easy and pleasing, as being free and unconstrain'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>How like you the Lady <hi>Contemplations</hi> wit?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Her wit is wise, and distinguishing well: for all Comtemplative persons judge, weigh, and measure out the right and truth of every thing, and find out the easiest and profitablest wayes, by the help of consideration; yet Contemplative persons when they come into Company, or publick So|cieties, their tongues do as Boys, that having been kept hard to their studies, when once they get a play day, they run wildly about, and many times do extravagant actions: so Contemplative persons when they are in Company their tongues speak extravagant words, and their behaviour for the most part is unnatural to their dispositions; but of all wits the Contempla|tive wit is the best, by reason it is a neer Neighbour to Poetry.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <pb n="566" facs="297"/>
+               <head>ACT III.</head>
+               <div n="9" type="scene">
+                  <head>Scene 9.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Gadder, <hi>the Lady</hi> Kindeling, <hi>and the Lady</hi> Bridlehead.</stage>
+                  <sp>
+                     <speaker>GAdder.</speaker>
+                     <p>Come friend <hi>Kindeling,</hi> and friend <hi>Bridlehead,</hi> let us go to the Lady <hi>Censurers</hi>; for there is the resort of all the gallants at her House.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridlehead.</speaker>
+                     <p>What should we do there? for all the men will hearken so much to her discourse, as they will take no notice of us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>Why then we will take notice of them: for if we should stay at home, and not seek out the Company of men, faith we shall never get us Husbands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridlehead.</speaker>
+                     <p>It is easy to get the Company of men, not so easy to get Hus|bands: for we have a great many men that come often to visit us, but none offer to marry us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>But the more acquaintance we have, the more likely we should get Husbands; for it were a hard: Fortune, if amongst so many men we should not get one Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>Why one Husband will not serve us three.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>I mean each of us one.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridlehead.</speaker>
+                     <p>Well then let us go.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="10" type="scene">
+                  <head>Scene 10.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Solitary, <hi>and the Lady</hi> Examination.</stage>
+                  <sp>
+                     <speaker>EXamination.</speaker>
+                     <p>Oh thou Clod of Earth, sit not idle here, but go abroad and receive the comfort of the Sun, which works to all effects.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>I need not, for my Mind is as the Sun it self, and hath the same ef|fects; for my Mind doth contract, attract, dilates, and expulses, for sometimes it dilates it self as the Sun doth, in beams of light, which is Inventions, at other times the Mind dilates, as the Sun his hear, which is in Poetick flames, and in rarified fancies; likewise the Mind attracts, as the Sun doth Vapours from the Earth, so my Mind attracts knowledge from the World, as from se|veral subjects and objects, as the Sun from several Climates; likewise as the Sun contracts porous matter into a solid sustance, so doth my Mind contract loose thoughts into solid Judgment; and as the Sun expulses united Bodyes into parts, so doth my Mind expulse its serious Contemplations, and united Con|ceptions into several discourses.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>Prethee expulse this discourse amongst thy sociable friends.</p>
+                  </sp>
+                  <sp>
+                     <pb n="567" facs="297"/>
+                     <speaker>Solitary.</speaker>
+                     <p>What amongst the sociable Virgins?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>Nay faith, Wives for the most part are more sociable than Maids.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="11" type="scene">
+                  <head>Scene 11.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Censurer, <hi>and a Gentleman.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>CEnsurer.</speaker>
+                     <p>Sir, I hear you intend to be a Souldier in the Wars.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>Yes Madam, I am come to take my leave, and to kiss your Ladiships hands before I go.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Sir you have chosen an honourable Profession, for though it is an industrious, carefull, painfull, and dangerous Profession, yet it is a noble Protection to the Weak and Infirm, to the decrepid Age, and shiftless Youth; to the faint and tender Female Sex; it is a guard to the ashes of the Dead, and to the Temples of the Gods; for without Marshal Discipline no Peace would be kept, Truth and Right would be torn from the owners, Ju|stice pull'd out from her Seat, and Monarchy quite from his Throne, and though a Souldier may lose his life sooner than Nature did determine, yet in recompence, Honour buryes him, and Fame builds up his Monument.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>Your descriptions Madam are able to make a Coward a Vali|ant Man.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="12" type="scene">
+                  <head>Scene 12.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>Some have thought the World was but as Stage, and that the several Creatures are the several Actors, and that every several Gene|ration is a new Play.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>No every several Generation doth not seem as if they were new Plays; for there seems to be but one play, and that to continue to the end of the World, and that every Generation seems only new Actors, that play over the same parts, for we well perceive that the following Generations act but what the former Generations did before them; 'tis true the World seems to be the Stage, and the Seas, Rocks, Rivers, Plants, Hills, Dales, Ci|ties, Towns, Villages, and the like, are as the several Changes, the Animals as the several Actors, the several Seasons the several Scenes, and the Specta|tors are the Gods, and the end of the World the end of the Play, and then they must make another World, if they will have another Play.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Surely <hi>Mercury</hi> is their Poet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>'Tis very likely, also 'tis probable <hi>Pallas</hi> helps him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Nay 'tis probable that <hi>Venus</hi> and <hi>Cupid</hi> helps him, for Love and Beauty doth at all times assist a Poet.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>There is no excellent and extraordinary wit, but hath many as|sistants,
+<pb n="568" facs="298"/>
+as first Nature is the chief; so likewise <hi>Mercury, Pallas, Venus, Cupid,</hi> and the Muses.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>The most foolish Actors of all Actors, are women.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>The truth is, it 'tis very unhappy for women, that they are not instructed in the rules Rethorick, by reason they talk so much, that they might talk sensibly, whereas now for want of that Art, they talk meer nonsense.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But all women are apt to speak more than to Act, by reason words are easily spoke, and deeds so hard to be done.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Faith women are as full of Actions as words; for all their life is imployed with talking and running about to no purpose.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <head>ACT IV.</head>
+               <div n="13" type="scene">
+                  <head>Scene 13.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Solitary, <hi>the Lady</hi> Examination, <hi>the Lady</hi> Censurer, <hi>and a Grave Matron.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>EXamination.</speaker>
+                     <p>Come let, us go abroad, for I love to refresh my self in the Serene Ayr, taking the pleasure of every Season, as when the returning Sun sp●ns Golden Beams, which interwaves into the thiner Ayr, as Golden Threads with softer Silk, making it like a Mantle, Rich and warm, which wraps the Body of each Creature in; so in the Summer when lifferous winds do fan the sultry heat; then in the Autum that's like a temperate Bath, which is neither too hot nor too cold; then in the VVinter, when free|sing cold doth purge the Ayr, as Physick doth the Body from most corrupt humours, and binds each loose deshevered part.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>The VVinter will bind up your active limbs, and numb your flesh, and make your Spirits chill, besides VVinter doth bedrid Nature, the spightfull malicious and wicked Season, for it doth strive for to destroy each several thing, and it yields nothing good it self; besides it doth Imprison many things, binding them fast with Icy Chains, taking away their Natural Liberty, also it doth not only frown, and lour on the bright Sun, making his light dim and dusky, but VVinter doth untwist, and doth unweave the Suns bright Golden Beams, and wind them on dark bottoms.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>The cold sharp Ayr is as sharp unto the touch, as a Lemon to the tast, and works a-like in some effects.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>Yes be'r Lady in causing frowning, and crumpling faces.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>Not only so, but sharp Ayr, and sharp Lemons, do both cleanse from Putrification, and keep from Corruption.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>But hot Ayr works upon the Body, as stronge Liquors upon the Brain, for hot Ayr distempers the Body, as strong Liquors do the Mind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>Beshrow me, I have felt some Ayres as hot, and as burning, as Brandy-wine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>VVhat VVine is that?</p>
+                  </sp>
+                  <sp>
+                     <pb n="569" facs="298"/>
+                     <speaker>Matron.</speaker>
+                     <p>The VVine of VVine, the Spirits of VVine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Indeed that VVine, if you call it so, which is Strong-waters, will work upon the Body as soon as the hottest Ayr, causing Feavours and other Malignant diseases.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>It seems that hot and burning Ayr, works upon the Spirits as much and as soon as the hottest Liquors, and hot Liquors upon the Bo|dy as much as hot Ayr, both causing Feavours and Frenzies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>In truth, and I heard that Ayr is liquid, and so is Drink, and Drunkards, like frantick persons, will do mad tricks sometimes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>And there are several sorts of Ayr, as there are several sorts of Drinks, some colder, some hotter, some moist, and some hath dry effects, and some Ayr refreshes and quenches heat, other some dissipates and ex|pels cold, some revives the Spirits, and some inrages them, some corrupts Bodyes, and some preserves them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Matron.</speaker>
+                     <p>By my Faith, I perceive Ayr and Drink have many good and bad qualities, but I had rather have good Drink and bad Ayr, than bad Drink and good Ayr, there is some substance in the one, but the other is like unto that which I have heard of but could never see, which is Incorporality; for that which is not subject to my sight, I can hardly believe it is any thing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Indeed very thin Ayr is next unto nothing.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="14" type="scene">
+                  <head>Scene 14.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>
+                        <hi>Tom. Adventurer</hi> is gone to be a Souldier.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Yes, and he may chance to get a glorious Fame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But particular Fames are like particular Creatures, some dye and decay sooner than others, but few live to old <hi>Nestors</hi> years, and some lye Bedrid, and a great Company are decrepid and lame, others are croked and deformed from their Birth, and some by evill Fortune; and many are Or|phans, and aboundance Bastards and Changlings; and though War makes the lowdest noise in Fames Palace, yet Wit for the most part lives the long|est therein; for Wit is such a delightfull Company, and such pleasant pa|stime, as old Father Time takes great care to preserve it, lapping Wit warm in the Memory, and feeding it often with Rehersals.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="15" type="scene">
+                  <head>Scene 15.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Examination, <hi>and the Lady</hi> Solitary.</stage>
+                  <sp>
+                     <speaker>EXamination.</speaker>
+                     <p>Come, Come, you will never get you a real Lover, if you delight so much in Solitaries.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>I desire none: for real Lovers do oftentimes prove unconstant,
+<pb n="570" facs="299"/>
+whereas feigned lovers are as constant as the Contemplator would have them, and as many as they would have; besides, a crowd or multitude of thoughts may rise up in the brain, and be as Spectators of one single thought, which if the Contemplator pleases may be a Lover, and the rest of the Spectators thoughts may censure of that single thought, as of his good parts, or bad, his virtues, or vices, some may praise, others dispraise, and the like; thus a Contemplator can never want Lovers, Admirers, Censurers, nor any other Company, since the Mind can present them with what thoughts they desire, not only the thoughts of Men Women and Children, but of any other Crea|tures that Nature hath made; for why should not our Spirits or Soul delight and content us, without the real possession of outward Good, as well as the Spirits or Soul doth torment us with a real Evill? for why may not Opinion, or Fancy, as well and as much delight us, as Opinion and Fancy affright us, as they often do?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>But an over-studious Mind doth waste the Body, for the Thoughts feeds as much upon the Body, as the Body upon the meat we eat, and the Body nourishes the Thoughts as much as meat nourishes the Body, and for the most part, as the Body is effected so is the Mind, for a distempe|red Body makes a distempered Mind, as a Luxurious Body makes an Amorous Mind; and a Feavour in the Body makes the mind frantick, for the heat of a Feavour is like Strong-water, it makes the Spirits drunk, the Thoughts dizie, and the Mind sick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>Indeed the Body and the Mind do most commonly agree, as in Monarchy the King and the Subjects do, the Subjects obeying the King, and the King commanding the Subjects, yet sometimes the Subjects compel the King, and sometimes the King forces the Subjects, so sometimes the Appetite compels the Reason, at other times the Reason forces the Appetite to a Mo|deration, and sometimes the Humours of the Body which are like the sence|less Commonalty, and the Passions of the Soul, which are as the Nobles, of|tentimes fall out, where sometimes the Humours of the Body usurp with an uprore the Passions of the Soul, and sometimes the Passions overcome the Humours by a wise policy; but when as the Kingdome of Man is in Peace, the Imaginations in the head send down thoughts, as metal into the heart, wherein they are melted and minted into current Coin, each thought as each peece having a several stamp, some is stamped with Hate, some Spight, others Malice; some with Jealousy, some Hope, some with Fear, some Pitty, some Love, but that of Love is of the highest vallew; but these Coins serve for Commerce and Traffick in the Body, from the Authority of the Mind or Soul, whose stamp or Image each piece bears.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="16" type="scene">
+                  <head>Scene 16.</head>
+                  <stage>
+                     <hi>Enter Sir</hi> William Admirer, <hi>and the Lady</hi> Peaceable.</stage>
+                  <sp>
+                     <speaker>ADmirer.</speaker>
+                     <p>Dear Mistriss how I love you!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>I wish I had Merits worthy your Affections.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>You are all a man can wish in women kind, for you are young, fair, virtuous, witty and wise.</p>
+                  </sp>
+                  <sp>
+                     <pb n="571" facs="299"/>
+                     <speaker>Peaceable.</speaker>
+                     <p>Alas all youth hath more follies than years, whereas those that are old, have or ought to have more years than follies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>You might be thought old by your speech and actions, by rea|son you speak so experienced, and act with such prudence and discretion; wherefore I should judge you were instructed by those that are old, and knew much.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>Indeed my Educators were Aged, and my Tutors, like as Pain|ters, drew with the Pencil of the Tongue, and the Colours of Sense, and the white of Truth, on the Platform of my Brain, many figurate discourses for the Understanding to view, but my Understanding hath weak Eyes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>Your Understanding neither wants sight nor light, but the Lady <hi>Faction</hi> wants both, or else she had not been so uncivil to you as she was when I was with you last; were not you very Cholerick with her?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>I am of too Melancholy a Nature to be very Cholerick.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>Why, are those that are Melancholy never Cholerick?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>I cannot say never, but yet very seldome, by reason they want that heat which makes Choler; for though the Spirits of Melan|choly persons may be as quick as those that are Cholerick, yet they are not so fiery, for there is as much difference betwixt Melancholy and Choler, as freesing and burning, the one contracts into a sad silence, the other expulses in blows, and many extravagant actions, and angry words; but those persons which are seldome angry, as all Melancholy persons are, who are of a pati|tient, peaceable Nature, yet when they are angry are very angry; to those persons that are naturally Melancholy, that are seldome seen to be merry or to laugh, yet when they are merry, their mirth is ridiculous, and they will laugh extremely, as at nothing, or at any thing; so those that are naturally Contem|plative, when they do speak, they speak beyond all sense and reason, their speech flows like as a Torrent, rough and forceable; thus we may perceive that extremes one way run into extremes another way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Admirer.</speaker>
+                     <p>I can truly witness that you are not apt to be angry, or at least not to appear angry; for I did wonder at your humble behaviour, civil ans|wers, patient demeanors towards the Lady <hi>Faction.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Peaceable.</speaker>
+                     <p>I may suffer an injury patiently when I cannot avoid it, but I will never injure my self in doing such actions, or speaking such words as are unbesitting, unworthy and base.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <div n="17" type="scene">
+                  <head>Scene 17.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Solitary, <hi>her Governess a Grave Matron, and a Gentleman as coming a Iourney.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MAtron.</speaker>
+                     <p>Pray Charge, thank this Gentleman for his gifts and favours to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>Governess, let me tell you, that they do themselves a courtesy or
+<pb n="572" facs="300"/>
+favour that do a courtesy or favour to another; and therefore there needs no thanks.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>But Lady you ought to thank me, for coming out of my way so far as I have done to see you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary</speaker>
+                     <p>No truly, for if you came out of your way to see me, if it were for affection, it is a duty to Love, if for gratitude, it 'tis a duty to Obligation, if for civility, it 'tis a duty to Honour, if for Charity, it 'tis a duty to Hea|ven, and where a duty is due, the owner receives but his own when 'tis paid; wherefore it were a vain and extravagant civility, like unto madness, to give thanks for what is justly their own.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gentleman.</speaker>
+                     <p>I do confess Lady I am yours, and therefore whatsoever I do, the best of my actions is due to you, and I repent for saying you ought to thank me for comming out of my way to see you, and I crave your pardon for my error, and ask forgiveness for my fault.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>I will forgive you, so I may be rid of you, for I love not Compa|ny but Solitariness.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="18" type="scene">
+                  <head>Scene 18.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Gadder, <hi>the Lady</hi> Kindeling, <hi>and the Lady</hi> Bridlehead.</stage>
+                  <sp>
+                     <speaker>BRidlehead.</speaker>
+                     <p>Sir <hi>William Admirer</hi> is like <hi>Argus,</hi> stuck full of Eyes, but Sir <hi>William</hi>'s are the Eyes of fair Ladyes that gaze upon him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>The truth is, when he is in the Company of our Sex, all the wo|men gaze on him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>They may look if they please, and admire him, but I can assure them he loves and admires but one, which is the Lady <hi>Peaceable.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>Why, is he in love with the Lady <hi>Peaceable?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>So much as he is to be married to her within two or three dayes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gadder.</speaker>
+                     <p>I thought he had loved the Lady <hi>Faction.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindling.</speaker>
+                     <p>No, no, for he denies that ever he had any Matrimonial love for her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bridlehead.</speaker>
+                     <p>Will they make a publick wedding?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kindeling.</speaker>
+                     <p>No, 'tis said the wedding will be kept private.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="19" type="scene">
+                  <pb n="573" facs="300"/>
+                  <head>Scene 19.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Censurer, <hi>the Lady</hi> Examination, <hi>and the Lady</hi> Solitary.</stage>
+                  <sp>
+                     <speaker>EXamination.</speaker>
+                     <p>Where have you been Lady <hi>Censurer</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Faith at Court, amongst a Company of Ladyes and their Gallants.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>And what was their pastime?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Why Singing, Dancing, Laughing, and Jesting; but I have earned an Angel amongst them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>How prethee?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Although not by the sweat of my brows, yet by the expence of my Spirits.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>Prethee tell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Why the Court Ladyes in a scornfull jesting, for Courtiers love to put persons out of Countenance if they can, prayed me to sing an old Song out of a new Ballad, as knowing my voice fit for no better Songs; but I told them, that if I did sing they should pay me for my pains; for there was never a blind Beggar, or poor young Wench, that sings at a door, but had somthing given them; they told me they would give me a penny, I answe|red, that when they sung to Gentlemen or Ladyes guts, that they had a shilling at least given them, and unless they would give me twelve pence a|piece, I would not sing; so they out of a laughing sport, borrowed a Crown of the Gentlemen to give me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>Oh that's the Court fashion, for the women to borrow of the men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>How should they live if they did not so? for in my Conscience they could not have made up twelve pence amongst a douzen of them, not in money; for their Clothes though costly and rich, yet are worn upon trust; but as I said, I was to sing them a Song for my money; so I sung them an old Song, the burden of the Song, <hi>Oh women, women, monstrous women, what do you mean for to do?</hi> but because the Song was against women, they would have had me given them their money back again, I told them no I would not, for it was lawfull gain for me to keep it, since I gained it by an honest industry, and that those that made a bargain must stick to it; then they told me, that if I would sing them a good old Song, they would give me another Crown; I told them I would have the money in hand, for fear they should dislike my Song when I had sung it, or at least to seem to dislike it, to save their money; so although they were loth, yet at last they borrowed another Crown to give me, thinking it did disgrace me, in that my voyce was fit for nothing but old Ballads, for all their Admirers, and Courtly Servants, or Ser|vants for Courtship were with them; so then I sung them <hi>Doctor</hi> Faustus <hi>that gave his Soul away to the Devill</hi>; for I knew Conjurers and Devills pleased women best.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>They fright women.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>By your favour, all Conjurers gain more by womens coming to them to know their Fortunes, and for to find out losses, than they do by men; for where one man goeth to a Conjurer or Fortune-teller, their goeth a
+<pb n="574" facs="301"/>
+hundred women; but as I have told you, I sung the Song of Doctor <hi>Faustus.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>For my part, I had rather hear a plain old Song, than any <hi>Italian,</hi> or <hi>French</hi> Love Songs stuff'd with Trilloes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>That's strange, when as in those Harmonious Songs the wisest Poets, and skillfull'st Musicians, are joyned to make up one Song, and the most excellent voices are chosen to sing them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>I know not, but I am sooner weary to hear a famous and Artifi|cial Singer sing than they are themselves with singing, for I hate their Quavers, demy, and semy Quavers, their Minnums, Crochets, and the like.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>The truth is, I have observed that when an old Ballad is plainly sung, most hearers will lissen with more delight, than to <hi>Italian</hi> and <hi>French</hi> Singers, although they sing with art and skill.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solit.</speaker>
+                     <p>The most famous singer in these latter times I have heard in <hi>France,</hi> it was a woman, and an <hi>Italian</hi> sent for into <hi>France,</hi> where she was presented with very rich gifts for her rare singing, yet I durst a-laid my life for a wager, that there were more that could have taken more delight to hear an old Ballad sung, which Ballads are true stories put into verses and set to a Tune, than in all there <hi>Italian</hi> and <hi>French</hi> Love whining Songs, and languish|ing tunes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Examination.</speaker>
+                     <p>Well, but what will you do with your gettings?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>Faith I will go home and consider, and the next time I will tell you how I will imploy my ten shillings.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="20" type="scene">
+                  <head>Scene 20.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>What makes you Booted and Spurred, are you going out of the town?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Yes faith, I am going to a wedding, Swich and Spur.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>What, art thou going to be married?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>No, I am not so hasty, for though I can spur to another mans wedding, I cannot be spurred to my own.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Whose wedding are you riding to?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>To Sir <hi>William Admirers,</hi> and the Lady <hi>Peaceable.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Faith their names and marriage do disagree; for never did Husband after the first Month Admire his VVife, nor a VVife after two Months live Peaceably.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="21" type="scene">
+                  <pb n="575" facs="301"/>
+                  <head>Scene 21.</head>
+                  <stage>
+                     <hi>Enter the Lady</hi> Solitary, <hi>the Lady</hi> Examination, <hi>and the Lady</hi> Censurer.</stage>
+                  <sp>
+                     <speaker>EXamination.</speaker>
+                     <p>How have you imployed the ten shillings got by singing?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>I must tell you, I have been extremely troubled how to imp|loy it, insomuch as my Mind hath never been at rest; for their hath been such arguing and disputing and contradiction amongst my Thoughts, as I did verily believe there would have been a mutiny in my head: for first I did resolve to put my ten shillings to pious uses, and then I thought to build some Alms Houses, as building one long room like a Gallery, making in it several Partitions, and the outward dores all a-like; these Houses, or rather partitioned rooms, for poor old and infirm persons, that could not work nor beg for their livelyhood, to live in; but when I had well considered, that when I had built my Alms Houses, which is as I said one long Room divided by Partitions, I should have nothing left to maintain them, and they to have only House-room, and have neither Meat, Drink, Clothes, nor Fi|ling to feed them and to keep them from the injuries of the cold, having neither Fires nor Beds, I thought the Parish wherein they were Born, would better provide for them, so that instead of praying for me, they would Curse me; besides I considered, that after I was dead, had I means to leave an al|lowance, yet when it came for the Magistrates to chuse, those that should be put in they would leave out, and chuse idle young Huswives, or foul Sluts to dwell therein, such as those Magistrates would visit sometimes, to see what they did want, so as I let that design pass; then I thought to build a Church, and much were my thoughts concerned, whether the Roof should be flat, or vaulted, or sloping; but after I had resolved how the Roof should be, and where the Belfrey and Quest-room, I was sore perplex'd in my Mind, as where or how to place the Pulpit, whether at the East or West end, or at a Corner in the Church, or at one of the sides of the Church close by the Wall, but at last I resolved it should be placed in the midst of the Church, in the very Centre, that the voice of the Minister might spread round to the Circumference, so as all the Congregation might hear him; but when I con|sidered that when my Church was bnilt there was neither Benefices, Lands, nor Tithes, nor any allowance for the Minister, and that there was none that did or will preach meerly for Gods sake, but for gains sake, as to have a maintenance thereby, or some advancement therefrom, I desisted from that design; then I thought to build a Bedlam, and be the Keeper my self, but I considered that if any of the mad folkes should get loose, they might kill me, besides they stink so horribly, and require so much cleansing, not being capa|ble of keeping themselves clean, as I resolved not to go forward with that design; then I thought to build a free School, and I to be the chief Tutoress my self, but when I remembred the confused noise the Scholars make read|ing all at once, that neither I could hear nor they understand what they read, I thought it would be to no purpose, because the Scholars would profit but little by their reading, and then I should be thought an ignorant Tutoress; at last I thought to give my ten shillings to the poor Beggars, but when I con|sidered the Alms that was given to Beggars did more harm than good,
+<pb n="576" facs="302"/>
+causing them to be idle and lazy, and incouraged them to go roving and Ro|guing about, I chang'd my Mind from that Act, but finding I could not imploy my ten shilligns in any pious Act, I thought to imploy it in something to be remembred by, as for Fame, whereupon I resolved to build a Pyramide or Cross, the Pyramide to be vastly high, and the Cross to be gloriously gilt, but then searing a Rebellion, and knowing that in a Rebellion a Confused and su|perstitious rout, would certainly pull them down to the ground, and that when the Cross or Pyramide was down, I should be utterly forgottten, I de|sisted from that design; so finding as little imployment for my money to any famous act as to any pious use, I resolved to imploy it to my profit, so then I had a design to set up a Shop of small wares, but when I considered how dead Trading was, and how fast Tradesmen did break, and instead of being inriched became poorer than when first they begun, for to set up a Trade requires some stock, but when they break, they have not only lost their stock, but owe more than ever their stock was, so I went from that design; then I intended to buy me a parcell of Land with my ten shillings, but hearing there was much danger in buying of Land, for that many have morgaged their Lands to one, and sold them to another, or by an old Deed that hath layen in some old Trunck, Desk, or Box, which may be brought forth to claim the Land again, so as I must be forced to go to Law for my Land I bought, which would cost me more than my Lands, besides the infinite pains and trouble in following my Law Sute, and vext with querkes, and quilters Lawyers find to prolong the Sute, or else I must let my Land go, so lose it, finding this, I thought to put my money out to use, but then I con|sidered that first I had only a piece of Parchment for my money, besides, it is a general rule that few or none take up money at use, but those that are Banckrouts, and when they had once got my money into their hands, I should neither get Use or Principal, for should I Imprison them, I should be never the neerer to get my money, for where there is nothing to be had, sayes the old Proverb, the King must lose his right; after this I intended to build a Ship, and Traffick with it on the Seas, but then considering the Various Winds, the Tempestuous Storms, the rough Seas, the lurking Sands, the dreadfull Rocks, the gaping Flouds that might split and swallow my Ship, and be drowned my self; I was resolved not to follow that design; then I thought to buy a place at Court, but when I considered how I must cringe and creep, flatter, rail, and be factious, and at last the expences at Court would be more than the profit of my place, by which I should become a Beggar, or at least a Shark, I left off that design; but after all these considerati|ons I concluded with my self that the most profitablest way to imploy my ten shillings was to build a Bawdy house, for I was sure that as soon as ever it was built Customers would resort thereunto; besides it was the most certain gain that was, without any expences, whereas all other Trades or Professi|ons require means or stocks to begin with, whereas in these Professions or Trade the poorest may set up without borrowing or begging, for a stock to begin with; neither can alterations of times ruin it, for in all times whether Peace or Wars, and in all Nations, this Trade never fails, whereunto if you please to come Ladyes, you shall be very welcome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Solitary.</speaker>
+                     <p>It will not agree with my humour, for I love Solitariness, and there will be too much Company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Censurer.</speaker>
+                     <p>There may be a great resort, but their Conversation is by single Couples.</p>
+                  </sp>
+                  <sp>
+                     <pb n="577" facs="302"/>
+                     <speaker>Examination.</speaker>
+                     <p>You are a wag Lady <hi>Censurer.</hi>
+                     </p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="22" type="scene">
+                  <head>Scene 22.</head>
+                  <stage>Enter four Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEnt.</hi>
+                     </speaker>
+                     <p>If I were to chuse a Wife, I would chuse the Lady <hi>Solitary.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Why?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Because those that are Solitary love not much Company, and being alone love not much noise, and loving no noise, love silence, and loving silence, love not to talk, so as in having of her, I shall have a Solitary, Peaceable, Quiet, Silent Wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Gent.</hi>
+                     </speaker>
+                     <p>And if I were to chuse, I would chuse the Lady <hi>Censurer,</hi> for she would let nothing pass her judgment: for she will give her opinion of all things, persons, and actions; so in having her to my Wife, I should have a general Intelligencer, or at least her opinion of all things.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>But if her Judgment were not good, her opinion would be erron●ous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Gent.</hi>
+                     </speaker>
+                     <p>I care not, it would serve to pass an idle time with.</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Gent.</hi>
+                     </speaker>
+                     <p>And if I might chuse, I would chuse the Lady <hi>Examination</hi> for a Wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Why?</p>
+                  </sp>
+                  <sp>
+                     <speaker>4 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Because she knows most humours and passages of every body, and their affairs, so by her I should be entertained with news from all pla|ces, as of all actions done, opinions held, words spoke, or thoughts thought.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>I would I could have my wish as easily, as you might have your choice.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>What would you wish?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>I would wish to be unmarried, for if I were, I would never be troubled with a Wife again; but let me advise you, for I love to have mar|ried Companions, that you three should go a woing to those three Ladyes, they cannot nor will not deny your Sute, being all three of you rich, young and handsome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All three.</speaker>
+                     <p>We will take your Counsel.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         </body></text></TEI>
+

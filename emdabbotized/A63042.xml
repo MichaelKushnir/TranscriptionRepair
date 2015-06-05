@@ -1,0 +1,400 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A63042">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">A tragi-comedy, called New-Market-Fayre, or A Parliament out-cry: of state-commodities, set to sale. The prologue sung by the cryer. ...</title>
+            <author>Man in the moon.</author>
+         </titleStmt>
+         <extent>5 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2011 April (TCP phase 2)</date>
+            <idno type="marc">99831173</idno>
+            <idno type="stc">Wing (2nd ed.) T2018A.</idno>
+            <idno type="stc">Greg, II, 687(b).</idno>
+            <idno type="vid">35636</idno>
+            <idno type="DLPS">A63042</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">A tragi-comedy, called New-Market-Fayre, or A Parliament out-cry: of state-commodities, set to sale. The prologue sung by the cryer. ...</title>
+                  <title type="alt">New-Market-Fayre. Part 1.</title>
+                  <title type="alt">Tragi-comedy, called New-Market-Fayre.</title>
+                  <title type="alt">Parliament out-cry: of state-commodities, set to sale.</title>
+                  <author>Man in the moon.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, corrected and amended by the author.</edition>
+               </editionStmt>
+               <extent>8 p.</extent>
+               <publicationStmt>
+                  <pubPlace>[London] :</pubPlace>
+                  <publisher>Printed at you may go look,</publisher>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Attributed to the Man in the moon on A1v.</p>
+                  </note>
+                  <note>
+                     <p>Place of publication from Wing.</p>
+                  </note>
+                  <note>
+                     <p>A second part was published the same year.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the Bodleian Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>Great Britain -- Politics and government -- Humor -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="1"/>
+            <p>
+               <hi>A Tragi</hi>-COMEDY, <hi>called</hi> NEW-Market-FAYRE, OR A PARLIAMENT Out-Cry: <hi>OF</hi> State-Commodities, SET TO SALE.</p>
+            <p>
+               <hi>The</hi> Prologue <hi>ſung by the Cryer.</hi>
+            </p>
+            <quote>
+               <l>Come, come away, to the <hi>Fayre</hi> I ſay,</l>
+               <l>for now 'tis the <hi>Saints</hi> Market-Day:</l>
+               <l>Here be pretty things, toys for your <hi>new</hi> Kings,</l>
+               <l>Scepters: Crowns Diamonds and Rings:</l>
+               <l>Mannors for <hi>pleaſure,</hi> good <hi>land</hi> for your <hi>treaſure▪</hi>
+               </l>
+               <l>good People, here is <hi>meaſure for meaſure.</hi>
+               </l>
+               <l>Come <hi>Tom</hi> and <hi>●oll, Iane, C●ſſe, Sue,</hi> and <hi>Doll,</hi>
+               </l>
+               <l>and <hi>wiſe</hi> Aldermen of the <hi>City,</hi>
+               </l>
+               <l>See but this <hi>Play,</hi> and before you go away</l>
+               <l>you'l ſay tis wondrous pri●ty.</l>
+               <l>Welcom, Welcom with al● my heart,</l>
+               <l>For now the <hi>Cryer</hi> muſt mind his <hi>Part.</hi>
+               </l>
+            </quote>
+            <p>The Second Edition, Corrected and amended by the Author.</p>
+            <p>Printed at <hi>you may go look.</hi> 1649.</p>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="2"/>
+            <head>To his Noble Friend the <hi>Man in the Moon,</hi> in Comendations of his <hi>Tragi-Coemedy</hi> called <hi>NEW-Market-FAYRE.</hi>
+            </head>
+            <l>PRoceed, Dear friend; and bid them doe their worſt;</l>
+            <l>Tell them their <hi>Acts</hi> are like themſelves <hi>accurſt:</hi>
+            </l>
+            <l>Thine are more <hi>bleſt,</hi> and <hi>happy,</hi> that give <hi>ſight</hi>
+            </l>
+            <l>To <hi>blinde-men;</hi> thy <hi>Moon</hi> ith' <hi>clipſe</hi> puts out their <hi>light.</hi>
+            </l>
+            <l>But when our <hi>So●</hi> but daines to appeare</l>
+            <l>In the bright <hi>Orbe</hi> of his Right <hi>Hemiſphere:</hi>
+            </l>
+            <l>Then ſhall <hi>State-Glow-worms</hi> vaniſh to their graves,</l>
+            <l>So <hi>ends</hi> thy Play, and ſo will <hi>end</hi> ſuch Knaves.</l>
+            <l>Mean while thou haſt the wiſhes of my heart,</l>
+            <l>This <hi>Gold</hi> to boot, to write thy <hi>Second Part.</hi>
+            </l>
+            <bibl>Thine <hi>W. M. B.</hi> In. Tem▪</bibl>
+         </div>
+         <div type="dramatis_personae">
+            <head>The Actors Names.</head>
+            <list>
+               <item>Fairfax.</item>
+               <item>Crumwell.</item>
+               <item>Their Wives.</item>
+               <item>Ireton.</item>
+               <item>Mildmay.</item>
+               <item>Skippon.</item>
+               <item>Pride.</item>
+               <item>Martyn.</item>
+               <item>Half a ſcore Aldermen.</item>
+               <item>Rains broughs widow.</item>
+               <item>Two Cryers.</item>
+               <item>Three Meſſengers.</item>
+            </list>
+            <p>The Scene WESTMINSTER.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="3" facs="2"/>
+            <head>
+               <hi>A Tragi</hi>-COMEDY, <hi>called</hi> NEW-Market-FAYRE, OR A PARLIAMENT Out-Cry: <hi>OF</hi> State-Commodities, SET TO SALE.</head>
+            <stage>
+               <hi>Enter</hi> CRYER <hi>with a Crown</hi> and <hi>Scepter, a Cabinet of</hi> Jewells, <hi>Suites and Roabes belonging to the late King.</hi>
+            </stage>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>O <hi>Yes, O yes, O yes;</hi> here is a golden Crowne, worth many a hundred Pound; 'twill fit the head of a Fool, Knave, or Clowne; 'twas lately taken from the Royall Head, of a King Martyred; Who bids moſt? Here is a Scepter for to ſway a king|dom a new <hi>reformed</hi> way; 'twas uſu●p'd from one we did lately betray; pray Cuſtomers come away: Here be Jewells of won|drous price, they will dazzle both your eyes; come, come, who buyes: here be ſuits of the Kings, Bands, Shirts and Shoo-ſtrings; Here be S ockings; here be ſhooes and cuffes, and double dou|ble Ruffes; here be cloaks, hats and gloves, Rings and Bracelets
+<pb n="4" facs="3"/>
+                   of His Dear Loves; Here be boots and ſpurres, and bloody hand|kerchers; with his Roabs that be royall, his Watch &amp; Sun-diall; Here be Cabinets with Letters, to inſtruct all your betters; his <hi>Meditations</hi> and <hi>Prayer-book,</hi> in which all Nations may look; here is his <hi>Haire</hi> and <hi>royall Blood,</hi> ſhed for his Subjects good; here be Liberaries and Books, and Pictures that containe his Looks; Here you may all things buy, that belong to Monarchy; Here's a Bowl his blood to Carrowſe with the Goods belonging to his Houſe; here be rich <hi>Hangings,</hi> Chairs and Stools, belonging to the Houſe of <hi>Lordly Fools;</hi> here be ſeats of <hi>Wool-packs,</hi> and many pretty Knacks. Come cuſtomers buy, for the STATE wants money, my Candle is light, and I ſhut up before night.</p>
+            </sp>
+            <stage>
+               <hi>Enter Fairfax, Cromwell, Ireton, Pryde, Martyn, Mildmay,</hi> and <hi>Skippon.</hi>
+            </stage>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>GEntlemen, welcome to <hi>New-Market-Fayre;</hi> Here are Commodities worth your <hi>Purchaſing;</hi> the ſpoyls of <hi>Tyrant Kings,</hi> and of <hi>inceſtious Queens▪</hi> which We have cruſh'd by power <hi>of Arms;</hi> and made them taſte Our <hi>high Diſpleaſure</hi> at large, when <hi>Victory</hi> was proud to honor Us at <hi>Nasbys</hi> happy Field. I hope you'l give me leave to chuſe what I like beſt.</p>
+            </sp>
+            <sp>
+               <speaker>Crum.</speaker>
+               <p>My Lord, the Fayr is proclaim'd, and <hi>Free:</hi> you have no greater priviledge then the meaneſt here; our <hi>Intereſt's</hi> all a|like in every parcell.</p>
+            </sp>
+            <sp>
+               <speaker>Cry.</speaker>
+               <p>What want ye Gentlemen? here's <hi>Stately Ware;</hi> The <hi>Goods</hi> oth' King, and his Exiled <hi>Heire.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crum.</speaker>
+               <p>Where is the Crowne that Col. <hi>Martyn</hi> took from the Abby at <hi>Weſtminſter,</hi> ſome four yeers ſince? I think it fitts my Temples, and i● the richeſt ſave one, an● that the Rebell Earl of <hi>Darby</hi> hath ith' Ile of <hi>Man.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <l>Here 'tis Sir; try it on: So, now 'tis ſure,</l>
+               <l>And makes you look more like a King <hi>then Brewer.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>'Tis moſt my ●ight, and beſt becomes my head.</p>
+            </sp>
+            <sp>
+               <speaker>Crum.</speaker>
+               <l>Not yet my Lord, till OLIVER be dead.</l>
+               <l>Better to Straight, then to have none at all,</l>
+               <stage>aſide.</stage>
+               <l>Were it but on,— yours ſhould quickly fall?</l>
+               <l>Here's a hundred pound in gold for it;</l>
+               <l>And here's the <hi>Purſe</hi> was given me by a <hi>Citt.</hi>
+               </l>
+            </sp>
+            <pb n="5" facs="3"/>
+            <sp>
+               <speaker>Cry.</speaker>
+               <p>A hundred pound bid for the <hi>royall Crown of England;</hi> who bids any more?</p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>Here 'tis trebble.</p>
+            </sp>
+            <sp>
+               <speaker>Cry.</speaker>
+               <p>Three hundred pound bid for the <hi>royall Crown of England;</hi> who bids more?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Cr●m.</hi>
+               </speaker>
+               <l>Ile hav't in ſpight of <hi>Fairfax</hi> or <hi>Fate,</hi>
+               </l>
+               <l>Although I buy't at ne're ſo deare a rate:</l>
+               <l>Here's five hundred pounds; and now 'tis mine.</l>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <l>But not ſo haſty ſir; Here's a thouſand for it:</l>
+               <l>And more; becauſe Ile make it ſure,</l>
+               <l>Ile give thee in my <hi>Baſon</hi> and my <hi>Vre.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <l>I caus'd the Owner of it looſe his head,</l>
+               <l>And ſhall I looſe his Crowne now he is dead?</l>
+               <l>No: Did it encompaſſe the powrful brows of JOVE,</l>
+               <l>I'de ſtorm the Heavens, and fetch it from above.</l>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>Are you content to ſhare it then?</p>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <l>No: A Crown admits no Rivall; Ile <hi>all</hi> or none,</l>
+               <l>He ſits unſafe that doth divide his Throne.</l>
+            </sp>
+            <stage>Enter my Lady Fairfax, and Mrs. Crumwell.</stage>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>Ile try that preſently.</p>
+               <stage>draws his ſword.</stage>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Mrs C●um.</hi>
+               </speaker>
+               <l>Doe if thou darſt;</l>
+               <stage>(ſhe ſtands ſtradling betwixt.)</stage>
+               <l>Run thy <hi>Blade</hi> in a Woman, doe,</l>
+               <l>Thou white. liver'd Knave thou; thou art <hi>mark'd</hi> for a Roague;</l>
+               <l>Woo'd I were a man for thy ſake. Uds. fut Ide—</l>
+            </sp>
+            <sp>
+               <speaker>Lady Fair.</speaker>
+               <p>What woo'd ye Miſtris <hi>Yeſt</hi> and <hi>Graynes;</hi> marry foh— Come up <hi>Small-beer:</hi> You'd make your noſe as red-hot as your husbands, and thruſt it into his <hi>Fizzling-place,</hi> woo'd ye not, Miſtris Brazen-face.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. Crom.</speaker>
+               <p>Call me Miſtris brazen-face;—; thou <hi>Rotter-dam</hi> ſlut thou;— call me brazzen-face. Thou look'ſt more liker a Miſtris <hi>fools-face,</hi> or like thy <hi>Husbands-face,</hi> then I do a brazzen-face, or a copper-face either; Come, come; I never had a Baſtard by another man, when my Husband was at the Leaguer before <hi>Breda;</hi> nor I keep not c●mpany with Cavaliers at Tavernes; nay at Bawdy Taverns too, when thy <hi>Tom Innocent</hi> has been in fight. <hi>Gorge</hi> me that, <hi>Gorge</hi> me that <hi>Madam Turn-tayle.</hi>
+               </p>
+               <stage>
+                  <hi>maks horn●.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>You'l peace you <hi>Shee-Otter,</hi> Ile make ye take your Cop|per elſe; and for <hi>Dives-face</hi> thy husband, Ile deale well enough with him —<hi>come fire-ſnowt, draw.</hi>
+               </p>
+            </sp>
+            <pb n="6" facs="4"/>
+            <sp>
+               <speaker>Mild.</speaker>
+               <p>Nay, good my Lord, put up your ſword; we ſhall ere long I fear have occaſion enough to uſe your Valour: Fy, fy, in your own Country? wrong your own Country? 'tis the way to make us looſe all we have got and fetch the Prince in amongſt us: Ile to the Counſell of State, and take up the buſineſſe to all your contents Ile warrant ye; in the mean time you may equally divide the Houſes and goods of the late King Queen and Prince amongſt us; you two ſhall caſt lots, which ſhall be King of Eng|land, and which of Ireland C●m. Gen. <hi>Ireton</hi> Prince of Wales, my ſelf Maſter of the horſe, and clerk of your Majeſties Jewels; Col. <hi>Pride</hi> wi●l be content with Oate-lands, Wood-ſtock, or Greenwich to brew in: Mr. <hi>Martyn</hi> Lord Chamberlaine; Keep|er of your Concubines, or Gentleman-Uſher to one of your Queens; your Wives may enjoy all the Queens rights; and Ma|jor <hi>Skippon</hi> be made Lord High Conſtable of England; Mr. <hi>Good|win</hi> Archbiſhop o● Canterbury, Mr. <hi>Owen</hi> Archbiſhop of York, and Hugh <hi>Peters</hi> of London, <hi>Iohn Bradſhaw</hi> Lord Chief Juſtice, <hi>Steel, R●lls,</hi> &amp;c. of the privie Counſell, <hi>●embroke</hi> Controuler; <hi>Den|b●igh</hi> Yeoman of the Wine-ſeller. <hi>●lemming</hi> Maſter-Cook, <hi>Sel|den</hi> Secretary of State, my Lady <hi>Kent</hi> Laundreſſe, <hi>Miles Corbet</hi> Scullion; and then we ſhall have a Kingdom well govern'd, and all the People contented to the full: Is not this better then fighting and weakning your ſelves to ſtrenthen the Enemy?</p>
+               <l>Come come, let's be all Peace, and ceaſe baſe jarres,</l>
+               <l>Wee look for forrein, not domeſtique Warres.</l>
+            </sp>
+            <sp>
+               <speaker>Omnes,</speaker>
+               <p>Content, content; all is Peace, all is Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. Crum.</speaker>
+               <p>But think ye that WE can brook any thing that was the late Queens; No ſhe was a Strumpet, &amp; a Baggage, and all her Goods ſmell of Popety, and ſavor as ſtrong as the Whore of <hi>babylon;</hi> If the Kingdome will not be at the Charge to finde me all things New, by my troath, I will not be their Queen. Doe ye thinke that Ile be Odious to my People? No; they ſhall be proud of the Ornaments I weare.</p>
+               <l>The <hi>Gods</hi> themſelves ſhall for my Love implore,</l>
+               <l>My People (ike ſome Goddeſſe) me adore.</l>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <l>Be but content, my Dear, the glory of the world is thine.</l>
+               <l>Thou haſt both <hi>Indies</hi> at thy beck; Thy traine</l>
+               <l>Shall be held up by Queens of <hi>France</hi> and <hi>Spaine</hi>
+               </l>
+            </sp>
+            <stage>Ex Om.</stage>
+            <pb facs="4"/>
+            <stage>The Sceane changing. Enter a Surveigher, and preſents a Landskip, wherein is diſcovered all the Kings Mannors, Parks, Chaſes, Forreſts, with Horſes and Deer feeding.</stage>
+            <stage>
+               <hi>Enter a malignant</hi> CRYER.</stage>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>O <hi>Yes, O yes, O yes,</hi> Who buyes any of the late Kings <hi>Revenues</hi> belonging to His Crown, worth many a hundred Thouſand pounds; Here be Mannors, Parks, Forreſts and Chaſes, and good Timber trees that grow on their places; Here be good ſtoor of Deer, for the Saints to make good cheer, and grown Woods for their feer; Here's Cammels, Aſſes, and H●rſes, that will mount you more Forces; Here be broken Seals Maces, and Members with hollow hearts, and double faces; Here's Dean● and Chapters Lands, and Parliament men with bloudy hands; Here are perjur'd Knaves and Fools, that have ●ndone Churches and Free-Schools; here's <hi>Grafton</hi> &amp; <hi>Bel-cauſe,</hi>●hat intend to ſteal half; <hi>Tony Mildmay</hi> and <hi>Lampier</hi> are intruſt|●d to ſell Deer; here is Taxes of Gold-ſmiths-hall, Couzening, Cheating, Lying and the Devil and all; here is a new Art of <hi>doubling</hi> come in faſhion, but hereafter 'twill prove <hi>double</hi> Dam|nation; <hi>Ireton</hi> Reports the amendments of the Act, but you may one day ſee him hang'd for the Fact; theſe holy thieves live only by murder and ſtealth, rob God, King and People for the good of the Common-wealth; here is Richmond and Hampton-Court, and Windſor-Caſtle, and Havering for their ſport; here's <hi>Wanſted</hi> for <hi>Iudas Mildmay</hi> that with a kiſs did his Maſter betray; here's <hi>Holmby</hi> a priſon to relieves, and <hi>White-hall</hi> full of thieves; here's the <hi>Wardrobe</hi> intended for the poor, and St. <hi>Ianſes</hi> that ſhrowds many a Parliament-mans whore; here is <hi>Titbury, Roy|ſto●●</hi> and <hi>Newmarket,</hi> to be ſold out-right, or to be let; here's <hi>Cla|ringdon, Oatlands, Theobalds, Woodſtock,</hi> &amp; 400 <abbr>l.</abbr>
+                  <hi>per an.</hi> for my Lord fool-<hi>Pembrook</hi> there's <hi>Buſhy; Greenwich</hi> and <hi>Sumerſet-houſe,</hi> which will ſerve the Saints to inherit, and multiply their ſpirit; beſides here be Offices and G●atuetyes, given for their brethrens lyes; each Parliament-man has 4 <abbr>l.</abbr>
+                  <hi>per</hi> week allow'd him: beſides the Revenue, which they think is their due. Delinquents Eſtates and Church-lands, are all in State-huckſters hands, yet ſtill they be poor, and tax the people more and more; the Self-denying-Or|dinance, lies in a trance; the war is unjuſt, grounded on covetouſ|neſs
+<pb facs="5"/>
+                   and luſt. Come Cuſtomers and buy — <hi>your own ſlave●</hi>
+               </p>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Woolaſion, Adkins, Penning●on, <hi>and</hi> 4 Alder|men <hi>more with the</hi> Widdow Rainsbrough.</stage>
+            <sp>
+               <speaker>Wool.</speaker>
+               <p>I have laid out large Sums in purchaſing of Biſhops Lands; heaven ſend me comfort of them, and grant I may en|joy them quietly. This news from Sea, and the Scots does not pleaſe me I promi●e ye.</p>
+            </sp>
+            <sp>
+               <speaker>Atkins.</speaker>
+               <p>I have purchas'd ſome too, and have money in readi|neſs for more. Siſter <hi>Rain●brough</hi> you will have double ſhare for the loſs of your deer husband; enough to marry you to a Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Rainſ.</hi>
+               </speaker>
+               <p>Indeed the State is liberal.</p>
+            </sp>
+            <sp>
+               <speaker>Cry.</speaker>
+               <p>I, ſo they are of that that is none of their own.</p>
+               <stage>aſide.</stage>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Fairfax, Cromwel, Ireton, <hi>&amp;c.</hi>
+            </stage>
+            <sp>
+               <speaker>Crum.</speaker>
+               <p>WE muſt be ſudden in our reſolutions, all's loſt elſe; Money is a moveable Comm dity, let's demand a million of the City: hang 'um, they'r rich enough.</p>
+            </sp>
+            <sp>
+               <speaker>Atkins.</speaker>
+               <p>Do ye hear that brethren?</p>
+               <stage>(lets ſtand a ſide)</stage>
+            </sp>
+            <sp>
+               <speaker>Crum.</speaker>
+               <p>Tell them of Mannors, Biſhops, Deans, and Chapters Lands; 'tis the way to make the Jou ● heads untru●s —</p>
+            </sp>
+            <sp>
+               <speaker>Atkins.</speaker>
+               <p>Ile do't in my Breeches firſt.</p>
+               <stage>aſide.</stage>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>But what if they deny us the money?</p>
+            </sp>
+            <sp>
+               <speaker>Ire.</speaker>
+               <p>My Lord, I am confident they dare not: if they ſhould, we can compel them: Here's an <hi>ill ſcent</hi> my Lord, pray let's void the room.</p>
+            </sp>
+            <stage>Enter three Meſſengers running.</stage>
+            <sp>
+               <speaker>Crum.</speaker>
+               <p>Some haſty news—pray heaven 'tis good.</p>
+            </sp>
+            <sp>
+               <speaker>Meſſengers.</speaker>
+               <p>Here's Letters for the General.</p>
+               <stage>
+                  <hi>C●u●. reade.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Crom.</speaker>
+               <p>We're all undone; our Navy's loſt at Sea; <hi>Dublin</hi>'s ta|ken; the Prince is landed with 30000 in the Weſt; the <hi>Scots</hi> are advanc'd with five &amp; twenty Thouſand to <hi>Carisſle;</hi> the <hi>Levellers</hi> and <hi>Pre●byters</hi> fly to them; and which is worſe, the People ge|nerally do our late <hi>Actions</hi> curſe. We all are loſt.</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>Ha, ha, ha; then you had beſt all hang your ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Omnes.</speaker>
+               <l>All People here behold our <hi>miſeries,</hi>
+               </l>
+               <l>Who lives by <hi>Treaſon,</hi> thus by <hi>Treaſon</hi> dies.</l>
+            </sp>
+            <stage>they fall upon their ſwords.</stage>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="notice_of_forthcoming_volume">
+            <p> Next Week expect the <hi>Second Part.</hi>
+            </p>
+            <pb facs="5"/>
+         </div>
+      </body>
+   </text>
+</TEI>

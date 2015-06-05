@@ -1,0 +1,1737 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A04052">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">An enterlude of welth, and health ... newly ... imprinted. The names of the players. Welth. Helth, Lybertie. ...</title>
+         </titleStmt>
+         <extent>17 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 January (TCP phase 1)</date>
+            <idno type="marc">99854466</idno>
+            <idno type="stc">STC (2nd ed.) 14110.</idno>
+            <idno type="stc">Greg 27.</idno>
+            <idno type="vid">19889</idno>
+            <idno type="DLPS">A04052</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">An enterlude of welth, and health ... newly ... imprinted. The names of the players. Welth. Helth, Lybertie. ...</title>
+               </titleStmt>
+               <extent>[32] p.</extent>
+               <publicationStmt>
+                  <pubPlace>[London :</pubPlace>
+                  <publisher>W. Copland for J. Walley?,</publisher>
+                  <date>1565?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Printer's and publisher's names and publication date conjectured by STC.</p>
+                  </note>
+                  <note>
+                     <p>In verse.</p>
+                  </note>
+                  <note>
+                     <p>Signatures: A-D4.</p>
+                  </note>
+                  <note>
+                     <p>Imperfect; title page stained, obliterating some print.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of the original in the British Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="1"/>
+            <pb facs="1"/>
+            <p>An ente●●●●● of Welth, and Helth, very m●●y and 〈◊〉 Pastyme, newly 〈◊〉〈◊〉〈◊〉 Imprinted.</p>
+            <list>
+               <head>¶The Names of the players.</head>
+               <item>Welth.</item>
+               <item>Helth,</item>
+               <item>Lybertie.</item>
+               <item>Ilwyll.</item>
+               <item>Shrowdwyt.</item>
+               <item>Hance.</item>
+               <item>Remedy</item>
+            </list>
+            <p>Foure may easely play this Playe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="2"/>
+            <pb facs="2"/>
+            <stage>¶Here entreth Welth, and Helth synging together a balet of two partes, and after speaketh Welth.</stage>
+            <l>WHy is there no curtesy● now I am come</l>
+            <l>I t●owe that all the people be d●me</l>
+            <l>Or els so god helpe me and halyd●●●</l>
+            <l>They were almost a sleepe.</l>
+            <l>No wordes I harde, no● yet no ●●lking</l>
+            <l>No instrument went nor ballattes synging</l>
+            <l>What ayles you all thus ●● syt dreaming</l>
+            <l>Of whom take ye care?</l>
+            <l>Of my coming ye may be ●l●d</l>
+            <l>Therefore I pray you 〈…〉</l>
+            <l>For all your desyre shall be had</l>
+            <l>I can amende your che●●e</l>
+            <l>By God I thinke ye haue forgotten me.</l>
+            <l>I am welth of this realme looke vpon me</l>
+            <l>For I am to euery man louing and fre●ndly</l>
+            <l>For welth hath no pere.</l>
+            <sp>
+               <speaker>Helth.</speaker>
+               <l>Brother welth haue ye not yet doone?</l>
+               <l>ye prayse your selfe aboue the moone</l>
+               <l>Euery man may perceyue therby soone</l>
+               <l>That you lacke discresyo●</l>
+            </sp>
+            <sp>
+               <speaker>We●th.</speaker>
+               <l>Wherfore, by god I cannot say to much</l>
+               <l>I am so welthy of substaunce and rych</l>
+               <l>In all the worlde where is one such</l>
+               <l>As I am of comparison.</l>
+            </sp>
+            <sp>
+               <speaker>Helth.</speaker>
+               <l>Welth is good I cannot den●y</l>
+               <l>Yet prayse your selfe so muche ye may</l>
+               <l>For welth oftentimes doth decay</l>
+               <l>And welth is nothing s●re.</l>
+            </sp>
+            <sp>
+               <pb facs="3"/>
+               <speaker>Welth.</speaker>
+               <l>Welth hath ben euer in thi● countrey</l>
+               <l>And here I p●rpose styll for to be</l>
+               <l>For this is the lande most mete for me</l>
+               <l>And here I wyll endure.</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Therin ye speak●full louingle</l>
+               <l>For in this realme welth should be</l>
+               <l>yeth no displeasure I pray you hartely</l>
+               <l>But in the way of communicacion.</l>
+               <l>And for pastyme I would ●peake some wayes</l>
+               <l>Of no comparison, nor to you no dysp●yre,</l>
+               <l>I doo not intende that maner alwayes,</l>
+               <l>But for a recreation,</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Brother wh●t soeuer ye say to me.</l>
+               <l>I wyll heare yo● p●ci●●tly</l>
+               <l>I am content and I 〈◊〉 you hartely</l>
+               <l>Begyn and say your pleasur●</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>I thanke you h●●●●ly th●● wyll I</l>
+               <l>Some what vnto my purpose apply</l>
+               <l>Though welth be praised maru●lu●ly</l>
+               <l>yet to myne vnderstauding.</l>
+               <l>Welth is mutable, and th●t in shame</l>
+               <l>And welth is hauty and proude of name</l>
+               <l>Welth t● cruell, and in great blame</l>
+               <l>For welth is ●●er wauerynge.</l>
+            </sp>
+            <sp>
+               <speaker>w●alth.</speaker>
+               <l>To whom haue I doone any harme can ye say,</l>
+               <l>ye stander me no●e, yet I trust I may</l>
+               <l>Aunswere for my selte in euery maner way</l>
+               <l>ye wyl not deny that?</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>God forbyd but ye should d● so</l>
+               <l>And ye may doo it whe●her I wyl or no</l>
+               <l>Inlykewise, I must answer you als●</l>
+               <l>When ye say not true.</l>
+               <l>
+                  <pb facs="3"/>Though I be but to you a poore man</l>
+               <l>yet helth I height, the same I am</l>
+               <l>That is desyred vniuersally than</l>
+               <l>Some calles me as good as you</l>
+            </sp>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>As I, mary ther in deede ye do compare.</l>
+               <l>Such wordes myght brynge you soone in care</l>
+               <l>Lewde parson, thou art not ware</l>
+               <l>Of what substaunce I am</l>
+            </sp>
+            <sp>
+               <speaker>Health.</speaker>
+               <l>Yes I can tell what you are, be not dyspleased</l>
+               <l>welth is of great substaunce, that cannot be denyed</l>
+               <l>yet shew your comodities, and ye shalbe answered</l>
+               <l>I promyse you wellh is fugitiue.</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>What sayst thou`am I a tagetyue</l>
+               <l>I was neuer so taken vp in my lyfe</l>
+               <l>Nor called vnsure, well I wyll make no stryfe</l>
+               <l>yet where as thou dost lay,</l>
+               <l>Thai I should shew my commodityes alwayes</l>
+               <l>The best for my selfe wherof I aske prayse</l>
+               <l>yf I shoulde staud her all my lyfe dayes</l>
+               <l>yet I coulde not say.</l>
+               <l>Nor halfe the benefites that commeth of me</l>
+               <l>yt cannot be tolde nor resyted shortly</l>
+               <l>Welth is the 〈◊〉 of althing earthly</l>
+               <l>That you cannot denye.</l>
+               <l>Ferste god saue, our soueraine Ladye the Queene</l>
+               <l>With all the counsel and all that wish them b●ne</l>
+               <l>Am not I welth with them euer at eue</l>
+               <l>Who should be there but I?</l>
+               <l>Men of the lawe, and ioly rych marchauntes</l>
+               <l>There be welthy both of goodes and lands,</l>
+               <l>Without comparyson is in their handes</l>
+               <l>I walth hatg all freasure.</l>
+            </sp>
+            <sp>
+               <pb facs="4"/>
+               <speaker>Health.</speaker>
+               <l>O good syr, of whom commeth all this</l>
+               <l>Of god only, to yo● no thanke I wys</l>
+               <l>And yet mans welth ●tands not all in ryches</l>
+               <l>I dare saye that boldly,</l>
+               <l>W●an a man hath a cempetent liuing</l>
+               <l>with the grace of god that passeth all thyng</l>
+               <l>Loue of his neyghbour, aud good reporting</l>
+               <l>Then is he welthy,</l>
+               <l>Welth of goodes is but a fame</l>
+               <l>Ye is wel●hy that hath a good name</l>
+               <l>Euery wyse man wyll coueyte the same</l>
+               <l>For other welth I not reche</l>
+               <l>yf a man haue neuer so much good name</l>
+               <l>Euery wise man wyll couey●e the same</l>
+               <l>if his disposicions be nought aud wood</l>
+               <l>Then he is but a wretch,</l>
+            </sp>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>Nay thou art a wretch, and a foole vuwyse</l>
+               <l>welth of ryches thus to despyse</l>
+               <l>Doest thou not se all the worlde aryse</l>
+               <l>By goodes and substaunce</l>
+               <l>He that hath plenty of syluer and golde</l>
+               <l>May haue all thyng whatsoeuer he woulde</l>
+               <l>whan can welth lacke, seing all thing is solde</l>
+               <l>A●d welth is of assuraunce.</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>I deuye that, your saying is nought</l>
+               <l>Grace● heauen, nor cunning, cannot be bought</l>
+               <l>wi●hout great paine, ād good dedes wrought</l>
+               <l>Els man cannot them haue.</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Stop thereat, and hold thy peace</l>
+               <l>May not men by hea●en with richesse</l>
+               <l>As to bylde churches and make bye wayes</l>
+               <l>Such deedes mans soule doth sans</l>
+            </sp>
+            <sp>
+               <pb facs="4"/>
+               <speaker>Health</speaker>
+               <l>Yea, ●ut yet ye ●ust marke one s●ynge</l>
+               <l>yf these goodes came with wro●ge doyng</l>
+               <l>Shall ye haue heauen for so spendynge</l>
+               <l>Or yet a●y mede.</l>
+               <l>Nay nay except that ma● himselfe doo meeke</l>
+               <l>And make resysta●ce the ryght ho●our to seeke</l>
+               <l>Els all such good dedes is not woth a leeke</l>
+               <l>welth hereof take heede.</l>
+            </sp>
+            <sp>
+               <speaker>wealth.</speaker>
+               <l>Why thinkest thou that all men which h●th welth</l>
+               <l>Getteth theyr goodes with brybry and s●ealeth</l>
+               <l>Thy repor●e is nought therfore Helthe</l>
+               <l>I counsell thee to ●ay the best.</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>So I wyll, but yet I must say true</l>
+               <l>And ●ow a lyttle more I wyll say to you</l>
+               <l>Much sorowe and care w●lth doth ●rewe</l>
+               <l>He i● seldome in rest.</l>
+               <l>when a man is a lyttle hit and welthy</l>
+               <l>A●d hath in his ●hes●e treasures plentye</l>
+               <l>Then wyl he wrangle, and do shreudly</l>
+               <l>By his power and might.</l>
+               <l>With his neigh●oures he wyll go to lawe</l>
+               <l>And a wreke his malyce for valew of strawe</l>
+               <l>welth is fykle and out ●f awe</l>
+               <l>wylfull in wronge or ryght</l>
+            </sp>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>Thou speakest with a slaunderous tong●</l>
+               <l>All of euyll wyll, and yet it is wro●●e</l>
+               <l>welth in this realme hath bin louge</l>
+               <l>Of me commeth great honour.</l>
+               <l>Because that I welth ●ath great port●</l>
+               <l>All the worlde, hy●her doth resorte</l>
+               <l>Therfore I w●l●h, am this realmes comfort,</l>
+               <l>And here I wyll indure.</l>
+            </sp>
+            <sp>
+               <pb facs="5"/>
+               <speaker>Helth.</speaker>
+               <l>So I wold ye shou●●, and I shall do the same</l>
+               <l>Helth I am called, and that is my name</l>
+               <l>If I would not abyde heare I were to blame</l>
+               <l>For here I am well cheri●hed</l>
+               <l>Yet say your selfe, nhw indifferen●ly</l>
+               <l>And if euery man doo not loue me</l>
+               <l>Helth as well as welth, yes verely</l>
+               <l>Therof I dare be reported</l>
+            </sp>
+            <sp>
+               <speaker>We●th.</speaker>
+               <l>Why should they loue thee● that wo●lde I knowe</l>
+               <l>As wel as me, I pray you showe</l>
+               <l>I am the superiour of hi● and lowe</l>
+               <l>No man may compare with me.</l>
+            </sp>
+            <sp>
+               <speaker>Helth.</speaker>
+               <l>To shew why I wyll not be afraied</l>
+               <l>For I can bide by that I ●aue sayde</l>
+               <l>Yf welthy men be very well apayd</l>
+               <l>Or muche they set you by.</l>
+               <l>But of welth, if they haue neuer so much</l>
+               <l>Goodes, tryasure and golde, and be called rych</l>
+               <l>Yet yf they lacke helth, there payne is suche</l>
+               <l>That they were better dye.</l>
+               <l>A man to were golde, and be in pay●e</l>
+               <l>What ioy hath he? none, but would be fayne</l>
+               <l>To giue all his treasure for helth playne</l>
+               <l>Or els he were very mad:</l>
+               <l>For if a man be neuer so poure</l>
+               <l>Yet if he haue helth, that is a treasure,</l>
+               <l>Then for his liuing, he may laboure</l>
+               <l>And in his harte be glad,</l>
+            </sp>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>I neuer marked thus muche, nor vnderstood</l>
+               <l>That Helth was such a treasure, and to man so good</l>
+               <l>Wherfore I am sory, a●d I wil chaunge my moode</l>
+               <l>Now I pray you forgiue me.</l>
+            </sp>
+            <sp>
+               <pb facs="5"/>
+               <speaker>Heal●h</speaker>
+               <l>I will forgiue or els I were to blame</l>
+               <l>And I pray you to forgiue me the same</l>
+               <l>I loue you hartly, and wyll prayse your name</l>
+               <l>yf it please you to keepe my company.</l>
+            </sp>
+            <stage>¶Here entreth lyberty with a so●g &amp; after speaketh</stage>
+            <sp>
+               <speaker>libert</speaker>
+               <l>Why tary syrs whether are ye going</l>
+               <l>I see well ye looked not for my commi●g</l>
+               <l>Loe, out of syght out of remembry●g</l>
+               <l>Abse●ce is cause of strau●gnes,</l>
+               <l>What looke ye on werwhy are ye so straunge</l>
+               <l>From your fellow liberty, doth your minds chaūge</l>
+               <l>I● your company I was wont to range</l>
+               <l>What nedes all this busines,</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>By liberty now I doo not set</l>
+               <l>Seyng that helth and I am met</l>
+               <l>As feloweh together no man shall let</l>
+               <l>Me for to loue hym best.</l>
+            </sp>
+            <sp>
+               <speaker>liberty.</speaker>
+               <l>Let me heare what ye do say</l>
+               <l>Then ye are about to cast me away</l>
+               <l>How happes this? mary then I may</l>
+               <l>Goe pyke strawes and take me rest.</l>
+               <l>I pray you tell me whom I haue o●fended</l>
+               <l>yf I haue made a faute it shalde amended</l>
+               <l>with so shorte warning let me not be voyded</l>
+               <l>I crow yet ye do but iest.</l>
+            </sp>
+            <sp>
+               <speaker>He●th●</speaker>
+               <l>Why do ye make this cauelacion</l>
+               <l>we entende to make no alteracyon</l>
+               <l>welth and I haue had communication</l>
+               <l>He is my freende of olde.</l>
+            </sp>
+            <sp>
+               <speaker>liberty</speaker>
+               <l>What was the matter, I pray you tell</l>
+               <l>Me thinkes I ought to be of counsel</l>
+               <l>Or els I promyse you ye doo not well</l>
+               <l>
+                  <pb facs="6"/>With you I should beholde.</l>
+            </sp>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>The matter is doone we are agreed</l>
+               <l>To reason it more it shall not neede</l>
+               <l>O brother helth, thou art in deede</l>
+               <l>More preciouser then golde.</l>
+            </sp>
+            <sp>
+               <speaker>liberty.</speaker>
+               <l>Gods bodi how commeth this gere to pas</l>
+               <l>I am cast out at the cartes arse</l>
+               <l>The worlde is nothing as it was</l>
+               <l>For I am here refused</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Why be you angry that we doo agree</l>
+               <l>Then are ye not wy●e, for if ye loue me</l>
+               <l>I will loue hym agayne, so it should be</l>
+               <l>Or els I were mysaduised</l>
+            </sp>
+            <sp>
+               <speaker>●●libert</speaker>
+               <l>Then of my loue ye set no store</l>
+               <l>My company I see well ye looked notfore</l>
+               <l>Farewell I wyll get me out of the doore</l>
+               <l>yet I am your betters and so am I called.</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Such presumptuouse wordes wyll haue a fall</l>
+               <l>your comparyson is but feble and small</l>
+               <l>What can ye do nothyng at all</l>
+               <l>As you haue reputed.</l>
+            </sp>
+            <sp>
+               <speaker>liberti.</speaker>
+               <l>What were ye both two, were not I.</l>
+               <l>Wretches and caytyfes, looke not so hye</l>
+               <l>Thinke no scorne hardly</l>
+               <l>For I may be your peare</l>
+               <l>yf welth haue neuer so much substaunce</l>
+               <l>Lacking Libertye and we●r in duraunce</l>
+               <l>Within a whyte, I am in assurance</l>
+               <l>ye woulde pray me come nere.</l>
+               <l>Yf Helth be neuer so lust and stronge</l>
+               <l>yet if Lyberty were kept from him longe</l>
+               <l>Then sorow and care wolde be his songe.</l>
+               <l>
+                  <pb facs="6"/>yt would abate your cheare.</l>
+               <l>Fye of welth which lacketh ●ybertye</l>
+               <l>Fye of Helth and be in captiuitie</l>
+               <l>Fye of riches and lack good company</l>
+               <l>Lyberty hath no pere,</l>
+            </sp>
+            <sp>
+               <speaker>〈◊〉.</speaker>
+               <l>Wyll ye heare how he doth clatter?</l>
+               <l>What neede ye to rehearse all this matter.</l>
+               <l>ye know that we twayne afore any other.</l>
+               <l>Lyberty must nedes haue styll.</l>
+               <l>Lybertie o● vs is glade to wayte</l>
+               <l>ye sta●de to farre i● your owne conceyte</l>
+               <l>I wys lybertye ye ran make no bayte</l>
+               <l>To catche vs at your will.</l>
+            </sp>
+            <sp>
+               <speaker>liberty●</speaker>
+               <l>Now there ye lye, I can suffer no lo●ger</l>
+               <l>Welth for Libertye doth lobo●re euer</l>
+               <l>Aud helth for Libertye is a great store</l>
+               <l>Therfore set me not so lyght</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Libertye I pray the reasou no more</l>
+               <l>ye are welcome to vs as ye were before</l>
+               <l>In dede of liberty it is great suter</l>
+               <l>Therfore welcome by this lyght</l>
+            </sp>
+            <sp>
+               <speaker>liberty●</speaker>
+               <l>Now I thanke you both full kindly</l>
+               <l>your strange wordes a lytle did grene me</l>
+               <l>And now at your cōmaūdement I am redy</l>
+               <l>Aud at your owne wyll.</l>
+            </sp>
+            <stage>¶Here entreth with some iest yll wyll</stage>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Mary I am come at the first call</l>
+               <l>Wyll, your owne man haue me who shall</l>
+               <l>For I am will seruaunt to you al</l>
+               <l>Ye shall not neede to sende for me.</l>
+            </sp>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>Who is acquanted with this man</l>
+               <l>
+                  <pb facs="7"/>He is very homely aud lytle good he can</l>
+               <l>To come in here so boldly, then</l>
+               <l>D●●ue him away quickly,</l>
+            </sp>
+            <sp>
+               <speaker>W●ll.</speaker>
+               <l>Why, I cam not tyll C was called</l>
+               <l>your owne wyll opeuly ye named</l>
+               <l>Then I came a pace lest I should be blamed</l>
+               <l>Ther●ore I pray you let me hyde styll,</l>
+            </sp>
+            <sp>
+               <speaker>〈◊〉</speaker>
+               <l>Whose wyll, or what wyll, doth he meane</l>
+               <l>Thou art not my wyl, I forsake thee cleane</l>
+               <l>My wyl and their wylles is often sene</l>
+               <l>Our wylles can none yll</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Alas good masters I can none yll</l>
+               <l>yet by my trouth I am your euyll wyll</l>
+               <l>your wil, &amp; your will, &amp; yonr will, therfore keepe m●</l>
+               <l>I loue ye by goddes mother,</l>
+            </sp>
+            <sp>
+               <speaker>liberty.</speaker>
+               <l>This is a straunge saying vnto me</l>
+               <l>My wyl, your wyll, and his wyll, this cannot be</l>
+               <l>For in our wyles is great diuersitie</l>
+               <l>For one is not lyke another,</l>
+            </sp>
+            <sp>
+               <speaker>●yll.</speaker>
+               <l>Yet by Christ your owne wyl I am</l>
+               <l>The maddest wyl, and the meriest, than</l>
+               <l>For goddes sake now, let me be your man</l>
+               <l>Tyl ye haue better acquaintaunce.</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>I perceyue this felow is kynde</l>
+               <l>And oweth to vs good wyl and mynde</l>
+               <l>Some kindes agayne then let hym finde</l>
+               <l>Let him haue some furderauuce</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>By god ●ir and I durst be so bolde</l>
+               <l>A●quaintance of this man clayme I would</l>
+               <l>and ky●ted to, yf the trouth were tolde</l>
+               <l>we be of one consangnynitie</l>
+            </sp>
+            <sp>
+               <speaker>H●alth</speaker>
+               <l>How so? let me here that I pray thee hartly</l>
+            </sp>
+            <sp>
+               <pb facs="7"/>
+               <speaker>Wyll.</speaker>
+               <l>Wyl and lyberty●is, of aunci●erie olde</l>
+               <l>with ont lyber●ye, wil● dare not be●olde</l>
+               <l>And where wyl lacketh, lybertye is full colde</l>
+               <l>Thyrfore wyl and lybertye must nedes be of kyn.</l>
+            </sp>
+            <sp>
+               <speaker>liberti.</speaker>
+               <l>In dede as he saythe it may well be</l>
+               <l>For wyl euer longeth vnto lybrtye</l>
+               <l>Therfore good freende welcome to me</l>
+               <l>I praye you al be good to him</l>
+               <stage>And goeth out</stage>
+            </sp>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>For your sake he is welcome to b● all</l>
+               <l>Let him come to our place an● than he shall</l>
+               <l>Haue succoure of vs and helpe withal</l>
+               <l>&amp; now we wil ●epart. And welth &amp; helth goth out.</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Wyl ye go hence. I thanke ye masters with al my hert</l>
+               <l>I wyl s●ke you out I warra●t you feare not</l>
+               <l>Now they be gone I am glad by saint mary</l>
+               <l>A lyttel while heare I purpose to tary</l>
+               <l>How to deceyue welth, helth, and libertie</l>
+               <l>Now must I deuyse.</l>
+               <l>For I am a chylde that is pas grace</l>
+               <l>I wyll I am called that in euery place</l>
+               <l>Doth much mi●chiefe this is a playne case</l>
+               <l>Uertue I doo vtterly dispise,</l>
+               <l>But if they wyst what I were</l>
+               <l>Then of my purpose I should be neuer y^●●ere</l>
+               <l>I wyl kepe my ●onge le●●e that I ●●r.</l>
+               <l>My whole intent and wyll.</l>
+               <l>But now I meruayle by this day</l>
+               <l>Where shrewd wit is gone a stray</l>
+               <l>Some crafty touche is in his way</l>
+               <l>I here him, peace, stand styll</l>
+               <stage>¶Entreth shrewd wyt with a songe.</stage>
+               <l>¶Dien vous garde playsaunce</l>
+               <l>
+                  <pb facs="8"/>On seuen or no ●●●chaunce, what youkers dare auaunte</l>
+               <l>To playe a grote or twaine.</l>
+               <l>Loe heare I haue in store</l>
+               <l>Two or three grotes and no more</l>
+               <l>I take great thought therfore</l>
+               <l>For to kepe it, it is much payne</l>
+               <l>I come uow out of a place</l>
+               <l>where is a company of small grace</l>
+               <l>Theues and hores that spendes a pace</l>
+               <l>They were dronken all the sorte.</l>
+               <l>One of their purces I did a spy</l>
+               <l>Out of his sleue where it dyd lye</l>
+               <l>And one wynked on me with his eye</l>
+               <l>But ther began the sporte</l>
+               <l>Their false falsehode, and I crafty wyt</l>
+               <l>got the purse loe, heare I haue it</l>
+               <l>I ran my way and let hym syt</l>
+               <l>Smoke and shitten arse together.</l>
+               <l>And yf that I had yll wyll here</l>
+               <l>with this money we wolde make good chere</l>
+               <l>Gentle brother wyll, I pray the apeare</l>
+               <l>For thou art in some corner.</l>
+            </sp>
+            <sp>
+               <speaker>Wytte</speaker>
+               <l>I woulde come in but I am a fearde</l>
+               <l>Least that I be taken by the bearde</l>
+               <l>Wyth some catchepol, I haue heard</l>
+               <l>How thou haste stollen a purse</l>
+            </sp>
+            <sp>
+               <speaker>wytte</speaker>
+               <l>Thou horsou art thou mad, cum in I say</l>
+               <l>This is not the fyrste hazard that I haue scaped</l>
+               <l>yf I make au hand to decke my felfe gay</l>
+               <l>what am I the worse.</l>
+            </sp>
+            <sp>
+               <speaker>wyll</speaker>
+               <l>From thy company I cannot abyde</l>
+               <l>I must ●edes holde vpon ●hy syde</l>
+               <l>
+                  <pb facs="8"/>y●●wyll and shrewd wit who ca● hyde</l>
+               <l>For they will be together.</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>Now welcome wyll and what ch●a●●:</l>
+               <l>By god I thought for thee a tho●sand yere</l>
+               <l>P●ace for gods body who cummeth there</l>
+               <l>Hauce bere pot Ascon router.</l>
+               <stage>¶Entreth Hance with a dutche songe.</stage>
+               <l>Gut nyuen s●one rutters by the moder got</l>
+               <l>It ●eist ōwne s●hon, for s●aue ye ne●e</l>
+               <l>De qus●eker mau iche bie do do</l>
+               <l>Uan the groate bnmbarde well ic we●e</l>
+               <l>Dartyck dowsant van enhebit mete</l>
+               <l>Ic best de mauikin van de keining dangli●er</l>
+               <l>De grot keyser kind ic bene his ●usket●r</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Her● ye not d●onkē hance how he be gius to pra●e</l>
+               <l>The ma low perte slemi●ge is a lit●le to cheke mate</l>
+            </sp>
+            <sp>
+               <speaker>wytte</speaker>
+               <l>Let the knaue aloue, for his name is war.</l>
+               <l>Such dronken sl●miniuges your company wilmar</l>
+            </sp>
+            <sp>
+               <speaker>Hance.</speaker>
+               <l>Ic bes● nen emond, ic best in soche</l>
+               <l>ye secte nete vell ic fors●aue ye in doche</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>C●●pt hore leyf with yo●r gound stand nere</l>
+               <l>yt be●ummes you better to handle a potte of beare</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Dat maght ic vell dan, ic can skynke fr●lyck</l>
+               <l>Tab bers fr●w, ic bri●ges brore, begot●s nemerick</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>The horse● k●a●● by ●he ●es●e is dronke</l>
+               <l>A winking for dep● his eyen be cleane lonck</l>
+            </sp>
+            <sp>
+               <speaker>Hauce</speaker>
+               <l>Ic ●or●●e ye vell ye seg dac ic ●●ope</l>
+               <l>Ne nike, u● nike, ic compta ho●e for an aud or cope.</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Wel coppin I pray the hartly tell vs trew</l>
+               <l>Wherfore comest thou hether for any thi●g to sew</l>
+            </sp>
+            <sp>
+               <speaker>Hanc●</speaker>
+               <l>ye icke f●g●r en būbardere vā de koyni●g wei it be</l>
+               <l>Heb twe skelling de dagh ic c●n scote de culueryn</l>
+            </sp>
+            <sp>
+               <pb facs="9"/>
+               <speaker>wytte.</speaker>
+               <l>Nay ye shall walke a fleming knaue, wyl ye not see</l>
+               <l>We haue English g●nners ynow, there is no rome empty</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Ic best en ●om●erde mo●ye to m● spreken</l>
+               <l>what segye ye bones, it sal ye yode sta●n</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>We speake not to thee thou art a s●one man</l>
+               <l>But goe thy way they be not here that promot y^● cā</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Cant ye me a de house dragen van degrot here.</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>Hauce ye must go to y^● court &amp; for welth inquire</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>What segre ye welth nenyke he is net hore</l>
+               <l>welth best in s●aunders, it my self brought him dore</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Be shrew your horson s●eminges hert therfore.</l>
+               <l>in dede as he saith, by war in ●laūders theris welth store</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Segt ye dat brower, by the moder got dan</l>
+               <l>Gut naught it mot waft, to sent cafrin to mi laninā</l>
+               <stage>&amp; goeth out</stage>
+            </sp>
+            <sp>
+               <speaker>wyll.</speaker>
+               <l>Is he gone, farewel hanykin howse</l>
+               <l>I pray god giue him a hounded drouse</l>
+               <l>For I trow a knaue brought hym to house</l>
+               <l>But now brother wyt.</l>
+               <l>We must deuo●e how that we may</l>
+               <l>Be in seruice with welth alwaye</l>
+               <l>Let me here what thou canst do or say</l>
+               <l>To helpe for to contryue it.</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>For thy pleasure that I shall</l>
+               <l>This wyll I doo first of all</l>
+               <l>Flatter and lye, and euermore call</l>
+               <l>Them my good maysters styll.</l>
+               <l>Then with swering, lying and powlinge</l>
+               <l>Brybry theft, and preuy pyking</l>
+               <l>Thus I shred wet, wyll euer be doinge</l>
+               <l>I warrant ther yll wyll.</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>I ●un thee thanke, this is well deuysed</l>
+               <l>And I yll wil, wolde haue euery man dispised</l>
+               <l>
+                  <pb facs="9"/>B●● now another thing must be con●riued</l>
+               <l>O● els al wilbe nought</l>
+               <l>There is one they call good remedy</l>
+               <l>I● this realme, he hath gee●t actor●●y</l>
+               <l>He is a no●le m●● and much worthy</l>
+               <l>M●ny thiuges he hach wrought</l>
+               <l>He is called l●st, discreete and indifference</l>
+               <l>Willing to fulfil his souer●i●es commaundement</l>
+               <l>H● is not fraide to do right punishment</l>
+               <l>T●erfore of him I am afrayde</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>So an I to this maketh me very sadde</l>
+               <l>Yet oftentymes I h●●e bene harde bestadde</l>
+               <l>N●w y^t I ●m ●a●ned of him I am v●ry glad</l>
+               <l>〈◊〉 c●aft● w●le for him ●h●l●e ha●e</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>P●●ce no mo wordes but 〈◊〉</l>
+               <l>M● think I ●eare mast welth ca●●</l>
+               <l>K●●le do●●e 〈…〉 deuout orison</l>
+               <l>T●●t they may heare vs pr●y</l>
+               <l>N●w 〈…〉 Welth, He●●h, aud L●bertie.</l>
+               <l>Liberty and helth retur●eth back with welth</l>
+            </sp>
+            <sp>
+               <speaker>Wealth</speaker>
+               <l>S●rs you sh●ll haue bo●●●ods blessing</l>
+               <l>S●●ce ●e worth for ●our praying</l>
+               <l>ye are wel disposed and of good liuing</l>
+               <l>I w●ll loue you the ●erteral way</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Sir this do we vse euer● day</l>
+               <l>F●r w●●th helth and liberty 〈◊〉●ray</l>
+               <l>This sa●● is m● brother, 〈…〉</l>
+               <l>He is an hard honest man.</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>For●oth ma●●ter I am his ●rother</l>
+               <l>To be 〈◊〉 ser●a●●, was my cū●ing hether</l>
+               <l>A● lo●ge as we two be to gether●</l>
+               <l>ye shall not pe●y●he than</l>
+            </sp>
+            <sp>
+               <pb facs="10"/>
+               <speaker>Health</speaker>
+               <l>To haue you both 〈◊〉 seruyce I am content</l>
+               <l>How say you libertie wil you therto consen●</l>
+               <l>Wyll and wit, god hath vs lent</l>
+               <l>We may be glade of them</l>
+            </sp>
+            <sp>
+               <speaker>liberti.</speaker>
+               <l>Yf we sholde refuse wyl and wyt</l>
+               <l>we were to blame ●or they be fyt</l>
+               <l>Therfore by my wel they shal not ●lye</l>
+               <l>They be welcome to me,</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>God thanke you mais●ers all three</l>
+               <l>ye shal finde vs pore but 〈◊〉 we cannot be</l>
+               <l>My tonge stom●les, I cry you mercy</l>
+               <l>We wyll be true I should ●ay,</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Syrs go your way home vnto one place</l>
+               <l>And w● wyl hye vs after ●pace</l>
+               <l>And when we come we shall set you in case</l>
+               <l>To hau● a lyuing ●lway.</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Th●n loke ye do both truely and iust</l>
+               <l>For we must put you in great 〈◊〉</l>
+               <l>All our hou●houlde guide y● must</l>
+               <l>B●haue you selfe well.</l>
+            </sp>
+            <sp>
+               <speaker>wytte</speaker>
+               <l>Maisters feare not for I h●●e wit i●ough</l>
+               <l>To beguyle my selfe, and 〈◊〉 beguyle you</l>
+               <l>I haue begyled many one I may say to you</l>
+               <l>I pray you kepe that in councelll</l>
+            </sp>
+            <sp>
+               <speaker>liberty.</speaker>
+               <l>Beware of that, what doth he say?</l>
+               <l>Beguyle vs all, yet I charge ye ●ay</l>
+               <l>Ye shall not beguile vs yf I may</l>
+               <l>I wyl beware betyme.</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Syr be not angry I you praye</l>
+               <l>●he foole woteth not he doth say</l>
+               <l>He meneth ●hat he wil be profitable alway</l>
+               <l>And saue you many thinges.</l>
+            </sp>
+            <sp>
+               <pb facs="10"/>
+               <speaker>Health●</speaker>
+               <l>What he meaneth I can●ot te●●</l>
+               <l>But his saying is not well</l>
+               <l>Depart hence syrs by my councell</l>
+               <l>And tary vs at our lodging.</l>
+            </sp>
+            <sp>
+               <speaker>wy●●e.</speaker>
+               <l>¶Now and it please ye, wyll ye ●ere any synging</l>
+               <l>Therein I tell you I am s●●what ●o●nyng</l>
+               <l>ye shall heare and ye list.</l>
+            </sp>
+            <sp>
+               <speaker>lib●r●y</speaker>
+               <l>Syr I pray you sing and ye ran</l>
+            </sp>
+            <sp>
+               <speaker>w●ll.</speaker>
+               <l>Now wil I begin like a lusty bloud thā. </l>
+               <stage>thei sing &amp; go out</stage>
+               <l>Sirs now go your way of you I am glad</l>
+               <l>As of any ser●auntes that euer I had</l>
+               <l>For these can do doth good ●●o bad</l>
+               <l>We must needes haue such men</l>
+               <l>What were we yf we lacked wyll:</l>
+               <l>And without ●yt we ●●oulde lyue yll</l>
+               <l>Therfore wyll and wit I wyll ●epe styll.</l>
+               <l>I promise you I loue them</l>
+            </sp>
+            <stage>¶Here commeth remedy in and to him saith</stage>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>Syr your maystership is ●a●tely welcome</l>
+               <l>T●ke your place here aboue as it is reason.</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>I pray you ●ardon vs, we know not what ye be</l>
+               <l>ye seme a man of honour, and of great anctority</l>
+            </sp>
+            <sp>
+               <speaker>liberty</speaker>
+               <l>S●r to know wherfore ye come we are desyrons</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>I am be that ought for to be well knowen</l>
+               <l>Of you thre specially, and of duetie</l>
+               <l>Great payne and busines as for mine owne</l>
+               <l>For you I haue taken because I lo●e you hartely</l>
+               <l>To m●i●taine you is all my de●yre and faculty</l>
+               <l>yet hard it is to doo, the people be so variable</l>
+               <l>And many be so wilfull, they will not be reformable.</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Syr I pray you pardon vs of our ignoraunce now</l>
+               <l>I se well ye know vs better tha● we do yo●</l>
+            </sp>
+            <sp>
+               <pb facs="11"/>
+               <speaker>Remdi</speaker>
+               <l>I pardon you, for I doo know you w●l both</l>
+               <l>wel●h, and ●●l●h, is your 〈…〉</l>
+               <l>Th● which ●ngla●d to forbe●e were very lot●</l>
+               <l>For by welth and helth commeth ●re al sa●●es</l>
+               <l>Many other ●e●●●nes ●or our gre●t welth ●●ames</l>
+               <l>T●a● they ●a●e not pre●ume, nor thy dare no●●e bold</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>To stry●e againe En●la●d or a●y right with holde.</l>
+            </sp>
+            <sp>
+               <speaker>remedi</speaker>
+               <l>Sir ye be welcom, I de●e●h you show ●s your name</l>
+            </sp>
+            <sp>
+               <speaker>liberti.</speaker>
+               <l>Good remedy forsouth I 〈◊〉 the s●me</l>
+               <l>yf I 〈◊〉●o bolde● I wolde pray you har●ely</l>
+               <l>To sh●we vs apart of you● great ac●oritie,</l>
+            </sp>
+            <sp>
+               <speaker>●●md</speaker>
+               <l>My actoritie is geuen to ●e most speciall</l>
+               <l>To maintaine you three, in this realme to be</l>
+               <l>What mine intent is. I wyl tel, ●u● not all</l>
+               <l>For that were to longe to reher●e of a surety</l>
+               <l>And I desyre you all or to be louing ●o me</l>
+               <l>For your owne ease, come w●lth and profyt</l>
+            </sp>
+            <sp>
+               <speaker>Wealth</speaker>
+               <l>Good remedy, then we ●anst des●re yo●r aydyng</l>
+               <l>For by good remedy cometh all ou● preferri●g.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>All that I doo intende, if ye● wil therto agr●e</l>
+               <l>And to be reformable for your owne case</l>
+               <l>It is not the thynge that lieth only in me</l>
+               <l>But my good wyl, therfore I wyl not cease</l>
+               <l>To haue your loue a●d fauour, and thereby to please</l>
+               <l>Al the worlde ouer, and to promote ●his realme</l>
+               <l>That you thre may prosper, ye perce●ue what I mene</l>
+               <l>The chiefe parte of all welth lyeth in great estates</l>
+               <l>Theyr substance and landes. is right commendable</l>
+               <l>Prelates of the churche is welthy of ryches</l>
+               <l>Merchaūtes hath marchaūdise &amp; goods iucōperable</l>
+               <l>Mē of ●aw &amp; franklins is welthy which i● laudable</l>
+               <l>
+                  <pb facs="11"/>Th●s welth of riches is deuided diuerse wayes</l>
+               <l>A●d to these ma●● charges, come now a dayes</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>My hert re●o●se●h to ●er● your good reporting</l>
+               <l>〈◊〉 are we bound to god, which prouideth althing</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Forsoth here is 〈◊〉 half● that I cou●● re●erse</l>
+               <l>The benefits of god that ●e sheweth to you welth</l>
+               <l>Co●sider Englysh men, how va●iant they be &amp; fer●e</l>
+               <l>O● al nacious ●one such, when they haue their ●elth</l>
+               <l>No land can do vs ●arme, b●● wyth falle●●d or ●elth</l>
+               <l>r●mēbre what nōbre of m●● or a●●●erie● good ord●nā●e</l>
+               <l>Specially y^e grace of god, which is our 〈◊〉 forderāce</l>
+               <l>If there be any that wyll grudge, surm●●● or ●●o</l>
+               <l>Againe welth, helth &amp; libertie, then ●●st I for y^e ●●●e</l>
+               <l>Sh●w ●ine auctoritie and power, for ●o remedy it ●o</l>
+               <l>That no●e of you shall diminishe nor amiss● be ●ane</l>
+               <l>I good remedy therfore may &amp; will speak● won● blāe</l>
+               <l>For the comen welth, &amp; helth both of the soule &amp; b●dy</l>
+               <l>y^● is mi office &amp; power, &amp; therfore I haue my actoritie</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Our lorde con●inue ye, &amp; we thanke you har●ly</l>
+               <l>Both for your good i●struction, and for your kindnes</l>
+               <l>That you int●nd● so wel for vs good remedy</l>
+               <l>when we haue nede we will desyre your goodnes</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>When we be infect in the soule or body</l>
+               <l>Then will I seke good remedy for succo●r</l>
+               <l>As yet I thanke god I haue no nede greatly</l>
+               <l>yf I haue then wyll I seke to haue your fauour</l>
+            </sp>
+            <sp>
+               <speaker>liberty</speaker>
+               <l>Syr now we wyl departe hence with yo●r licence</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>For other diuers busines that we mus● haue tohether</l>
+               <l>Sirs I am coutent, now when ye wyll depart</l>
+               <l>To god I commyt yo● I wyll not make you tary</l>
+               <l>But yet I pray with all my minde and heart</l>
+               <l>Take hede in any wise exchewe yl &amp; shrewd compani</l>
+               <l>
+                  <pb facs="12"/>y● a mā be neuer soo ●ood &amp; vs●〈…〉 be ●ut●rist●̄</l>
+               <l>He shalle ●e his name, &amp; to some vice they wil him tēp</l>
+               <l>●herfore bewar● of such people, &amp; ●eom thē be exemp●</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>yes yes I warrant you of s●c● I wyll beware.</l>
+               <l>Farewel good remedy &amp; wel to fare.</l>
+               <stage> &amp; goth out</stage>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>I pray god be ●our spede &amp; preserue you frō paine</l>
+               <l>it is mi mind ye shold prosper I wold haue it so ●ain.</l>
+            </sp>
+            <sp>
+               <speaker>W●ll.</speaker>
+               <l>Here is none of our acquaiutaūce wil re●our●eth</l>
+               <l>we haue made to louge tar●aunce</l>
+               <l>that wyll y● say perc●●unce</l>
+               <l>Aud they begone home come away apar●</l>
+            </sp>
+            <sp>
+               <speaker>Wytte.</speaker>
+               <l>Nay by god not so ●astie</l>
+               <l>A lytle whyle we wyll larye</l>
+               <l>Good euen s●r to you mary</l>
+               <l>Dwell ye in this place?</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Nay good fellowe I dwel not ●eare</l>
+               <l>Wherefore doest thou ●hat inqui●●:</l>
+               <l>Woldest thou ought with any ●eare</l>
+               <l>Speake ●e not afryde</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>By God I would I had yo●r gowne</l>
+               <l>Aud were a myle without the towne</l>
+               <l>Theron A woulde borowe a crowne</l>
+               <l>It is I that so sayde</l>
+            </sp>
+            <sp>
+               <speaker>Wytte.</speaker>
+               <l>Hew lookest thou one him halfe a scorne</l>
+               <l>I p●omise you he is a scant gentylman bor●e</l>
+               <l>What sūy●st thou in his face</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>For somwhat in his face I lok●e</l>
+               <l>Iu dede his mastership standes a crook●</l>
+               <l>For false shrewes both of you I tooke</l>
+               <l>And chyldren that be past grace.</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>I wyll swere for hym, as ●or this yeares twenty</l>
+               <l>that he hath ben euer as true as I</l>
+               <l>
+                  <pb facs="12"/>yet sometyme he will steale and make a 〈◊〉</l>
+               <l>He is of my alyaunce.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>In good fayth the same thinke I</l>
+               <l>That ye be both lyke, full vnthrifty</l>
+               <l>Syrs how do ye lyue, shew me quickly</l>
+               <l>Or I shall put you in duraunce</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>How liue we? mary our meate</l>
+               <l>Cummest thou hether for to threte:</l>
+               <l>So lordly syr wittam doth speake</l>
+               <l>From wh●n●e doth he come can ye shewe</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>What dost thou ayle canst thou tell?</l>
+               <l>Hast thou any thing with vs to mell?</l>
+               <l>By the masse thy handes doth tykell</l>
+               <l>Thou shalt beare me a blowe.</l>
+            </sp>
+            <sp>
+               <speaker>remedi</speaker>
+               <l>you false theues I know ye well</l>
+               <l>I shall let your purpose ●u●y deale</l>
+               <l>yll wyll, and shrewd wit, the deuyll of hell</l>
+               <l>Take ye both for me.</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>Mary thou lyest, our names be not so</l>
+               <l>Call vs but wit, and wyll, adde no more thereto,</l>
+               <l>yf thou doest thou were as good no</l>
+               <l>We shall handle you shrewdly</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Syrs farewell here I wil no longer abide</l>
+               <l>For you both shortly I wyll prouide</l>
+               <l>Tha● all your ●al●e craft shalbe out tryed</l>
+               <l>And our subtillitie knowen </l>
+               <stage>and goeth out.</stage>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>To go so soone the horson was wyse</l>
+               <l>therfore some now I must deuise</l>
+               <l>that each man may welth, helth and liberti despise</l>
+               <l>Or els he wyll marre all our mateer.</l>
+               <l>Brother wat, let me alone</l>
+               <l>When they come you shal see me a none</l>
+               <l>
+                  <pb facs="13"/>C●mplayne of him● vnto them ec●one</l>
+               <l>And put him out of fauour</l>
+            </sp>
+            <sp>
+               <speaker>Wytte</speaker>
+               <l>Peace no mo word●s, for they come yonder</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Syrs I am glade that you h● heare</l>
+               <l>How doth all our houshold● with them what chere●</l>
+               <l>Is euery thi●g in order there</l>
+               <l>A●ir● our intente?</l>
+            </sp>
+            <sp>
+               <speaker>wyll.</speaker>
+               <l>ye syr they be all mery and glad</l>
+               <l>With reuell and ●out somtime they be mad</l>
+               <l>Pipe whore bo●t heef, euery knaue and drabe</l>
+               <l>Is at our commaundeme●t.</l>
+               <stage>Helth ●urneth hym.</stage>
+               <l>What do ye say, then ●e are to blame</l>
+               <l>A●d we put you in trust for the same</l>
+               <l>To kepe such rule, it is a shame</l>
+               <l>It is not for our honour●</l>
+            </sp>
+            <sp>
+               <speaker>wy●●e.</speaker>
+               <l>By the masse ●he horson doth lye</l>
+               <l>There is no such rule by gods body</l>
+               <l>A man may breke his ●eck as lyghtly</l>
+               <l>As his fast in your kechin, or seller truly.</l>
+               <stage>Liberty turneth him</stage>
+               <l>With that nother I am ●o● co●te●t</l>
+               <l>I wolde there should be libera●itie compe●ēt</l>
+               <l>A●d with honesti it is con●enient</l>
+               <l>That our nei●hbour fare the better</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>you be a●g●y with all that we haue done</l>
+               <l>Cum away brother let vs go ●eus soone</l>
+               <l>I know a n●w m●ister wher we shalbe welcum●</l>
+               <l>God be with ●ou gentyl maister</l>
+            </sp>
+            <sp>
+               <speaker>Welth.</speaker>
+               <l>Why wil ye begone ●or a worde</l>
+               <l>P●raduenture we did but boorde</l>
+               <l>Me thinke ye should your mayster foorde</l>
+               <l>
+                  <pb facs="13"/>For to speake my minde.</l>
+            </sp>
+            <sp>
+               <speaker>wytte</speaker>
+               <l>Nay ●ay, I can tel what was the matter</l>
+               <l>Remedy was here, and he dyd ●latter</l>
+               <l>ye trust he more than vs and better</l>
+               <l>But marke the ende, what ye shal find</l>
+            </sp>
+            <sp>
+               <speaker>H●alth</speaker>
+               <l>With good remedy we spake iu dede</l>
+               <l>To ●●low his counsel we had neede</l>
+               <l>He warned vs that we should take hede</l>
+               <l>Of excesse and prodigalitie.</l>
+            </sp>
+            <sp>
+               <speaker>Wytte</speaker>
+               <l>I meruayle ye speake so of good remedy</l>
+               <l>It is I that can do more than be</l>
+               <l>Wyt can make shyft at necessit●</l>
+               <l>When Remedi cannot be hearde</l>
+               <l>I know some that hath this thousand yere</l>
+               <l>Sought god remedy and yet neuer the nere</l>
+               <l>wit can put remedy by, yea this is cleare</l>
+               <l>For wit is a crafty lad.</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>And wyl is an vngracious stay</l>
+               <l>Wyl hath doone many thinges me● say</l>
+               <l>And yf ye let wit and wil goe his way</l>
+               <l>ye wil repent it soone.</l>
+            </sp>
+            <sp>
+               <speaker>liberty</speaker>
+               <l>Why what cause haue you to go your way</l>
+               <l>ye shall abyde wich vs though you say nay</l>
+               <l>I wyl folow wyl, and wit alway</l>
+               <l>And so I haue euer done</l>
+            </sp>
+            <sp>
+               <speaker>wytte.</speaker>
+               <l>yf I wilt al my masters wolde so do</l>
+               <l>Then from your seruyce I wolde ●ot goo</l>
+               <l>Speake ●ow whe●her ye wyl or no</l>
+               <l>And let vs know your minde</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Syrs ye be welcome to me playne</l>
+               <l>And for your company I am full fayne</l>
+               <l>I had leuer suffer great payne</l>
+               <l>Then to leue my wit aud wyl,</l>
+            </sp>
+            <sp>
+               <pb facs="14"/>
+               <speaker>Wyll.</speaker>
+               <l>Then let vs go hence, with ki●dnes my herye do kyll</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>I pray you let vs go, wherfore do we byde styll.</l>
+               <stage>and goeth out</stage>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>As touching my first purpose hither I am com again </l>
+               <l>I trow ye k●ow me, good remedy is my name</l>
+               <l>That euery day doth take great● abor or payne</l>
+               <l>To amende all faultes, I am chosen to the same</l>
+               <l>yf any ma●s conscience here doth grudge or shame</l>
+               <l>Hauing in him self remorse, &amp; mendes in tyme &amp; space</l>
+               <l>I am good remedy, and god is ful of mercy and grace</l>
+               <l>Therfore I wyl stand asyde, &amp; a lyttel whyle remaine</l>
+               <l>Of welth, Helth and Lybertye, for to inquire</l>
+               <l>How they be ordred, and yf any man complayne</l>
+               <l>I wil be glad to shew me remedy, my think I se one a||peare.</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Begots drowse it my selfe bin cūpt heye scō lansiu●</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Ic mot in ander land lo●en, al is quade dan</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Thou fleming frō whēce comest y^● &amp; what dost y^u here●</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Ic my self cumt frō sent Katryns dore mot ic skyn● de cā beer</l>
+            </sp>
+            <sp>
+               <speaker>Hanc●</speaker>
+               <l>Get y^● thether againe, &amp; tary here no lōger</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Syr ic mot mid ye spreken ic my self be en scomaker</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>What and thou be therwith I haue nothin a doo.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Ic dest al forlore, copin is dod, ic maght aot do ther●o</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>I pray thee go hence, for thou dost trouble me yll.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Nen ic seker, ic wyl not gon, ic wold fain liue hore stil</l>
+               <l>There is to mainy allaunts in this reale, but now I</l>
+               <l>good remedy haue so prouided that English men shall</l>
+               <l>lyue the better dayly.</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>What segt ye by got● drowse, dai is de quade man</l>
+               <l>Be de moro goi, ic my selfe loue descone Englishmau.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Fie on y^e flatteri●g knane, fie ou you aliaūts al I ●ay</l>
+               <l>ye can w^t craft &amp; subtel ●iget engl●shmēs welth away</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>O skon mester, ic heb hore bin, this datten yeore</l>
+               <l>ic ●●nskote de colue●in● &amp; ic can be or beare droer●</l>
+               <l>
+                  <pb facs="14"/>trust see so pro●ide that welth fromy●n haue I shall</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Ic seg to you dat welth is lopen in an a●der cont●y</l>
+               <l>wat he beg● dar brough, for●tan ye net, segt me</l>
+            </sp>
+            <sp>
+               <speaker>Rem●●</speaker>
+               <l>Ic vnderstand the wel, yet thou liest lyke a knaue</l>
+               <l>welth is here ī Englād, &amp; welth stil i trust we shal haue</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Ic ment no quad ic loue de english man 〈◊〉 min ●ere</l>
+               <l>Cūp vp sent Katrin and ic shal ye geuē two ●lope bere,</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Get y^e hence drōkē ●leming y^u shalt tary no le●ger here</l>
+            </sp>
+            <sp>
+               <speaker>Hance</speaker>
+               <l>Mor it net mare here bin, woder sal ic gewest kiskin </l>
+               <l>Ic wil to de Kaizer gan, dar sall ic wal skinkin</l>
+               <stage>&amp; goth out</stage>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Is he gon● I pray god the deuyll go with him</l>
+               <l>wher is welth, helth &amp; ●iberty. I wold see thē come i●</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Helth commeth in with a kercher on his head.</l>
+               <l>¶O good lorde helpe me, by yonr licence my souerain</l>
+               <l>I am homely to com her in your presēce thus diseased</l>
+               <l>Nede constraineth me, for remedy I wold haue faine</l>
+               <l>I am īfect both body &amp; soul, I prai you be not displesed</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Why what aile you shew me, yet you I do not know</l>
+               <l>Glad I am to remedy auy man, that is affirmity</l>
+               <l>I perceiue by your phisnamy, y^t ye ar veri weke feble &amp; low</l>
+               <l>yet show me your g●iefe, &amp; I wil help you gladl●.</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Gracio{us} remedi I tha●k you, yet I am half ashamed</l>
+               <l>to shew you mi maladi &amp; mi name, I was cal●ed helth</l>
+               <l>Therfore I am wel worthi to be punished &amp; blamed</l>
+               <l>Because I haue not folowed your coūsel, but al thing</l>
+               <l>may be suffered saue welth.</l>
+            </sp>
+            <sp>
+               <speaker>Remdy</speaker>
+               <l>Are you helth, this maketh me very pe●●i●e and sad</l>
+               <l>yet be of good chere, &amp; show how you were infect</l>
+               <l>To remedy you a●d succour you I wold be very glad</l>
+               <l>For god wyl pu●ish the people when they be de●elt</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Syr I thanke god therof for wel worthy I am</l>
+               <l>My conscien●e doth iudge, some trouble haue I must</l>
+               <l>A me●des I wyl make to god and if I can</l>
+               <l>
+                  <pb facs="15"/>Wil ād wit hath deceiued me in them I put my trust.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>yf thou haue ●oone amisse, and be sory therfore</l>
+               <l>Then helfe ame●des is made, for that is contrission</l>
+               <l>Let that passe, now wil I axe you one thyng more</l>
+               <l>Wher be welth ād Libertie, be they of good disposiciō</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>As for welth is fallen iu decay, and neces●itie</l>
+               <l>By wast &amp; war, thorow yll wyll, and ●hrewd wit</l>
+               <l>And lybertie is kept in duraunce and captiuite</l>
+               <l>God helpe vs all, and sende vs good remedy for it</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>For to heare this tale it maketh my hart heauie</l>
+               <l>yet be of good cōfort, god is ful of grace, &amp; I am good</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>¶Sir, thē I besech you help vs in the way of charity</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>I would fayne but I cannot tel which way to begin</l>
+               <l>Except I might catch wil &amp; wi●, then I trow I could</l>
+               <l>Tye thē shorter, for they destroy welth, helth &amp; liberty bi sin</l>
+               <l>yf I had y^e theues, puni●h thē extremly I wole.</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>You may soone catch them, if ye wil stande a syde</l>
+               <l>From this place they two, wyl uot●onge abide.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Me thinke●h I here them com, helpe to holde thē fast will turneth</l>
+            </sp>
+            <sp>
+               <speaker>〈◊〉.</speaker>
+               <l>Cum in wit for here is no body</l>
+               <l>We may ve bolde and talke largely</l>
+               <l>Our hartes to ease and shew plainly</l>
+               <l>What we haue doone.</l>
+            </sp>
+            <sp>
+               <speaker>wytte</speaker>
+               <l>I must nedes laugh I cannot forbeare</l>
+               <l>To remember war●e that knaue wil ye heare</l>
+               <l>The horson fleming was be ●●itten for feare</l>
+               <l>Because he should boyde so soone.</l>
+               <l>Herke now do I meruayle by this bread</l>
+            </sp>
+            <sp>
+               <speaker>W●ll.</speaker>
+               <l>For I we●● surely ●hat h●lth be dead</l>
+               <l>I saw saw him go with a kercher on his head</l>
+               <l>As he should go to hangyng.</l>
+            </sp>
+            <sp>
+               <speaker>●ytte</speaker>
+               <l>Harke in thine Eare, yf t●●e horson hap</l>
+               <l>To complayne to him that weres the red cap</l>
+               <l>
+                  <pb facs="15"/>I feare theu shortly he wyl vs cla●</l>
+               <l>By the heles from out liuing●</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Nay nay, there is no doubt</l>
+               <l>By hym I haue reported all about</l>
+               <l>Tha● he doth not wel, his good name to put out</l>
+               <l>ylwyl cannot say wel,</l>
+            </sp>
+            <sp>
+               <speaker>remedi.</speaker>
+               <l>Frende therin thou art the more to blam</l>
+               <l>Cos●au●der me wro●gfully, and vudesr●ued</l>
+               <l>But or thou drpart thou shalt answere for the same.</l>
+               <l>wher is Welth &amp; liberty, how hast thou thē ordred?</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Qury cicis quest is vn malt ombre</l>
+               <l>Me is vn spy &amp; nardo compoco pa●lauere.</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Thou folse thefe is thine English tonge gone</l>
+               <l>as mischeuo{us} il wil &amp; shrewd wit, ye haue destroyd ma||ni on</l>
+            </sp>
+            <sp>
+               <speaker>Wytte.</speaker>
+               <l>Sir hurt not me, &amp; I wil tel you trouth anone</l>
+               <l>This same i● as false a knaue as euer cam w^tin saint Iohēs</l>
+            </sp>
+            <sp>
+               <speaker>wyll.</speaker>
+               <l>Per amorde my as pi ca vn poco</l>
+               <l>Eo queris and a● pour lag●●●n● creae so</l>
+            </sp>
+            <sp>
+               <speaker>Remdy</speaker>
+               <l>I can not tel what thou dost m●ae blabbler:</l>
+               <l>But y^u shalt speake English &amp; confesse an other mater,</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Syr I besech your lordship, in the way of charity</l>
+               <l>Let not these thefes escape your hands they haue de|stroyed vs v●terly.</l>
+            </sp>
+            <sp>
+               <speaker>wytte:</speaker>
+               <l>Syr, beleue hym not he speakes but of malice onely</l>
+               <l>we be true men, therof we shall fetch good witnes</l>
+               <l>An honest man that shalbe bound for him and me</l>
+               <l>The law sayth plaine, nulla fides con●●●●estes</l>
+               <l>that is trouth, but who wilbe witnes or boūd for the</l>
+            </sp>
+            <sp>
+               <speaker>Remd</speaker>
+               <l>There is three amonge you in this howse</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>I Iyf●o to fetch them quickly</l>
+            </sp>
+            <sp>
+               <speaker>Wytte.</speaker>
+               <l>They wil come vnsēd for I warant you if they wyll</l>
+            </sp>
+            <sp>
+               <speaker>Remd</speaker>
+               <l>what be theyr names, tel me what they be,</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>That on is Iohn Irische and Iohn s●oler</l>
+               <l>
+                  <pb facs="16"/>But ful these be honest men all thr●●●</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Trust not their wordes they wyll dessemble styll</l>
+               <l>They are so false and cra●●y, all ●heyr intent is yll.</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>ye lye falsely, I ●peake but right a●d reason</l>
+               <l>And by the law of armes ye must ned●s be ●ane</l>
+               <l>you a●e called good remedy which a● al feason</l>
+               <l>Sholde leaue to mans lyfe, and ma●●taine the same</l>
+               <l>we be he●e ●oth your prisoners wrongfully accused bi de●ame</l>
+               <l>Kepe ou● of vs fast let him lye for all</l>
+               <l>That other sor frendes and wytnes goo shall.</l>
+            </sp>
+            <sp>
+               <speaker>wyt●e,</speaker>
+               <l>Syr let hym not goo a●d le●e me behynde</l>
+               <l>He wyl euer ●e a false knaue, for I k●ow his mynde</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Holde thy tonge folis● k●aue I do not meane so</l>
+            </sp>
+            <sp>
+               <speaker>Remd●</speaker>
+               <l>I here now ye ca●not agre, which of you should go</l>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>No by gods body there shall none go but I</l>
+            </sp>
+            <sp>
+               <speaker>Wytte.</speaker>
+               <l>Tho● playest the knaue it must nedes be I</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>Kepe them safe I pray you for yf they scap againe</l>
+               <l>Many me● shal repent it, it shal●e to our pay●e</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>They be here yet, to kepe them fast is myne inteut,</l>
+               <l>Haue them away both to prison in continent.</l>
+            </sp>
+            <sp>
+               <speaker>wyll.</speaker>
+               <l>Lo false knaue this is for thy crafty wi●.</l>
+               <l>Now fast by the heeles we are lake to syt.</l>
+            </sp>
+            <sp>
+               <speaker>Wytte.</speaker>
+               <l>I am co●●ent so that I may haue comp●ny</l>
+               <l>yf I shold be hanged, I wold be hāged honest </l>
+               <stage>&amp; goth out</stage>
+            </sp>
+            <sp>
+               <speaker>Remd●</speaker>
+               <l>Go bence with them &amp; bring welth &amp; liberty.</l>
+            </sp>
+            <sp>
+               <speaker>helth,</speaker>
+               <l>Com away ye thenes, now I shall kepe you s●rely,</l>
+               <stage>&amp; goth out</stage>
+            </sp>
+            <sp>
+               <speaker>Wyll.</speaker>
+               <l>Lock vs vp &amp; kepe vs as fast as ye can</l>
+               <l>yet yll wyl and ●●rewd wit shalbe with many a man.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>I am halfe ashamed, that long i● hath ben sayd</l>
+               <l>That noble men by such wretches hath ben decei●ed</l>
+               <l>they did reioyce and iest, and were very well apaide</l>
+               <l>Trusting to ●cape clea●e, and ●tyl for to haue rained</l>
+               <l>But now they shall not so, let them be wel assured</l>
+               <l>
+                  <pb facs="16"/>That ylwyl and shrew de wyt shal haue but yl rest</l>
+               <l>For wheresoeuer they be I wyll break● theyr nest</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>In the honour of god we aske you forgeue●es al th●e</l>
+               <l>we ought to be ashamed ●o looke you in the face</l>
+               <l>By our foly &amp; negligence, we haue done so vnwisely</l>
+               <l>we were towle deceyued, we p●t vs to your grace</l>
+               <l>Thys shalbe a good warding for vs alonge space</l>
+               <l>whan man is wel punished then he wyl beware</l>
+               <l>w●o that knoweth what nede is, wel after drede ●are</l>
+            </sp>
+            <sp>
+               <speaker>Remd●</speaker>
+               <l>I may not blame you gretly for by mine owne reasō</l>
+               <l>I know ylwyl and shrewd wit deceiueth great &amp; smal</l>
+               <l>yf ye can remābre thys● and beware a ●other season</l>
+               <l>This is a good example and lerni●g to you all</l>
+               <l>Now serue god and loue him, &amp; for grace euer call</l>
+               <l>And ylwyl and shrewde wyt, from yo● I shall ab●taine</l>
+               <l>ye haue vs●d them to longe to your domage and pain.</l>
+            </sp>
+            <sp>
+               <speaker>health.</speaker>
+               <l>Forsoth syr ye sai trouth, they did vs great disp●esur</l>
+               <l>Full hard it is to banquishe the vngr●cious ylwyl</l>
+               <l>He is so croked, by slattery, dissula●ion &amp; such other</l>
+               <l>Mannes mynd i● so var●able, &amp; glad to report yl</l>
+               <l>I feare many one yet wolde haue him raine styll</l>
+               <l>For some vnto their owne wyl hath so much affection</l>
+               <l>yet the devyl an● yl wyl is both of o●e complexion</l>
+            </sp>
+            <sp>
+               <speaker>liberty●</speaker>
+               <l>yll wyll is nought, but worse is shrewd wyt</l>
+               <l>For he contryueth al subtil ymanginacien</l>
+               <l>yt were vnpossyble for a man els to doo it</l>
+               <l>shrewd wyt breweth myscef● &amp; false conspyracion</l>
+               <l>He hath put me lyberty in prison, ād great at tribulacion</l>
+               <l>if it had not bene for your good remedi &amp; fortheraūce</l>
+               <l>I ● other y^t hath libertie, shold haue bē in duraunce.</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Be al of good chere, and haue no mistrust</l>
+               <l>The e●de of yl wyl and shrewd wyt is but shame</l>
+               <l>Though they reygue a while, wrongfully and vniu●●</l>
+               <l>
+                  <pb facs="17"/>yet truth wyll appeare and their misdedes blame</l>
+               <l>Then wro●ge 〈◊〉 su●●ued, and good remedy ta●●</l>
+               <l>Though ●alsehodeloke, and hide his matters all</l>
+               <l>Craft w●●l out and disce●te wyll haue a fall</l>
+               <l>Whereas ye are now, in distresse all three</l>
+               <l>Neare were ye brought in case lyke ●o marre</l>
+               <l>Now haue ye no dou●t, yf ye wyll ●e ruled after m●</l>
+               <l>I shal restore ye agayne as well as euer ye were</l>
+               <l>Welth kepe styll this realme, looke ye stray not fa●●</l>
+               <l>And Helth be of good chere, yo●r disease I ca● soone mēde</l>
+               <l>Liberty now ye ●e released do no more off●nd,</l>
+            </sp>
+            <sp>
+               <speaker>wealth</speaker>
+               <l>Now let vs al thāke god y^e good remedy hath s●ude</l>
+               <l>Trust to hym only for his grace and goodnes</l>
+               <l>we are forgiuenes o● our trespa● I trust we wil amēd</l>
+               <l>And cleane for●ake syn, foly, and vnthriftines</l>
+               <l>〈◊〉 we wil here cōclude, soueraine of your graciousnes</l>
+               <l>we besech you to ●emyt our negligence, &amp; misbehauor</l>
+               <l>There we haue sayd amīs, we cōmit also your fauor</l>
+            </sp>
+            <sp>
+               <speaker>Health</speaker>
+               <l>And for your preseruacion hartely we wyl pray</l>
+               <l>your realme to increase, w●th ●oy a●d tranquility</l>
+               <l>That welth, helth &amp; liberty, may co●tinne here alway</l>
+               <l>By the ouersight and aide of him that is good remdy</l>
+               <l>which willingly doth his deu●●, vnder your actoritye</l>
+               <l>As parte here apereth your p●rpose to mai●taine</l>
+               <l>God continue his good●es, that longe he may riagne</l>
+            </sp>
+            <sp>
+               <speaker>Remdi</speaker>
+               <l>Iesu preserne quene Elizabeth y^e noble prīcis worthy</l>
+               <l>Iesu continue her helth long for to endure</l>
+               <l>Ies● indue her w vertue grace &amp; honour</l>
+               <l>Iesu maintaine the lords of y^e coūsel to exec●te good remedi euer</l>
+               <l>Iesu spede and helpe al them gods honour to further</l>
+               <l>Iesu increase the comunaltie to prosper and doo wel.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="17"/>
+         </div>
+      </body>
+   </text>
+</TEI>

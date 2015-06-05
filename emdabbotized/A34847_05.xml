@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+            <author>Cox, Robert, d. 1655.</author>
+         </titleStmt>
+         <extent>31 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 November (TCP phase 1)</date>
+            <idno type="marc">12241232</idno>
+            <idno type="stc">Wing C6711.</idno>
+            <idno type="vid">56778</idno>
+            <idno type="DLPS">A34847</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Acteon &amp; Diana with a pastoral storie of the nimph Oenone followed by the several conceited humours of Bumpkin the huntsman, Hobbinal the shepherd, Singing Simpkin, and John Swabber the seaman / by Rob. Cox, acted at the Red Bull with great applause.</title>
+                  <author>Cox, Robert, d. 1655.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, with the addition of Simpleton the smith, not before extant.</edition>
+               </editionStmt>
+               <extent>[2], 40 p.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Edward Archer ...,</publisher>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>One-act plays.</term>
+               <term>English drama -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+  <text>
+     <body>
+          <div type="play">
+                     <head>Here followes the Humor of
+Iohn Swabber.</head>
+                     <div type="dramatis_personae">
+                        <list>
+                           <head>The Names of the Persons:</head>
+                           <item>Two Gentlemen.
+<list>
+                                 <item>Francisco,</item>
+                                 <item>Gerard,</item>
+                              </list>
+                           </item>
+                           <item>
+                              <hi>Iohn Swabber,</hi> a Seaman.</item>
+                           <item>
+                              <hi>Cutbeard,</hi> a Barber.</item>
+                           <item>
+                              <hi>Parnell,</hi> John Swabbers wife.</item>
+                           <item>Two or three neighbours wives.</item>
+                        </list>
+                     </div>
+                     <div type="body_of_play">
+                        <stage>Enter Francisco, Gerard, severally.</stage>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>
+                              <hi>FRancisco,</hi> well met; whither in such hast?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>I am going to a feast; where, if you
+please, you shall be welcom too.</p>
+                        </sp>
+                        <sp>
+                           <pb n="27" facs="24"/>
+                           <speaker>Ger.</speaker>
+                           <p>I am willing to believe you, and will wait on
+you.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>Ile promise you a dish of mirth, that's all, and
+if my hopes delude me not, well drest too, so quaintly
+relisht, that it will provoke a laughter farre above thy
+spleen to suffer.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>How can these times afford such entertain|ment?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>Why, Ile inform you: 'Twas yesterday my
+luck to be incountred by a rustick Sea-man, (or one at
+leastwise of as course condition.) This fellow, like a
+perfect son of folly, began to rail extreamly at his for|tune,
+and needs would make me Judge of his abuse.—
+I have (sayes he) about some two years since, married
+a wife, (wo worth the time I saw her) and in my ab|sence
+she hath got a trick to make me Cuckold whe|ther
+I will or no; a barbarous Barber makes a beast of
+me, <hi>Cutbeard</hi> his name, whom I do vow to be the
+cut-throat of.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>I know the fellow well, he lives close by; but
+on I pray.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>I finding that his humor might produce some|thing
+worth laughing at, encouraged him; he like a
+bladder that is sweld with blowing, was straight puft
+up into a desperate humor, so that he vowed this day
+for a revenge: And hereabout I am to meet this <hi>Her|cules.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>It cannot chuse but produce excellent mirth,
+which Ile assist with all my best endeavours.</p>
+                        </sp>
+                        <stage>Enter <hi>John Swabber,</hi> armed with a sword, a gun, a
+spit, a pair of tongs, and other ridiculous weapons.</stage>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>See, he is come loden with several instruments
+
+
+<pb n="28" facs="25"/>
+of death; he means to play a prize with him, I think,—Well
+<hi>Iohn,</hi> I see you are prepared for murder; have
+mercy on the Barber, I say.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>No, I scorn it, I wil have no mercy, he has made
+a whore of a wondrous honest woman, and a Cuckold
+of one, that for ought I know, might have been a Cour|tier.
+For which abominable deed I scorn to shew my
+self a Christian; for I do mean to use him worse then a
+Jew would.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>Nay, but consider, he's a man how-ere, and
+you can boast your self to be no more, although you
+have the spirit of a Giant; you have brought weapons
+here as if you meant to kill him twenty times. Troth
+tis too much.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>If I bate him an Ace of forty, call me Cox|comb,
+I will draw his teeth one by one, with an instru|ment
+called a pair of Tongs, then let him blood in the
+right vein, and bid the Divell take him at his own
+perill.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>Let me prevail with thee to calm thy rage, and
+take acquaintance of this Gentleman a worthy friend
+of mine.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Do you long to be acquainted with me, Sir?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>By any means, Sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Tis granted then; Ile toss a Can or a Pot
+with you, as soon as I have dispatch't this bawdy Bar|ber;
+would he were dead that my business might be
+over.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>What's your profession Sir? and how may I
+call you?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I am a Seaman, Sir, my name's <hi>Iohn Swab|ber</hi>
+—an Officer of the ship, sir.</p>
+                        </sp>
+                        <sp>
+                           <pb n="29" facs="25"/>
+                           <speaker>Ger.</speaker>
+                           <p>I cry you mercie, sir.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Nay, never cry for the matter,—But I had
+forgot this Barber all this while: Barber come forth, or
+by the beard of my great Grandfather, I swear, I will
+so shashado, mashado, pashado, and carbinado thee,
+that thou shalt look like a gallimafry all the days of thy
+life. Come forth I say,</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cutbeard within.</speaker>
+                           <p>Why neighbour <hi>Swabber,</hi> who pro|vokes
+you thus? what do you mean? who has offen|ded
+you?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Oh slave of all slaves, who has offended me?
+why thou base, beastly, boisterous, Babylonian, bawdy|fac'd
+Barber, thou hast, thou hast made me fit to chew
+the cud with oxen, climb the mountains with wild
+goats, and keep company with none but Ram-headed
+people, for which I will tie thee up on the next sign-post,
+and there thou shalt hang a twelve month and a day a|live,
+for an example to all such notable shavers; but if
+thou comest and submitst to my mercy, I will do thee
+the favour to let thee hang till thou be dead.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>
+                              <hi>Fransisco</hi> hark—Ile pawn my life this fel|low's
+a rank coward, keep you his furie up, and Ile per|swade
+the Barber to a greater vein of roaring then ere
+was practised by a suburb blade, Ile make him at the
+least seem valiant, fear not.</p>
+                           <stage>Exit</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>Do if it be possible, Ile hold him in discourse.
+—But, M^r <hi>Swabber,</hi> what think you if he does com|pound
+with you, wil you be won to take an arm or two,
+or both his leggs, and save his other members?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Pish, tell not me, tis neither his arms nor his
+legs that <hi>I</hi> stand upon, he has caus'd me to go in dan|ger
+of my life: for t'other day <hi>I</hi> had an occasion to
+
+
+<pb n="30" facs="26"/>
+pass by a worshipfull Gentlemans pack of hounds, they
+no sooner looked upon my forehead, but they came at
+me in full cry; and I for fear left such a sent behind me,
+that they came after me as perfectly by it, as if I had
+been a Stagg; and if I had not got shelter of a house,
+without doubt I had been presented to some great man
+for Venison, and my hanches had been bak'd by this
+time.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>You were in danger there I must confess.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>And the Butchers Doggs still take me for a
+Bull, and fetch such courses at me; and all this the Bar|ber
+is the cause of.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>I would revenge it, were I as you he should not
+have a tool left him to work with.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>No nor to play with neither, Ile have an inch
+of everie tool he has.—Barber come forth, and let
+me kill thee upon fair terms, or else I will enter thy
+house by force, pitch thee down the stairs, and send
+thee of an errand headlong. And if thou dost submit
+to my mercie, I will shave thee to death with thy own ra|zor,
+therefore take heed.—So, now let him come if
+he dare.</p>
+                        </sp>
+                        <stage>Enter Gerard.</stage>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>Wel, now I see there is no hope to appease him,
+blood must ensue, and death wil take its course.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>With whom? what's the matter?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>The Barber is preparing for the combat, he has
+took his pole to serve him for a lance, and one of his
+basons for a buckler, and vows to make you the wind|mill,
+whilest he plays <hi>Don Quixot</hi> against you furiously.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>A windmil!—Ile begone.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>You wil not offer that sure. Who afraid?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Would it not make any one tremble with the
+
+
+<pb n="31" facs="26"/>
+thought on't, first to be made a Cuckold, then a wind|mill?
+No, Ile begone, and come agen to kill him when
+I can find him in a better humour.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Franc.</speaker>
+                           <p>Consider what you do; he'l call you coward,
+proclaim you Cuckold stil in everie Alehouse, and what
+disgrace wil that be?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I care not, tis better be a Cuckold then a wind|mil;
+if he had meant to make a fool, a puppie, or an ass
+of me, or any such Christian like creature, 'twere another
+matter: but to be made a windmill of, and never to be
+respected but when the wind blows, is not to be endur'd,
+therefore let him make windmils of my weapons, if he
+will, for my own part Ile defend my self with my heels.</p>
+                        </sp>
+                        <stage>Throws down his weapons.</stage>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>Come, I have brought him to a better temper,
+he will come armed with nothing but a Razor, with
+which if he does slit your wezand-pipe, it will not be a|miss
+to take it patiently.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Let him not spoil my drinking, and I care not;
+but hark you, if you should let him hurt me, I should be
+as angrie as a Tiger.</p>
+                        </sp>
+                        <stage>Enter Cutbeard with a razor.</stage>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Where is this slave that has provok't my rage
+to his destruction, I wil swinge this Boore, then hang
+him up for Bacon in my chimney, and send him to be
+broyled for <hi>Pluto's</hi> breakfast.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>VVhy This is wors then to be made a wind mil.
+Do you hear sir, if ever you had the fit of an ague upon
+you, or ever knew the trembling of a man troubled in
+conscience, that would be loth to die till he had made
+even with all the world, consider me; alas, sir I have
+my rent to pay yet, and if I should be sent to hell of an
+errand, they'l like my company so well, I should never
+
+
+<pb n="32" facs="27"/>
+come back agen; pray perswade him to send me to <hi>Ie|rusalem,</hi>
+or <hi>Ierico,</hi> or any those places neerer hand.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>Why canst not thou excuse thy selfe? where's
+thy brains?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Alas, my brains are fallen intomy breeches; but
+if you'l stand between me and harm, Ile venture to re|concile
+my self to him,—<hi>Cut</hi>—honest <hi>Cutbeard,</hi> didst
+not thou think I was in earnest all this while.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>What ere thou wert, thou shalt be nothing pre|sently,
+death waits for thee, come quickly I command
+thee.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Sir, pray perswade M^r <hi>Death</hi> to have patience
+for a matter of 40 or 50 years more; for I have a great
+deal of business to do in this world yet.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Shal I be dallied with, let me approach him, for
+all the intreaties of the world shal not preserve him past
+six minutes.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>One minut's past alreadie,—and theres two.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>Nay, prithee <hi>Cutbeard,</hi> be more merciful.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Three—four—five.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>Wil no intreatie serve? Then take your course.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Six, O now I am gone.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>If he submit he may live, let him know it—dost
+thou acknowledge thy own cowardize and my heroick
+valor?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut</speaker>
+                           <p>O mighty <hi>Hercules,</hi> I confess my self a <hi>Pigmy,</hi> and
+I wil never think otherwise while I live; these Gentle|men
+be my witnesses.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>VVhy then all's wel agen.—Remember <hi>Cutbeard,</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Ile spice him fear not—give me thy hand <hi>Iack,</hi>
+Thus do I grasp thy friendship.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>He grasps my hand divelish hard tho.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>I hear pronounce thy wife to be a <hi>Venus.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <pb n="33" facs="27"/>
+                           <speaker>Swab.</speaker>
+                           <p>O rare! Is my wife a <hi>Venus?</hi> That's more then
+ever I knew before; why then I will be her husband
+<hi>Cupid.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>No, <hi>Cupid</hi> was her son.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>'Tis no matter for that, he shall be her husband
+for once, and we two wil get such abundance of young
+<hi>Cupids,</hi> that we'l make all the world in love with one a|nother.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Since we are reconciled, know, honest <hi>Swabber,</hi>
+that I wil make the whole world dote on thee, Ile wash
+thy face, and powder thee to'th purpose, and shave thee
+if thou wilt too.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>No, by no means, I dare not venture my throat
+under thy fingers; but for washing and powdring, that
+all the world may be in love with me, I am content.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Sit down then in this chair, look on this powder,
+the snow is nothing to it, 'twill create such a complexi|on
+on thee, that no Art did ever set upon the proudest
+Lady.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>But hark you <hi>Cutbeard,</hi> how shall I do to satis|fie
+all the women that will follow me for kisses, if you
+make me too beautifull, my lips will be worn threed|bare
+before I can get home; and then <hi>Parnell</hi> my own
+dear wife, will have the least share of her own sweet
+husband.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>For that we'l take a course,—wink, wink, good
+<hi>Iack,</hi> my Ball will search your eyes else.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>My eyes are honest, and fear no searching</p>
+                        </sp>
+                        <stage>Changes the powder, and blacks his face all over.</stage>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Now I begin to sprucifie thy phisnomie,—This
+powder was extracted from the Phoenix, when she last
+burnt her self, and is indeed the quintescence of odors.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Nay, 'tis as odious as ever I smelt, that's cer|tain,
+
+
+<pb n="34" facs="28"/>
+good <hi>Cutbeard</hi> let me have enough I prithee.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Nay, Ile spare no cost,—Judg Gentlemen, is
+he not strangely alterd?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>Past belief; I would not that my Mistress saw
+him now, my hopes would soon be cool'd then.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I think so, but I would have you to take no|tice,
+I will have nothing to do but with great persona|ges,
+for I must not make my self common.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>What this fellow wil com to no man knows yet,
+his fame no doubt wil travel ore all countries, and I am
+full resolved in my opinion, the Queen of <hi>Mauritania</hi>
+wil run mad for him.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>If she run as mad as a March Hare, she gets not
+a bit; no, <hi>Parnell</hi> and my neighbours shal have all.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Now if the Painters wil draw <hi>Adonis</hi> out, let
+them come here for copies. So I have done.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Prithee <hi>Cutbeard</hi> lend me a Looking-glass.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>By no means; what did you never hear of one
+<hi>Narcissus</hi> how he pined away for love of his own sha|dow:
+No, go home, your house is hard by, let <hi>Parnell</hi>
+see you, and bless her self with wonder.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Honest <hi>Cutbeard,</hi> this Gentleman is a worthy
+friend of mine, prithee bestow some of the same powder
+upon his face.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>No, no, you shal be beautiful alone, tis best.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>
+                              <hi>Parnell</hi> I come, and if thou beest not stupid,
+Thou'lt say <hi>Iack Swabber</hi> is a kin to <hi>Cupid.</hi>
+                           </p>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>Well <hi>Cutbeard,</hi> thou hast drest him hand|somly,
+I'de give a Crown that I were by when first he
+finds what beauty hee's adorn'd withal.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>This day I am to meet with pretty <hi>Parnell,</hi>
+pray Heaven the Fool be absent when I come, some
+two hours hence if you wil meet me, Gentlemen, Ile
+
+
+<pb n="35" facs="28"/>
+tel you how he takes his transmigration.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>We wil not fail. Farewel.</p>
+                        </sp>
+                        <stage>Exeunt.</stage>
+                        <stage>Enter Parnell.</stage>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>I wonder that my Barber stays thus long, can he
+neglect me thus? Wel, I wil fit him; for if he use me
+once agen thus basely, I wil cashiere him, and bestow
+my love upon some one more constant: forty to one but
+<hi>Swabber</hi> comes before him, and spoils all.</p>
+                           <stage>Enter Swabber very stately.</stage>
+                           <p>Who's this in the name of blackness? the clothes and
+walk of my dear husband, and Ile lay my life he has got
+a vizard on.—Nay pray now, indeed you'l fright
+me presently, take heed.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>She does not know me that's excellent,—
+<hi>Parnell</hi> beleeve it, I am flesh and blood, I would not have
+thee take me for a Goddess.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Pan.</speaker>
+                           <p>A Goddess quotha, a black one if you be one;
+what hast thou got upon thy face I prithee?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Do not look too wistly upon me, <hi>Parnell,</hi> my
+beauty wil put your eyes out if you do, and then I must
+be at the charge of a Dog and a Bel for you.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Pan.</speaker>
+                           <p>A Dog and a fools head; pul off your vizard.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Do not touch me unless you make forty curt|sies
+first. Come kiss me, and thou wilt be out out of thy
+wits presently.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Nay, then I see tis a trick put upon him; Ile
+fetch you a glass, you shal behold your beauty.</p>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Do, and I wil venture to be in love with my self
+for once. How shal I requite honest <hi>Cutbeard?</hi> By this
+hand he shal have the honor to be Barber to all my
+wenches.</p>
+                        </sp>
+                        <stage>Enter Parnell with a glass.</stage>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Are you not wondrous fair? Look and ad|mire
+your self.</p>
+                        </sp>
+                        <sp>
+                           <pb n="36" facs="29"/>
+                           <speaker>Swab.</speaker>
+                           <p>O <hi>Parnell, Parnell,</hi> I am gul'd most basely, I
+have not half so much beautie as a Chimney-sweeper:
+Ile kil the Barber the first thing I do.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Was it the Barber used thee thus?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I <hi>Parnell,</hi> 'twas he: Ile go fetch a company of
+my <hi>Fellow-Saylors,</hi> drag him out, and hang him up at
+the main Yard presently. <hi>Parnell</hi> farewel: if I be appre|hended
+for the death of <hi>Cutbeard,</hi> what ever thou dost,
+send me a clean shirt; for I shal have need on't.</p>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>VVell <hi>Cutbeard,</hi> I commend thee for this pro|ject,
+thou hast drest him handsomly; would thou wer't
+here, I would kiss thee for the jests sake.
+<stage>Enter Cut.</stage>
+Oh are you come, Sir?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cutb.</speaker>
+                           <p>I watcht the time my <hi>Parnell,</hi> and have found
+it; How does the gul become his feathers? Ha!</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>As I would have him: Oh <hi>Cutbeard,</hi> this kiss,
+and this, for the device.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>VVhere is he, <hi>Parnell?</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>VVhy gone abroad in his new-fashion'd face,
+to fetch a gang of <hi>Saylors,</hi> who he vows shal hang thee
+up at the main Yard, and shal use thee worse then the
+Prentices a Suburb-Bawd on a <hi>Shrove-tuesday.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>And those same water-rats are Divellish things;
+what a slave was I to use him so?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>VVhat canst thou fear when I am in thy pre|sence?
+Away you milksop, hence from me, avant.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Nay, gentle <hi>Parnel,</hi> by this hand Ile fight with a
+whole Army, if thou sayst the word: prithee be recon|ciled.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab. within.</speaker>
+                           <p>VVhy <hi>Parnell, Parnell,</hi> here's thy own
+sweet husband; open the door dear wife.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>O me, my husband's come, what shal I do?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Let me into the well▪ if thou thinkst good, or
+
+
+<pb n="37" facs="29"/>
+hang me in the chimney stead of Bacon.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Alas, that's full of hazard.—No device!</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab. within.</speaker>
+                           <p>Why huswife, huswise, must I wait halfe
+a day?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>My peticotes faln off, but I come presently—Oh
+I have thought, come hither, put on this biggin, I
+made it for my child that is at Nurse, and cram thy
+self into this cradle here: there is no other way, there|fore
+dispatch.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>O me, thou never thinkst upon my beard, that
+wil betray all presently.</p>
+                        </sp>
+                        <stage>A cradle set forth.</stage>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Take you no care, Ile make him to beleeve you
+were born with it; be quick, I say.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Necessitie compels me, send me off of this brunt
+once, Ile hunt the smock no more—Cover me close
+good <hi>Parnell.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>So, keep you close, and when he prattles to you,
+sneere in his face, and call him <hi>Dad;</hi> do you hear?</p>
+                        </sp>
+                        <stage>Parnell lets him in.</stage>
+                        <stage>Enter Swabber.</stage>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Why you proud, peevish, petty, paltry <hi>Parnell,</hi>
+why did you make me stay so long?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>I made what hast I could, but the child cri'd so.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>The child! what child? have you got bastards
+here?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Bastards? they are your own then: <hi>Simon's</hi> come
+home, the boy I had a twelvemonth since by you, he
+was born when you were at sea.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Is he brought home? As I'm an honest man
+I'm glad on't. Let me see him <hi>Parnell.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Look here he is, the goodliest boy, and even as
+like thee <hi>Iohn,</hi> as if thou hadst begot him all thy self.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Whoop, heres a boy of a twelvemonth old: if
+he grow but thus much this next year, he'l be able to
+
+
+<pb n="38" facs="30"/>
+fight with a Giant presentl. But <hi>Parnely,</hi> he has got a
+great beard too, how comes that?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Why he was born with it; many children are
+so, and 'tis a sign he wil be a man betimes, a wise discreet
+one too.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Dad dad, dad.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Nay, 'tis a wise child, I perceive that; for he
+cals me dad at first sight. Good <hi>Parnel</hi> fetch me some
+milk for him, Ile see him eat.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>He had milk but just now; prithee <hi>Iohn</hi> be pa|tient.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>You are a fool, he has been starv'd at Nurse, and
+we must make him fat. Fetch some, I say.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Par.</speaker>
+                           <p>I wil not truly <hi>Iohn,</hi> you'l spoil the child.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I saw some stand in the next room, Ile fetch it
+my self so I wil.</p>
+                           <stage>Exit.</stage>
+                        </sp>
+                        <sp>
+                           <speaker>Par.</speaker>
+                           <p>What wil you do? You must endure with pa|tience;
+I mingled batter but just now for pancakes and
+that he'l bring, as certain as I live.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>I shal be cram'd to death; mercie upon me.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Par.</speaker>
+                           <p>He comes, lie close agen.</p>
+                        </sp>
+                        <stage>Enter Swabber, with a great bowl of batter and a ladle.</stage>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Dad, dad, dad.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I mine own boy, here's milk for thee, <hi>Simon.</hi>
+                              <stage>Throws it in by ladles full.</stage>
+Look <hi>Parnel</hi> look, how greedily he eats it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Par.</speaker>
+                           <p>Now fie upon you <hi>Iohn,</hi> you'l choak the child.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I mean to make him grow as high as <hi>Pauls,</hi> and
+shew him for a wonder in <hi>Bartholmew</hi> fair. Fetch me
+some more milk, this is all gone.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>What, do you think Ile murder the poor infant?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>By this hand Ile go to the Milk-woman and
+fetch him a whole gallon.</p>
+                           <stage>Exit,</stage>
+                        </sp>
+                        <sp>
+                           <pb n="39" facs="30"/>
+                           <speaker>Parn.</speaker>
+                           <p>Up quickly and be gone; for when he comes
+he'l choak you without fail.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>A pox upon him, never was child fed thus. But
+what wil you do now?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Par.</speaker>
+                           <p>Do not you fear; Ile fetch my own child; 'tis at
+a neighbours house, &amp; say the Fairies have exchang'd it.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Cut.</speaker>
+                           <p>Send thee good luck; farewel sweet <hi>Parnel.</hi>
+                           </p>
+                           <stage>Ex.</stage>
+                        </sp>
+                        <stage>Parnel fetches in a little child, and layes it in the cradle.</stage>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>So, if this child wil serve him for a <hi>Simon,</hi> all
+will be wel agen.
+<stage>Enter <hi>Swabber,</hi>
+with more milk.</stage>
+He comes,—Oh <hi>Iohn.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Come, give me <hi>Simon</hi> on my lap, Ile feed him
+til his guts crack agen.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Alas, I went but i'th next room, and in the
+mean time the Fairies have exchanged him; look what
+a little thing they have left in's place.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Ile have none on't; go fetch me <hi>Simon,</hi> and tel
+the Fairies Ile indite them at the Sessions for this. Oh
+<hi>Simon, Simon,</hi> what's become of thee?</p>
+                        </sp>
+                        <sp>
+                           <speaker>Parn.</speaker>
+                           <p>Nay, prithee take not on so.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>The goodliest boy of his age, that ever man
+saw. Pshaw, this has ner 'a beard, Ile ha' none on't.</p>
+                        </sp>
+                        <stage>Enter Francisco, Gerard, Cutbeard, neighbours wives.</stage>
+                        <sp>
+                           <speaker>Fran.</speaker>
+                           <p>Why how no <hi>Iack,</hi> what in a passion? ha! twas
+that blackt thy face to day for mirth sake, and thou
+didst think 'twas <hi>Cutbeard.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I care not for my face, <hi>Simon</hi> is gone, that had
+a beard as big as <hi>Cutbeards</hi> here, the Fairies have ex|changed
+him; and look what a chitty-face they have
+left in's room, a thing of nothing for him.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>Come, you must use this they have left with
+courtesie; for they wil whip <hi>Simon</hi> every day i'th week
+else. I know the nature of them.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>Wil they so? Nay then I must make much on't.</p>
+                        </sp>
+                        <sp>
+                           <pb n="40" facs="31"/>
+                           <speaker>Fran.</speaker>
+                           <p>And now you must be friends with <hi>Cutbeard</hi>
+too.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>With all my heart, for I am angry with none
+but the Fairies now.</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>We have brought musick, and some neighbours
+with us, and mean to have a dance. Come <hi>Iohn.</hi>
+                           </p>
+                        </sp>
+                        <sp>
+                           <speaker>Swab.</speaker>
+                           <p>I can dance nothing but a melancholy dance.
+For I am in a grievous dump for <hi>Simon</hi> still</p>
+                        </sp>
+                        <sp>
+                           <speaker>Ger.</speaker>
+                           <p>I warrant thee. Strike up there.</p>
+                        </sp>
+                        <stage>A Dance.</stage>
+                        <sp>
+                           <speaker>Fra.</speaker>
+                           <l>Why that's well done; no time is counted lost,</l>
+                           <l>Where civil mirth is gain'd with such small cost?</l>
+                        </sp>
+                     </div>
+                     <trailer>FINIS.</trailer>
+                     <pb facs="31"/>
+                  </div>
+      </body>
+  </text>
+</TEI>

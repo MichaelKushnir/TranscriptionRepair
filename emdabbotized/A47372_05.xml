@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+					 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Comedies and tragedies written by Thomas Killigrew ...</title>
+            <author>Killigrew, Thomas, 1612-1683.</author>
+         </titleStmt>
+         <extent>325 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2004 November (TCP phase 1)</date>
+            <idno type="marc">12417588</idno>
+            <idno type="stc">Wing K450.</idno>
+            <idno type="vid">61734</idno>
+            <idno type="DLPS">A47372</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Comedies and tragedies written by Thomas Killigrew ...</title>
+                  <title type="alt">Works. 1664</title>
+                  <author>Killigrew, Thomas, 1612-1683.</author>
+               </titleStmt>
+               <extent>[9], 8 [i.e. 5]-576, 80 p. : port.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed for Henry Herringman ...,</publisher>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>Each play has special t.p. and is dated 1663.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <p>
+                     <pb facs="135"/>
+THE SECOND PART OF Cicilia &amp; Clorinda, OR, Love in Arms. A TRAGI-COMEDY, The Scene <hi>LOMBARDY.</hi>
+                  </p>
+                  <p>Written in <hi>FLORENCE</hi> BY <hi>THOMAS KILLIGREW.</hi>
+                  </p>
+                  <p>DEDICATED TO THE Lady <hi>DOROTHY SIDNEY</hi> COUNTESSE OF <hi>SUNDERLAND.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON:</hi> Printed by J. M. for <hi>Henry Herringman,</hi> and are to be sold at his Shop at the sign of the <hi>Blew Anchor,</hi> in the lower Walk of the <hi>New-Exchange.</hi> 1663.</p>
+               </div>
+               <div type="dramatis_personae">
+                  <list>
+                     <pb facs="136"/>
+                     <head>The Names of the Actors.</head>
+                     <item>
+                        <hi>Marius,</hi> The Roman Pretor, Lieutenant of <hi>Lombardy.</hi>
+                     </item>
+                     <item>
+                        <hi>Otho,</hi> His Son, and General under him.</item>
+                     <item>
+                        <hi>Cicilia,</hi> His Daughter.</item>
+                     <item>
+                        <hi>Calis,</hi> Her Friend.</item>
+                     <item>
+                        <hi>Dyon,</hi> A Gentleman of <hi>Rome.</hi>
+                     </item>
+                     <item>
+                        <hi>Orante,</hi> The Lombard Prince.</item>
+                     <item>
+                        <hi>Clyandre,</hi> A Lombard.</item>
+                     <item>
+                        <hi>Turnus,</hi> A banish'd Lombard.</item>
+                     <item>
+                        <table>
+                           <row role="data">
+                              <cell role="data" rows="2" cols="1">
+                                 <hi>Lucius</hi> &amp; <hi>Manlius</hi>
+                              </cell>
+                              <cell role="data" rows="2" cols="1">Brothers</cell>
+                              <cell role="data" rows="1" cols="1">General of the Horse.</cell>
+                           </row>
+                           <row role="data">
+                              <cell role="data" rows="1" cols="1">Lieutenant-general of the Army.</cell>
+                           </row>
+                        </table>
+                     </item>
+                     <item>
+                        <table>
+                           <row role="data">
+                              <cell role="data" rows="1" cols="1">
+                                 <hi>Cleon</hi>
+                              </cell>
+                              <cell role="data" rows="2" cols="1">Two Romans.</cell>
+                           </row>
+                           <row role="data">
+                              <cell role="data" rows="1" cols="1">
+                                 <hi>Memnon</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </item>
+                     <item>
+                        <hi>Amadeo,</hi> Prince of <hi>Savoy.</hi>
+                     </item>
+                     <item>
+                        <hi>Clorinda,</hi> His Sister.</item>
+                     <item>
+                        <hi>Lysander,</hi> A Lord of <hi>Savoy.</hi>
+                     </item>
+                     <item>
+                        <hi>Stella, Cicilia</hi>'s Woman.</item>
+                     <item>Two <hi>Hermits.</hi>
+                     </item>
+                     <item>
+                        <hi>Banditoes.</hi>
+                     </item>
+                     <item>
+                        <hi>Souldiers</hi> and <hi>Servants,</hi> Such as the Scene requires.</item>
+                  </list>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="act">
+                  <pb n="267" facs="136"/>
+                  <head>THE SECOND PART OF Cicilia &amp; Clorinda, OR, Love in Arms.</head>
+                  <div n="1" type="scene">
+                     <head>ACT. I. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter</hi> Amadeo, <hi>and</hi> Lucius, <hi>they strip and Make ready to Fight.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>SEe, Sir, I am here, according to your desire; But know, till I had read your Paper, I had nothing of Quarrel to you; But that had so little of <hi>Lucius,</hi> I cannot but hate my Fortune, when I consider my self out-rival'd by one that has so low a thought of the Princess; In whose name and revenge I draw my Sword.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Luci.</speaker>
+                        <p>'Tis better well-come then your words; For the wounds <stage>
+                              <hi>They fight, &amp; the noise of their swords makes</hi> Man|lius <hi>come out. Both are wounded. He draws, and runs to part them.</hi>
+                           </stage> that you have given both my Love and Honour are past their Re|medy: and thus I must be healed, or receive more.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter</hi> Manlius.</stage>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>'Twas the noise of Swords,—ha! 'Two fighting.—Ye gods! <hi>Lucius</hi> and <hi>Amadeo,</hi> my Rivals: why does heaven thus tempt me?—Prince <hi>Amadeo,</hi> as you have honour, hold; Why <hi>Lucius, Amadeo, Lucius,</hi> Brother, pray hold.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>Ha, <hi>Manlius! Lucius,</hi> if I would injure you, I could say, this is not well to have your Brother here; But I am so confi|dent of his Honour, that I cannot fear an Injury from him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>How comes this? Did you not promise, you calmly would Expect your Fortunes, and not lose a Mistriss, and a Friend
+<pb n="268" facs="137"/>
+both? have I, for this, labour'd both your Interests with the like faith and reality, neither swayed by the Partiality of a Brother, nor the kindness of a Friend, to find you two destroying all my hopes, and your own? What ridiculous thought is that which tells you, your Swords should decide who shall have the Princess? Do's your Highness think that she, or her friends, will be won with a Murder? Or can <hi>Lucius,</hi> after all his practice, and knowledge of <hi>Cicilia,</hi> so mistake her, as to believe she will be set the Reward of the successfullest Sword? Now she will despise you both for this bold claim you lay to her; 'Tis not now, who she will shall be happy; A duel, Not her kindness must dispose of it; As if <hi>Cicilia</hi> were a thing any may have that can catch her: I am asham'd to find you have lost your Reasons; How must the <hi>Pretor</hi> and the Prince understand this, when they find themselves so far neglected? when they find a Sister and a Daughter cut from their Power by a Duel? <hi>Lucius,</hi> this Jealous anger will destroy all your hopes; Pray, Sir, let me know the cause of this sudden change.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>Your brother can best inform you, who, this morning called me out; But, why, I am yet Ignorant.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Your Highness is not so ignorant of the cause as you pretend, though my brother be; To whom I now confess what your Highness already knows; Know then, After the Princess, in the presence of <hi>Calis</hi> and the gods, gave to thy brother her hand, in faith of Friendship, and her vows were writ in Heaven; yet, after this, Building on his greatness, The Prince, and his party, have se|duced her heart, and, by the Interest of a Brother, they have made <hi>Cicilia</hi> false, and <hi>Lucius</hi> miserable.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>Ha! What says he?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>
+                           <hi>Otho,</hi> too, ungrateful <hi>Otho,</hi> All my services thrown by, has Interessed himself in my Ruine, and has chid, and threatned his Sister to her dishonour; <hi>Otho, Manlius, Otho,</hi> for whom I so often have shed my blood, has gained the <hi>Pretors</hi> consent for Prince <hi>A|madeo,</hi> and <hi>Cicilia</hi> must be his; And thy brother, (after her faith given) Rejected; Now if these Injuries be fit for <hi>Lucius</hi> to bear, then chide him; if not, retire, and let me finish my Revenge, and do not thou Joyn in my dishonour too.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>Is this Truth, or do you both conspire to make me mad?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Truth, by Heaven, after she had given her faith to thy Brother.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>Put up your Sword then, and take a secret from a de|sperate heart; Know, I hate you both, and <hi>Cicilia</hi> is the Cause; <hi>Cicilia</hi> has begot that hate; Hell on all your Trust, would you had been struck blind, and dumb both, when you saw her first, then your praise had never betray'd me to my ruine. Why did you send me to her when you found such Magick in her Eyes, as neither of you could resist? Why should you believe me such a fool, or so blind, as not to love, or Court such a Blessing? Why should you believe <hi>Manlius</hi> so cold or Dull, when he saw such a prize, such a reward for Honour, calmly to sit still while you pos|sest
+<pb n="269" facs="137"/>
+her? What claim has either, more then <hi>Manlius,</hi> But that you saw her first?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Sure, he raves.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>No, <hi>Lucius,</hi> I love: and, despair of what I love makes me hate the fortunate Lover; And who ever he be, let him be sure I am in my grave before he dare possess her; For by Heaven, I will kill him; And since <hi>Amadeo</hi> is like to be the man, let him de|fend himself; she knows, I love; and I know she hates me for ha|ving said so.</p>
+                     </sp>
+                     <stage>
+                        <hi>(He offers to fight with</hi> Amadeo, Lucius <hi>beats down his sword.)</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Hold, by all thy past Honours, or I will strike thee at my Feet; 'tis no tie of blood shall make me spare thee; Though I have lost <hi>Cicilia,</hi> I will preserve my self fit for her in all her virtues.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>Why should not I be revenged, as well as <hi>Lucius?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Take your time; If he out live me, The man will fight; you know he will, you have tryed him; What would the world say, if he should die now? would they not call us Treacherous and Cowards, that betrayed a Gallant stranger, and called him forth, under pretence of Honour, to Murther him?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>Who dares say so, while we live?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>All dare say, and believe it too.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>You had best resolve, Sir, We lose time; for thee <hi>(Manlius)</hi> I scorn to claim a friendship with thee; Yet my wonder would fain know, why you are so furious? Sure 'tis no news to <hi>Manlius,</hi> that I love the Princess.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>You, and all the world may love her, so she loves me; But <hi>Cicilia</hi> loves <hi>Lucius,</hi> and <hi>Amadeo</hi> shall enjoy her if I prevent it not; This is the cause of all my Anger: I profess my self an Enemy to any thing more fortunate then I am in my Love; And if you have her Fathers Consent, and he hers, what rests then but despair for me? Resolve therefore which will be first; for by degrees, I will either fall, or destroy you both; Think not upon any other Enemy, while I am upon the Earth.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>His love is not more new, then Extravagant; But if <hi>Lucius</hi> will look on, I am ready to punish thy falshood to a friend, and a brother.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>And I, to kill a happy Rival, that must, I know, de|spise me, because my Mistriss do's so; All the world will see Rascal writ in my face, if I out-live story, that have lost a Friend, a Bro|ther, and mine Honour too, for nothing; Baubles, such as Chil|dren play with, will be more precious then the name of <hi>Manlius;</hi> 'Twill become a by-name for Treachery and Folly: Despised and false as <hi>Manlius,</hi> I will not live to see the Day,—Defend your self.— <stage>Lucius <hi>strikes down his sword. He speaks to</hi> Lucius.</stage> Be thou the man then, that has won and lost her; Poor spirited <hi>Lu|cius,</hi> to let her go when her faith was thine? 'Twas <hi>Lucius</hi> made her hate and despise me. When I was faulty she loved thee, jealous mad man, for which defend thy poor heart.</p>
+                     </sp>
+                     <sp>
+                        <pb n="270" facs="138"/>
+                        <speaker>Amad.</speaker>
+                        <p>
+                           <hi>Manlius, Lucius!</hi> What Planet has struck these men? Are <stage>Amadeo <hi>strikes down his sword.</hi>
+                           </stage> you not ashamed, Brothers, to bend your Swords against each o|ther? have you neither Honour, nor Reason left?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>Tell me not of reason, Honour, Friend, nor Brother, They are all Idle sounds, without love; Without her love I am an Enemy to all the world; therefore spare your tongue, and use your sword; This Oracle shall tell you who is design'd for <hi>Cicilia</hi>'s love; Do not despise my words, for you shall not be so diligent to gain her Love, but this shall be as sollicitous in the destruction of what she loves.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Perfidious, Degenerate Wretch, Coward, Bastard, no Brother of <hi>Lucius;</hi> hence thou barbarous Dog, be gone; or, by all the gods, that thou hast prophaned, under my feet I will tread thy hated flesh.</p>
+                     </sp>
+                     <stage>(Manlius <hi>laughs.)</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>How often have you seen <hi>Manlius</hi> thus treated, Sir? you strike me at your foot! Begin when you dare, you will finde this Dog bite as sharp as <hi>Lucius;</hi> defend thee.</p>
+                     </sp>
+                     <stage>
+                        <hi>(They fight,</hi> Amadeo <hi>parts them, they hear a noise.)</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>That's <hi>Dyon</hi>'s voyce, Hell upon this Beast; We are pur|sued, I must take some other time; Sir, I know the <hi>Pretors</hi> Rage is not to be met now, I shall therefore retreat, till I can find a fitter time to receive the satisfactio nthis Madman has hindred.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Luc.</stage>
+                     <stage>
+                        <hi>Enter</hi> Lysander, Dyon, <hi>and a Guard.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>Pursue <hi>Lucius,</hi> while we secure these; is your Highness wounded?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>It seems so, in parting those Madmen; Pray have an Eye to <hi>Manlius,</hi> for his designs are false and mischievous.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysan.</speaker>
+                        <p>Pray, Sir, retire, your wounds bleed apace.</p>
+                     </sp>
+                     <stage>[Exe. omnes.</stage>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. I. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter</hi> Marius, Otho, Clorinda, <hi>and Attendants.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Marius.</speaker>
+                        <p>NOw you know why we committed you to your Chamber, and conjur'd you neither to send, nor re|ceive a Challenge from those Brothers; And I believe by this time <hi>Cicilia</hi> is reasonably mortified with the Paper I gave her; Come, Madam, let us give the Prince a visit, I hear his wounds are slight; and I doubt not but that I shall give his Highness full satis|faction, if <hi>Dyon</hi> Execute my Orders.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Marius.</stage>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>
+                           <hi>Manlius,</hi> they say, prevented them.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clorinda.</speaker>
+                        <p>I am sorry the <hi>Pretor</hi> was so severe with the Princess, lest she may believe I am sollicitous, to the prejudice of <hi>Lucius,</hi> in this business, which (as well as I love <hi>Amadeo)</hi> I would not do for all the world.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>Come, Madam, time will heal all these wounds; Love has his Morning and his Evening fair; and though he threatens storms at Noon, yet he gives us time to dispatch our business in.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="3" type="scene">
+                     <pb n="271" facs="138"/>
+                     <head>ACT. I. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter</hi> Dyon <hi>and</hi> Calis.</stage>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>MY Lord, if you have any friendship for <hi>Lucius,</hi> immedi|ately find him, and let him know what has past here this morning; tell him there is no time to delay his fortune; and if he has a hope to continue his friendship with the Princess, let him this night come to the Garden-house in some disguise: <hi>Amadeo</hi> and <hi>Clorinda</hi> have prevailed, and his <hi>Bando</hi> will this day be revoked; by this means there may be some hopes to reconcile himself to the Princess; when he is there give me notice, and I will contrive it so, that he shall speak with her; you may tell him how unhandsome and how injurious an action his jealous madness has made him commit against the Princess; while you do this, I will go find the miserable <hi>Manlius,</hi> whose treachery is now discovered by himself; the noble <hi>Cicilia</hi> concealed his crime, in kindness to his Brother; what to say to him, I know not, when I see him. When his heart was at leisure and innocent, he would not be just to me; and now I know his crimes lye too heavy on his mind to listen to what I shall say of Love or Reason; yet I will find him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>Pray do so, and till I return have a care that he and the Prince meet not, for 'twill not pass without some unlucky accident; they are both incens'd, the one with his guilt, and the other with injuries.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>I shall use all diligence to prevent their meeting.</p>
+                     </sp>
+                     <stage>[Exe.</stage>
+                  </div>
+                  <div n="4" type="scene">
+                     <head>ACT. I. SCEN. IV.</head>
+                     <stage>
+                        <hi>Enter</hi> Orante <hi>in disguise, like an old Beggar-woman,</hi> Bravoes <hi>and</hi> Banditoes <hi>with him.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Band.</speaker>
+                        <p>'TIs most certain, Sir, they fought this morning under the wood side; <hi>Lucius</hi> is banish'd too, and the Pretor highly incens'd; if I meet him, have at his head, there's liberty, revenge, and reward, and your Rival gone; the princess is daily prest to the marriage with <hi>Amadeo,</hi> whose wounds are sleight though he keeps his Chamber.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>There is no Star favourable to <hi>Orante,</hi> else I might have been by this morning, and with a seasonable thrust or two decided this business; but I am resolved, thus disguis'd I will to Court; and ere <hi>Lucius</hi> can return I will spoil their mirth. Who is that? ob|serve, <stage>A noise within.</stage> quick, get your alms ready for the old woman, and then be gone.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter to them</hi> Dyon <hi>and two Souldiers.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>Who are those? inquire of them the way to the Temple.</p>
+                     </sp>
+                     <sp>
+                        <pb n="272" facs="139"/>
+                        <speaker>Sould.</speaker>
+                        <p>Good woman, which way must we take to find the old Temple of <hi>Juno?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Oran.</speaker>
+                        <p>The first broad Path on your left hand will lead you to the ruine of an old Altar, from which a Path will conduct you through the Grove to the Temple of the great Goddess, which stands upon the hill; in whose sacred name bestow some charity up|on a poor wretch, despis'd and abandoned by gods and men.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>There; is it far thither? <stage>He gives her an Alms.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>A little half hours walk for my aged feet; but you that have youth and strength will in a thought arrive.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>There it is, we are to meet him.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exe.</hi> Dyon <hi>and Souldiers.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>'Tis <hi>Dyon</hi> and his Souldiers in search of <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Band.</speaker>
+                        <p>
+                           <hi>Dyon</hi> is his friend.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>The better, and we shall the sooner find him, by tracing them; you are certain, if they were enemies he should never have known where he was; observe their motion, quick, follow them, if we find him we will make a sad sacrifice to <hi>Juno;</hi> be all ready and diligent, I will dog them, as if to beg; and when I stab him, be ready to second me.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="5" type="scene">
+                     <head>ACT. I. SCEN. V.</head>
+                     <stage>
+                        <hi>Enter</hi> Calis, <hi>and</hi> Manlius <hi>(He would kill himself) she holds his hand (he is full of distraction.)</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>NO more; I am not worth thy care, nor kindness; thy good|ness upbraids me, and thy friendship makes me haste to finish what I have resolv'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>By all that ever was precious to <hi>Manlius</hi> I conjure him to hold that desperate hand; why should <hi>Manlius</hi> think the world so wicked as not to pardon him one folly, a fault only in the intenti|on? Alas, thou art so far from being wicked, that thou mistak'st thy own good actions; this cruelty thou shewest thy self to pre|vent a sin, is more innocent then never to have been tempted.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>Thy kindness mistakes me, and do'st not see the wicked|ness that is in my mind bent to the destruction and dishonour of what I love, if not prevented; and when 'tis done, Remember I must dye; consider that, and then thy kindness will kill me, while I am worth dying; here take this Dagger, strike, and save <hi>Manlius;</hi> if thou let'st me live to commit this violence, all the earth will stab me with their curses, and I shall fall unpitied and unmourned; be kind therefore, and kill me, or I shall kill my self, <hi>An act abhor|red by all the gods;</hi> and thus only thou canst save <hi>Manlius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>He is distracted sure; Heaven! do you offer me your Dag|ger? would you have me that love <hi>Manlius</hi> become his murther|er? unkind, is this the return of all my love and service? though thy insensible heart would never be brought to return my love; yet, methinks, thou might'st be contented that I was miserable all the days of my life, without seeking to draw murther upon me, to rob my soul of her peace too.</p>
+                     </sp>
+                     <sp>
+                        <pb n="273" facs="139"/>
+                        <speaker>Manl.</speaker>
+                        <p>How much thou mistak'st the justice of this act, in exe|cuting me; thou but savest the lives of two innocent persons, which thus, by chance, the gods have given to thy protection; and if thou now refusest to prevent my sins, 'tis <hi>Calis,</hi> not <hi>Manlius</hi> is guilty hereafter; 'tis <hi>Calis</hi> murthers <hi>Lucius;</hi> 'tis <hi>Calis</hi> that ravishes <hi>Cicilia;</hi> 'tis <hi>Calis</hi> that stabs <hi>Manlius</hi> to the soul, by resusing, now he is innocent, to prevent what she knows he is bent to act; Kill me then, and save thy friend, Kill me and save a family, Kill me now, and all good men shall mourn for me; for to have been tempted is no sin, thou sayest, 'tis yielding to temptation makes the crime, thus to resist would be an honour; and thus would'st thou shew thy vertue and mine, that chuse rather to dye then to be wicked; and kind <hi>Calis</hi> durst kill what she loved, rather then see him out-live his honour.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>This Reason bids her love, and save thee; and <hi>Manlius</hi> ought to glory in, not punish, this nobleness in his mind, whose heart is so full of honour he will rather dye then think a sin; be still so severe, be still an enemy to that design, 'tis like your self; he or she that never was tempted ought not to glory in their innocence, <hi>but to praise their good luck;</hi> and now my friend hates himself most I love him best; now when he would destroy himself he is fit to be protected by all good things.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>You will not kill me then?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Heaven forbid.—</p>
+                     </sp>
+                     <stage>[She offers to go away.</stage>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>For pity, for charities sake, do not leave me; or if you <stage>He offers her his Dagger.</stage> will, do but kill me ere you goe; you will not? Live then to curse me, fall all my sins on thee, and this cruel kindness.—</p>
+                     </sp>
+                     <stage>[He goes out, and she follows him.]</stage>
+                     <stage>[Exeunt.</stage>
+                  </div>
+               </div>
+               <div n="2" type="act">
+                  <div n="1" type="scene">
+                     <head>ACT. II. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter</hi> Lucius, Dyon <hi>and Souldiers.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>DId you ever love her?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Love <hi>Cicilia?</hi> yes, with my soul, and she de|serv'd it then; for she had honour, beauty, and a thousand graces; such excellencies too, as are strangers to all the minds and faces I ever saw, or practised; this even my hate and fear must confess; but her mind, of late, has stoop'd, if not to sin and dishonour, yet guilty vanity has stain'd it; she cannot love enough to oblige any man, and yet she loves so much as has disobliged a Nation; to be born in her own Country is a crime, and cause enough to be de|spised; why else were <hi>Valerius, Polydor, Thersis,</hi> or <hi>Turnus,</hi> neglected? Men that through the whole world have had publique Honour, fa|mous <stage>The names of her friends.</stage> for Wit, Person, Fortune, Courage; and if those vertues could have prevaild', why were they disgusted? her reason was, she knew them not, but I rather believe they knew her, and re|tired betimes, before she had power to sacrifice their peace, as she has done mine, to this stranger; <hi>Amadeo</hi> only is mentioned with
+<pb n="274" facs="140"/>
+honour, at his danger she starts, and grows pale at the sight of his wounds; a wanton wanderer only in his way to <hi>Rome</hi> must make her break her faith to <hi>Lucius;</hi> and in scorn of the Roman Nation, this Mountainer must have that presented him which we in tears and wounds have begg'd; how oft have we exposed our selves to certain dangers to deserve from her a smile, while the emulous World grew Rivals for her favours? how many great souls have unwillingly entred the Elizian shades, because they were to leave the conversation of <hi>Cicilia</hi> here? but now that she is false, who would live, or love?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>If this be so, why this rage? if her beauty has lost her power, and you your love, let it rest like Tales ill told, unregard|ed and forgotten; but if they have their power still, which your anger confesses, let me have leave to defend them.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Here needs no Argument; all that have eyes must con|fess <hi>Cicilia</hi> had all that was beauty; but since she has broke her faith, 'tis become a Chaos all; for perjur'd beauty is like flying Armies, and blasted Fields that have no grace, no terror left, nor longer bear any mark or character of the Deities that moved in them, but the wounds of those Rods that in vengeance have fal|len upon them.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>You only can accuse the Princess of this fault, for your addresses are to the world yet a secret; and Prince <hi>Amadeo</hi>'s love, publique as his person, even when he was prisoner here; but that the Princess paid him more then civility; your fears are the first that accuse her, and I believe, deceive even your self.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Deceiv'd! no <hi>Dyon,</hi> her love is as visible as her beau|ty, durst he, else, move the Pretor for a consent, who you know dotes upon her, and her words like Laws or Oracles have still been powerful with him? nor was he ignorant of our friendship, no nor displeased; Come <hi>Dyon,</hi> you know she must consent before this be acted, and then to entertain me in discourse in her own Cham|ber till you came with a guard to make me a prisoner; her Bro|ther too confin'd by a trick, while her Favorite is left free, to con|clude their Hymens; and for the more security, my injur'd hands were bound from revenging their treachery; what is visible, if this be dark? the day is not more clear then her falshood, and I have traced him in his love; his steps are as visible as when in snow we chased him; she is a Roman, <hi>Dyon,</hi> and will have her vanity satisfied; we that are her slaves, Prince <hi>Orante</hi> and my self, and (the falsest of men) my Brother <hi>Manlius,</hi> she is proud of all; Nay, <hi>Manlius</hi> has confess'd his making love, ere she detected the Tray|tor; proud of all, she can in triumph lead, but how she is chang'd, witness gods and men! when I first received this fire which now afflicts me, with what fear and silence I made my way to her! with what reverence I approached her breast! till then unacquainted with love, as she profest, kindly still interpreting every sigh; and fearing my fears only, she could then read an humble motion; and every sad look had her pity and pleased, when any handsome acci|dent presented an occasion to please me; thus in silent secretness
+<pb n="275" facs="140"/>
+we in friendship past our days undiscerned, or envied; the fish that glides in the silent stream, the <hi>Parthian</hi> Arrow, nor Birds that gently cut the air, make not less noise, nor leave less pathes nor stains behind, then our love; the most jealous eye, <hi>Dyon,</hi> could not perceive we thought of each other when we had but one thought.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>How came you to fall from this height, thus to suspect her vertue? that her eyes have the same majesty, appears by <hi>Ama|deo</hi>'s love, who deserves more then <hi>Lucius,</hi> or she less then <hi>Lucius,</hi> else she would still hold her power, which once with a look com|manded him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Alas, <hi>Dyon,</hi> what signifies the fire in those eyes, to <hi>Luci|us,</hi> since 'tis exposed like those of the sacrifice, where every cold pre|tence may warm it self? <hi>Cicilia</hi>'s breast is now a shrine for every lame and blind passion, to offer up their impotent loves to, and there they drop their sickly false tears; this is it that puts a cloud before those stars; for eyes that with pleasure on all faces roul, can no longer <hi>Lucius</hi> heart controul.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>See the difference of mens opinions; you ground your displeasure upon that which to me would be joy and satisfaction; for you complain because all the world loves your Mistriss; do you think <hi>Apollo</hi> would make the worse houshould god for having had a Temple and an Oracle at <hi>Delphos?</hi> does not the fame of many Oracles give us faith that there is truth in his answers, or is he lessened in his Deity by having received a sacrifice, and given an an|swer? 'tisyour case, nor has your jealousie any ground; for all those rivals you so apprehend come but like pilgrims to the princess, they approach no neerer then her Temple doors, her eyes, her ears, there they their offering pay, <hi>Cicilia</hi> is within; and while <hi>Lucius</hi> keeps his vertue, they may knock at her heart, but he only will be let in; for 'tis a truth, (that honour has in all ages proved) never any wo|man that had honour lost it by being handsomely beloved; for while she is pursued with honour, she can lose none; nor gain any when she pursues any man; therefore leave this sullen retreat and jealous humour, and know if the Princess be faulty 'tis when she seeks <hi>Lucius,</hi> not when <hi>Amadeo</hi> or <hi>Manlius</hi> Court her; for 'tis cer|tain, wooing women, if they do not want before, yet then they lose something of their value; and I do here confidently pro|nounce the vertuous Princess so innocent from all that you accuse her of, that she must commit a fault ere she can pardon <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>
+                           <hi>Dyon</hi> judges by the eye, so did I once, and purchas'd her friendship at the rate of my heart, because the prospect pleased me; but how sad and how unhealthy the seat has proved the world can witness; but thou, <hi>Dyon,</hi> and the rest that admire her now are but passengers, and such are by their eyes deceived as I was; but stay and inhabit in her mind, and then tell me how vain, how unconstant, and how ambitious <hi>Cicilia</hi> is of all friend|ships, which makes her unworthy of any; her vows have no roots, and such trees every passion shakes, and every cross withers.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>I have no patience to hear you give such a character of a heart you know too great for such low thoughts to possess; and
+<pb n="276" facs="141"/>
+were you not my friend I should not suffer it.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Who knows better then I? she had a great and gallant heart, the Empire too her own, till vanity betray'd it; but now 'tis torn and divided into several states; <hi>Orante, Manlius,</hi> and <hi>Ama|deo</hi> have their several Provinces there; so might I, if I would be con|tented with a Colony; but I scorn a part, or corner of a heart; and till <hi>Cicilia</hi> be again reduced to Monarchy, I am free.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>If you have reason, return; and with your presence pre|vent this danger; and with your friendship defend her from such a destruction; this scandalous and sullen retreat betrays her to the enemy; had you heard her plead this day to the Pretor in your behalf, your soul would blush, and abhor this mean character.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Have I denied my protection? did I not stay till she be|trayed me to prison? have I not like the kind Shepherd stood all storms, to guard her Flock; which be it never so full or fair, if the Nymph that owns them subject be to stray as they, by our gods, I would not her Shepherd be, to become <hi>Pan.</hi> A Mistress that must be watch'd and folded every night, or else she will be gone, before I would her Lover be, I would change conditions with that Tree. What dost thou gaze at? this Bracelet? 'tis hers; <stage>
+                              <hi>When</hi> Luci|us <hi>points to the Tree,</hi> Dyon●<hi>looks at his hand.</hi>
+                           </stage> and I confess it bound me more once then her arms can now; for since I find I have fellows in these chains, and that her Auborn Tresses grow as free as fair, and every Lover reaps her hair, <hi>Dyon</hi> must confess, 'tis not <hi>Jasons</hi> Fleece that I have won, though she <hi>Me|dea</hi> prove.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon, </speaker>
+                        <stage>aside.</stage>
+                        <p>I must not cross him now, his jealousie is too high wrought; besides, I know his nature is easier led then drove; in this particular <hi>Lucius</hi> has some reason; nor can I justifie a Maid in such actions; for women that will give and take, for fancy, are not safe; because custom may bring them to like some things so well as to purchase them they may be perswaded to buy and sell; then the man that can soonest flatter them into a bargain has the undoing of them.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>So he may; but whoever he be that will betray the Princess so, be sure <hi>Lucius</hi> be first in his grave, else all my rage thrown by, I shall find love enough to revenge, with sad fates, such a treason; for if I cannot suffer others to love her, Dogs gnaw me when I out-live him that hates her, though it be my self.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>There is much more reason in this passion then in your other Arguments; for if the Princess could have learn'd the guilt of other women, 'tis probable she might have learn'd their craft too, and dissembled; which I am certain her fervent kindness (pleading in tears upon her knees, vowing friendship and love for <hi>Lucius,</hi> receiving no denial, making all his crimes so many loves to her, and so many Arguments for her love and protection) will acquit her from; till that fatal Paper, which you sent the Prince, was by her Father given her, which when she had read she was struck with the unkindness, and the displeasure of that thought that told <stage>Lucius <hi>falls on</hi> Dyon's <hi>neck.</hi>
+                           </stage> her <hi>Lucius</hi> had injur'd her.</p>
+                     </sp>
+                     <sp>
+                        <pb n="277" facs="141"/>
+                        <speaker>Lucius.</speaker>
+                        <p>O <hi>Dyon, Dyon,</hi> thou hast perfect Honour: a Faithful friend dwells in <hi>Dyon,</hi> one whom misery nor passion has divided from his Friend; when all the World arm'd against <hi>Lucius,</hi> he took my part; how I love thee for chiding me, and defending what I love! But alas, my Friend, my heart is grown sick of Love and fear: You must not believe all I say, I scarce do it my self; 'Tis my fear, not my faith, that speaks in this passion; yet she was too cruel, because she might be mistaken; <hi>Manlius</hi> mistook it you saw, for Love; how then can you blame me for thinking I am robb'd, when the Thief confesses the theft; guilty <hi>Manlius</hi> confest his Crime, which she hid, and cherish'd; But I hope, my Friend (when he has told her of my fears) will present them too as the effects of a distracted Lover, which I would fain beg her pardon for;</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>Most gladly; 'Tis <hi>Calis</hi> her counsel too, that you should come in some disguise to the Gardiners house this evening, where she will give you an opportunity of speaking with the Princess.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>All my Rage, if she believe I love, will find her Excuse; for who is he that loves and will not fear to lose the thing he loves? Dear <hi>Dyon,</hi> she had wont to praise particularity and Constancy, and to admire it as the greatest vertue either Sex could arrive at; and call them the minds Chastity▪ without which what that woman will do with a Lover that Lusts so for a Lover, is easier fear'd then prevented.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>This I shall say; onely promise me to be quiet, till I come, and let your mind be in repose.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lueius.</speaker>
+                        <p>I obey.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. II. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter</hi> Orante <hi>and</hi> Bandito.</stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>'TIs <hi>Lucius,</hi> and <hi>Dyon,</hi> let them pass; This Evening, we must dispatch our business: <hi>Amadeo</hi> has her Fathers; But this <hi>Cicilia</hi>'s heart, and both my hate; and they shall both feel my rage as high as their hopes, or my despair; And while they dispute which in her affection Highest stood; Despis'd <hi>Orante</hi> shall fill the Scene with rage and Blood.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>ACT. II. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter</hi> Otho, Clorinda, <hi>and</hi> Amadeo.</stage>
+                     <sp>
+                        <speaker>Clorinda.</speaker>
+                        <p>HAs your Highness seen your Sister since this mis|fortune?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>No, Madam; her griefs are yet too fresh; 'tis better to give her passion some time to recover; This Night I mean to visit her, though I know her heart is struck deep with the injury <hi>Lucius</hi> did her; which is the more unsupportable, because we know his fault, which she cannot now hide from us, and therefore she will punish; And who knows but that it may take off that obstinate kindness she has set upon him?</p>
+                     </sp>
+                     <sp>
+                        <pb n="278" facs="142"/>
+                        <speaker>Amadeo.</speaker>
+                        <p>When you mention me, Sir, to her, pray onely pre|sent my Service, and be pleased to ask her, whether I shall have the honour of her Commands to <hi>Rome,</hi> whither, within few days, I shall depart, that my absence may give her leave to pursue her Friendship with <hi>Lucius,</hi> if it be his Fortune; and time, I hope, will reconcile to her mind the Name of <hi>Amadeo;</hi> But ere I go I shall beg the Honour to speak with her, and take a sad Farewel.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>Your Highness is Melancholly, and I hope a day or two will remove it, and this resolution; To morrow, the <hi>Pretor</hi> has or|dered to chace the Boar, a sport your Highness has not often seen in the vallies.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clorinda.</speaker>
+                        <p>The open Countrey will sure make the Chase much more pleasant; for our hills keep us from being in at the fall, which is the heat, and pleasure of the Chase.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>This is for to morrow; But I must know where to wait upon your Highness when <hi>Lysander</hi> returns, for I hear he has met with <hi>Lucius;</hi> I confess I would gladly, this Night, undeceive him, and if it were possible, embrace him as a friend; And then I may hope to see to morrow rise with Joy; For my heart witnesses I have no rancour against him, since I perceived all his Injuries to me proceeded from his Love to <hi>Cicilia;</hi> And since his Stars have prefer'd him before me; I shall be so Civil to her choice, as to be|lieve <hi>Lucius</hi> much more fortunate and gallant then <hi>Amadeo.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>Trust me, Sir, this is a kind of Complement I understand not; and I here profess, were I Rival with any Diety in the Love of fair <hi>Clorinda,</hi> I would make no Complement at this rate, till Hymen had decided whose the Reward should be.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="4" type="scene">
+                     <head>ACT. II. SCEN. IV.</head>
+                     <stage>
+                        <hi>Enter</hi> Dyon <hi>and</hi> Cicilia.</stage>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>THis from <hi>Lucius?</hi> sure he is mad to urge me thus.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>Alas, Madam, it was love in Excess corrupted into Jea|lousie, (not he) that said it, and his distraction is fitter for your pity, then your Anger.—'Twas ill done of me, to tell her what he <stage>Aside.</stage> said in this passion!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>Jealous? of whom? His own merit? that was onely fit to be suspected; This Paper is enough; he needed not to have <stage>She shews the challenge.</stage> blown the fire again; 'tis enough <hi>Dyon,</hi> and too late, he will find it; Cruel and sudden, may false winds blow in all thy thoughts false as those, thou told'st the Story of thy love in to me, too, too Cre|dulous Fool, may storms of doubts and fears still afflict him, and distract his soul, as he has done mine, by a low mean Jealousie, which has rendred me Justly despis'd, for having so partially pre|ferr'd <hi>Lucius</hi> before the world; <hi>Amadeo, Orante,</hi> all that were dis|pleased, turn back and see me revenge you on my self, while I con|fess my punishment just, though nothing be more unjust, then <hi>Lu|cius</hi> to become my punisher.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>When your Passion, Madam, will give me leave to speak,
+<pb n="279" facs="142"/>
+I am confident, I shall make it appear <hi>Lucius</hi> has no Crime to an|swer, but what has his Root in Love; for even Jealousie has been held Loves fruit, and such as even hatred has relish'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>Jealousie! Who, that has Honour, can defend him, or his Injuries? Does not the first word, Jealousie, whisper'd in a Lo|vers ear, call his Mistress whore; And since false <hi>Lucius</hi> has thus incens'd my heart, and forc'd me to play <hi>Ariadne</hi>'s part, expos'd and left on that barbarous Rock, his Breast, <hi>Dyon,</hi> shall see me, with this hair and Eyes, crown some Rival, and shine in another Sphere; for though it break my heart, I will be revenged to the heighth; and <hi>Lucius</hi> shall see a desparing despis'd Rival fold this breast in his surpriz'd Arms, and then his jealous heart will split with rage, and destroy the monster.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>Well, Madam, I shall take my leave, and hope to find an hour more seasonable, to deliver my Opinion in; I shall onely beg now, that your Highness will not, in this Passion, take any sud|den Resolution, lest your Repentance come too late.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Dyon.</stage>
+                     <stage>
+                        <hi>Enter</hi> Calis.</stage>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>O <hi>Calis,</hi> hadst thou come sooner thou might'st have been a Witness, and a Judge of the Cause, as well as a Partaker of the Rage I am in. <hi>Lucius</hi> has, by <hi>Dyon,</hi> sent me such a remedy for Love: Wouldst thou believe his poor heart should avow a Jea|lousie for the Prince, and accuse me, as if my heart were a Common Inn, for every wandring Lover to baite at.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>'Twas my fear his old disease had seized him; But what can he say?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>All that his malice and his anger prompts him to; But how false, Heaven and <hi>Calis</hi> can witness; Ambition, Covetousness, Vanity; All that is ill his Injurious soul has thrown upon me; If ambition could have tempted me with her false light, How came <hi>Valerius</hi> to go single hence, whose birth and Fortunes were swell'd with the favour of two Kings, and in his power the disposing of all Honours, and all preferments of three rich Nations flowing with peace; himself too a man made up of all the Gods: yet these and him I look'd upon with Indifference.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Your Highness was not born to wooe.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>No, <hi>Calis;</hi> and therefore <hi>Valerius</hi> had onely a Courtesie for a leg; and this false man knows, 'twas neither Ambition, Beauty or Fortune, I loved, But Love; If valour could have conquer'd, why did <hi>Polydor</hi> sigh? If Courage would have forc'd my heart, it had been his, for there was a quiet Courage, and conquest without noise, an humble meek valour waited on <hi>Polydor;</hi> why Jealous then? Fool, Fool; If Beauty could have charm'd me, thou might'st have feared <hi>Thersis;</hi> for sure he would have been the business of my mind, before the world, <hi>Thersis</hi> must have been prefer'd, where beauty can take place, for there was beauty in all her choicest dress; Manly negligence, unthought of graces, sweetness and soft|ness in every look, no Art, all careless, natural and unaffected
+<pb n="280" facs="143"/>
+sweetness, yet graceful and pleasant in every motion; a harmony in his whole forme, with a kind languishing modesty in his eyes, that could he have loved, he promis'd such a nature as must have won; if <hi>Thersis</hi> would have plaid these Cards he could not lose; but 'twas no reason lookers on should win the stake they durst not venture for; and if not of <hi>Thersis,</hi> why jealous? Fool, fool.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Alas, Madam, nor these, nor <hi>Turnus</hi> with his Voice nor Harp that charm'd the world, could fetter your great mind. This I have heard him say, with vanity, in his joy.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>No <hi>Calis,</hi> his heart knows 'twas not these in all their glo|ries could prevail; nor one made up of all these could make me stoop; all these without love, though I value them, I will not sa|crifice my freedom to; why then jealous? Fool, fool. O <hi>Calis,</hi> if <hi>Lucius</hi> had not pretended other title to my heart, I had not now been miserable; 'twas love, <hi>Calis,</hi> well dissembled love, which in a bleeding passion arm'd <hi>Lucius;</hi> in silent tears he has assail'd my heart, <hi>Lucius,</hi> that durst fight, kneel'd, weeping at my feet; <hi>Luci|us</hi> that had wit and honour, stood dumb, not able to speak sence, but stammer'd out his story, while his breast swell'd with love and fear; as if his kind heart were grown too big for his breast, and too little for his love; when I saw that, I had no power to resist the storm; but striking all my sails submitted my Resolution and my Reason to his grief; and to cure his despair have made my self thus desperate; for then, me thought love had rais'd that storm; me thoughts I saw his painted wings wet with his tears, and scorch'd with his sighs, and love sure was moving in that storm; nay, that storm was Love it self. O <hi>Calis,</hi> that shaking, that dumbness, those tears, his Quiver, Bow and Arrows are not more his characters, then they (when they are true) but these were dissembled all; and my revenge shall be as curious now, as my love was then, which I will take at height; follow <hi>Calis,</hi> and be a witness of that as thou hast been of my love and injuries; no words; By thy friendship, I conjure thee, no dispute; for I am resolved.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="5" type="scene">
+                     <head>ACT. II. SCEN. V.</head>
+                     <stage>
+                        <hi>Enter</hi> Manlius <hi>and</hi> Calis, <hi>Dog'd by</hi> Orante <hi>and</hi> Banditoes.</stage>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>VIctory has undone us, and now our slaves lead us in triumph, and every passion commands <hi>Manlius,</hi> to whom this fatal peace has proved far more fierce then war, while lust fir'd by beauty burnt at every eye, and made slaves of vertue, honour, and all that is precious, till thy kindness, gentle <hi>Calis,</hi> re|stored to my heart her peace again; without thy friendship, my de|spair had run to his old remedy, wounds; for know, this breast is so used to them, 'tis scarce well but when 'tis wounded; 'twas foul blood that made this war in my heart; dear, let me ease it of that dangerous guest, lest it put me upon some new horrid crime.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>
+                           <hi>Manlius</hi> is so severe against himself for one fault, which I know he cannot so soon repent as the Princess can forgive; for
+<pb n="281" facs="143"/>
+she yet loves <hi>Manlius</hi> as part of <hi>Lucius;</hi> whose guilt is so unpar|donable, as if not suddenly redeemed, I fear a danger not to be resisted; but I am now in haste, and cannot stay to tell you my fears (though it shall be my business to provide against it) because the Princess stays for me; but to morrow I will not fail to bring her hither, as soon as the chase is up; till when lye quiet, and leave the rest to me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>With what brow shall I see her, having confess'd my sin to the Prince and my Brother? which she had concealed; her good|ness still exceeds our guilt, which makes my crime more monstrous, and I that am to leave solliciting my love, find hourly greatness of mind, and new vertues to build upon; and what at first was passion and lust she has digested into Reason, Love and Adoration; what then rests for me to pay that debt I owe my friend?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Let me see <hi>Manlius</hi> reconcil'd to himself, and honour once possess his place again, and I shall find a thousand ways to be hap|py in my friendship; nor is the Princess so poor in vertue, but she can pay her debts to <hi>Lucius,</hi> and yet reserve an Alms for <hi>Manlius;</hi> I heard her once confess your speech had such a wild boldness in it she took it rather for madness then love; and it bred her pity, ra|ther then anger, your friends too plead with her; and though she will not chide for that sudden fact committed by chance, yet take heed of falling into the fit again; 'twill then be look'd upon as a disease in <hi>Manlius;</hi> and what is mercy now, to pass by, then her honour and justice will both be engaged to punish.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>I am resolved, for now I dare dye again; 'twill be always in my choice to dye fit for her pity when I cannot live fit for her friendship; and having such a guide as <hi>Calis</hi> my heart will find the path it lost, and stray no more at this sad rate; Good gods, how do they do that are villains always! I have been one but some few days, but would not continue so; I would live a Dog first.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Farewell, all peace rest with my friend; this resistance, this return shews his vertues never to have been tempted; never to have faln speaks only happy stars, no tried vertue; to resist the temp|tation is worth the name of <hi>Manlius,</hi> to have brought back such a servant as <hi>Manlius,</hi> gone astray from honour, whose peace of mind is my reward.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>I will not promise, till my heart be purged by confession of her faults, and beautified by the Princesses Pardon; but then, if the ever noble <hi>Calis</hi> would accept of such a present as <hi>Manlius</hi> friend, Death only shall make him leave to serve her.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>No more; when <hi>Manlius</hi> is least himself he was then a bles|sing <hi>Calis</hi> prayed for; and 'twas happy for me that he fell from that height of honour, since this fall has made him mine; if he had not lost some of his pride and value, I fear he would have joyned with the world in opinion that he was too great a blessing for <hi>Calis;</hi> yet I kept my friendship perfect, and kinder stars have blest my love, whose humble wings never durst, till he was faulty, hope to reach his heart, and this fiery trial has but purified, not stain'd my friend, whom all the gods protect.</p>
+                     </sp>
+                     <sp>
+                        <pb n="282" facs="144"/>
+                        <speaker>Manl.</speaker>
+                        <p>If your leisure could stay to hear me, I would chide <hi>Calis</hi> for descending so low as to value such a wretch as <hi>Manlius</hi> before her own vertue; but I shall look upon all these kind thoughts, as so many links to the chain she has laid upon my heart, which by a faithful, grateful, and eternal friendship, shall make me esteem my self her slave whose honour and kindness has redeemed me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>No more, no more;<hi>—Calis</hi> is too happy here; tomorrow, if heaven say Amen, I will find you, and bring the Princess with <stage>They em|brace.</stage> me.</p>
+                     </sp>
+                     <stage>[Exeunt ambo.</stage>
+                     <stage>
+                        <hi>Enter</hi> Orante, <hi>and a</hi> Banditoe, Turnus, <hi>and look after them (as they go out.)</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Ha! <hi>Manlius</hi> a Rival too, and the foolish <hi>Calis</hi> believes he can forsake <hi>Cicilia</hi> for her, when honour and a Brothers inte|rest could not bind him; does she think her foolish Chains and Bracelets can bind his rough mind when lust and rage has blown his blood to such a height that the reverence and beauty of the Princess could not hold him in the bounds of his respects? but why do I trouble my self with this, since 'tis a chance has done more for me then all I could have design'd; the Princess will be here alone, to morrow.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Band.</speaker>
+                        <p>And shall she go again? if she do, I would <hi>Orante</hi> were in his grave; Death, Sir, do something, to vex that cursed brood; since she will not have your love, take her honour, and please her in spight of her teeth, and then you shall see all her Lovers stare upon each other, and pass by her as if she were stinking fish, and I dye laughing to see that proud fool of fortune vexed to death; 'twould be a full revenge on <hi>Amadeo,</hi> and <hi>Otho</hi> too, that insolent Roman; then <hi>Lucius,</hi> how he would storm! S'death, do it, or let me do it, and do you look on; we can escape in this disguise, the act once done, by flying to our own shapes again.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>I love her yet enough to be pleased in the act; and I have hate enough to take pleasure in vexing her, the revenge will be high too.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Band.</speaker>
+                        <p>She will come alone too; S'death, 'tis such an occasion; if we had design'd a revenge we could not have hoped it; and if you let it pass when your pleasure and your anger both prompt you, I shall never blame <hi>Otho</hi> for despising you, for I shall do it my self; the thought affects me, 'twill so vex her soul to have the crooked, ugly, despised, lame <hi>Orante</hi> enjoy her, without making an excuse, and pluck that fruit her pride has let Princes sue for upon their knees; I would do it too, in this old womans habit, while we perswade her 'twas the Devil in a Witches shape; you shall not be seen till we have bound her; why do you study? Is there any thing in our fortune or danger worth <hi>Orante</hi>'s thoughts? is not death after this revenge better then to live depos'd and despis'd?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>It is decreed; hence Love, all thy charms thus I blow away; and a thousand thanks, kind <hi>Turnus,</hi> for awaking my heart
+<pb n="283" facs="144"/>
+from that sleepy coldness that has slaved it thus long, the mischief will be more then the pleasure pleasing; and to enjoy her, and despise her, full revenge for her past scorn, and satisfaction for my despis'd love; in her Rape both my blood and mind will taste their several sweets; love in lawful bed might have found one plea|sure; but now my revenge will have her share too; this stroke strikes all at once, Father, Brother, Rivals; the whole Nation are wounded in it, who in their women are more concern'd then in their gods.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Band.</speaker>
+                        <p>And, which addes more to the pleasure, she that would have satisfi'd any Lover rather then <hi>Orante</hi> shall taste no other man.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>No, <hi>Turnus,</hi> nor live (if this Dagger hold his temper) to distinguish betwixt <hi>Orante</hi>'s kisses and <hi>Lucius</hi>'s.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Band.</speaker>
+                        <p>If she be of the true Roman breed you may spare your pains; for <hi>Cicilia</hi> will find a Dagger of her own, while <hi>Tarquin Orante,</hi> in the old womans habit, laughs unseen.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>First we must kill <hi>Manlius,</hi> lest he play some pranks, and hinder our design.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Band.</speaker>
+                        <p>That shall be my business, as soon as 'tis dark, I know his Quarter; let us lose no time, but call our friends together, for to|morrow will be quickly here.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+               </div>
+               <div n="3" type="act">
+                  <div n="1" type="scene">
+                     <head>ACT. III. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter</hi> Cicilia, <hi>and</hi> Clorinda, <hi>and</hi> Amadeo <hi>follows them.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Clor.</speaker>
+                        <p>YOur pardon, Madam, for this intrusion, which, but upon this occasion, I should not have committed; my Brother being to take his leave, if not troublesome, would say: something of his own griefs; whose sad story I fear I may spoil in the de|livery.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>'Tis little, Madam, I have to say; your pardon for having said I loved, and leave to love you still; your pity and your justice, for a passion most reasonable, because 'twas of an object most di|vine, is what I now shall beg; nor can you with justice punish me for what has honour to justifie it self with, when it shall be a crime to love the Princess <hi>Cicilia</hi> as <hi>Amadeo</hi> does, without desiring her to be unjust to her self, without taking one favour from him that has so highly deserved above me: for I shall not be so partial to my self, as to question the judgement of your choice; yet thus much I may say, my heart has never lost one grain of that honour 'twas born to, nor one spark of that fire it first took at <hi>Cicilia</hi>'s eyes; Absence, time, nor War, no, not <hi>Cicilia</hi>'s love to another, could change my heart; though rigid honour made me once fly from her, yet that love and honour both now have call'd me back; and again send me from this Paradise to eternal misery. This Riddle, Madam, those Tyrants will read best to your mind.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>That you could know my fate, Sir, and I not tell it you!
+<pb n="284" facs="145"/>
+you'l find me so miserable, I can neither be happy, nor make you so; yet time will justifie me to the Prince, by giving him un-imagi|ned reasons of my mis-fortunes. I know your Highness will when you are gone, at least, inquire after <hi>Cicilia,</hi> if then; I do not let you see <hi>Lucius</hi> had only my passion, and Prince <hi>Amadeo</hi> my reason, then let him condemn me; and at such a rate I will punish my rash heart for giving it self away upon so little trial, as even your self shall pity me; and when I lose that esteem for your Highness ver|tue that a gallant man can pretend to, and not lose his value of me, then let all the world despise me, more I cannot say; all that I can give with honour, take.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>He that desires more must not have such an object as your Highness, nor such a subject as <hi>Amadeo</hi>'s heart to work upon; who now without envy looks upon <hi>Lucius</hi> and his fortune. For heaven witness, I have all the ends my heart desires in the friend|ship of the fair <hi>Cicilia.</hi>
+                        </p>
+                     </sp>
+                     <stage>
+                        <hi>Enter</hi> Calis, <hi>and</hi> Lucius <hi>as from the Garden-house.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Stay here, till I find the Princess; Remember you observe my counsel, let her passion pass; answer little, defend nothing, for your fault is not to be justified; besides, I know when you are si|lent her anger will want what to say; but from your answer she will still gather substance to express her displeasure, which is such as I fear you will scarce excuse, especially since your last madness; what made you send <hi>Dyon</hi> to her with that ridiculous Message which has almost distracted her?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>What is past is not to be remedied; 'twas <hi>Lysander</hi> told me she gave the Prince a visit since we fought; and that <hi>Amadeo</hi> and <hi>Clorinda</hi> are never from her, which being my enemies, and she knowing their design upon her, and my relation to her, methinks, till my return it would not have been unreasonable to have ex|pected she should have kept a distance with my Rival, and my Enemies.—Hah! see where they are, and <hi>Amadeo</hi> on his knees <stage>Amad. <hi>kisses</hi> Cicil. <hi>hand.</hi>
+                           </stage> kisses her hand, Hell strike him; ha! she weeps too: O <hi>Calis, Ca|lis,</hi> she is false, she is false, she is perjur'd; trust the Wind, or Sea as, soon as any woman; what can she say now, let it be chance or de|sign in both, she is false, <hi>Cicilia</hi>'s false.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Lucius.</stage>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Stay, you are mad; what should this mean? his rage is be|yond counsel; this accident is beyond my guess.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>Ha! what voyce was that?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>A lying one, and a Traytors 'twas, whoever he be that spoke it; and if he escape me, Fortune shall do more for him then justice dares do for me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Stay, Sir, give me leave to speak before your anger take its course.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>Hold, Sir; whoever he be, he is not worth your sword; <stage>
+                              <hi>He dra●s his 〈◊〉 and fill ●●</hi> A|madeo <hi>meets</hi> Calis <hi>at the ●●●.</hi>
+                           </stage> My innocence none can better justifie then your self; and none that has honour will question mine; and I beg this favour from the Prince, to look on some few days, and see me take mine own re|venge
+<pb n="285" facs="145"/>
+for this scandal; till tomorrow, Madam, I must desire your pardon for parting thus abruptly.<hi>—Calis,</hi> a word.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exeunt</hi> Cicilia <hi>and</hi> Calis.</stage>
+                     <sp>
+                        <speaker>Clor.</speaker>
+                        <p>'Twas <hi>Lucius</hi>'s voyce.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>I knew that, but was loath to grieve her heart with tel|ling her so.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clor.</speaker>
+                        <p>You must expect his fury should discharge it self upon you; therefore be so just to the Princess, as calmly to tell him his error; and upon how unreasonable grounds he builds his jea|lousie, this will confirm what you have said to her; for every fault <hi>Lucius</hi> commits her kindness makes heavy to her; and what ere you may believe, let him be never so guilty, she will not love his punisher; for to make his faults publick by <hi>Amadeo,</hi> is to up|braid her; and if you would destroy a Rival more gracious then your self, wisely see, and seem to hide his faults; then all your gallantry is his poyson, and obligations upon her; I would not now fight with him till he struck me; and that patience shall win more from a generous heart, like hers, then thou canst possibly reap with thy sword; for she and all the world knows, 'tis not fear of <hi>Lucius</hi> but love to <hi>Cicilia</hi> makes <hi>Amadeo</hi> spare even his enemy, because she loves him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>Dear <hi>Clorinda,</hi> from love and thee I have learn'd two hard lessons; 'tis to stoop to Love and Anger; and I shall only ex|pect what he will do, and resolve in order to thy counsel; I confess, I now begin to pity him, even my self that was this morning his enemy; sure Fortune begins to frown upon him, there was strange malice in this chance, to bring him to see that only which must vex him.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. III. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter</hi> Lucius <hi>solus.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>TOmorrow they hunt in the Forrest; I will meet him, and in this disguise take my revenge; if he escape me, let him take her for whom I scorn to fight; but that I hate him more then I love her; besides, I know't will strike her soul to have him fall by me, and to see him kill'd for whom she broke her faith; this revenge will render her despis'd, having neither Honour nor a Lover left.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>ACT. III. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter</hi> Cicilia <hi>and</hi> Calis.</stage>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>O <hi>Calis,</hi> how vain are our thoughts, how endless those de|sires that rule our hearts! <hi>Lucius</hi> his jealousie has so humbled my heart, so discouraged me in the pursuit of happiness, that my soul is grown desperate; 'tis vanity for any Maid to hope by Reason, or Vertue, to tye any man to her friendship; the blind
+<pb n="286" facs="146"/>
+pursuit of some, may by chance some minutes be happy; But no Rule can prescribe a certain way to make a Lover happy; Now I find, it had been better far for me to have had a nature like other common women, with a mind easily satisfied, and in a modest Ignorance have believed all that their false Sex said, and have ta|ken what my fate would have sent me, then to labour the know|ledge of the best minds, and, with a sweet Vexation, make my self fit for such as I cannot find, so to be onely more miserable then other Women; for they in their folly gain that bliss I in my dreams have onely found, and not knowing better enjoy all their wishes, living contented, and dying loving, and lamented, whilst I in pain languish, having lost that pride and value of my self which <hi>Lucius</hi> once begot; But 'twas flattery all; I am not fair nor virtu|ous sure; There is no Magick in this Form, as that dissembler swore; Else were those graces here, how came <hi>Lucius</hi> to despise me? Had I virtue, how durst that dissembler doubt my honour? O <hi>Calis,</hi> this scorn has robb'd me of all my Friendship, I have scarce enough left to protect my breast against my own hands, which hate the heart that this false youth has wounded; Therefore no more, no more, I know 'twas he, and I am resolv'd; and since <hi>Calis</hi> has sworn to be secret, she shall now know my design.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Madam, I was never so much <hi>Lucius</hi>'s as to abandon your Highness, for him; when I can serve him without pre|judice of my Faith, I shall do it, in memory that he was once your friend.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>That Idle thought is past and gone, my anger is resolved into Reason; yet his Injuries are such, that I can calmly tell thee, thou might'st assoon reconcile that Eternal Quarrel betwixt death and Nature, as <hi>Lucius</hi> and my heart. His jealousie has committed such low sins; I wonder he is not ashamed to converse with such mean thoughts; and I hate my self, to think I was such a fool as to let it be twice in <hi>Lucius</hi> his power to Injure me; But, from this hour, all the memory I shall retain of such a Crime as his Friend|ship, shall be to shew him I am Innocent when his Repentance shall come too late.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>I hear, and grieve to hear, (You are both Subject to pas|sion) and your miseries are like to be as great as your hearts; And though I dare say, neither of you love any thing better then each other, Yet that Love is like to be a fatal Enemy; for your Anger and displeasure is as high as his Jealousie and Rage; No one of you having patience to defer your Anger, or Revenge, till you see each other; This wild Justice, which both pursue thus passionate|ly, I fear you and all that love you may repent too late.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>That's my hope, and my design, that misery is now my souls wish, for you know I am Innocent; But since <hi>Lucius</hi> can doubt my Honour twice, and not speak to me once, he shall never be satisfied by <hi>Cicilia</hi> but when it must breed his despair, which shall onely find him when I am out of possibility to redeem him. For know, my soul is resolved to Morrow to find his Rival, and give him all the Joys I had laid up in store for <hi>Lucius;</hi> Though it
+<pb n="287" facs="146"/>
+break my heart, I will do it; which I know 'twill do, when I shall find my self embraced by his Rival. This <hi>(Calis)</hi> is the Revenge I will take upon his Jealous Soul; and, if he love, 'twill wound him more then his own Dagger; For to a Lover it must be perfect misery, to see his Mistress condemned to a loathed Bed.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Heaven forbid—upon my knees, Madam, I beg, you <stage>She offers to kneel.</stage> will not Sacrifice to your passion all things that ought to be precious with your self, your Friends, and your honour; No one of which but must be stained and wounded by this Action; And give me leave to say, 'tis not all the virtues that wait upon <hi>Amadeo,</hi> though in your lawful Bed, can preserve your Highness from the Censure of the world. In this Action you will lose many grains of Honour; for though the Prince weigh down <hi>Lucius,</hi> yet <hi>Lucius</hi> had your Faith.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>
+                           <hi>Amadeo?</hi> No, <hi>Calis;</hi> Prince <hi>Amadeo</hi> is as far distant from his hope, as <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Not <hi>Amadeo?</hi> Heaven guard my poor heart; If <hi>Manlius</hi> be the man, I am lost; for I cannot with honour hinder his hopes; what shall I believe?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>When saw you <hi>Manlius?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Ha! Now, <hi>Manlius,</hi> thou shalt find I love thee above my self. Lately, Madam, and a sad penitent for his Crimes; Is there no hope his repentance may find your pardon; are his faults allied to <hi>Lucius?</hi> I hope they are, else <hi>Calis</hi> is miserable.</p>
+                     </sp>
+                     <stage>(aside.)</stage>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>No, fears, <hi>Calis;</hi> my Intent is to punish the faults in one brother, not to encourage them in the other; and my fate guides me to a Revenge on <hi>Lucius,</hi> not <hi>Calis</hi> that's my friend.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Then the gods are favourable to Prince <hi>Amadeo.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>No, <hi>Calis;</hi> Prince <hi>Amadeo</hi> has too many virtues to make me happy, as <hi>Lucius</hi> has too few; and 'twill be as great a dishonour for <hi>Cicilia</hi> to marry the Prince, as 'tis virtue in me to renounce <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Too many virtues? Heaven bless me, what fine points do we propose to make our selves miserable! too much honour, and too many vertues, to become <hi>Cicilia</hi>'s Hymens; this is a Riddle I un|derstand not.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>To be reveng'd, and save mine honour, is now my bu|siness; not to give my fame to punish <hi>Lucius;</hi> Can you perswade the world that I left <hi>Lucius,</hi> and resolv'd to punish my self for his Crimes, when they see me married to <hi>Amadeo?</hi> A man that is made up of all that is Excellent, Great, or Honourable? one that might Justifie a Maid, even in the breach of Faith? should I marry him, 'twould make the guilty <hi>Lucius</hi> Innocent; and Innocent <hi>Cicilia</hi> as black in story as jealous <hi>Lucius</hi> shall be; for who will stick to say, when we are married, <hi>Lucius</hi> then was Jealous upon too sad a ground? No, <hi>Calis,</hi> having practised and known the vertues of <hi>Amadeo,</hi> I confess, my heart told me he was a Subject fit for any Lovers fear, where he would become a Rival; Therefore betimes, to prevent such a danger as <hi>Lucius</hi> his Jealousie, you can witness I gave <hi>Lucius</hi> my vows and faith, before the gods and thee; And
+<pb n="288" facs="147"/>
+after that, to have him doubt, and not onely fear, but call me false, robbing me of that honour, and good Name, which with his life he should have defended, making himself those scandalls a Gallant man would have stabb'd, or strangled in the bosome of a Brother? But <hi>Lucius</hi> is false; 'tis not a kind fear which all that Love must have; but a mean jealousie, which does not onely make me unfit for his Friendship, but the esteem of all gallant men; This is his Crime, which <hi>Lucius</hi> may live to repent.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>If not <hi>Amadeo,</hi> what rests then, where is the Rival?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>
+                           <hi>Orante.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>
+                           <hi>Orante,</hi> what of him?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>To that wretched Creature Fortune has reserved <hi>Cicilia,</hi> not for his good, nor that she owed him a blessing; But for my Curse, my Affliction; To that wretch I will give my self; To him my vows of faith, if he will receive me, are now design'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>
+                           <hi>Orante!</hi> Heaven forbid.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>Yes, <hi>Calis,</hi> I will marry <hi>Orante,</hi> not withstanding thy won|der, and all the worlds, and having vowed to him pay him a faith as just and observant as <hi>Lucius</hi> should have had; And that false man shall see, honour obliges me as much to that wretch as love should have done to him; This way, <hi>Calis,</hi> thou shalt see thy friend revenged, and the world shall justifie me, and say, <hi>Lucius</hi> was jealous without a Cause; for sure <hi>Orante</hi> is a Subject few or none will believe I should break my faith for; and when <hi>Lucius</hi> shall see him possest of what he loved, the vexation that his heart must feel will be my Revenge.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>But will your Highness, in a Passion, destroy your self, and punish all that love you because one has been false? Did you love nothing but <hi>Lucius?</hi> What have we that are your friends done? that you should afflict us thus, to see you make your self miserable beyond Redemption? sure you never loved <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>Yes, <hi>Calis,</hi> and 'twas my Crime; for I have loved and obliged him beyond his hopes, beyond reason or Justice, preferr'd him before a gallanter man then himself; you know I loved him, First, for his fears, and they were lovely then, and his doubts as obliging as his jealousie injurious now; And this Act will let him see I never loved any thing but <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>But suppose <hi>Lucius</hi> despise you for this Act.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>Why then I will suffer for having loved one so un|worthy.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>If <hi>Lucius</hi> his faults had not their Roots in Love and jea|lousie I should not defend him; me-thinks I should love him more for doubting his fortune, then for a saucy confidence of me, till I was his; There must be something, Madam, of the vain and inso|lent, that pretend to love, and wooe without fear, or doubt; <hi>Rage in a Lover I should take for Love it self;</hi> If <hi>Lucius</hi> had loved another, then a high Revenge were due; But all your anger strives to punish him for loving you; suppose a friend falls, suppose he goes astray, suppose he be sick, shall we then be angry? one of these is <hi>Lucius</hi> his case.</p>
+                     </sp>
+                     <sp>
+                        <pb n="289" facs="147"/>
+                        <speaker>Cicilia.</speaker>
+                        <p>This I know, and that <hi>Orante</hi>'s body is furnish'd with a mind more mishap'd; one that will omit no means to gain his ends; one whose Lust prevails with him more then Honour or Conscience, which beast in the mind adds even to his deformity, and has bred such an invincible hatred against me; Yet now I will stoop even to that hate, and suffer my self to be miserable beyond example; My time will be the shorter to out-live the injuries of so false a man as <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>But what have we that are your friends, or Prince <hi>Amadeo</hi> done, that you should punish us?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>I have said Prince <hi>Amadeo</hi> has too many Virtues; and could I love again he were the man; This I said when I thought my self happiest, else I should not say it now; This I said, when I refused <hi>Amadeo,</hi> else I should not say it now when <hi>Lucius</hi> has re|fused me; And when thou seest him tell him this story, he will hate <hi>Lucius,</hi> and pity me, who will punish my self and become fit for his pity, for not having been wise enough to preserve my self fit for his Love, of which crime <hi>Lucius</hi> was the original guilt.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Can you forgive <hi>Orante</hi> all his deformities, all the sins and wickednesses that are natural to him, and marry what you have ever loathed, and not forgive <hi>Lucius</hi> that loves you, <hi>Lucius</hi> that you have loved, one fault, one crime? A sin yet to be disput|ed, whether it be so in Love or no; for Jealousie was once Love, Jealousie in the root none doubts is Love; 'Tis true, what the fruit may be is doubtful; But <hi>Lucius</hi> his Jealousie yet has onely born unhandsome fears, passionate cholerick words.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>O <hi>Calis,</hi> thou art yet to seek what abused Love is, thy Fortune was kind by chance, that made thee alwayes love unbe|loved again; But when thou shalt be sought to by divers Gallant Men, till thy free Heart fix on one whom thy kindness will oblige above the world; When neither Honour, Person, nor parts could tempt thee; when, like me, thou shalt have loved for Love onely; then to find thy self deceived, suspected, injur'd, and de|spised by him for whom thy partial kindness has thus made war against the world, as I have done for <hi>Lucius,</hi> then thy Honour will fire thy Heart; and rather then not be revenged, like me, strike thorow thy own Breast rather then let such a sin pass unpunished; Disdain and Scorn will rise in the face of Love, when thou shalt see thy faith and kindness accused for false by one that begg'd at thy feet till his false tears had gain'd thy Charity; And now the sawcy Beggar will proportion and give Rules to my Bounty, and confine that Honour, that pity, that kindness, that from a Beg|gar, made him Master of my Heart; This ingrateful, dissembling, insolent, jealous, injurious Lover, is <hi>Lucius;</hi> and I by my Folly made so miserable, as to find a pleasure in being reveng'd on the thing I loved; which design to morrow I will pursue: And, by all thy Friendship I conjure thee, plead no more against my Resolu|tion; But, in order to thy Oath, prepare for to morrow; and when the chase is up we may avoid the company and retire to some
+<pb n="290" facs="148"/>
+place, to put on that disguise which I have already furnish'd, till when Farewell.—</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Cicilia.</stage>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Something I must do to prevent this mischief; when she hath spoke with <hi>Manlius</hi> the occasion will be fit; and to morrow, when we return to put on our disguise, I will lead her as by chance into <hi>Juno</hi>'s grove, 'twill be proper to conceal her; And those sacred limits will afford a privacy fit to reconcile us; which being once done, I will break all vows rather then see her throw her self into the loathed embraces of <hi>Orante,</hi> though I will not now oppose her Passion.</p>
+                     </sp>
+                     <stage>[Exit.</stage>
+                  </div>
+                  <div n="4" type="scene">
+                     <head>ACT. III. SCEN. IV.</head>
+                     <stage>
+                        <hi>Enter</hi> Otho <hi>and</hi> Clorinda.</stage>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>THis time has been so full of Tempests, Madam, the storm would scarce give Loves gentle wings leave to flie in the Court; Jealousie and foolish Passion, those Birds of prey, still stooping at his Mothers Doves; And here, where Love should be heard sing, mutinous war has given our Hearts more Alarms then the Camp; But now these troubles are blown over, I shall hope 'tis not unseasonable to invite the Prince to honour our <hi>Hy|men</hi>'s with his presence.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clorinda.</speaker>
+                        <p>
+                           <hi>Amadeo</hi> is yet all the staff <hi>Clorinda</hi> can in Honour lean upon; and I hope he will not refuse this hand now, when I am to walk in paths so strange to <hi>Clorinda</hi> as <hi>Hymen</hi> leads to; For though <hi>Otho</hi> had my hand to be his Bride, yet <hi>Amadeo</hi> most not be forgot, that has alwayes been kind as a Lover, faithful as a Brother; And 'twill shew a kind of insensibleness in me to desire his stay, onely to add to this affliction by seeing others happy, and then to begin his misery; Nor would I punish <hi>Otho</hi> for others faults, by delaying his rights, which I confess are due; This streight your kindness must lead me through.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+               </div>
+               <div n="4" type="act">
+                  <div n="1" type="scene">
+                     <head>ACT. IV. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter</hi> Bandito <hi>and</hi> Turnus.</stage>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>SOftly, and follow me; now you have seen him make ready; The first that meets him shoot. Saw you the Prince <hi>Orante?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Bandito.</speaker>
+                        <p>Not since he went to the <hi>Hermit</hi>'s; 'Tis late, I wonder they stay thus long.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>Stand close, I hear some body coming.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Here enters</hi> Orante <hi>and whistles.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Be ready, he comes.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>Away then, we will follow you.</p>
+                     </sp>
+                     <stage>[Exeunt omnes.</stage>
+                  </div>
+                  <div n="2" type="scene">
+                     <pb n="291" facs="148"/>
+                     <head>ACT. IV. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter</hi> Lucius <hi>and a</hi> Hermit.</stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>MY Brother at your Hermitage?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit.</speaker>
+                        <p>Yes, and <hi>Calis</hi> with him; They are now gone to walk in the Grove, they have some design to morrow, I heard them appoint it; This path will bring us to him; and I am confident when you see him you cannot but pity him; So sad, and so dejected a Mind I never saw, yet I have concealed him all I can.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>His poor mean Treachery was the first step to my mise|ry; Had he been true to either of us, <hi>Amadeo</hi> had not lived to have acted, or <hi>Lucius</hi> suff'red a second Injury: And all the tyes of Brother can scarce forget his Crime, though I know he hates him|self for it.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit.</speaker>
+                        <p>'Twill be Charity at least to reconcile your self to him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>His Injuries are yet too fresh; pray let a day or to pass, and then we will meet at your Cell and embrace; till then, no words of my being here: The Sun is low, and I will retire to your Brothers Hermitage.</p>
+                     </sp>
+                  </div>
+                  <div n="3" type="scene">
+                     <head>ACT. IV. SCEN. III.</head>
+                     <stage>
+                        <hi>Enter</hi> Manlius <hi>(solus.)</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>THe Repentance of this Crime has brought a quiet and a calmness over my Mind; Anger, Jealousie, nor Lust have no longer power over me. One good Resolution has dispers'd them all; I am now Master of my self again, and can with the world see and admire that Star without Ambition of plucking it from Heaven, and aspiring to its place; I could find <hi>Lucius,</hi> and kiss his feet, ask him pardon, and rejoyce to see him possess the blessing I have lost, and, without Envy, hear him call the Divine <hi>Cicilia</hi> his; This storm has made the Harbour sweet; I had such perpetual quiet, such constant happiness, before I knew not the value of it. This Affliction wak'ned me; and if to morrow be fortunate in the Princesses Pardon, all the rest of my dayes will be full of Joy and <hi>Calis</hi> Friendship.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Enter</hi> Banditoes <hi>and shoot him, he draws and fights with them, they wound him, and he falls.</hi>
+                     </stage>
+                     <stage>
+                        <hi>Enter</hi> Orante.</stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Away, I hear company, leave him.—</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>Oh my Fate! this is sad to die I know neither how, nor why, and fall ere I have made my Peace with the Princess; a fullen Fate has prevented me to be grateful to <hi>Calis.</hi>
+                        </p>
+                     </sp>
+                     <pb n="292" facs="149"/>
+                     <stage>
+                        <hi>Enter</hi> Lucius <hi>and the</hi> Hermit.</stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>'Twas a shoot.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Heruit.</speaker>
+                        <p>'Twas so, and in this place, What might it mean?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Hark, I hear some body groan.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit.</speaker>
+                        <p>Ha! your Brother lies murthered, <hi>Manlius;</hi> Sir, 'tis your Brother calls, he faints, give him aire.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Quickly find his wounds that we may bind them; then <stage>Lucius <hi>runs to him. He stirs.</hi>
+                           </stage> we will convey him to your Cell, where I have some remedies.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit.</speaker>
+                        <p>Trouble not your self with that; if his wounds be not mortall, I have a Balsam will give him a suddain remedy.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>While you attend this Cure I will find the Murtherer, he cannot be far.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Hermit.</speaker>
+                        <p>Help me to convey his body to the Cell.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Poor <hi>Manlius,</hi> thou art my Brother still, for all thy Crimes.—</p>
+                     </sp>
+                     <stage>Exeunt.</stage>
+                  </div>
+                  <div n="4" type="scene">
+                     <head>ACT. IV. SCEN. IV.</head>
+                     <stage>
+                        <hi>Enter</hi> Orante <hi>and</hi> Turnus.</stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>SO, this is past, and we are farr enough from search; this poor habit will secure us; yet 'tis good to be privately armed, lest any suspition find us.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>To night he cannot be found in that unfrequented place, and our business will be done early in the Morning.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Where shall we expect her?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>Upon the entrance into the wood, where we can stand and see them undiscovered; when they are entred seize and bind them, and convey them to <hi>Juno</hi>'s Grove, whose privacy will be fit for our design; For being sacred to the Roman Deities, none will come there to disturb us: The Act once done, you may re|solve to quit this shape and stay; or protected by your disguise thus escape.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>I am not satisfied with your leaving <hi>Manlius:</hi> The fel|low saies he was not dead, and believes his wounds but sleight.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>Sleight? A shot and two thrusts, that you may see thorow him; if he licks them whole time enough to hurt us, I would have the <hi>Pretor</hi> keep him to lick the Army, instead of lead|ing them, he will heal them as soon as a Charm; Besides, I have no Malice to him, he was alwayes a good plain fighting fellow, that would never talk much; one that when he was out-witted would repair to his hand still, and use his cold Iron as his last Ar|gument: I have seen him so beat a better wit then himself, for disputing with him beyond his Reason, that he could have wish'd himself a fool to have been out of his hands: Besides, he is none of our Enemy in this quarrel; Alass, he is as angry as we, a poor despised Lover, and mutinies against Prince and Brother; He is a lame Cripple of <hi>Cupids,</hi> that hath both the blind ones against him;
+<pb n="293" facs="149"/>
+Love and Fortune are both his Enemies, and a Man need no more affliction in this world then to be in Love, and have those two de|clare against him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Let us not part to night, that we may be sure to attend our design to morrow.—</p>
+                     </sp>
+                     <stage>[Exeunt omnes.</stage>
+                  </div>
+                  <div n="5" type="scene">
+                     <head>ACT. IV. SCEN. V.</head>
+                     <stage>
+                        <hi>Enter</hi> Lysander <hi>and</hi> Dyon.</stage>
+                     <sp>
+                        <speaker>Lysander.</speaker>
+                        <p>THe Princes are both in their Chambers, and now a making ready for the Chase.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>But <hi>Manlius</hi> is missing, and <hi>Lucius</hi> though banished, is not far off; His Peace is made by the generous Prince <hi>Amadeo,</hi> and was for certain, last night, at the Gardiners little house in the Grove; <hi>Calis</hi> confesses she brought him thither, and that he flew from her in a Rage when he saw the Prince <hi>Amadeo</hi> taking his leave of the Princess <hi>Cicilia,</hi> and mistook their parting for a con|clusion of what his jealousie has apprehended; This, if you meet him, you are to assure him of from <hi>Calis</hi> and my self, that his mind may find some peace; Let us divide our selves, he was seen to en|ter this wood, and his Horse was taken up this Morning loose; I will take this path, and we will meet in the place where the Hounds are uncoupled; Let not the <hi>Pretor</hi> know he is hereabouts, till we have spoken with him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysander.</speaker>
+                        <p>I shall observe; but if there were no other way to wo|men then these Princes find <hi>Lysander</hi> would curse his Starrs; Dost thou think there is so much to boot betwixt a woman and a wo|man as these foxes pretend? If there be, I thank the Gods for my ignorance, that understand not the difference of the commo|dity in my practice; Sweet, and young, and kind, if sound, goes farr, and when they were alone they would all hear Reason that I have had to do with: But here is such fighting, and sighing, such hunting and losing, and squatting, starting, and turning of a Coney, such erring, swearing and staring, and Puss is as angry as any of the kennel of Mad-men that hunt her. Are all <hi>Roman</hi> Princesses thus hard to be caught? Sure he that gets this will not complain she is tough; And if a hunted Mistriss be a good Bed-fel|low, bid him put this in crust; I warrant her she will eat short, yet I have heard a Lover say, his Mistress Heart cannot be too soft, nor her Arse too hard to make a servant good sawce.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>Beast, such a description I expected from thy Camp, and sucklers observations; And how many servants does't thou think Gentle-folks can in Honour make happy?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysander.</speaker>
+                        <p>In a Day and a Night, how do you mean?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>No, no, in all her life, fool?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysander.</speaker>
+                        <p>Why, a Regiment of Horse, and a Brigade of Foot, I dare say, <hi>Faustina</hi> has past so many pikes as that comes to; and yet she works for her living, and has no good convenience to dispatch her business neither; had she time and opportunities
+<pb n="294" facs="150"/>
+that your idle Ladies throw away; their several rooms, and loneness when they please; she would have done brave things.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>If I had malice enough to publish this in the Court, how the women would all to behang thee for this roguish opinion; why I tell thee, 'tis sometimes seven year ere a good sufficient Lover gets leave to kiss his Mistress, and fourteen ere she kiss him again; but to let two men kiss her, Heresie, and they are burnt; I never heard of but one that was seduced, or perswaded to that Heresie; and the Rogue told of her, but no body durst believe him; for the Plague is not more mortal then such a discovery against a Platonick Lover of this age.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysand.</speaker>
+                        <p>And do we take pains to preserve this Race of Fools? prithee, let them find and kill each other, to the end of the Chap|ter; S'death, if my Lady, or her woman, should deny to do me reason when she had time to answer my Question; By this hilt I would hide this blade in her belly; A pox of this fooling, Does your Prince use my Princess so? By this hand, if I did not think he had knocked her down ere this I would poyson him; she is a blade, in faith, <hi>Dyon,</hi> none of your no forsooth, none of your whyning no fies: By this hand, if she does not strike first she has couzen'd <hi>Lysander;</hi> heark, I hear the horn sound in the plain.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Dyon.</speaker>
+                        <p>Farewel then, till the Chase is done; and then I will bring you to <hi>Calis,</hi> and she shall make you a Platonick Lover.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysand.</speaker>
+                        <p>I will be gelt as soon as be converted by that whyning Broker; she is <hi>Cupid</hi>'s Baud, and withers in her Petti-coat, for one of those thousand Curt'sies she has done for others, she loves men for loving other folks, and she has reason; for unless she mends her face she will scarce do it, for loving her; <hi>Calis</hi>'s old sayings, and I had as many Maiden-heads as she has brok'd away, I would not be dis-virginated in a year; she hunts <hi>Manlius</hi> count|er; and if he go on when will they meet, less in a Comedy? where to see an old reverend Maid that has sate seven ages in a Court Receiver of Loves Customs, at last, pretend with Arguments to perswade a Souldier to the love of shadows, Platonique friend|ship, 'twill be as ridiculous as the Miller that laid the Sack upon his neck, and then got up to ease his Mare. Farewel, <hi>Dyon.</hi>
+                        </p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="6" type="scene">
+                     <head>ACT. IV. SCEN. VI.</head>
+                     <stage>
+                        <hi>Enter</hi> Lucius, <hi>and</hi> Hermit.</stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>NEither this last night, nor this morning, could I find any that I could suspect for this murther; those were the Keepers, and to them I dare not be seen; the woods are full of people, sure the Pretor hunts to day.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>He does so, I spake with the Master of the Game this morning when they were pitching of the Toyles.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>I lost my horse last night, and I fear I may be discovered by him; therefore I will retire; and if you can discover any news in your Cell I will expect you; I will to my Brother, who since
+<pb n="295" facs="150"/>
+he has rested gives me hope his arm will not hinder our search in finding out who it was that shot him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>I have perswaded him to eat something; fasting and loss of blood are both dangerous for him; I will mingle my self among the people, and to all but <hi>Calis</hi> conceal your abode.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Pray do so, and tell her <hi>Manlius</hi> and my self are recon|cil'd, but mention not his being hurt.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>I observe you.</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Hermit.</stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>How unreasonable a thing an enraged man is since I have listned to <hi>Manlius</hi> his discourse I find the fault my heart has com|mitted against the divine <hi>Cicilia</hi> such as I cannot hope for pardon; a fault so great and so unjust I am so far from believing she will for|give me, I cannot forgive my self; what a fool a Lover may be? what beast but <hi>Lucius</hi> could have doubted <hi>Cicilia?</hi> there is a folly in jealousie, and a kind of cowardize; I wonder any thing that is man, and has converst with honour, could let it prevail over his thoughts; there is nothing so maliciously bent to the destruction of Love and Honour as jealousie; it strikes at the first blow the root of both honours, the Lovers and the Loved; it calls her what is not fit to be beloved, and tells her we are uncapable of loving; that low passion calls our selves what we would not hear another say, nor live with that man that we believe thinks so; <hi>Lysander</hi> had reason when he despis'd my jealousie, because it confest my Ri|val deserv'd better then my self; else my Mistress is either a fool or false vanity; though it be poyson to love, yet in this case a lit|tle is Physick, and allowed to defend us against the danger of jealou|sie; all Treacles have some poyson, which like the key open the door to let the Cordial in; vanity in a healthy proportion, and ta|ken in season, may do our selves justice, and defend our loves; and <hi>Cicilia</hi> would sooner have forgiven <hi>Lucius</hi> a little vanity then this jealousie; <hi>Lucius</hi> might have said, what if <hi>Amadeo</hi> be a Prince, and <hi>Lucius</hi> a subject; is not <hi>Cicilia</hi> a Princess too? and what though the world prefer <hi>Amadeo,</hi> she has chosen <hi>Lucius;</hi> and if I have grace in her eyes, let him be hapy where he will: what if <hi>Amadeo</hi> have <hi>Otho</hi>'s consent, while I have <hi>Cicilia</hi>'s faith? this I ought to have whisper'd to my soul; and when my fears apprehended <hi>Ama|deo</hi>'s person, or his parts, my thoughts should have prompted me, <hi>Cicilia</hi> had honour and friendship for <hi>Lucius;</hi> and those thoughts would have smother'd that fire which jealous anger bred in my un|fortunate breast; and rather have dy'd then doubted the fair <hi>Cici|lia,</hi> while intemperate love, I fear, has thrown down the Altar we were so long a building; unless her goodness will still act more of the Deity then <hi>Lucius</hi> of the fool or mad-man.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter to him the</hi> Hermit.</stage>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>Sir, the Forest is full of people; the Pretor and the stranger Princes are all abroad; the Game was up, and all men inquired for you and your Brother; your horse was taken up this morning; I saw the Princess <hi>Cicilia, Calis</hi> was with her, they are both sad; 'tis my opinion you retire till <hi>Calis</hi> come.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>I will follow you; men in mis-fortunes have a large
+<pb n="296" facs="151"/>
+Stage to shew themselves upon; and he that Acts well, be his part never so Tragical, leaves the blame upon his Stars; I am now en|gaged, Love and Honour have brought me on; and though jea|lousie has made me stray, yet those guides will find the way.</p>
+                     </sp>
+                     <stage>[Exeunt omnes.</stage>
+                  </div>
+                  <div n="7" type="scene">
+                     <head>ACT. IV. SCEN. VII.</head>
+                     <stage>
+                        <hi>Enter</hi> Calis, <hi>and</hi> Cicilia. <hi>They strip themselves of their upper Garments, and remain in Boys habit, they are followed by</hi> Orante <hi>and the</hi> Bandito.</stage>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>IN this disguise I will make my revenge perfect, though my fortune be miserable; 'tis not <hi>Orante</hi>'s deformed body, and soul crookeder then his back, lost his fame, low as his conditi|on, and a nature worse then his fortune, shall make me change my resolution; to whose loathed embraces I will now fly; yet here I confess, death's cold lean arms would be welcomer far, could I then see <hi>Lucius</hi> miserable; no reply, as thou lovest me, but haste to the place of our retreat till this business is over.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter</hi> Orante, <hi>like an old Beggar-Woman, leaning upon her staff.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Oran.</speaker>
+                        <p>Stay, fond Girls, and know your fates from me; Weak and poor your designs are; you may vow to what gods you please; but here in this place you shall find your Destiny at his utmost date, born to enjoy nothing but what you fear and hate; sieze upon them.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter</hi> Bandito <hi>and</hi> Turnus, <hi>they sieze upon them, cover their heads, and force them away.</hi>
+                     </stage>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="8" type="scene">
+                     <head>ACT. IV. SCEN. VIII.</head>
+                     <stage>
+                        <hi>Enter</hi> Amadeo, <hi>and</hi> Lysander.</stage>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>PRithee, <hi>Lysander,</hi> stay; my heart bodes some ill, there is a heaviness upon it will not let me enjoy neither the Company nor the sport to day; saw you which way the Prin|cess <hi>Cicilia</hi> went?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysander.</speaker>
+                        <p>
+                           <hi>Calis</hi> and she entred the Wood but now, and see where their Clothes lie.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>Heaven, what may those pretend? Some violence sure, <stage>●hey look ●n the ●lothes, They search beir Pockets.</stage> Murder, Treason.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lysander.</speaker>
+                        <p>Undoubted, Thieves would have taken their clothes; see, there is money in their pockets, and a paper directed to <hi>Lu|cius;</hi> hold, Sir, I apprehend from this paper the Princess has taken some resolution to absent her self from the Court, to avoid being sollicited in your highness behalf; for, faulty as he is, she loves <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>It must be so, let us away, and find the Prince; Bring
+<pb n="297" facs="151"/>
+the clothes, that they may know the chance, I cannot guess enough to satisfie my troubled mind, my fears have robb'd me of my Rea|son; See the Prince.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter</hi> Otho, Clorinda, <hi>and Marius.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>What means this?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>Here in this place we found them, and this Letter di|rected to <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Marius.</speaker>
+                        <p>Heaven guard my Child.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clorinda.</speaker>
+                        <p>All the gods pro tect the Princess.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>From all but her own Passion I believe she is safe; but I know her heart is troubled at <hi>Lucius</hi> his Jealousie; I fear she has ta|ken some desperate resolution; Pray, Sir, open that Letterl for I am confident she there tells him all her thoughts. <stage>Marius <hi>read▪ the Letter. He gives them the Paper.</hi>
+                           </stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Marius.</speaker>
+                        <p>Ha, <hi>Orante!</hi> to find <hi>Orante?</hi> to give him her vows, and faith for ever, to marry <hi>Orante,</hi> to be reveng'd on <hi>Lucius, [all</hi> O|rante? <hi>Read, Read,]</hi> my eyes are lost in tears; <hi>Otho,</hi> your se|verity has forc'd her to this Justification of her love to <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>Away, Sir, let us all divide, and beset the Wood, they can|not escape, 'tis but now we parted; for heavens sake disperse, lest the sad delay beget the Curse she threatens, <hi>Orante</hi>'s bride? a Grave rather, good heaven, theu see her in that loathed place.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clorinda.</speaker>
+                        <p>If we can find her, Sir, all is safe; I know, she has so much kindness, honour, and duty, she will not refuse to give up her trouble and passion to your Authority; I know 'tis onely Melan|cholly, and displeasure against <hi>Lucius;</hi> Which kindness from your Highness will in a little time remove. She still with tears lamented to me your Highness severity, and that of late the brother was quite buried in you, and all you said or did was full of the States|man, and the Prince, without a thought of her love, nor the least kind sense of her, or her wishes; and being thus abandoned by a brother, wanting some kind friend, to lament; to sadness, and grief, having no vent, <hi>Lucius</hi> his Injuries has made her take this desperate resolution; and I am glad <hi>Calis</hi> is with her, a person of too much honour and discretion to consent to this design, though she may seem to comply with her passion.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>However; let us not delay finding of her, and I believe 'tis fit conceal our knowledge of this Paper till her minde be quieted.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Marius.</speaker>
+                        <p>Divide then; <hi>Otho,</hi> come you along with me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>
+                           <hi>Lysander,</hi> let us take this path.—No <hi>Clorinda,</hi> there is <stage>Clorinda <hi>would follow</hi> Amadeo, <hi>and he stops her.</hi>
+                           </stage> your path; Blush not gentle Maid, <hi>Otho</hi> is a Prince, whose friend|ship no Maid ought to be asham'd of; Be faithful to him and his fortune, dear <hi>Clorinda;</hi> Else all the kindness thou stealest from him is not worth the taking; Love and Honour him next the gods, let <hi>Otho</hi> possess thy heart, and then thou art kind to <hi>Amadeo.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>This generosity in <hi>Amadeo</hi> is more chains then those we load Our Captives with, and I willingly stoop to him; for 'tis no dishonour to be overcome by Prince <hi>Amadeo;</hi> the great Example
+<pb n="298" facs="152"/>
+of Honour and friendship; But if the unfortunate <hi>Cicilia</hi> had not been condemn'd to misery she might have paid a part of this Debt; But fate that gave such a Jewel to the world as <hi>Clorinda,</hi> and <hi>Amadeo,</hi> knew too well their Price, and therefore appointed them for fortune, not merit, to possess.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clorinda.</speaker>
+                        <p>Any time but this my thirsty soul would watch ages to drink the Joy it has, to hear you vie who should love each o|ther best, while I smile to see how much a maid out-loves you both; which I do, or my heart deceives me; for I am sure I would. And what a lover kindly would is to a Lover Currant pay; for Love is all as happy, and as obliging in the will, when 'tis placed upon a Noble Subject, as the Act it self; But we lose time, and with that hazard the most precious things of the Earth; <hi>Otho</hi>'s sister, and <hi>Amadeo</hi>'s Friend, which Title Reason and her Passion both have given me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amadeo.</speaker>
+                        <p>In the plains we will meet if we miss them in the Woods.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clorinda.</speaker>
+                        <p>Haste, <hi>Amadeo;</hi> a Lovers Eye is as curious in his search as the <hi>Cretan</hi> hound in Chase; and my divining soul tells me <hi>Ama|deo</hi> must find her though he lose himself.</p>
+                     </sp>
+                     <stage>[Exeunt omnes.</stage>
+                  </div>
+               </div>
+               <div n="5" type="act">
+                  <div n="1" type="scene">
+                     <head>ACT. V. SCEN. I.</head>
+                     <stage>
+                        <hi>Enter</hi> Manlius, <hi>and</hi> Lucius, <hi>(as from the</hi> Hermitage.)</stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>O <hi>Manlius,</hi> the gods then decreed my ruine when they let thee fall from Honour; Thy wilde Injuries di|stracted me; A Brother and a Friend at once I lost, and at a time when I had most need of Counsel, Anger having broke her bounds, despising love and reason; and that hedge thrown down all the ills that uncollected man is capable of, like weeds, possest my wild breast, and over-ran my mind.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>I cannot but wonder at your Jealousie for those few days past, when I was so bold in ill as to tell her my crime; she was then all <hi>Lucius</hi>'s; The gods and my Brother had onely Interest in her heart; Nor can I, in all your discourse, gather one cause of anger but her silence, that onely was her fault; for she was not in Passion though <hi>Lucius</hi> was; and therefore her friendship should calmly have cleared his doubts, and rather have quenched his an|ger with kindness then have kindled hers at his passion.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>No more, dear <hi>Manlius;</hi> though thou art now my dear Brother, yet from thee my kindness must not hear the least de|tracting word, not a thought that tends to accusing the Princess; 'Tis the Quarrel I have against my self, which no friend shall re|concile; I hate <hi>Lucius</hi> for that sin so much, that thy kindness, which is now new heat by a happy reconciliation, and would now receive all impressions from thee easier and readier then before our unkind|ness; I must not hear thee speak in that strain: shall I, that would not have heard my bosome friend say the Princess loved <hi>Lucius,</hi>
+                           <pb n="299" facs="152"/>
+endure to hear it told me, she is false? as if her love had been a Crime or sin, and her falshood a virtue? No, dear <hi>Manlius,</hi> thou canst witness, with a Sacred Reverence We held our Loves, till this fatal Jealousie robb'd me of my Reason.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>Reason had saved us both, But the gods will not let Reason be always in Season; Men came too near their Deity, did not our Passions master us, could we keep them tame and low, how quickly our hearts would have found the precipice we stood upon; When we both made it our business to find arguments to hate what we loved, and with tongues and words strove to publish to the world that lie that said <hi>Manlius</hi> hated <hi>Lucius,</hi> or <hi>Lucius</hi> could hate <hi>Cicilia.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Luc.</speaker>
+                        <p>And I, that all my days despised the worlds opinion, and their way of love: Did we love like the common people? Did we make the world our Judge, or guide to love by? No, no, nor shall their depraved Customs stand Examples for <hi>Lucius</hi> now his Reason is re|turned. How I will oppose her past favors against my present fears, and they will defend <hi>Lucius;</hi> This thought, and such a friend as <hi>Manlius</hi> yesterday might have saved me from this misery; He might have told me how late I came to Court; When love with all his strength had besieged her heart, youth and beauty, honour and fortune, power and wealth, were there seconded by all that were famous for Arts or Parts; Thus engaged I found her heart, yet their Batteries, nor Mines, nor Assaults, nor Intelligence within, could win the Excellent <hi>Cicilia;</hi> who, with honour made defence, till <hi>Lu|cius,</hi> (Then too happy <hi>Lucius)</hi> came and rais'd the siege; In which he such glory got, he stood the envy of the gods and men, till this Cursed Jealousie struck him to the Earth.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>Had not I been mad too, a friend might have saved us both; a Friend is the staff and safety of our Peace; he might have said, shall we, when a friend loses a Limb, or Childe, or any other the lesser gifts of Fortune; Or if by sickness afflicted, will <hi>Lucius</hi> in these cases be sad, and shew an Extraordinary kindness in Tears, or diligence to give them Comfort; and when his Mistress has broke her Faith, or lost her Honour, will he then be angry, and seek a Revenge? how unreasonable were such an Action, to add his afflictions to the shame and trouble of her mind; her guilt would be load enough without thy hatred or thy anger; sooner fatal wounds should let out my life, to banish from her sight an Object that upbraids her, e're I revil'd the name I lov'd; such a hate de|clares 'twas self-love, else thou wouldst pity her now; and in this sickness of her mind, at all rates of mercy and kindness, compass her peace; such a generous silence, and handsome bearing of her Injuries would speak thy love to her; and who knows what such a Cordial may work upon the most desperate disease that love is subject to, and restore her heart, or at least pay that debt <hi>Lucius</hi> owes her, whose mercy could not see him sad, but at the rate of her self once bought his Peace.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>O <hi>Manlius,</hi> chide me still, chide me, till my blushing soul has with shame and hatred of my self expiated my guilt.</p>
+                     </sp>
+                     <sp>
+                        <pb n="300" facs="153"/>
+                        <speaker>Manlius.</speaker>
+                        <p>Heark, Sir, the Noise of people draws this way, pray let us retire; and if <hi>Calis</hi> can prevail with the Princess, here you may find an unexpected blessing, for she has promised me assoon as they can lose the Company, to guide her, as if 'twere by chance, to this place, to beg her pardon for that fault which you must both for|give; But I would not have her see you, till <hi>Calis</hi> be acquainted with with your being here; Heark, they draw near, pray let us retire.</p>
+                     </sp>
+                     <stage>[Exeunt.</stage>
+                  </div>
+                  <div n="2" type="scene">
+                     <head>ACT. V. SCEN. II.</head>
+                     <stage>
+                        <hi>Enter</hi> Orante, Turnus, <hi>and</hi> Bandito, <hi>leading in</hi> Cicilia <hi>and</hi> Calis.</stage>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>O <hi>Calis,</hi> 'tis <hi>Orante,</hi> I know his voyce through his dis|guise.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>'Tis so.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Yes, 'tis <hi>Orante,</hi> That <hi>Orante</hi> your scorn and Malice so lively described even now; But thy knowledge of him will cost thee dear; for when I have took my pleasure of thee prepare to die, I will try if your Curious Lover can find by those steps which my Lust shall leave on thy proud Body, who it was trod down thy Virgin Flower; Know fond woman, thy scorn has made me hide self in a thousand shapes; But to take a full Revenge, which I now shall do, by thine own folly; This Occasion <hi>Calis</hi> gave me; for which <hi>Manlius</hi> shall thank her; for know ('twice betray'd) thou art come hither to meet the lust of <hi>Manlius,</hi> who here was ap|pointed to expect thee; But that danger my Interest, not hate to him, nor kindness to thee, has removed; And when those Souldiers have entertain'd themselves with <hi>Calis,</hi> they will shew her where she may busie her self with burying of him.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>O monster, unheard of Villany!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>'Tis high revenge to vex you, and to have in my power to force what your scorn would not give; and now know, all the Treasure that the Earth has shewn, or hid; All that Treason has bought or Sold; All that the Sword hath won or lost; All that Love hath given, or lust has cost, shall not buy from me this Re|venge; <hi>Turnus,</hi> bind her, and then leave us.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>
+                           <hi>Calis,</hi> O Heaven, do'st thou see this, and not protect the Innocent?</p>
+                     </sp>
+                     <stage>[She resists.</stage>
+                     <stage>
+                        <hi>While they are binding her,</hi> Orante <hi>kisses her by Force, while they hold her.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>How sweet this Rose smells; Much more Honey is there in this Nectar, then in that <hi>Jove</hi> drinks; Dispatch, <hi>Turnus,</hi> that my soul may be drunk with Beauty and Revenge; Let Heaven frown another Age upon <hi>Orante,</hi> if Fortune would but give him such an|other Revenge.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>They are tongue-ty'd already.</p>
+                     </sp>
+                     <sp>
+                        <pb n="301" facs="153"/>
+                        <speaker>Orante.</speaker>
+                        <p>Dumb, <hi>Cicilia?</hi> How their Hearts swell, now they play <hi>Orantes</hi> part, her Heart would burst now to be revenged; This is that pastime your scorn used to take upon <hi>Orante;</hi> Come dispatch, no resistance.—A Bracelet of this <hi>Orante</hi> now might wear with|out <stage>He holds her by the hair and kisses her.</stage> wooing for, but that <hi>Lucius</hi> and <hi>Amadeo</hi> would be jealous.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>Ye Gods, what words can express this villany! what voice can speak the Injuries and Rage my Soul suffers! Heaven in Thunder tell this monster what I designed for him; and then to punish that crime save but my Honour, and let thy lightning strike him through this unfortunate breast. <stage>Turnus <hi>struggles all this while to bind her.</hi>
+                           </stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Turnus.</speaker>
+                        <p>S' death, I think they have gotten mens minds and strength with their breeches; A Jury that should condemn your Highness of a Rape upon either of these two alone, ought to be hanged themselves for false Rogues; 'Twere an even lay a Jury did not do it; S' death, she bites, and scratches, hold her hands, a pox.—S' death, you whore, had it been a little higher it had sped my plough: What shall we do now? she will be mischievous.—</p>
+                     </sp>
+                     <stage>Orante <hi>takes her by one hand, and strug|gles with her, she snatches his dagger from his pocket and stabs him; he leaps off, and she stabs</hi> Turnus: <hi>He looks on the wound, and runs at her with his sword,</hi> Orante <hi>beats down the thrust.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Hell upon it, kill her, and I will enjoy her while she is warm; any thing rather then let her have her sullen will to die a Maid, and rob me of my Revenge.</p>
+                     </sp>
+                     <stage>[He runs at her, she puts by the sword.</stage>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>Hold, Villain, till I have spoke, and then do what Hell and thou shalt decree; for having thus secured my Honour from thy force I can smile on death. From my last words take this truth, and believe me; though thou hatest me, I am not so wicked voluntarily to go to my grave with an useless lie in my mouth; Stir not, leave that vain thought that bids you hope to disarm me; for know, though this dagger and a feeble arm be not able to de|fend <hi>Cicilia;</hi> Yet she has Honour enough to defend her Honour, and kill <hi>Cicicilia,</hi> which I shall do upon the first step that moves this way. Know then, thou hast prevented thy own Fortune, for witness Heaven, (to which thou hast now forced me take a hasty journey) my business and this disguise was to find an occasion to give my self to <hi>Orante</hi> for a Bride, if he would have received me.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Ha! it cannot be, this lie will not save you.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>No, monster, 'tis so much truth I will not be saved; for I confess, I ought to die for having so base a thought; Yet be|cause thou shalt believe what I say, thou owest me nothing for that desire; for had <hi>Lucius</hi> been worth the having, ●●<hi>Cicilia</hi> worth the presenting to generous <hi>Amadeo, Orante</hi> should never have had her; whom my Soul feared and loathed, and my Heart divining some horrid villany from thee, has alwayes trembled at thy Name; and but to punish my self and jealous <hi>Lucius, Orante</hi> had sunk un|thought of.</p>
+                     </sp>
+                     <sp>
+                        <pb n="302" facs="154"/>
+                        <speaker>Orante.</speaker>
+                        <p>Riddles, by Heaven Riddles; But I shall find an <hi>Oedi|pus</hi> to read them.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>No monster, the truth is too sad; And hadst thou been a Man of Honour, and fit for any <hi>Hymens</hi> but one enraged and blind with Passion, <hi>Amadeo</hi> had this day been happy; But his Honour made him unhappy, having as much nobleness more then weight, as thy base mind was poor and destitute of good.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>'Tis truth she tells thee, and now I defie thee. This kind Remedy Heaven has sent me against all my past miseries; And thy horrid intents are the loud calls, the Gods have used to bid me make haste to them; and if thou movest one step this way, thus I go.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Shall foolish fear or pity make me afraid to embrace or enjoy <hi>Cicilia?</hi> Fond Girl, dost thou believe I will lose thee when there is onely the difficulty of a dagger betwixt us? No, proud fair one, thou art mine in the spite of Fate; even in thy dying groans, 'tis decreed, I will enjoy thee.—</p>
+                     </sp>
+                     <stage>[He runs to her, she stabs her self, he closes and struggles with her for the dagger.</stage>
+                     <sp>
+                        <speaker>Calis.</speaker>
+                        <p>Help, Rape, Murther, Treason, help, Murther, Treason, Rape, help for Heavens sake, Treason, Treason, O horrid Villains!—</p>
+                     </sp>
+                     <stage>[They struggle still</stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>Stop her mouth.—</p>
+                     </sp>
+                     <stage>
+                        <hi>[A</hi> Souldier <hi>goes to her and stops her mouth.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Sould.</speaker>
+                        <p>Hold your prating, or I shall cut your wezill.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter</hi> Lucius <hi>and</hi> Manlius, <hi>with his Arm in a scarfe, with their swords drawn.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Manlius.</speaker>
+                        <p>This way the noise called, 'twas a womans voice that cried for help; Ha! See, Sir, the same that wounded me last night.—</p>
+                     </sp>
+                     <stage>
+                        <hi>They set upon them, all fight,</hi> Lucius <hi>kills</hi> Turnus, Manlius <hi>kills one of the</hi> Bandito<hi>'s, while a</hi> Soul|dier <hi>shoots</hi> Lucius; <hi>He falls,</hi> Orante <hi>wounds</hi> Manlius, <hi>and he falls, the third</hi> Souldier <hi>falls too;</hi> Orante <hi>onely remains upon his feet, goes to</hi> Luci|us, <hi>disarms, and treads upon him.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Orante.</speaker>
+                        <p>So, this danger is past; and there is yet enough left of the proud <hi>Cicilia</hi> to satisfie my Revenge.</p>
+                     </sp>
+                     <sp>
+                        <speaker>
+                           <hi>Lucius</hi> and <hi>Manlius.</hi>
+                        </speaker>
+                        <p>
+                           <hi>Cicilia,</hi> and <hi>Calis,</hi> Heaven! what chance, what calamity is this?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicilia.</speaker>
+                        <p>Dost thou wonder, false Man, to see the ruine thy jea|lous Soul has made of all our happiness? Murther, Self-murther, Rape and dishonour threatned, Self-murther, whose black path thy jealous Heart has forced me to tread, to save that Honour <hi>Lucius</hi> would first have ravished. Live, and find all that thou mistrustedst innocent; And, for thy Curse, let them thou trustest next be as false as <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>O my Fate! Why have I liv'd to see this day? <hi>Orante,</hi> be yet so kind in thy crime as kill me. Durst thou stab? Hadst
+<pb n="303" facs="154"/>
+thou a power to strike that breast, and find remorse at mine that am thy Rival? Villain, or kill me, or be sure thy hated soul shall never sleep in that cursed body of thine, though when 'tis let out 'twill but change Hells; Dog, dost thou smile upon our miseries?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>Thy jealousie struck deeper, and more fatal, then his Dag|ger; that gave the first wound, that struck my fame, and wounded more then his fury can; false and unkind, thou deceived'st my heart, and wert false to her that loved thee; this wretch has only acted that my hatred ever feared; the world expected nothing bet|ter from <hi>Orante,</hi> branded and mark'd from heaven, and despis'd by men; But <hi>Lucius,</hi> jealous <hi>Lucius,</hi> has deceived both gods and men, and abus'd their trust; but these wounds, I hope, will justifie me, and punish <hi>Lucius,</hi> and deceive the hopes of cursed <hi>Orante.</hi>
+                        </p>
+                     </sp>
+                     <stage>[She faints and falls.</stage>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Heaven lend your hand, to save the Princess.—O, my fate!—</p>
+                     </sp>
+                     <stage>[He offers to rise and falls.</stage>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>If I were loose, I might call for help.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>Like Birds with broken wings we lye expecting sad fates, to be the spoil and scorn of the foolish fowler; sure I have so much strength as to crawle to <hi>Calis.</hi>
+                        </p>
+                     </sp>
+                     <stage>
+                        <hi>[While he crawles to</hi> Calis, <hi>and unbinds her;</hi> Orante <hi>lifts up</hi> Cicilia.</stage>
+                     <sp>
+                        <speaker>Oran.</speaker>
+                        <p>She is faint, but not dead, now she is tame enough; see <hi>Lucius,</hi> this was your <hi>Cicilia;</hi> there is beauty and pleasure even in her dust.</p>
+                     </sp>
+                     <stage>[He kisses her.</stage>
+                     <sp>
+                        <speaker>
+                           <hi>Lucius</hi> and <hi>Manlius.</hi>
+                        </speaker>
+                        <p>Villain, Murderer.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Oh ye gods! lend but so much strength as to save the noblest of women.</p>
+                     </sp>
+                     <stage>[Orante <hi>laughs.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Oran.</speaker>
+                        <p>Sure heaven's kind to <hi>Orante;</hi> what musick there is in their cries.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Help, Murder; Treason, help!</p>
+                     </sp>
+                     <stage>
+                        <hi>[Exit</hi> Calis.</stage>
+                     <sp>
+                        <speaker>Oran.</speaker>
+                        <p>Ha! loose, I must not lose; time when I have dispatch'd this, then prepare your selves to bear us company.<hi>—Lucius,</hi> this <stage>
+                              <p>Orante <hi>kisses her.</hi>
+                              </p>
+                              <p>
+                                 <hi>He kisses her again.</hi>
+                              </p>
+                              <p>
+                                 <hi>He takes her up in his arms, and carries her out.</hi>
+                              </p>
+                              <p>
+                                 <hi>They fight,</hi> Calis <hi>un|binds the Princess, takes up a sword, and runs to kill</hi> Orante, <hi>just as he falls under</hi> Ama|deo.</p>
+                           </stage> kiss grew upon <hi>Cicilia</hi>'s lips, fruits design'd for thee jealous fool, which thus I gather, lest it wither on the Tree. Farewel, <hi>Lucius,</hi> the scorn'd <hi>Orante</hi> with all this deformity will leave thee to ima|gine the rest; be all the world curs'd, so I am blest.</p>
+                     </sp>
+                     <sp>
+                        <speaker>
+                           <hi>Lucius</hi> and <hi>Manlius.</hi>
+                        </speaker>
+                        <p>Help heaven, Murder and Treason.</p>
+                     </sp>
+                     <stage>
+                        <hi>[As</hi> Orante <hi>goes, he meets</hi> Amadeo <hi>and</hi> Calis <hi>at the door.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Oran.</speaker>
+                        <p>Ha! <hi>Amadeo</hi> and <hi>Calis;</hi> then Fortune's a whore, Lye thou there; yet he is alone, and <hi>Orante</hi> never fear'd a single sword.—Hold, 'tis enough; death could never have come so unwel|come as now; had he staid his visit till my revenge had been per|fect I would have saved thy sword this pains; for I had no such foolish thought as to out-live this day, in which I would have made some as fit for graves as <hi>Orante;</hi> Hell on that Sun-shine that made me believe there was one hour of joy destin'd for <hi>Orante;</hi> my fate is now all spun in one thred; from the first to the last accurs'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>O, Sir; leave talking with that monster, and lend your help here to save the Princess, that now breathes her last breath, murther'd by that horrid villain.</p>
+                     </sp>
+                     <sp>
+                        <pb n="304" facs="155"/>
+                        <speaker>Amad.</speaker>
+                        <p>The Princess! Heaven forbid.</p>
+                     </sp>
+                     <stage>[He goes to the Princess.</stage>
+                     <sp>
+                        <speaker>Oran.</speaker>
+                        <p>There is musick in that voyce, so she dyes; I care not so no body else has her, 'tis no pain to lose her,</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>O <hi>Calis,</hi> is it thy arms that embrace me?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Yes, Madam, and your fears are blown over by Prince <hi>Ama|deo,</hi> sent from heaven to revenge, and save our honours.</p>
+                     </sp>
+                     <stage>
+                        <hi>[The</hi> Hermit <hi>runs for a Balsam, and the Alarm is gone to the Pretor and her Brother.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>Prince <hi>Amadeo!</hi> are his hands sent from heaven to heal the wounds <hi>Lucius</hi> gave a heart that loved him beyond her Reason; for I know, 'twas her blindness in me that neglected <hi>Amadeo;</hi> but faith and passion must plead for me, yet this truth let me leave with you; though I liv'd by love and vows <hi>Lucius</hi>'s; yet his in|juries have made me room to dye <hi>Amadeo</hi>'s, who had my value in spite of my passion: do not despise me, Sir; for though this heart once swell'd with <hi>Lucius,</hi> proud of that name, while he was faithful; yet since he could doubt, it breaks with <hi>Amadeo.</hi> There lies that false man that beat it from him, when it pursu'd him with all that love and kindness could pay; 'twas his ignorance in the value made him neglect such a Jewel, whil'st I too much priz'd his broken friendship which has broke my heart; yet by all the peace he has robb'd me of I have not lost one grain of honour the gods gave me in trust, but what his jealous heart has stoln from me, and pull'd strange curses down.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Hold, gentle <hi>Cicilia,</hi> cease to find a new curse; your hate is mortal enough; and if your wounds give you leave, you will find <hi>Lucius</hi> needs no enemy but <hi>Lucius;</hi> since he has lived to dye unpiti'd, unlamented by <hi>Cicilia</hi>'s, who shall make his funeral fire since she has frown'd upon him? she said <hi>Lucius</hi> was false; who then will mourn him? she has condemn'd; after whose sen|tence he scorns to live; <hi>Cicilia</hi> liv'd <hi>Lucius</hi>'s, and dyes <hi>Amadeo</hi>'s; O heaven, after she has condemn'd him, why should your thunder spare <hi>Lucius?</hi> yet thus innocent he will fall, and these wounds witness <hi>Lucius</hi>'s innocence, who liv'd and dy'd <hi>Cicilia</hi>'s; whose name only fill'd his heart, and with it thus it breaks; to shew that <stage>He stabs himself.</stage> jealousie, though it be a weed, yet it springs from noble seed, and no where to be found but in Loves richest ground; a sad truth avowed by pale <hi>Lycoris,</hi> and proved by unfortunate <hi>Lucius.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>O, what has he done! O hold his hand, for Heavens sake.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>What have I done? why, I have let out cruel <hi>Cicilia,</hi> that she might flow to Prince <hi>Amadeo?</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>O <hi>Lucius,</hi> Brother, Friend; what has thy rash hand done?</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>I have done that I would always do to the man the Princess <hi>Cicilia</hi> hates, destroy'd him; yet this advantage my story will have, I found no peace after she withdrew her friendship; yet my crime was only excess of love, unpractis'd love; dear <hi>Man|lius</hi> knows I was so unpractis'd in loves passion, it cut a Brother and a Friend from my heart to make room for <hi>Cicilia;</hi> but love
+<pb n="305" facs="155"/>
+was a rude guest, and thus I have forced him from my heart, where he has broke all Laws of Hospitality; O, 'tis late, and this dark|ness over my eyes tells me I am neer my home; <hi>Manlius,</hi> thy hand. Farewell, forgive me, Madam; Behold I dye, would your hate have more? Behold I dye, nor shall I repent my fall, if my death find that faith my love could not, who never fear'd nor lov'd any thing but the fair <hi>Cicilia;</hi> and at what rate, witness this fate.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>O, help to lead me to him.—O <hi>Lucius</hi> stay, and hear my last breath (in sighs) give my sad heart the lye for having said it loved ought but <hi>Lucius;</hi> see these wounds that I wear for <hi>Lucius,</hi> had I not lov'd thee why did I select thee from all the world? O look up, and in charity out-live me; for dying <hi>Lucius</hi> brings despair and horror on my soul; O ye gods, lend so much life, at least, to tell my story; and from dying <hi>Cicilia</hi> take this truth; Prince <hi>Amadeo</hi> has surprizing vertues; but 'twas <hi>Lucius</hi> his jea|lousie made me see them, 'twas his injuries pleaded more then they; the Prince call'd long before; and yet my heart was deaf to love and him; this <hi>Lucius</hi> knows, who severely has punish'd that passions that distraction which he begot; Not one word? can <hi>Lu|cius</hi> his heart be so incens'd as to forget all humanity and civility too? Death, sure will not refuse thy eyes so much light as to wait upon thy once dear <hi>Cicilia</hi> to her grave; O kind heaven, forbid that my sad heart that could not be happy here should meet <hi>Lucius</hi> frowning in Elizium too; there at least let us be friends, that we may meet and mourn this part of our story, and kindly seek each others shadow; for I am kind enough to believe and mourn the wounds that I have given <hi>Lucius;</hi> and I hope <hi>Lucius</hi> will be so kind to me as to believe these wounds bleed for <hi>Lucius,</hi> who thus dyes upon his breast; and would fain get into that heart again from whence thy cruel kindness forc'd me. One cold kiss I will take, and then farewell; did <hi>Lucius</hi> ever love? O be merciful, and say so, though it be false; there is less sin in such a well natur'd lye, then with a cruel truth to add to a friends dying misery, who thus with wounds and prayers her heart sets ope to seek the flying soul of welcome <hi>Lucius,</hi> lov'd companion of my heart.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>O <hi>Lucius,</hi> can thy soul be deaf to such charms as these, of force to raise a Lover from his ashes! O look up, and see <hi>Ama|deo</hi> offer all his hopes to <hi>Lucius;</hi> Live gentle soul; if thou hunt'st for Paradise, here 'tis most perfect in the friendship of this generous Princess.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Prince <hi>Amadeo</hi> is noble, the Princess divine, all Angel; and <hi>Lucius</hi> too earthy to aspire such a friendship.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>The gods give us but a span of days, and we with folly waste that too; O for an hour to thank Prince <hi>Amadeo,</hi> and weep to <hi>Lucius</hi> those truths which now break my heart! who if he be just will kindly read and understand these sighs, and love these tears.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>Every common spirit can indulge an appetite; choler, lust and revenge prevail with every beast; but man the noblest creature, made to delight and imitate his Creator, appointed ma|ster
+<pb n="306" facs="156"/>
+over the rest, should in such difficulties as these (Madam) ju|stifie himself Prince of the earth; and this act is my duty as a man; but as <hi>Amadeo,</hi> a double tye of honour obliges me, being a Prince of men, from whom with what justice (Madam) can I expect obe|dience when they see me rebel against the gods; and thus yield to my slaves, of which this passion (being unjust) is one and with what shame shall I appear when it shall be said, that's the <hi>Amadeo</hi> that disputed a great War against the Roman Eagles; and in peace stoop'd to this Kite, this blind Boy; No, Madam, these be the fiery trials that must distinguish and justifie great and vertuous minds; they are storms, not harbours, in which the skilful shew their vertue and their courage.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Great, and noble <hi>Amadeo,</hi> still, by mind and birth a Prince! <stage>Amad. <hi>joyns their hands together.</hi>
+                           </stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>Curse on his heart that breaks this love, noble <hi>Lucius;</hi> lovely in his crimes which were but loving crimes; and all these wounds and tears betwixt you are but like the thorns that grow about the Rose, whose beauty made me thy Rival; look up, and see me deck thy breast; of whom I prophesie all that is great and good, while she grows there; but when she shall withdraw her friendship, even in <hi>Amadeo</hi>'s heart she'l pass for low, and very wo|man; forsaken <hi>Lucius</hi> will find constanter enjoyments then beau|ty or any other love; those doubts, this friendship, and the divers faults, but shew the Masker in his several shapes; your rage, his doubts, those fears, were but loves chains and charms, which unpractis'd <hi>Lucius</hi> took for <hi>Love in Arms.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Lucius.</speaker>
+                        <p>Sure we are in heaven already.</p>
+                     </sp>
+                     <stage>
+                        <hi>Enter</hi> Otho, Clorinda, Marius, Lysander, Dyon, Cleon, <hi>and Attendants.</hi>
+                     </stage>
+                     <sp>
+                        <speaker>Mar.</speaker>
+                        <p>Good heaven, what a sight is here? <hi>Cicilia!</hi> what sad fate is this! <stage>They all kneel about her.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>O my dear, dear Sister!</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clor.</speaker>
+                        <p>This was unkindly done to steal away from us such a Pattern of vertue and honour; to leave me ignorant, and alone, to tread the sad world when she is gone which was my guide; how shall I do but stray and lose my way! I fear I shall never find my friends.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>No Questions, nor more discourse, if you love them; there is no kindness like rest.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cicil.</speaker>
+                        <p>
+                           <hi>Clorinda, Otho,</hi> dear <hi>Otho,</hi> come neer; and if ever thy Sister were dear to thee, love and forgive <hi>Lucius: Lucius</hi> the best Lover, but the worst expresser of his passion that ever sunk under that god's displeasure. O <hi>Otho,</hi> in one grave let our sad Corps lye, that we may, at least, become one earth.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Amad.</speaker>
+                        <p>Use no words, give them no answers, I pray, but help to convey them to some place of rest; lest you strive too late to pre|vent the ruine this danger threatens. <stage>They take up their bodies.</stage>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Mar.</speaker>
+                        <p>Was your Highness a witness of this action?</p>
+                     </sp>
+                     <sp>
+                        <pb n="307" facs="156"/>
+                        <speaker>Amad.</speaker>
+                        <p>No, Sir, I came too late; but from <hi>Calis,</hi> within, you may hear the relation.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Mar.</speaker>
+                        <p>What a day is here? how different are the Torches from those that should have burn'd? Hymens yellow one must to the black, I fear, give place; Ha! who is that? <hi>Orante</hi> disguis'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>Yes, Sir; and the foundation upon which all these miseries depend; this is the curs'd cause of all this sad day, 'twas destin'd to passion; but a Scene so full of blood and fate no thought could ever have fear'd, though I confess her Highness was bent to execute a very extravagant resolution.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm.</speaker>
+                        <p>A Fever only may beget our fears; else I find no dan|der, there being no vital part perish'd; 'tis only loss of blood, which thus in faintness binds their senses.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>Heavens send a blessing that I may shew to my Sister how much a Brother <hi>Otho</hi> is, while this hated dog lyes unburied, and unpitied by the world.</p>
+                     </sp>
+                     <stage>
+                        <hi>[He spurns</hi> Orante.</stage>
+                     <sp>
+                        <speaker>Mar.</speaker>
+                        <p>Draw him and his cu●sed company off this sacred ground; and then let their hated Carcasses lye a prey for Birds and Beasts, while we in procession bear these Lovers; and when you have purg'd this consecrated place from blood and murder, to morrow we will sacrifice <hi>Hecatombs</hi> to <hi>Juno,</hi> the Deliverer, in expiation of these Lovers crimes; and joyn with you in vows and prayers that kind destiny will restore them to us, while I provide displeased Hymens Rites may no longer wont the vows their hearts have writ in heaven.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Clor.</speaker>
+                        <p>And if heaven smile upon our sacrifice, let me beg Prince <hi>Otho</hi> will defer our joys to wait upon their happy days; for I con|fess my superstitious soul dares not approach the Temple thus alone, whil'st death and black shadow my heart; sure it must be a fatal Bridal-bed that stands so neer the grave of friends.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Otho.</speaker>
+                        <p>Be your desire the eternal law to <hi>Otho;</hi> let her love and command, while I love to obey <hi>Clorinda.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Manl.</speaker>
+                        <p>Here <hi>Calis,</hi> I have one hand yet left, which thus I will lift to heaven; and call all the gods to witness that love and faith, which here I give to <hi>Calis,</hi> and her peace for ever; and if thy much afflicted heart can forgive what is past, and love <hi>Manlius;</hi> we will vye with all the world for blessings, our miseries will then be pa|stime; and these dangers, scap'd, with more joy told then now they are fear'd.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Cal.</speaker>
+                        <p>The gods have heard my prayers; and now I am confident the Princess will be happy; and we mortals are vain foolish judges of what heaven can or will do; we measure the Deity by our weak capacity, who thus in justice lets us fall beyond our hopes, to raise us thus above our wishes.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Mar.</speaker>
+                        <p>Lead, holy men, and we will follow; and with patience obey in bearing my own bowels; but if kind heaven sinile, how happy shall <hi>Marius</hi> lay down his gray hairs, after a sacrifice to the Hymens of my <hi>Otho,</hi> and ever dear <hi>Cicilia.</hi>
+                        </p>
+                     </sp>
+                     <sp>
+                        <speaker>Clor.</speaker>
+                        <p>That was the voyce of heaven, piety and faith lay holy violent hands upon the gods, it hastens their blessings, and it
+<pb n="308" facs="157"/>
+breaks their rods; and my heart foretells me your aged vertues have yet reward in store; and that <hi>Cicilia</hi> as well as <hi>Clorinda</hi> shall receive an Hymeneal blessing from you; let no jealous Lover look Hymen in the face, but trembling call to mind the fortune of this place.</p>
+                     </sp>
+                     <sp>
+                        <speaker>Herm:</speaker>
+                        <p>Let all men sing, and in full Chorus joyn, and detest this crime. An ancient <hi>Druid</hi> left this sacred Hymn, and against jea|lousie commanded all to sing full Chorus round the Temple.</p>
+                     </sp>
+                     <lg>
+                        <head>The Song in Parts.</head>
+                        <l>
+                           <milestone n="Q" unit="unspec"/> FRom whence was first this Fury hurl'd,</l>
+                        <l>This jealousie into the world?</l>
+                        <l>From Hell? <milestone n="A" unit="unspec"/> No, there doth reign</l>
+                        <l>Eternal hatred with disdain.</l>
+                        <l>But she the Daughter is of Love,</l>
+                        <l>Sister of Beauty. <milestone n="Q" unit="unspec"/> Then above</l>
+                        <l>She must derive, from the third Sphear,</l>
+                        <l>Her heavenly off-spring? <milestone n="A" unit="unspec"/> Neither there,</l>
+                        <l>From those immortal flames could she</l>
+                        <l>Draw her cold frozen Pedigree.</l>
+                        <l>
+                           <milestone n="Q" unit="unspec"/> If not in Heaven, nor Hell, where then</l>
+                        <l>Had she her birth? <milestone n="A" unit="unspec"/> In the hearts of men.</l>
+                        <l>Beauty and fear did her create</l>
+                        <l>Younger then Love, elder then hate,</l>
+                        <l>Sister to both by Beauties side,</l>
+                        <l>To Love by Fear, to hate alli'd.</l>
+                        <l>Despair her Issue is, whose Race</l>
+                        <l>Of fruitful mischiefs drowns the space</l>
+                        <l>Of the wide earth in a swoln floud</l>
+                        <l>Of wrath, revenge, spight, rage and bloud.</l>
+                        <l>
+                           <milestone n="Q" unit="unspec"/> Oh! how can such a spurious line</l>
+                        <l>Proceed from Parents so divine?</l>
+                        <l>
+                           <milestone n="A" unit="unspec"/> As streams which from their Crystal spring</l>
+                        <l>Do sweet and clear their Waters bring;</l>
+                        <l>Yet mingling with the brackish main,</l>
+                        <l>Nor taste, nor colour they retain.</l>
+                        <l>
+                           <milestone n="Q" unit="unspec"/> Yet Rivers 'twixt their banks do flow</l>
+                        <l>Still fresh, can jealousie do so?</l>
+                        <l>
+                           <milestone n="A" unit="unspec"/> Yes, while she keeps the steadfast ground</l>
+                        <l>Of hope and fear, her equal bound;</l>
+                        <l>Hope, sprung from favour, worth, or chance,</l>
+                        <l>Towards the fair object doth advance:</l>
+                        <l>While fear as watchful Sentinel</l>
+                        <l>Doth the invading Foe repell;</l>
+                        <l>And jealousie thus mixt doth prove</l>
+                        <l>The season and the salt of Love.</l>
+                        <l>But when Fear takes a larger scope,</l>
+                        <l>Stifling the child Reason, Hope;</l>
+                        <l>
+                           <pb n="309" facs="157"/>
+Then sitting on the usurp'd Throne,</l>
+                        <l>She, like a Tyrant, rules alone;</l>
+                        <l>As the wild Ocean unconfind;</l>
+                        <l>And rages as the Northern Wind.</l>
+                     </lg>
+                     <p>This Chorus was written by M. <hi>Thomas Carew,</hi> Cup-bearer to <hi>Charles</hi> the First; and sung in a Masque at <hi>White-hall, Anno</hi> 1633. And I presume to make use of it here, because in the first design, 'twas writ at my request upon a dispute held betwixt Mistress <hi>Ci|cilia Crofts</hi> and my self, where he was present; she being then Maid of Honour: this I have set down, lest any man should be|lieve me so foolish as to steal such a Poem from so famous an Au|thor; or so vain as to pretend to the making of it my self; and those that are not satisfied with this Apology, and this Song in this place; I am always ready to give them a worse of mine own.</p>
+                     <byline>Written by <hi>THOMAS KILLIGREW,</hi>
+Resident for <hi>CHARLES</hi> the Second in <hi>Venice,</hi>
+                        <hi>August,</hi> 1651.</byline>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         </TEI>
+
