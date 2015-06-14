@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+					<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+	 <TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+            <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+         </titleStmt>
+         <extent>356 600dpi TIFF G4 page images</extent>
+         <publicationStmt>
+            <publisher>University of Michigan, Digital Library Production Service</publisher>
+            <pubPlace>Ann Arbor, Michigan</pubPlace>
+            <date>2003 March (TCP phase 1)</date>
+            <idno type="marc">11861873</idno>
+            <idno type="stc">Wing N868.</idno>
+            <idno type="vid">50022</idno>
+            <idno type="DLPS">A53060</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title type="_245">Playes written by the thrice noble, illustrious and excellent princess, the Lady Marchioness of Newcastle.</title>
+                  <author>Newcastle, Margaret Cavendish, Duchess of, 1624?-1674.</author>
+                  <author>Newcastle, William Cavendish, 1592-1676.</author>
+               </titleStmt>
+               <extent>[24], 679 [i.e. 675], [4] p. : ill.</extent>
+               <publicationStmt>
+                  <pubPlace>London :</pubPlace>
+                  <publisher>Printed by A. Warren, for John Martyn, James Allestry, and Tho. Dicas ...,</publisher>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>
+                     <p>First edition.</p>
+                  </note>
+                  <note>
+                     <p>Errata: p. [4] at end.</p>
+                  </note>
+                  <note>
+                     <p>Reproduction of original in Huntington Library.</p>
+                  </note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Header created with script marc2tei.pl on 2001-12-12.</p>
+         </projectDesc>
+         <editorialDecl n="4">
+            <p>Encoding has been done using the recommendations for Level 4 of the TEI in Libraries Guidelines.  Digital page images are linked to the text file.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text><body><div n="1" type="play">
+            <pb n="489" facs="256"/>
+            <div type="dramatis_personae">
+               <list>
+                  <head>THE ACTORS NAMES.</head>
+                  <item>Monsieur <hi>Nobilissimo.</hi>
+                  </item>
+                  <item>Monsieur <hi>Esperance.</hi>
+                  </item>
+                  <item>Monsieur <hi>Phantasie.</hi>
+                  </item>
+                  <item>Monsieur <hi>Poverty.</hi>
+                  </item>
+                  <item>Monsieur <hi>Adviser,</hi> and several other Gentlemen.</item>
+                  <item>
+                     <hi>Admiration.</hi> Madamoiselle <hi>La Belles</hi> Wooers.</item>
+                  <item>
+                     <hi>Vainglory.</hi> Madamoiselle <hi>La Belles</hi> Wooers.</item>
+                  <item>
+                     <hi>Pride.</hi> Madamoiselle <hi>La Belles</hi> Wooers.</item>
+                  <item>
+                     <hi>Ambition.</hi> Madamoiselle <hi>La Belles</hi> Wooers.</item>
+                  <item>Madamoiselle <hi>Esperance,</hi> Wife to Monsieur <hi>Esperance.</hi>
+                  </item>
+                  <item>Madamoiselle <hi>La Belle.</hi>
+                  </item>
+                  <item>Madamoiselle <hi>Amour.</hi>
+                  </item>
+                  <item>Madamoiselle <hi>Grand Esprit.</hi>
+                  </item>
+                  <item>Madamoiselle <hi>Bon.</hi>
+                  </item>
+                  <item>Madamoiselle <hi>Tell-truth.</hi>
+                  </item>
+                  <item>Madamoiselle <hi>Spightfull.</hi>
+                  </item>
+                  <item>Madamoiselle <hi>Detractor.</hi>
+                  </item>
+                  <item>Madamoiselle <hi>Malicious.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="1" type="act">
+               <pb facs="257"/>
+               <pb n="491" facs="257"/>
+               <head>THE FIRST PART OF NATURES three DAUGHTERS, <hi>Beauty, Love,</hi> and <hi>Wit.</hi>
+               </head>
+               <head type="sub">ACT I.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>Enter Madamoiselle <hi>Detractor,</hi> Madamoiselle <hi>Spightfull,</hi> Mada|moiselle <hi>Malicious,</hi> and Madamoiselle <hi>Tell-truth.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>TEll-truth.</speaker>
+                     <p>The Lady Natures Daughters are the only Ladies that are admired, praised, adored, worshiped, and sued to; all other women are despised.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>We may go into a Nunnery; for we shall never get Servants, nor Husbands, as long as they live.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tell-truth.</speaker>
+                     <p>Why there are but three of them, and three women cannot serve and content all the men in the VVorld.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Detractor.</speaker>
+                     <p>No, but they may discontent all the men so much, as to make them all to be Male-contented Lovers, who will reject all, because they can|not have what they desire.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Malicious.</speaker>
+                     <p>Let us make a Faction against them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>Alas what Faction against them, can hurt and destroy <hi>Love, Wit,</hi> and <hi>Beauty</hi>?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Detractor.</speaker>
+                     <p>Jealousy will weaken <hi>Love,</hi> Dispraise will disgrace <hi>Wit,</hi> and <hi>Beauty,</hi> Time will soon bring that to decay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tell-truth.</speaker>
+                     <p>But Jealousy cannot weaken true and virtuous <hi>Love,</hi> nor Dis|praise cannot disgrace pure <hi>Wit,</hi> nor Time cannot decay the <hi>Beauty</hi> of the mind; wherefore all the faction you can make against them, will do them no hurt; besides, you will be condemned by all the Masculine Sex, if not pu|nished with infamy, for your treachery; and since you cannot do them harm, your best way will be to imitate them for your own good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>So we shall be laughed at, and stared on as Monkies, and scorn|ed; forasmuch as we offer at that which is beyond our abilities, and what|soever is forced, and constrained, appeareth ridiculous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Malicious.</speaker>
+                     <p>Come let us leave speaking of them, and thinking of them, if we can.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="492" facs="258"/>
+                  <head>Scene 2.</head>
+                  <stage>Enter Monsieur <hi>Esperance,</hi> and his Wife Madamoi|selle <hi>Esperance.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MOnsieur Esperance.</speaker>
+                     <p>Surely Wife you do not love me, you are not any way kind to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>True Love Husband, is not so fond as ser|viceable.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>But true Love will express it self sometimes: for if you did truly Love me, you would hang about my Neck, as if you meant to dwell there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>If I thought my kindness might not Surfet your af|fection, I would hang about your Neck, as the Earth to the Center, and as you move should bear me still about you; but I am afraid if overfond, you should be weary of me, and account me a trouble, and I had rather starve all my delights, than make you loath my Company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>This is but an excuse Wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>Why are you Jealouse, that you think my words speak not my thoughts? have I behaved my self so indiscreetly, or have my actions been so light, as you believe I shall be wanton?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>No, I do not fear your Virtue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>Do you fear my Indiscretion?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>I hope you will give me no cause to fear, although Husbands are oftner dishonoured by their Wives Indiscretions, than their Inconstant affections.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>Pray be confident, that I shall have a greater care of your Honour, than of my own Life.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>Scene 3.</head>
+                  <stage>Enter two Gentlemen.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEntleman.</hi>
+                     </speaker>
+                     <p>The Lady Natures three Daughters, namely Wit, Beauty, and Love, are the sweetest, and most Virtuous Ladies in the VVorld.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>I have heard so much of their fame, as I have a great desire to see them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>You may see the Lady VVit, for she doth discourse often in publick; but for the other two Sisters, they are somewhat more retired.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>How shall we know the time, that the Lady VVit discour|ses in publick?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>I am now going to see if I can get a place, where I may</p>
+                  </sp>
+                  <sp>
+                     <pb n="493" facs="258"/>
+                     <speaker>2 <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>I will go with you, if you will give me leave.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>VVith all my Heart.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>Scene 4.</head>
+                  <stage>Enter Monsieur <hi>Nobilissimo,</hi> and Monsieur <hi>Poverty.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MOnsieur Poverty.</speaker>
+                     <p>My Noble Lord, I am a Gentleman, one that is ruin'd by Fortunes spight, and not by my own Carelesness, Vanity, Luxury, or Prodigality; for my Poverty is honest: but though my Poverty hath an ho|nest face, yet it is ashamed to appear in the open sight of publick knowledg, which makes me whisper my wants to your Lordships private Ear.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Nobilissimo.</speaker>
+                     <p>Sir, if your necessities can conceal themselves, they shall never be divulged by me; and what I can honestly give you out of my Estate, and not very imprudently from my self, I shall freely, and secretly, distribute to you, and such as are in your condition.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Poverty.</speaker>
+                     <p>Your Lordships Servant.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="5" type="scene">
+                  <head>Scene 5.</head>
+                  <stage>Enter Madamoiselle <hi>Amor</hi> alone.</stage>
+                  <sp>
+                     <speaker>MAdamoiselle Amor.</speaker>
+                     <p>The mind is the best Tutor, and ought to instruct the Senses how to choose; for the Senses are but as the working La|bourers, to bring Lifes materials in; but O my Senses have betrayed my mind, in bringing through my Ears, and Eyes, Beauty, and VVit, which like as creeping Serpents, got passage to my heart, and winding round about with flattering imbraces, yet sting the peace, and quiet of my mind, raising therein blisters of discontent, causing an anguish of restless thoughts, which work, and beat like pulsive pa●n.</p>
+                     <l>But O had I been born both Deaf and Blind,</l>
+                     <l>Then might I scape this Hell tormenting mind;</l>
+                     <l>His Wit like various Musick pierc'd my Ear,</l>
+                     <l>Some being solemn, and some pleasant were</l>
+                     <l>And when he spake, his person did appear</l>
+                     <l>Like to the Sun, when no dark Clouds were neer;</l>
+                     <l>Fame of his valour, like a trumpet sound,</l>
+                     <l>Through Ears from Heart, unto the Eyes rebound;</l>
+                     <l>And then his person, like <hi>Mars</hi> did appear,</l>
+                     <l>Yet so, as when fair <hi>Venus</hi> Queen was neer.</l>
+                     <l>O Love forbear, use not this cruelty,</l>
+                     <l>Either bind him, or give me liberty.</l>
+                  </sp>
+                  <stage>
+                     <pb n="494" facs="259"/>Enter Monsieur <hi>Adresser.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Monsieur Adresser.</speaker>
+                     <p>VVhat are you all alone sweet Mistriss?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>No Sir, I have the Company of thoughts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Adresser.</speaker>
+                     <p>Those are Melancholy Companions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>Indeed mine are so at this time; yet thoughts with thoughts may discourse wittily, and converse pleasantly together, without articulate words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Adresser.</speaker>
+                     <p>Certainly your thoughts must needs be pleasant, your words are so witty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>No truly, for my thoughts lie in my brain like a Chaos in a con|fused heap, and my brain being young, hath not enough natural heat to dis|gest them into a Methodical order; neither hath Time cookt them ready for the Mind to dish out, or the Tongue to carry to the Ears of the hearers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Adresser.</speaker>
+                     <p>The oftner I hear, and see you, the more I wonder at you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>Why, I hope Sir I am no Monster?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Adresser.</speaker>
+                     <p>No, for you seem to me something divine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>Then you should rather admire me: for Admiration proceeds from things excellent, Wonder from things strange and unusuall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Adresser.</speaker>
+                     <p>So you are strange, and unusal: for things divine are not com|mon; and certainly you are a thing illuminated beyond Natures Art, and are the only delight of Mankind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>Men take no worldly delight in Coelestial Creatures, but with Earthly; wherefore the most refined and illuminated, is oftenest rejected.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Adresser.</speaker>
+                     <p>No Lady, they are not rejected, but as Angels, they will not reside with us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>Sir, for fear I should lose the Angelical opinion you have of me, I will depart soon as Angels do.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II.</head>
+               <div n="6" type="scene">
+                  <head>Scene 6.</head>
+                  <stage>Enter Madamoiselle <hi>Detractor,</hi> Madamoiselle <hi>Spightfull,</hi> Mada|moiselle <hi>Malicious,</hi> and Madamoiselle <hi>Tell-truth.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>TEll-truth.</speaker>
+                     <p>Come, will you go to hear the Lady Wit discourse?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>Not I.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tell-truth.</speaker>
+                     <p>Will you go?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Detractor.</speaker>
+                     <p>I will not go to hear a prating preaching woman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Malicious.</speaker>
+                     <p>O that all the Masculine Sex would say as much.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tell-truth.</speaker>
+                     <p>Let us go to learn Wit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>I had rather be a Dunce all my Life.</p>
+                  </sp>
+                  <sp>
+                     <pb n="495" facs="259"/>
+                     <speaker>Detractor.</speaker>
+                     <p>So had I, if I must have none but a Woman instructor.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Malicious.</speaker>
+                     <p>Indeed women should learn, not teach.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Detractor.</speaker>
+                     <p>It's a sign Men want VVit, when they go to hear a VVo|man preach.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>But let us go, if it be but to censure; for an hundred to one, but she will say something which may be contradicted.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Malicious.</speaker>
+                     <p>Then let us agree to be her contradictors: for whatsoever she saith we will confute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tell-truth.</speaker>
+                     <p>Nay by your favour, that you cannot do; for though you may contradict any argument, yet not confute it: for though Envy and Spight have bred Sophistry, yet Envy and Spight cannot confute the Truth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>Well, let us go howsoever, if it be but to see, and be seen of those men as will be there to hear her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>Content.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="7" type="scene">
+                  <head>Scene 7.</head>
+                  <stage>Enter Madamoiselle <hi>Grand Esprit,</hi> and her Audience. She takes her place, and then speaks.</stage>
+                  <sp>
+                     <speaker>GRand Esprit.</speaker>
+                     <l>Great Fortune, I at this time do implore,</l>
+                     <l>That thou wilt open every hearing door,</l>
+                     <l>Which are the Ears: let not my Wit be lost,</l>
+                     <l>For want of bearing, nor my words be crost,</l>
+                     <l>Nor yet destructed by a busling noise,</l>
+                     <l>Or gazing, or observing some light toyes:</l>
+                     <l>But let their Ears be sixt, as if their sight</l>
+                     <l>Did view my words, till on their Ears they light.</l>
+                     <p>
+                        <hi>Noble and Right Honourable,</hi>
+                     </p>
+                     <p>I shall take my discourse at this time out of Ignorance, which discourse, I shall divide into Five Parts, the Gods, Fates, Nature, the VVorld, and Man; for although Ignorance be obscure, and hard to be discovered, yet it is printed in a general Language, being spread and communicated over all the VVorld. I begin with the First, and prime Creature, Ignorant Man. Man takes himself to be the most knowing Creature, for which he hath placed himself next to the Gods; yet Man is ignorant: for what Man is, or ever was created, that knows what the Gods are, or how many there are? Or what power they have, or where they reside? What Man did ever know the Mansions of Glory, the Bowers of bliss, or the Fields of plea|sure? What Man ever knew whether the Gods were Eternal, or bred out of infinite, or rule, or govern, infinite Eternally?</p>
+                     <p>Secondly the Fates. What Man is, or ever was, that knows the Fates? As whether they are Gods or Creatures, or whether the Fates are limited, or decree as they please? Or what Man is, or ever was, that knows the decrees of Fate, the links of Destiny, or the chance of Fortune, or the lots of Chance.</p>
+                     <p>
+                        <pb n="496" facs="260"/>Thirdly. What Man is, or ever was, that knows what Nature is, or from whence her power proceeds? As whether from the Gods, or Eterni|ty, or infinite, or from the Fates? Or whether the Gods, or Fates, proceed from her? Or what at first set her to work? Or whether her work is pre|scribed, or limited? Or of what she works on? Or what instruments she worketh with? Or to what end she works for? Or whether she shall de|sist from working, or shall work Eternally? Or whether she worked from all Eternity? Or whether her work had a beginning, or shall have an end|ing? What Man knows the beginning of Motion, or the Fountain of Know|ledge, or the Spring of Life, or Gulph of Death? Or what Life is? Or what Death is? Or whether Life, Motion, and Death, had a beginning, or shall have an ending?</p>
+                     <p>Fourthly the World. VVhat Man is, or ever was, that knows how the VVorld was made? Or for what it is made? Or by whom it was made? Or whether it had beginning, or shall have end?</p>
+                     <p>The Fift and last is Man. VVhat Man is, or ever was, that knows how he was formed, or of what composition, or what is that he calls a Rational Soul? VVhether it is imbodyed, or not imbodyed? VVhether it is Divine, or Mortal? VVhether it proceeds from the Gods, or was created by Na|ture? VVhether it shall live for ever, or shall have a period? VVhether it shall live in Knowledge, or ly in Ignorance? VVhether it be capable of pain, or pleasure? VVhether it shall have a residing place, or no certain place assigned? Or if it have none, where it shall wander? Or if it have, where that residing place is.</p>
+                     <p>As for the Body, who knows the perfect Sense of each Sense, or what mistake, or illusions, each Sense is apt to make, or give, or take? VVhat Man knows how the Body dissolves, or to what it shall dissolve? VVhat Man knows whether there be Sense in Death, or not? VVhat Man knows the motion of the thoughts, or whether the thoughts belong only to the Soul, or only to the Body, or partly to both, or of neither? VVhat Man is there that knows strength of passion? As what Faith may beget? Or what Doubts may dissolve? Or what Hopes may unite? Or what Fears may dis|order? Or what Love can suffer? Or what Hate can act?</p>
+                     <p>VVhat Man is there that knows the Circumpherence of Admiration, the ri|gour of Adoration, the hight of Ambition, or the bottom of Covetousness? Or what Man knows the end of Sorrow, or beginning of Joy? And as for the Appetites, what Man knows the length and bredth of desire? As for the Senses, what Man is there, that knows the true Sense of Pleasure, or the ut|termost bounds of Pain? VVho can number the varieties of Tast, Sent, Touch, Sound, and Sight? VVhat Man knows the perfect effects of each Sense? Or what Man is there that knows any thing, truly as it is? Yet cer|tainly there cannot be an Athest; for though men may be so irrelligious, as to be of no Religion; yet their can be none so willfull, and utterly void of all Sense, and Reason, as not to believe there is a God; for though we have not the true light of knowledge, yet we have as it were a perpetual twilight; Man lives as at the poles of knowledge; for though we cannot say it is truly day, yet it is not night. Man may perceive an Infinite power, by the perfect distinctions of all particular varieties, by the orderly production of several Creatures, and by the fit, and proper shapes of every several kind of Creature; by their orderly Births, by the times and Seasons, to produce, flourish, and decay; by the distinct degrees, qualities, properties, places and
+<pb n="497" facs="260"/>
+motions of all things, and to, and in every thing, by the exact form of this VVorld; by the prudent seperations, and situations of the Heavens and Earth; by the Circumferent lines, and poyzing Centers; by their bounds and limits; by their orderly, and timely motions; by their assigned tracts, constant Journies, convenient distances; by their intermixing, and well tempering of the Elements; by the profitable Commerce, betwixt the Hea|vens and the Earth; by the different kinds, several sorts, various Natures, numerous numbers of Creatures; by their passions, humours, appetites; by their Sympathies, and Antipathies; by their warrs and parties; by the Harmony that is made out of discord, shews that there is onely one absolute power, and wise disposer, that cannot be opposed, having no Copartners, pro|duces all things, being not produced by any thing, wherefore must be Eter|nall, and consequently infinite; this absolute, wise, and Eternal power Man calls God; but this absolute power, being infinite, he must of necessity be incomprehensible, and being incomprehensible, must of necessity be un|known, yet glimses of his power is, or may be seen; yet not so, but that Man is forced to set up Candels of Faith, to light them, or direct them to that they cannot perfectly know, and for want of the clear light of know|ledge, Man calls all Creations of this mighty power Nature; his wise de|crees, Man calls Fates; his pointed will, Man calls Destiny; his several Changes, Man calls Fortune; his Intermixing Man calls Life; his sepera|ting, Man calls Death; the Sympathetical, and Antipathetical motions of the Senses, and their Objects, Humours, and their Subjects, Man calls Plea|sure, and Pain; the interchanging motions in Man, Men call Sense, and Knowledge; the seperating motions, Man calls Ignorance, Stupidity, and Insensibility; my application is, that this absolute Power, wise Disposer, and decreeing Creator, hath created himself Worship, in making Creatures to worship him; and it is probable, Truth decreed Judgment, Punishment, and Bliss, to such of his Creatures as shall omit, or submit thereunto: my exhoration to you is, to bough humbly, to pray constantly, to implore ser|vently, to love truly, to live awfully to the worship of this incomprehensible power; that you may injoy bliss and avoid torment.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>ACT III.</head>
+               <div n="8" type="scene">
+                  <head>Scene 8.</head>
+                  <stage>Enter Monsieur <hi>NObilissimo,</hi> and three or four Gentlemen.</stage>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>I wonder who brought up that careless fashion, to go with|out their Swords; and I wonder more, how gallant valiant men, came to follow that fashion; for a Sword is a valiant mans trusty friend, to whose protection, he delivers his Honour, his Safety, and his Peace; for a Sword is a Mans Guardian, to maintain his Right, to revenge his Wrongs, or Disgraces, and his Mistriss, for whole service he wears his Life, and studies the worth and use thereof, and takes delight in the Honourable, and allowable practices therein.</p>
+                  </sp>
+                  <sp>
+                     <pb n="498" facs="261"/>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Faith my Lord I believe it was some Lover that brought up that fashion, who was loath to affright his Mistriss, with so dangerous a weapon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Some Carpet Knight upon my life my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>It was no true Lover; for certainly he would be sure to pro|vide a safeguard, lest his Mistriss might be taken from him, or lest he should be affronted in her sight, which a Man of Honour, and a true Lover, will ra|ther dy than part or suffer; and as for my part, I commend the Man that would neither eat, drink, nor sleep, without his Sword were by him, and made it his Bedfellow, and Bord Companion; as a friend that held to his side, and would sight in his quarrell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>My Lord, if a man should do so in these times, his Neighbours would say it was out of fear, not courage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>O no, for a Coward is affraid to use a Sword, and a Valiant man is affraid to be without the use, otherwise a strong sturdy Clown, might cuff him down, and kick him like a Football on the ground, which a Sword, and skill to use it, will prevent; for a Clown hath not skill to defend, or assault a Sword, having no practice therewith, nor ought they to have; for the use of this kind of Arms makes a Clown a Gentleman, and the want of skill makes a Gentleman a Clown; for a Right bred Gentleman, is to know the use of the Sword, and it is more manly to assault, than to defend; also to know how to mannage Horses, whereby we know how to assault our Enemy as well as to defend our selves; for it is not playing with a Fidle, and dancing a Measure, makes a Gentleman; for then Princes should dub Knighthood with a Fidle, and give the stick, and a pair of Pumps, insteed of a Sword, and a pair of Spurs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Gent.</hi>
+                     </speaker>
+                     <p>My Lord, we are so far from wearing our Swords our selves now a dayes, as we give them our Footmen to carry, as if it were a disgrace to carry a Sword our selves.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Tis true, and we are well beaten for our follies, for disarm|ing our selves, and arming our Slaves; for now a Groom is made a Gentle|mans equal, nay his Superior sometimes; for if a Groom kills a Gentle|man, the Gentleman dyes in disgrace, and the Groom lives with Honour, and gets the Fame of a gallant Person; for that is the phrase to all those that have fought, although they were forced thereto as Slaves, not distinguishing true valor, which is voluntary, temperate and just.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gent.</hi>
+                     </speaker>
+                     <p>Why then there should be a Decree, of Law, that none should wear Swords but Gentlemen, nor Arms allowed, but to those of approved merit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>You say right, unless in time of Forein Wars, and then there should be a difference in their Arms; for if there be no difference of Arms, no difference of persons, and if there be no difference of persons, there will be no Supremacy of Power, if no Supremacy, no Royal Govern|ment; for as the Sword maintains the Prerogative of the Crown, so it doth the Honour of a Gentleman; and as the Sword keeps up the dignity of the Crown, so a Sword keeps up the Heraldry of a Gentleman; and no man ought to be accounted a Gentleman, that knows not how to use his Sword, and manage his Horse; for the one defends himself, and kills his Enemies; the other, doth front and charge his Enemy, and pursues him if need require.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="9" type="scene">
+                  <pb n="499" facs="261"/>
+                  <head>Scene 9.</head>
+                  <stage>Enter Monsieur <hi>Esperance,</hi> and Madamoiselle <hi>Espe|rance</hi> his Wife.</stage>
+                  <sp>
+                     <speaker>MOnsieur Esperance.</speaker>
+                     <p>Lord Wife you are very brave to day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>I strive to be so every day.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>For whose sake.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>For yours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>For mine? why sure that is not so, for certainly you would not take that pains, and bestow so much cost, for one you do enjoy allready, for a Husband that is tied to you for life, and cannot quit on Ho|nourable terms; wherefore it is for one is loose and free, which you do strive by setting forth your self with garments rich, for to attract, and draw to your desires.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>The Circumference of my desires is only your delight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>Why, my delight is in your Virtue, youth, and Beau|ty, not in your Cloathes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>But Virtue is best acceptable, when Beauty doth present it; and Beauty finds most favour, when well attired; but were I sure you would like me better in mean Garments, and careless dresses, I then should Cloath my self in Freez, &amp; like a Hermit my loose course Garments ty with single cord about my waste; but I will go and pull these Cloaths off, since they are thought a crime, and I thought false for wearing them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>No, I like them very well, if I were sure they were worn only for love to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>I never gave you cause to think I wear them for the love of any other.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="10" type="scene">
+                  <head>Scene 10.</head>
+                  <stage>Enter Madamoiselle <hi>Spightfull,</hi> Madamoiselle <hi>Detractor,</hi> Mada|moiselle <hi>Malicious,</hi> and Madamoiselle <hi>Tell-truth.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>SPightfull</speaker>
+                     <p>Madamoiselle <hi>La Belle</hi> is cryed up to be the only Beauty in the Kingdome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Malicious.</speaker>
+                     <p>Lord that is nothing, for sometimes opinion will carry a black Blowse up to Fames high Tower.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>Yes faith, and most commonly they are cast down in disgrace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Detractor.</speaker>
+                     <p>Why should she be cryed up so? for she is neither well fea|tured, nor well shaped, nor well fashioned, nor well drest, nor well bred, nor good natured; for she is of a brown Complexion, a heavy Eye, a sad Countenance, a lazy Garb; she dresses Phantastically, speaks Childishly,
+<pb n="500" facs="262"/>
+looks shamefastly; she is proud, reserved, coy, disdainfull, and self-conceited.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tell-truth.</speaker>
+                     <p>Let me tell you, it is reported that she hath most lovely features, a clear Complexion, a modest Countenance, a bashfull Eye, a pleasing Speech, a winning behaviour, a Majesticall presence; besides it is reported that her disposition is civil, courteous, and obliging, her Nature sweet and gentle, her Education virtuous, her life temperate and Chast, her actions noble and wise, her discourse witty and delighful.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>Hey day, hey day, good Mistriss <hi>Tell-truth</hi> run not so fast in the wayes of vain Reports, lest your judgment fail into a Quagmire.</p>
+                  </sp>
+                  <stage>Enter Monsieur <hi>Phantasie.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Malicious.</speaker>
+                     <p>Monsieur <hi>Phantasie,</hi> tis said you are one of Madamoiselle <hi>La Belles</hi> admirers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phantasie.</speaker>
+                     <p>All the World would admire her, if they saw her, she is so Heavenly a Creature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Spightfull.</speaker>
+                     <p>If she be so Heavenly a Creature, she would be known to the whole World by the splendor of her Beams.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phantasie.</speaker>
+                     <p>Heaven is not made known to all; neither can the gloryes be suddenly comprehended, by weak Mortals.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Detractor.</speaker>
+                     <p>Good Lord, if she hath such an infinite Beauty, that it cannot be comprehended, it is obscure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phantasie.</speaker>
+                     <p>But those that comprehend least will be astonish'd, and struck with deep amaze.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Detractor.</speaker>
+                     <p>I believe you are struck with Love, which makes you Blind, or Mad, that makes you think you see your own imaginations: wherefore fare you well, untill you are sober.</p>
+                  </sp>
+                  <stage>The Ladies goe out.</stage>
+                  <stage>Monsieur <hi>Phantasie</hi> alone.</stage>
+                  <sp>
+                     <speaker>Phantasie.</speaker>
+                     <p>I am struck indeed, for I am wonded deeper than Swords can pierce, or Bullets shoot at.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="11" type="scene">
+                  <head>Scene 11.</head>
+                  <stage>Enter Monsieur <hi>Nobilissimo,</hi> and many Gentlemen with him.</stage>
+                  <sp>
+                     <speaker>1 <hi>GEntleman.</hi>
+                     </speaker>
+                     <p>Your Lordship rid to day beyond <hi>Perseus</hi> on his Pegasus.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>No Monsieur, he went (if Poets speak truth) in higher Capreols than ever I shall make my Horse go.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>He might go higher my Lord, but never keep so just a time, and place, as to pitch from whence he riss, his feet in the same Circle, his leggs in the same lines, and your Lordship in the same Center.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>The truth is, my Horses went well to day; they were like Musical Instruments, fitly strung, and justly tun'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Gentleman.</hi>
+                     </speaker>
+                     <p>And your Lordship, like a skillfull Musician, played rarely thereon.</p>
+                  </sp>
+                  <sp>
+                     <pb n="501" facs="262"/>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Come Gentlemen, let us to Dinner, for I have uncivilly tyred your Stomacks with a long fast.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <head>ACT IV.</head>
+               <div n="12" type="scene">
+                  <head>Scene 12.</head>
+                  <stage>Enter Monsieur <hi>Phantasie</hi> as in a muse, sometimes Sighing, some|times strikes his Brest, and sometimes turns up his Eyes; and at these postures Enters Madamoiselle <hi>Bon,</hi> at her approach he starts.</stage>
+                  <sp>
+                     <speaker>MAdamoiselle Bon.</speaker>
+                     <p>Sir, you may very well start to see me here, I do not use modesty, pardon me to be so bold to visit Men; it is the first visit I ever made your Sex, and hope it will be the last, but I am come, since nei|ther Letter, nor Messenger, could have access to be resolved by your own Confession, whether you have forsaken me or not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phantasie.</speaker>
+                     <p>No, I have not forsaken you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon.</speaker>
+                     <p>But your affection prefers another before me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phantasie.</speaker>
+                     <p>If I should say I did not, I should belly Truth, which baseness I abhor.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bon.</speaker>
+                     <p>I am glad for your own sake you keep so much Honour, though sorry, that you are no constanter, and more sorry for the Oaths you took, and Vows you made to me, since they became the witnesses of your perjury. I was not suddenly, nor easily brought to draw a Supreme Love to one; for before such time my Love was placed on you, my affections run equally in purling Brooks of Pitty, and Compassion, and clear fresh Rivulets of Cha|rity and Humanity, from the pure Springs of good Nature and Religion; and hard it will be for me to turn this River to each stream again, if not, yet I shall be a rest, 'twill overflow my heart and drown me.</p>
+                  </sp>
+                  <stage>The Lady goes out.</stage>
+                  <stage>Monsieur <hi>Phantasie</hi> alone.</stage>
+                  <sp>
+                     <speaker>Monsieur Phantasie.</speaker>
+                     <p>Oh I must curse my Fortune, and my Fate; la|ment my own condition to love without return, and only pitty what I loved most.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="13" type="scene">
+                  <pb n="502" facs="263"/>
+                  <head>Scene 13.</head>
+                  <stage>Enter Madamoiselle <hi>Grand Esprit,</hi> and her Audience.</stage>
+                  <sp>
+                     <speaker>GRand Esprit.</speaker>
+                     <l>Great <hi>Mercury</hi> to thee I now address,</l>
+                     <l>Imploy thy favour, help me in distress;</l>
+                     <l>Thou God of Eloquence, so guide my tongue,</l>
+                     <l>Let all my words on even sense be slrung,</l>
+                     <l>And let my Speech be tun'd to every Ear,</l>
+                     <l>That every Ear each several word may hear:</l>
+                     <l>That every passion may in measure move,</l>
+                     <l>And let the figure of the Dance be Love.</l>
+                     <p>
+                        <hi>Noble and Right Honourable,</hi>
+                     </p>
+                     <p>I will discourse at this time of Love, not of the superfluous Branches, or wither'd leaves, or rotten fruits, but of the Root of Love, which is Self-love; It is the Root and Original Love in Nature; it is the Foundation of Nature, it is the Fountain from whence issues all the several Springs; Self-love was the cause of the Worlds Creation; for the Gods out of love to them|selves, caused Creatures to be Created, to worship them: thus all Crea|tures being created out of self-love, and their chief being proceeding out of self-love, is the cause that every particular Creature loves themselves in the first place, and what Love is placed on any other, or to any other, from any particular, is derived from self-love; for we love the Gods but out of self-love, as believing the Gods love us; we adore the Gods but out of self-love, because we think we proceed from them, or were produced by their commands; we pray to the Gods but out of self-love, because we hope the Gods will help us in distress; we bless the Gods but out of self-love, be|cause we do verrily believe the Gods will exalt, and Crown us with everlast|ing glory; and to shew that we Love the Gods, not as they are Gods, but for our own sakes, as believing they will or can do us good, is, that we are apt to murmure at the Gods, when we have not our own desires; we are apt to accuse the Gods, when any wordly thing crosses us; we are apt to curse the Gods at ill Accidents, Misfortunes, or Natural losses; we are apt to forget the Gods in the midst of pleasure; we are apt to think our selves Gods in the pride of prosperity; we strive to make our selves Gods in the hight of worldly power; and we do not only strive to make our selves equal with the Gods, but to raise our selves above the Gods, taking, or command|ing to our selves more worship than we give unto the Gods; nay, those that are accounted the most holy and devout Servants of the Gods, belie the Gods, taking the name of the Gods to cover their own follies; as for exam|ple, whensoever any eminent person hath had ill success, either in, or after their Foolish, Ambitious, and Vain-glorious actions, they charge the Gods Decrees and pleasure, as it was the Gods will it should be so; like as she that Vaingloriously had her two and only Sons to draw her Chariot, like two Horses, or Dogs, or Slaves, and being both found Dead the next day, she had prayed to the Gods to reward them with that which was best for them, and being both dead, she said the Gods accounted Death as the best reward, when they no doubt dyed with over heating themselves, striving beyond
+<pb n="503" facs="263"/>
+their natural power and strength; yet these two Sonns that drew the vain Mo|ther in a Chariot, drew and died out of self-love; either like as vain Sonns like their vain Mother, vaingloriously to get a fame, or believing the Gods would reward them for their Act, either with extraordinary prosperity, pow|er, or blessedness in the Life to come; and many the like examples may be gi|ven; for how ordinary is it in these our times, and in former times, for the politicks to perswade the people, with promises from the Gods, or to tell them it is the Gods commands they should do such and such acts, even such acts as are unnatural, wicked, and most horrid? thus Men bely the Gods to abuse their fellow Creatures. But most Noble and Right Honourable, my explanation of this discourse is, that since Self-love is the Fountain of and in Nature from whence issue out several Springs to every several Creature, wherein Mankind being her chiefest and Supreme work, is filled with the fullest Springs from that Fountain, which is the cause that Mankind is more industrious, cruel, and unsatiable, to and for his self ends, than any other Creature, he spares nothing that he hath power to destroy, if he fears any hurt, or hopes for any gain, or finds any pleasure, or can make any sport, or to imploy his idle time; he melts metalls, distills and dissolves plants, dis|sects animals, substracts and extracts Elements, he digs up the bowels of the Earth, cuts through the Ocean of the Sea, gathers the winds into Sails, fresh waters into Mills, and imprisons the thinner Ayre; he Hunts, he Fowls, he Fishes for sport, with Gunns, Nets, and Hooks; he cruelly causeth one Creature to destroy another, the whilst he looks on with delight; he kills not only for to live, but lives for to kill, and takes pleasure in torturing the life of other Creatures, in prolonging their pains, and lengthning their Deaths; and when Man makes friendship of Love, it is for his own sake, ei|ther in humouring his passion, or feeding his humour, or to strengthen his party, or for Trust, or Counsel, or Company, or the like causes; if he dies for his friend, it is either for fame, or that he cannot live himself happy with|out his friend, his passion, and grief, making him restless; if Man loves his Children, Wife, or Parents, tis for his own sake; he loves his Parents, for the honour he receives by them, or for the life he received of them; if he loves his Wife, or the Wife the Husband, it is for their own sakes, as their own pleasure, as either for their Beauties, Wits, Humours, or other Graces, or for their Company, or Friendships, or because they think they love them; if they love their Children, it is for their own sakes, as to keep alive their memory, and to have their duty, and obedience, to bow and do homage to them; If Masters love their Servants, it is for their own sakes, because they are trusty, faithfull and industrious in their affairs, imploy|ments, or for their own profit, or ease; and if Servants love their Masters, it is for their own sakes, as either for their power to protect them, or for the regard they have to them, or for the gain they get from them, or for their lives that are nourished, and maintained by them; if Amorous Lovers love, it is for their own sakes, as to please the Appetite, and to satisfy their desires; if Subjects love their Soveraigns, it is for their own sakes, as that they may have Law and Justice, Peace and Unity; If Sovereigns love their Subjects, it is for their own sakes, because they bear up his Throne with their Wealth and Industry, and fight to maintain, or get him power. My Appli|cation, most Noble and Right Honourable, is, that since we do all, and in e|very act for our own sakes, we should indeavour, and study, for that which is best for our selves, and the ground of our indeavour is to learn, and know
+<pb n="504" facs="264"/>
+our selves, every particular person must learn and know himself, not by comparative, as observing others, for every man is not alike; but by self study, reading our own Natures and Dispositions, marking our own Passions, mours, and Appetites, with the Pen of Thought, and Ink of Examination; and let the Truth be the Tutor to instruct you in the School of Reason, in which you may Commence Master of Art, and go out Doctor of Judgment, to practise Temperance; for Temperance keeps in its full strength, prolongs Beauty, quickens Wit, ripens Youth, refreshes Age, restores Decayes, keeps Health, maintains Life, and hinders Times ruines; but Temperance is not only a Doctor of Physick; a Physician to the Body, but a Doctor of Divinity, a Divine for the Soul; It preaches and teaches good Life, it instructs with the Doctrine of Tranquillity, and guides to the Heaven of Happiness; also Temperance is the Doctor of Musick, it tunes the Senses, composes the Thoughts, it notes the Passions, it measures the Appetites, and playes a Har|monious Mind. Thus Most Noble and Right Honourable, I have proved that Self-love is the Fountain of Nature, and the Original Springs of her Creatures, and that Temperance is the strongest Foundation of Self-love, although few build thereupon, but upon Intemperance, which is a hugh Bulk of Excess, the substance of Riot, worm eaten with Surfers, rotten with Pain, and sinks down to death with Sickness and Grief, not being able to bear and uphold Life; wherefore build your Lives upon Temperance, which is a strong and sure Foundation, which will never fail; but will uphold your Lives as long as Time and Nature permits them, and your Souls will dwell peaceably, and happily therein.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <div n="14" type="scene">
+                  <head>Scene 14.</head>
+                  <stage>Enter Madamoiselle <hi>Amor</hi> alone as musing to her self alone, then speaks.</stage>
+                  <sp>
+                     <speaker>MAdamoiselle Amor.</speaker>
+                     <p>I will confess to him my Love, since my designs are Noble; but O for a woman to woo a man is against Nature, and seems too bold, nay impudent, only by a contrary custome; but why should not a woman confess she loves before she is wooed, when after a seeming coyness gives consent, as being won more by a Treaty than by Love, when her obscure thoughts know well her heart was his at first, bound as his prisoner, and only counterfeits a freedome; besides, it were unjust although an antient cu|stome, if dissembling should be preferred before a Modern Truth, for length of Time and often practices makes not Falshood Truth, nor Wrong Right, nor Evill Good; then I will break down Customs Walls, and honest Truth shall lead me on.</p>
+                     <l>Love plead my Sute, and if I be deny'd,</l>
+                     <l>My heart will break, and Death my Face will hide.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="15" type="scene">
+                  <pb n="505" facs="264"/>
+                  <head>Scene 15.</head>
+                  <stage>Enter Monsieur <hi>Esperance,</hi> and his Wife Madamoi|selle <hi>Esperance.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>MOnsieur Esperance.</speaker>
+                     <p>Wife, whither do you go? when I come near you, you always turn to go from me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>I saw you not; for I had rather be fixt as a Sta|tue, than move to your dislike.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>Why do you blush? surely you are guilty of some crime.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>'Tis said blushing comes unsent for, and departs without leave; and that it oftner visits Innocency than guilt.</p>
+                  </sp>
+                  <stage>Madamoiselle <hi>Esperance</hi> weeps.</stage>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>What do you weep?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>How can I otherwise choose, when my Innocent Life, and True Love is suspected, and all my pure affections are cast away like dross, and the best of all my actions condemn'd as Traytors, and my unspotted Chastity blemish'd with soul Jealousy, and defamed with slander|ing words?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>Prethy Wife do not weep, for every tear wounds me to Death, and know it is my extreme Love, which creates my fears; but you might have had a Husband with more faults.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>'Tis true, but not so many noble qualities as you have, which makes me weep, doubting you Love me not, you are so Jealous.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>By Heaven I love thee beyond my Soul, wherefore forbear to weep if thou canst stop thy tears.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Madamoiselle Esperance.</speaker>
+                     <p>Tears may be stopt, unless they flow from an unrecoverable loss, which Heaven forbid mine should: yet sorrow oft doth stop the Spring from whence tears rise, or else the Eyes do weep them|selves quite blind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Monsieur Esperance.</speaker>
+                     <p>Pray dry yours.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="16" type="scene">
+                  <head>Scene 16.</head>
+                  <stage>Enter Madamoiselle <hi>Bon</hi> alone.</stage>
+                  <sp>
+                     <speaker>MAdamoiselle Bon.</speaker>
+                     <p>O Man! O Man! How various and Inconstant are you all, how cruell to betray our faint and unexperienced Sex, bribing our Judgments with flattering words, obscure our reasons with Clouds of Sighs, drawing us into belief with protestations, bind us with promises and vows, forcing us to yield up our affections; then murther us with scorn, and bury us in forgetfullness? but O how happy was I, before I was betrayed by Love? my heart was free, my thoughts were pleasant, and my
+<pb n="506" facs="265"/>
+humour gay; but now my mind is a Garrison of cares, my thoughts like runaways are wanderers.</p>
+                     <l>Grief on my heart his heavy taxes layes;</l>
+                     <l>Which through my Eyes, my heart those taxes payes.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="17" type="scene">
+                  <head>Scene 17.</head>
+                  <stage>Enter Madamoiselle <hi>Amor,</hi> and at a distance seeth Monsieur <hi>Nobilissimo,</hi> she speaks first, as to her self.</stage>
+                  <sp>
+                     <speaker>MAdamoiselle Amor.</speaker>
+                     <p>Love and Discretion sight duels in my mind, one makes me Mute, the other doth perswade me to prefer my Sute; but why should I be nice to speak, or be ashamed to woo with words, when all our Sex doth woo with several dresses and smiles? each civil cour|tesy doth plead Loves Sute; then I will on, Love give me Courage, and <hi>Mer|cury</hi> guide my tongue.</p>
+                  </sp>
+                  <stage>She goeth as towards the Lord <hi>Nobilissimo.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>Noble Sir, impute it rather as a folly to my Sex and Youth, and not any impudence of Nature, if that my Innocency discovers my passion and affection, not having Craft, or subtilty to conceal them; but I must plain|ly tell you, no sooner did I see you, and hear you speak, but loved: but yet mistake me not, I dote not on your person, but your mind; for sure your Noble Soul shot fire through my Eyes into my Heart, there flames with pure affection, but for this confession, perchance you will set me as a mark of scorn, for all to shoot their scofs at, and in derision pointing, will laugh and say, there is the Maid that wooed a Man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Is this to me Lady?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>It cannot be to any other, Nature could make but one, and that was you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>If this be real you do profess, the Gods, should they have sent an Angel down to offer me their Heavenly Mansion, it had not been so great a gift as your affection.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>Do you not hate me then?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Nothing I Love so well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>And will you Love me ever?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>Yes ever; for when my Body is dissolved, Love shall live in my dust in spight of Death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>And will you love none but me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nobilissimo.</speaker>
+                     <p>An intire and undivided affection, can be placed but upon one, and that is you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Amor.</speaker>
+                     <p>May your constancy be as firm, as my Love pure.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="18" type="scene">
+                  <pb n="507" facs="265"/>
+                  <head>Scene 18.</head>
+                  <stage>Enter Madamoiselle <hi>La Belle</hi> and her four Suters, <hi>Admiration, Ambition, Vainglory</hi> and <hi>Pride.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>ADmirat.</speaker>
+                     <l>Dear Mistriss stay, that I may gaze upon you,</l>
+                     <l>Then bow my knee, as to the rising Sun;</l>
+                     <l>Heave up my hands, as when to Heaven I pray,</l>
+                     <l>But being amaz'd, know not one word I say:</l>
+                     <l>Yet superstitiously, I shall adore,</l>
+                     <l>As my chief Goddess, shall thy love implore;</l>
+                     <l>And being worship'd, you are deifi'd,</l>
+                     <l>Your Godhead in your Beauty doth recide.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Vainglory.</speaker>
+                     <l>Thou absolute Beauty, for thy dear sake,</l>
+                     <l>Of Lovers hearts, a foot-stool shall be made;</l>
+                     <l>A Cushion soft, with Hopes fill'd full, then laid,</l>
+                     <l>For thee to stand, and triumph on, fair Maid;</l>
+                     <l>And Lovers Souls shall from their bodyes fly,</l>
+                     <l>For thee a Couch, when weary on to ly.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pride.</speaker>
+                     <l>Thy Lovers tears for to invite thy rest,</l>
+                     <l>In murmuring streams, fall on thy marble brest;</l>
+                     <l>And gentle sighs, like whispering winds shall blow,</l>
+                     <l>And fan thy Cheeks, that Poets fire may glow:</l>
+                     <l>Loves Melancholy thoughts, like Clouds of night,</l>
+                     <l>Like as thy Curtains, drawn before thy sight;</l>
+                     <l>For fear the Sun should trouble out of spight,</l>
+                     <l>Thy Eyes repose, being the greater light.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ambition.</speaker>
+                     <l>Sweet Beauty, thou in a glorious Throne shall set,</l>
+                     <l>The spangled Heaven, seems but thy Counterfeit;</l>
+                     <l>Thy Charriot shall be stuck with Eyes all gazing,</l>
+                     <l>And oyld with Eloquent tongues, that runs with praysing:</l>
+                     <l>Drawn by large strong well shapt Commendations,</l>
+                     <l>Guided by Fame, about two several Nations.</l>
+                  </sp>
+                  <sp>
+                     <speaker>La Belle.</speaker>
+                     <l>
+                        <hi>Admiration, Vainglory, Pride,</hi> and <hi>Ambition,</hi>
+                     </l>
+                     <l>Why do you woo Beauty, that is Deaf and Dumb,</l>
+                     <l>That hears no praise, nor adoration;</l>
+                     <l>It seeth no hands heav'd up, nor tears that fall,</l>
+                     <l>It hath no tongue to answer Love withall;</l>
+                     <l>It hath no Life, no Soul where passion lies,</l>
+                     <l>It neither gives, nor takes instructions wise:</l>
+                     <l>It is no solid Body you admire,</l>
+                     <l>No substance, but a shadow you desire.</l>
+                  </sp>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         </body></text></TEI>
+
