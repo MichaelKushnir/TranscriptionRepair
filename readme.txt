@@ -20,4 +20,4 @@ comes great responsibility. n-gram counts frequently does crash when multiple fi
 small enough, however.
 
 Developed by Michael Kushnir, michaelkushnir2015@u.northwestern.edu
-With help from Doug Downey and Martin Mueller
+With help from Prof. Doug Downey and Dr. Martin Mueller
