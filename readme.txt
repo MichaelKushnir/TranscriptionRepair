@@ -18,7 +18,6 @@ requires some fiddling around with the encoding in Python, and if done improperl
 crashes at runtime, try again with less files. The Python module is built to accept folders of files instead of individual files - with great power
 comes great responsibility. n-gram counts frequently does crash when multiple files are in the input folder - it works with multiple files if they're
 small enough, however.
-- Varying tags: Currently this program only reads from <l> tags.
 
 Developed by Michael Kushnir, michaelkushnir2015@u.northwestern.edu
 With help from Doug Downey and Martin Mueller
